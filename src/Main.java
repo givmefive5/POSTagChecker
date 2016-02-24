@@ -30,7 +30,7 @@ public class Main {
 				wordFiles.add(f);
 		}
 
-		HashMap<String, HashSet<String>> posMap = new HashMap<>();
+		HashMap<String, HashSet<POSInstance>> posMap = new HashMap<>();
 
 		for (int i = 0; i < lemmaFiles.size(); i++) {
 			File lem = lemmaFiles.get(i);
@@ -48,9 +48,10 @@ public class Main {
 
 				for (int k = 0; k < posSplit.length; k++) {
 					if (!posMap.containsKey(posSplit[k])) {
-						posMap.put(posSplit[k], new HashSet<String>());
+						posMap.put(posSplit[k], new HashSet<POSInstance>());
 					}
-					posMap.get(posSplit[k]).add(wordSplit[k]);
+					POSInstance pi = new POSInstance(posSplit[k], wordSplit[k], pos.getName(), j+1, k);
+					posMap.get(posSplit[k]).add(pi);
 				}
 			}
 		}
@@ -68,10 +69,10 @@ public class Main {
 			Map.Entry pair = (Map.Entry) it.next();
 			System.out.println(pair.getKey());
 			outFile.println(pair.getKey());
-			HashSet<String> words = (HashSet<String>) pair.getValue();
-			for (String s : words) {
-				System.out.println(s);
-				outFile.println(s);
+			HashSet<POSInstance> pis = (HashSet<POSInstance>) pair.getValue();
+			for (POSInstance s : pis) {
+				System.out.println(s.getWord() + " | " + s.filename + " | " + s.getSentenceNumber() + " | "  + s.getTokenNumber());
+				outFile.println(s.getWord() + " | " + s.filename + " | " + s.getSentenceNumber() + " | "  + s.getTokenNumber());
 			}
 			outFile.println();
 			System.out.println();
