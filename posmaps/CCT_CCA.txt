@@ -1,2 +1,2 @@
 POS Tag: CCT_CCA
-Sapagkat | a56_212_tags.txt | SN:29 | TN:0
+Word: Sapagkat | Lemma: Sapagkat | a56_212_tags.txt | SN:29 | TN:0

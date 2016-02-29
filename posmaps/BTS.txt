@@ -1,2 +1,2 @@
 POS Tag: BTS
-nanatili | a56_211_tags.txt | SN:25 | TN:3
+Word: nanatili | Lemma: tili | a56_211_tags.txt | SN:25 | TN:3

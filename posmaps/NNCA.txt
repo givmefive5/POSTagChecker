@@ -1,23 +1,45 @@
 POS Tag: NNCA
-mm | cua_bernice_s11_tags.txt | SN:8 | TN:1
-atbp. | lopez_clement_s11_tags.txt | SN:70 | TN:24
-km | a56_213_tags.txt | SN:29 | TN:7
-in | cua_bernice_s11_tags.txt | SN:6 | TN:4
-g | cua_bernice_s11_tags.txt | SN:30 | TN:6
-km/h | a56_248_tags.txt | SN:10 | TN:19
-cm | cua_bernice_s11_tags.txt | SN:6 | TN:12
-c. | a56_193to197_tags.txt | SN:64 | TN:4
-oz | cua_bernice_s11_tags.txt | SN:30 | TN:11
-atbp | a56_253to258_tags.txt | SN:128 | TN:25
-m | a56_235to237_tags.txt | SN:52 | TN:18
-ft | a56_249_tags.txt | SN:9 | TN:29
-cr | lopez_clement_s11_tags.txt | SN:72 | TN:5
-t | a56_181to186_tags.txt | SN:50 | TN:23
-v. | a56_193to197_tags.txt | SN:54 | TN:8
-et_al. | a56_181to186_tags.txt | SN:105 | TN:23
-s. | a56_238to240_tags.txt | SN:24 | TN:0
-mi | cua_bernice_s11_tags.txt | SN:21 | TN:4
-ie | lopez_clement_s11_tags.txt | SN:15 | TN:29
-i.e. | a56_181to186_tags.txt | SN:41 | TN:14
-et_al | a56_181to186_tags.txt | SN:104 | TN:4
-e.g. | a56_253to258_tags.txt | SN:131 | TN:27
+Word: atbp | Lemma: atbp | a56_253to258_tags.txt | SN:128 | TN:25
+Word: atbp. | Lemma: atbp. | lopez_clement_s11_tags.txt | SN:70 | TN:24
+Word: c. | Lemma: c. | a56_193to197_tags.txt | SN:64 | TN:4
+Word: cm | Lemma: cm | cua_bernice_s11_tags.txt | SN:6 | TN:12
+Word: cm | Lemma: cm | cua_bernice_s11_tags.txt | SN:28 | TN:12
+Word: cm | Lemma: cm | cua_bernice_s11_tags.txt | SN:29 | TN:8
+Word: cr | Lemma: cr | lopez_clement_s11_tags.txt | SN:72 | TN:5
+Word: e.g. | Lemma: e.g. | a56_253to258_tags.txt | SN:131 | TN:27
+Word: et_al | Lemma: et_al | a56_181to186_tags.txt | SN:104 | TN:4
+Word: et_al | Lemma: et_al | a56_181to186_tags.txt | SN:118 | TN:4
+Word: et_al | Lemma: et_al | a56_181to186_tags.txt | SN:122 | TN:11
+Word: et_al. | Lemma: et_al. | a56_181to186_tags.txt | SN:105 | TN:23
+Word: et_al. | Lemma: et_al. | a56_181to186_tags.txt | SN:108 | TN:22
+Word: et_al. | Lemma: et_al. | a56_181to186_tags.txt | SN:111 | TN:19
+Word: et_al. | Lemma: et_al. | a56_181to186_tags.txt | SN:113 | TN:27
+Word: et_al. | Lemma: et_al. | a56_181to186_tags.txt | SN:116 | TN:20
+Word: et_al. | Lemma: et_al. | a56_181to186_tags.txt | SN:120 | TN:33
+Word: et_al. | Lemma: et_al. | a56_181to186_tags.txt | SN:126 | TN:32
+Word: ft | Lemma: ft | a56_249_tags.txt | SN:9 | TN:29
+Word: ft | Lemma: ft | a56_249_tags.txt | SN:10 | TN:14
+Word: g | Lemma: g | cua_bernice_s11_tags.txt | SN:30 | TN:6
+Word: i.e. | Lemma: i.e. | a56_181to186_tags.txt | SN:41 | TN:14
+Word: ie | Lemma: ie | lopez_clement_s11_tags.txt | SN:15 | TN:29
+Word: in | Lemma: in | cua_bernice_s11_tags.txt | SN:6 | TN:4
+Word: in | Lemma: in | cua_bernice_s11_tags.txt | SN:6 | TN:15
+Word: in | Lemma: in | cua_bernice_s11_tags.txt | SN:28 | TN:17
+Word: km | Lemma: km | a56_213_tags.txt | SN:29 | TN:7
+Word: km | Lemma: km | a56_248_tags.txt | SN:7 | TN:5
+Word: km | Lemma: km | a56_248_tags.txt | SN:24 | TN:18
+Word: km | Lemma: km | a56_248_tags.txt | SN:31 | TN:17
+Word: km | Lemma: km | cua_bernice_s11_tags.txt | SN:23 | TN:48
+Word: km/h | Lemma: km/h | a56_248_tags.txt | SN:10 | TN:19
+Word: km/h | Lemma: km/h | a56_253to258_tags.txt | SN:100 | TN:27
+Word: km/h | Lemma: km/h | a56_253to258_tags.txt | SN:100 | TN:44
+Word: km/h | Lemma: km/h | a56_253to258_tags.txt | SN:101 | TN:15
+Word: m | Lemma: m | a56_235to237_tags.txt | SN:52 | TN:18
+Word: mi | Lemma: mi | cua_bernice_s11_tags.txt | SN:21 | TN:4
+Word: mi | Lemma: mi | cua_bernice_s11_tags.txt | SN:23 | TN:51
+Word: mm | Lemma: mm | cua_bernice_s11_tags.txt | SN:8 | TN:1
+Word: oz | Lemma: oz | cua_bernice_s11_tags.txt | SN:30 | TN:11
+Word: s. | Lemma: s. | a56_238to240_tags.txt | SN:24 | TN:0
+Word: t | Lemma: t | a56_181to186_tags.txt | SN:50 | TN:23
+Word: t | Lemma: t | a56_181to186_tags.txt | SN:50 | TN:39
+Word: v. | Lemma: v. | a56_193to197_tags.txt | SN:54 | TN:8

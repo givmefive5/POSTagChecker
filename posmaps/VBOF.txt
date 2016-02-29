@@ -1,67 +1,75 @@
 POS Tag: VBOF
-inihinto | a56_181to186_tags.txt | SN:88 | TN:9
-kinontra | a56_193to197_tags.txt | SN:109 | TN:6
-Pinakilala | a56_193to197_tags.txt | SN:25 | TN:0
-inimbento | a56_193to197_tags.txt | SN:67 | TN:9
-panatilihin | a56_193to197_tags.txt | SN:28 | TN:24
-idadagdag | a56_200_tags.txt | SN:39 | TN:2
-ipinagunita | a56_193to197_tags.txt | SN:56 | TN:18
-tanggalin | a56_200_tags.txt | SN:2 | TN:9
-binago | a56_181to186_tags.txt | SN:115 | TN:7
-ginamitan | a56_181to186_tags.txt | SN:127 | TN:3
-gawin | a56_181to186_tags.txt | SN:78 | TN:7
-binalik | a56_198_tags.txt | SN:19 | TN:10
-ginawa | a56_181to186_tags.txt | SN:3 | TN:55
-akitin | a56_212_tags.txt | SN:31 | TN:28
-protektahan | a56_198_tags.txt | SN:1 | TN:18
-panatalihin | a56_212_tags.txt | SN:23 | TN:12
-isagawa | a56_181to186_tags.txt | SN:81 | TN:2
-pilitin | a56_211_tags.txt | SN:1 | TN:44
-tanggihan | a56_193to197_tags.txt | SN:32 | TN:21
-banggitin | a56_181to186_tags.txt | SN:8 | TN:38
-iwanan | a56_193to197_tags.txt | SN:20 | TN:28
-dalhin | a56_181to186_tags.txt | SN:142 | TN:28
-pinabagsak | a56_181to186_tags.txt | SN:14 | TN:58
-inihanda | a56_181to186_tags.txt | SN:7 | TN:1
-Ipinangalan | a56_181to186_tags.txt | SN:17 | TN:0
-ipaliwanag | a56_193to197_tags.txt | SN:74 | TN:4
-kayagin | a56_212_tags.txt | SN:37 | TN:46
-taasan | a56_193to197_tags.txt | SN:43 | TN:11
-gamitin | a56_200_tags.txt | SN:16 | TN:22
-Pinatibay | a56_193to197_tags.txt | SN:26 | TN:0
-balutin | a56_193to197_tags.txt | SN:59 | TN:88
-suportahan | a56_193to197_tags.txt | SN:67 | TN:28
-ipinagtibay | a56_193to197_tags.txt | SN:95 | TN:3
-hiyakatin | a56_181to186_tags.txt | SN:87 | TN:21
-siraan | a56_193to197_tags.txt | SN:32 | TN:23
-inirehistro | a56_213_tags.txt | SN:47 | TN:8
-pinatibay | a56_193to197_tags.txt | SN:34 | TN:25
-itinipon | a56_181to186_tags.txt | SN:4 | TN:2
-tawaging | a56_198_tags.txt | SN:6 | TN:16
-sirain | a56_212_tags.txt | SN:31 | TN:40
-sabihin | a56_181to186_tags.txt | SN:109 | TN:11
-hulihin | a56_193to197_tags.txt | SN:9 | TN:9
-sasabihin | a56_225_tags.txt | SN:24 | TN:20
-binigay | a56_193to197_tags.txt | SN:10 | TN:12
-pinainit | a56_200_tags.txt | SN:35 | TN:1
-alisin | a56_211_tags.txt | SN:1 | TN:52
-ipinagsama | a56_181to186_tags.txt | SN:42 | TN:1
-bigyan | a56_181to186_tags.txt | SN:3 | TN:47
-sunugin | a56_193to197_tags.txt | SN:21 | TN:13
-pinasiyahan | a56_193to197_tags.txt | SN:54 | TN:12
-humukin | a56_211_tags.txt | SN:1 | TN:38
-ipadala | a56_212_tags.txt | SN:35 | TN:22
-sipsipin | a56_200_tags.txt | SN:19 | TN:7
-kakailanganin | a56_200_tags.txt | SN:10 | TN:29
-ipasya | a56_181to186_tags.txt | SN:127 | TN:13
-ipinaglaban | a56_181to186_tags.txt | SN:142 | TN:18
-ibaling | a56_212_tags.txt | SN:9 | TN:5
-salain | a56_181to186_tags.txt | SN:70 | TN:1
-ipatungkol | a56_235to237_tags.txt | SN:17 | TN:1
-punuin | a56_200_tags.txt | SN:6 | TN:16
-pinakintab | a56_198_tags.txt | SN:19 | TN:7
-ikinopya | a56_181to186_tags.txt | SN:119 | TN:10
-tinanggihan | a56_238to240_tags.txt | SN:23 | TN:4
-iniharap | a56_181to186_tags.txt | SN:3 | TN:22
-pinalitan | a56_193to197_tags.txt | SN:1 | TN:34
-Itinawag | a56_181to186_tags.txt | SN:90 | TN:0
+Word: Ipinangalan | Lemma: Ngalan | a56_181to186_tags.txt | SN:17 | TN:0
+Word: Itinawag | Lemma: Tawag | a56_181to186_tags.txt | SN:90 | TN:0
+Word: Pinakilala | Lemma: kilala | a56_193to197_tags.txt | SN:25 | TN:0
+Word: Pinatibay | Lemma: tibay | a56_193to197_tags.txt | SN:26 | TN:0
+Word: akitin | Lemma: akit | a56_212_tags.txt | SN:31 | TN:28
+Word: akitin | Lemma: akit | a56_212_tags.txt | SN:35 | TN:11
+Word: alisin | Lemma: alis | a56_211_tags.txt | SN:1 | TN:52
+Word: balutin | Lemma: balot | a56_193to197_tags.txt | SN:59 | TN:88
+Word: banggitin | Lemma: banggit | a56_181to186_tags.txt | SN:8 | TN:38
+Word: bigyan | Lemma: bigay | a56_181to186_tags.txt | SN:3 | TN:47
+Word: binago | Lemma: bago | a56_181to186_tags.txt | SN:115 | TN:7
+Word: binalik | Lemma: balik | a56_198_tags.txt | SN:19 | TN:10
+Word: binigay | Lemma: bigay | a56_193to197_tags.txt | SN:10 | TN:12
+Word: dalhin | Lemma: dala | a56_181to186_tags.txt | SN:142 | TN:28
+Word: gamitin | Lemma: gamit | a56_200_tags.txt | SN:16 | TN:22
+Word: gamitin | Lemma: gamit | a56_212_tags.txt | SN:3 | TN:3
+Word: gamitin | Lemma: gamit | a56_212_tags.txt | SN:37 | TN:44
+Word: gawin | Lemma: gawa | a56_181to186_tags.txt | SN:78 | TN:7
+Word: gawin | Lemma: gawa | a56_223_tags.txt | SN:14 | TN:30
+Word: ginamitan | Lemma: gamit | a56_181to186_tags.txt | SN:127 | TN:3
+Word: ginawa | Lemma: gawa | a56_181to186_tags.txt | SN:3 | TN:55
+Word: hiyakatin | Lemma: hikayat | a56_181to186_tags.txt | SN:87 | TN:21
+Word: hulihin | Lemma: huli | a56_193to197_tags.txt | SN:9 | TN:9
+Word: humukin | Lemma: himok | a56_211_tags.txt | SN:1 | TN:38
+Word: ibaling | Lemma: baling | a56_212_tags.txt | SN:9 | TN:5
+Word: idadagdag | Lemma: dagdag | a56_200_tags.txt | SN:39 | TN:2
+Word: ikinopya | Lemma: kopya | a56_181to186_tags.txt | SN:119 | TN:10
+Word: inihanda | Lemma: handa | a56_181to186_tags.txt | SN:7 | TN:1
+Word: iniharap | Lemma: harap | a56_181to186_tags.txt | SN:3 | TN:22
+Word: inihinto | Lemma: hinto | a56_181to186_tags.txt | SN:88 | TN:9
+Word: inimbento | Lemma: imbento | a56_193to197_tags.txt | SN:67 | TN:9
+Word: inirehistro | Lemma: rehistro | a56_213_tags.txt | SN:47 | TN:8
+Word: ipadala | Lemma: dala | a56_212_tags.txt | SN:35 | TN:22
+Word: ipaliwanag | Lemma: liwanag | a56_193to197_tags.txt | SN:74 | TN:4
+Word: ipaliwanag | Lemma: liwanag | a56_193to197_tags.txt | SN:83 | TN:27
+Word: ipasya | Lemma: pasya | a56_181to186_tags.txt | SN:127 | TN:13
+Word: ipatungkol | Lemma: tungkol | a56_235to237_tags.txt | SN:17 | TN:1
+Word: ipinaglaban | Lemma: laban | a56_181to186_tags.txt | SN:142 | TN:18
+Word: ipinagsama | Lemma: sama | a56_181to186_tags.txt | SN:42 | TN:1
+Word: ipinagtibay | Lemma: tibay | a56_193to197_tags.txt | SN:95 | TN:3
+Word: ipinagunita | Lemma: gunita | a56_193to197_tags.txt | SN:56 | TN:18
+Word: isagawa | Lemma: gawa | a56_181to186_tags.txt | SN:81 | TN:2
+Word: itinipon | Lemma: tipon | a56_181to186_tags.txt | SN:4 | TN:2
+Word: iwanan | Lemma: iwan | a56_193to197_tags.txt | SN:20 | TN:28
+Word: kakailanganin | Lemma: kakailanganin | a56_200_tags.txt | SN:10 | TN:29
+Word: kayagin | Lemma: kayag | a56_212_tags.txt | SN:37 | TN:46
+Word: kinontra | Lemma: kontra | a56_193to197_tags.txt | SN:109 | TN:6
+Word: panatalihin | Lemma: tili | a56_212_tags.txt | SN:23 | TN:12
+Word: panatilihin | Lemma: tili | a56_193to197_tags.txt | SN:28 | TN:24
+Word: pilitin | Lemma: pilit | a56_211_tags.txt | SN:1 | TN:44
+Word: pinabagsak | Lemma: bagsak | a56_181to186_tags.txt | SN:14 | TN:58
+Word: pinainit | Lemma: init | a56_200_tags.txt | SN:35 | TN:1
+Word: pinakintab | Lemma: kintab | a56_198_tags.txt | SN:19 | TN:7
+Word: pinalitan | Lemma: palit | a56_193to197_tags.txt | SN:1 | TN:34
+Word: pinasiyahan | Lemma: pasiya | a56_193to197_tags.txt | SN:54 | TN:12
+Word: pinatibay | Lemma: tibay | a56_193to197_tags.txt | SN:34 | TN:25
+Word: pinatibay | Lemma: tibay | a56_193to197_tags.txt | SN:43 | TN:19
+Word: protektahan | Lemma: protekta | a56_198_tags.txt | SN:1 | TN:18
+Word: punuin | Lemma: puno | a56_200_tags.txt | SN:6 | TN:16
+Word: sabihin | Lemma: sabi | a56_181to186_tags.txt | SN:109 | TN:11
+Word: sabihin | Lemma: sabi | a56_198_tags.txt | SN:30 | TN:2
+Word: salain | Lemma: sala | a56_181to186_tags.txt | SN:70 | TN:1
+Word: sasabihin | Lemma: sabi | a56_225_tags.txt | SN:24 | TN:20
+Word: sipsipin | Lemma: sipsipin | a56_200_tags.txt | SN:19 | TN:7
+Word: siraan | Lemma: sira | a56_193to197_tags.txt | SN:32 | TN:23
+Word: sirain | Lemma: sira | a56_212_tags.txt | SN:31 | TN:40
+Word: sirain | Lemma: sira | a56_212_tags.txt | SN:39 | TN:14
+Word: sunugin | Lemma: sunog | a56_193to197_tags.txt | SN:21 | TN:13
+Word: suportahan | Lemma: suporta | a56_193to197_tags.txt | SN:67 | TN:28
+Word: taasan | Lemma: taas | a56_193to197_tags.txt | SN:43 | TN:11
+Word: tanggalin | Lemma: tanggal | a56_200_tags.txt | SN:2 | TN:9
+Word: tanggihan | Lemma: tanggi | a56_193to197_tags.txt | SN:32 | TN:21
+Word: tawaging | Lemma: tawag | a56_198_tags.txt | SN:6 | TN:16
+Word: tinanggihan | Lemma: tanggi | a56_238to240_tags.txt | SN:23 | TN:4

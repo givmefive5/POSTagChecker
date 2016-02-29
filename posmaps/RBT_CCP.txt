@@ -1,12 +1,29 @@
 POS Tag: RBT_CCP
-pwedeng | a56_212_tags.txt | SN:31 | TN:37
-totoong | a56_249_tags.txt | SN:15 | TN:28
-talagang | a56_181to186_tags.txt | SN:77 | TN:31
-maaring | a56_253to258_tags.txt | SN:94 | TN:1
-siguradong | a56_211_tags.txt | SN:25 | TN:5
-mismong | a56_223_tags.txt | SN:23 | TN:26
-maaaring | a56_253to258_tags.txt | SN:53 | TN:9
-positibong | a56_181to186_tags.txt | SN:77 | TN:10
-posibleng | a56_212_tags.txt | SN:5 | TN:9
-Maaring | a56_253to258_tags.txt | SN:73 | TN:60
-possibleng | lopez_clement_s11_tags.txt | SN:8 | TN:5
+Word: Maaring | Lemma: Maari | a56_253to258_tags.txt | SN:73 | TN:60
+Word: Maaring | Lemma: Maari | a56_253to258_tags.txt | SN:117 | TN:0
+Word: maaaring | Lemma: maaari | a56_253to258_tags.txt | SN:53 | TN:9
+Word: maaaring | Lemma: maaari | a56_253to258_tags.txt | SN:86 | TN:26
+Word: maaaring | Lemma: maaari | a56_253to258_tags.txt | SN:114 | TN:7
+Word: maaring | Lemma: maari | a56_253to258_tags.txt | SN:94 | TN:1
+Word: maaring | Lemma: maari | a56_253to258_tags.txt | SN:112 | TN:5
+Word: maaring | Lemma: maari | a56_253to258_tags.txt | SN:118 | TN:10
+Word: maaring | Lemma: maaring | a56_253to258_tags.txt | SN:123 | TN:24
+Word: maaring | Lemma: maari | a56_253to258_tags.txt | SN:124 | TN:24
+Word: maaring | Lemma: maari | a56_253to258_tags.txt | SN:132 | TN:30
+Word: mismong | Lemma: mismo | a56_223_tags.txt | SN:23 | TN:26
+Word: mismong | Lemma: mismo | a56_225_tags.txt | SN:24 | TN:3
+Word: mismong | Lemma: mismo | a56_249_tags.txt | SN:16 | TN:4
+Word: posibleng | Lemma: posible | a56_212_tags.txt | SN:5 | TN:9
+Word: positibong | Lemma: positibo | a56_181to186_tags.txt | SN:77 | TN:10
+Word: positibong | Lemma: positibo | a56_181to186_tags.txt | SN:78 | TN:4
+Word: positibong | Lemma: positibo | a56_181to186_tags.txt | SN:81 | TN:24
+Word: positibong | Lemma: positibo | a56_181to186_tags.txt | SN:82 | TN:31
+Word: positibong | Lemma: positibo | a56_181to186_tags.txt | SN:83 | TN:16
+Word: positibong | Lemma: positibo | a56_181to186_tags.txt | SN:85 | TN:30
+Word: positibong | Lemma: positibo | a56_181to186_tags.txt | SN:87 | TN:10
+Word: possibleng | Lemma: possible | lopez_clement_s11_tags.txt | SN:8 | TN:5
+Word: pwedeng | Lemma: pwede | a56_212_tags.txt | SN:31 | TN:37
+Word: pwedeng | Lemma: pwede | a56_212_tags.txt | SN:37 | TN:43
+Word: siguradong | Lemma: sigurado | a56_211_tags.txt | SN:25 | TN:5
+Word: talagang | Lemma: talaga | a56_181to186_tags.txt | SN:77 | TN:31
+Word: totoong | Lemma: totoo | a56_249_tags.txt | SN:15 | TN:28

@@ -1,122 +1,412 @@
 POS Tag: RBL
-nanggagaling_sa | a56_181to186_tags.txt | SN:43 | TN:17
-sa_ibaba | a56_181to186_tags.txt | SN:32 | TN:41
-sa_campus | a56_238to240_tags.txt | SN:61 | TN:12
-Nasa_gitna | a56_251_tags.txt | SN:4 | TN:0
-ibabaw | cua_bernice_s11_tags.txt | SN:34 | TN:2
-sa_likod | a56_253to258_tags.txt | SN:51 | TN:22
-nasa_lugar | a56_250_tags.txt | SN:18 | TN:5
-nasa_ilalim | a56_235to237_tags.txt | SN:34 | TN:18
-sa_timog_silangan | a56_213_tags.txt | SN:17 | TN:35
-Sa_labas | a56_250_tags.txt | SN:7 | TN:0
-Mula | a56_193to197_tags.txt | SN:95 | TN:0
-sa_himpapawid | cua_bernice_s11_tags.txt | SN:24 | TN:6
-Nasa_tabi | a56_224_tags.txt | SN:25 | TN:0
-Sa_ilalim | a56_227_tags.txt | SN:13 | TN:0
-Sa_lugar | a56_248_tags.txt | SN:17 | TN:0
-sa_Rotunda | a56_193to197_tags.txt | SN:57 | TN:10
-Sa_lungsod | a56_204_tags.txt | SN:8 | TN:0
-sa_dagat | a56_214_tags.txt | SN:38 | TN:31
-papuntang_timog-silangan | a56_213_tags.txt | SN:26 | TN:14
-mula_kay | a56_181to186_tags.txt | SN:17 | TN:2
-sa_timog | a56_249_tags.txt | SN:16 | TN:22
-mula | a56_181to186_tags.txt | SN:100 | TN:12
-sa_isla | a56_235to237_tags.txt | SN:1 | TN:12
-sa_paloob | a56_181to186_tags.txt | SN:31 | TN:30
-sa_harap | a56_250_tags.txt | SN:20 | TN:17
-Nasa_bingit | a56_249_tags.txt | SN:12 | TN:0
-sa_palibot | a56_204_tags.txt | SN:18 | TN:17
-sa_timog-silangan | a56_214_tags.txt | SN:34 | TN:5
-sa_ibayo | a56_181to186_tags.txt | SN:27 | TN:16
-Nasa_loob | a56_249_tags.txt | SN:26 | TN:0
-Sa_tabi | a56_249_tags.txt | SN:7 | TN:0
-nasa_ibabaw | a56_264_tags.txt | SN:18 | TN:20
-sa_landas | a56_212_tags.txt | SN:3 | TN:40
-sa_paligid | a56_238to240_tags.txt | SN:65 | TN:24
-sa_hangganan | a56_249_tags.txt | SN:17 | TN:4
-sa_tabing_dagat | a56_225_tags.txt | SN:23 | TN:11
-Sa_gabi | a56_249_tags.txt | SN:22 | TN:10
-Nasa | a56_193to197_tags.txt | SN:58 | TN:46
-pag-alis | a56_253to258_tags.txt | SN:168 | TN:42
-pabalik_sa | cua_bernice_s11_tags.txt | SN:20 | TN:14
-sa_teritoryo | a56_193to197_tags.txt | SN:27 | TN:21
-sa | a56_181to186_tags.txt | SN:61 | TN:16
-sa_Timog | a56_213_tags.txt | SN:37 | TN:18
-naroon | a56_250_tags.txt | SN:18 | TN:16
-sa_pulong | a56_253to258_tags.txt | SN:47 | TN:20
-sa_hilaga | a56_235to237_tags.txt | SN:2 | TN:25
-sa_kabilaan | a56_204_tags.txt | SN:10 | TN:13
-nasa_entablado | a56_238to240_tags.txt | SN:28 | TN:35
-bingit | a56_263_tags.txt | SN:2 | TN:11
-nasa_gitna | a56_251_tags.txt | SN:9 | TN:11
-sa_kahilagan | a56_248_tags.txt | SN:18 | TN:10
-sa_bukas | a56_200_tags.txt | SN:20 | TN:11
-patungong | a56_193to197_tags.txt | SN:5 | TN:21
-sa_gilid | a56_250_tags.txt | SN:24 | TN:19
-sa_itaas | a56_193to197_tags.txt | SN:61 | TN:47
-hanggang_sa | a56_260_tags.txt | SN:2 | TN:47
-pagitan_sa | a56_212_tags.txt | SN:13 | TN:35
-Sa | a56_263_tags.txt | SN:8 | TN:0
-taga-Oamaru | a56_198_tags.txt | SN:26 | TN:25
-patungong_silangan | a56_213_tags.txt | SN:19 | TN:3
-nasa | a56_181to186_tags.txt | SN:129 | TN:9
-palayo_sa | a56_212_tags.txt | SN:1 | TN:18
-sa_dulo | a56_181to186_tags.txt | SN:76 | TN:4
-muli_sa | a56_261_tags.txt | SN:22 | TN:15
-nasa_likod | a56_253to258_tags.txt | SN:77 | TN:24
-galing_sa | a56_181to186_tags.txt | SN:43 | TN:26
-mula_sa | a56_181to186_tags.txt | SN:14 | TN:34
-palibot_sa | a56_224_tags.txt | SN:1 | TN:20
-galing_kay | a56_181to186_tags.txt | SN:1 | TN:12
-Timog | a56_211_tags.txt | SN:23 | TN:16
-sa_loob | a56_181to186_tags.txt | SN:43 | TN:19
-sa_gitna | a56_181to186_tags.txt | SN:27 | TN:66
-sa_ilalim | a56_193to197_tags.txt | SN:55 | TN:31
-sa_pugad | cua_bernice_s11_tags.txt | SN:72 | TN:8
-sa_purok | a56_251_tags.txt | SN:23 | TN:14
-Nasa_punong-lungsod | a56_251_tags.txt | SN:17 | TN:0
-loob | a56_263_tags.txt | SN:4 | TN:3
-sa_pagitan | a56_181to186_tags.txt | SN:2 | TN:28
-naka-base_sa | a56_198_tags.txt | SN:29 | TN:13
-sa_tabi | a56_225_tags.txt | SN:35 | TN:18
-sa_hilagang | a56_212_tags.txt | SN:23 | TN:19
-mula_sa_haligi | a56_213_tags.txt | SN:29 | TN:9
-paloob | a56_253to258_tags.txt | SN:112 | TN:39
-sa_lagpas | a56_250_tags.txt | SN:1 | TN:28
-na | cua_bernice_s11_tags.txt | SN:23 | TN:20
-nasa_field | a56_253to258_tags.txt | SN:69 | TN:7
-papuntang | a56_250_tags.txt | SN:20 | TN:40
-sa_entablado | a56_238to240_tags.txt | SN:31 | TN:16
-patungo | a56_213_tags.txt | SN:28 | TN:8
-likod | cua_bernice_s11_tags.txt | SN:65 | TN:13
-sa_kanluran | a56_193to197_tags.txt | SN:65 | TN:18
-sa_bahay | a56_225_tags.txt | SN:23 | TN:8
-hanggang | a56_248_tags.txt | SN:14 | TN:25
-sa_likuran | a56_212_tags.txt | SN:27 | TN:16
-sa_baybayin | cua_bernice_s11_tags.txt | SN:61 | TN:7
-sa_lokasyon | cua_bernice_s11_tags.txt | SN:85 | TN:1
-sa_palipiran | a56_248_tags.txt | SN:11 | TN:16
-nasa_hulihan | a56_228_tags.txt | SN:20 | TN:52
-nasa_loob | a56_228_tags.txt | SN:5 | TN:37
-sa_kalupaan | cua_bernice_s11_tags.txt | SN:27 | TN:4
-sa_labas | a56_225_tags.txt | SN:13 | TN:16
-nasa_silid-aklatan | a56_193to197_tags.txt | SN:49 | TN:24
-sa_ilog | a56_250_tags.txt | SN:24 | TN:27
-sa_taas | a56_204_tags.txt | SN:16 | TN:11
-napunta_sa | a56_181to186_tags.txt | SN:141 | TN:19
-sa_lugar | a56_204_tags.txt | SN:8 | TN:18
-sa_lungsod | a56_193to197_tags.txt | SN:22 | TN:33
-sa_daungan | a56_212_tags.txt | SN:17 | TN:48
-Sa_hilaga | a56_249_tags.txt | SN:15 | TN:38
-Nasa_tapat | a56_250_tags.txt | SN:21 | TN:0
-sa_lupa | a56_235to237_tags.txt | SN:34 | TN:33
-nandito | a56_260_tags.txt | SN:16 | TN:13
-patungo_sa | a56_181to186_tags.txt | SN:12 | TN:17
-nasa_harap | a56_204_tags.txt | SN:2 | TN:24
-palayo_kay | a56_212_tags.txt | SN:35 | TN:17
-sa_kaliwa | a56_260_tags.txt | SN:2 | TN:50
-sa_kolonya | a56_211_tags.txt | SN:29 | TN:46
-papunta_sa | a56_200_tags.txt | SN:40 | TN:21
-sa_pulo | a56_249_tags.txt | SN:18 | TN:14
-dulo | cua_bernice_s11_tags.txt | SN:34 | TN:10
-sa_ibabaw | a56_193to197_tags.txt | SN:59 | TN:54
+Word: Mula | Lemma: Mula | a56_193to197_tags.txt | SN:95 | TN:0
+Word: Nasa | Lemma: Nasa | a56_193to197_tags.txt | SN:58 | TN:46
+Word: Nasa | Lemma: Nasa | a56_248_tags.txt | SN:19 | TN:0
+Word: Nasa | Lemma: Nasa | a56_249_tags.txt | SN:9 | TN:0
+Word: Nasa | Lemma: Nasa | a56_249_tags.txt | SN:9 | TN:18
+Word: Nasa | Lemma: Nasa | a56_249_tags.txt | SN:14 | TN:0
+Word: Nasa | Lemma: Nasa | a56_251_tags.txt | SN:20 | TN:0
+Word: Nasa_bingit | Lemma: Nasa_bingit | a56_249_tags.txt | SN:12 | TN:0
+Word: Nasa_gitna | Lemma: Nasa_gitna | a56_251_tags.txt | SN:4 | TN:0
+Word: Nasa_loob | Lemma: Nasa_loob | a56_249_tags.txt | SN:26 | TN:0
+Word: Nasa_punong-lungsod | Lemma: Nasa_puno-lungsod | a56_251_tags.txt | SN:17 | TN:0
+Word: Nasa_tabi | Lemma: Nasa_tabi | a56_224_tags.txt | SN:25 | TN:0
+Word: Nasa_tabi | Lemma: Nasa_tabi | a56_249_tags.txt | SN:10 | TN:0
+Word: Nasa_tabi | Lemma: Nasa_tabi | a56_250_tags.txt | SN:10 | TN:0
+Word: Nasa_tapat | Lemma: Nasa_tapat | a56_250_tags.txt | SN:21 | TN:0
+Word: Sa | Lemma: Sa | a56_263_tags.txt | SN:8 | TN:0
+Word: Sa | Lemma: Sa | a56_263_tags.txt | SN:25 | TN:0
+Word: Sa_gabi | Lemma: Sa_gabi | a56_249_tags.txt | SN:22 | TN:10
+Word: Sa_hilaga | Lemma: Sa_hilaga | a56_249_tags.txt | SN:15 | TN:38
+Word: Sa_ilalim | Lemma: Sa_ilalim | a56_227_tags.txt | SN:13 | TN:0
+Word: Sa_ilalim | Lemma: Sa_ilalim | a56_235to237_tags.txt | SN:34 | TN:0
+Word: Sa_ilalim | Lemma: Sa_lalim | a56_264_tags.txt | SN:6 | TN:0
+Word: Sa_labas | Lemma: Sa_labas | a56_250_tags.txt | SN:7 | TN:0
+Word: Sa_lugar | Lemma: Sa_lugar | a56_248_tags.txt | SN:17 | TN:0
+Word: Sa_lungsod | Lemma: Sa_lungsod | a56_204_tags.txt | SN:8 | TN:0
+Word: Sa_tabi | Lemma: Sa_tabi | a56_249_tags.txt | SN:7 | TN:0
+Word: Timog | Lemma: Timog | a56_211_tags.txt | SN:23 | TN:16
+Word: bingit | Lemma: bingit | a56_263_tags.txt | SN:2 | TN:11
+Word: dulo | Lemma: dulo | cua_bernice_s11_tags.txt | SN:34 | TN:10
+Word: galing_kay | Lemma: galing_kay | a56_181to186_tags.txt | SN:1 | TN:12
+Word: galing_sa | Lemma: galing_sa | a56_249_tags.txt | SN:15 | TN:32
+Word: galing_sa | Lemma: galing_sa | a56_181to186_tags.txt | SN:43 | TN:26
+Word: galing_sa | Lemma: galing_sa | a56_200_tags.txt | SN:14 | TN:9
+Word: galing_sa | Lemma: galing_sa | a56_200_tags.txt | SN:18 | TN:6
+Word: galing_sa | Lemma: galing_sa | a56_249_tags.txt | SN:15 | TN:21
+Word: galing_sa | Lemma: galing_sa | a56_249_tags.txt | SN:17 | TN:28
+Word: galing_sa | Lemma: galing_sa | a56_251_tags.txt | SN:26 | TN:5
+Word: galing_sa | Lemma: galing_sa | cua_bernice_s11_tags.txt | SN:20 | TN:10
+Word: galing_sa | Lemma: galing_sa | a56_263_tags.txt | SN:19 | TN:10
+Word: galing_sa | Lemma: galing_sa | cua_bernice_s11_tags.txt | SN:1 | TN:3
+Word: hanggang | Lemma: hanggang | a56_248_tags.txt | SN:14 | TN:25
+Word: hanggang | Lemma: hanggang | a56_250_tags.txt | SN:20 | TN:36
+Word: hanggang | Lemma: hanggang | cua_bernice_s11_tags.txt | SN:11 | TN:8
+Word: hanggang_sa | Lemma: hanggang_sa | a56_260_tags.txt | SN:2 | TN:47
+Word: hanggang_sa | Lemma: hanggang_sa | cua_bernice_s11_tags.txt | SN:28 | TN:21
+Word: ibabaw | Lemma: ibabaw | cua_bernice_s11_tags.txt | SN:34 | TN:2
+Word: likod | Lemma: likod | cua_bernice_s11_tags.txt | SN:65 | TN:13
+Word: loob | Lemma: loob | a56_263_tags.txt | SN:4 | TN:3
+Word: loob | Lemma: loob | a56_264_tags.txt | SN:33 | TN:16
+Word: mula | Lemma: mula | a56_181to186_tags.txt | SN:100 | TN:12
+Word: mula | Lemma: mula | a56_204_tags.txt | SN:2 | TN:28
+Word: mula | Lemma: mula | a56_226_tags.txt | SN:2 | TN:27
+Word: mula | Lemma: mula | a56_250_tags.txt | SN:22 | TN:7
+Word: mula | Lemma: mula | cua_bernice_s11_tags.txt | SN:49 | TN:4
+Word: mula_kay | Lemma: mula_kay | a56_181to186_tags.txt | SN:17 | TN:2
+Word: mula_sa | Lemma: mula_sa | a56_181to186_tags.txt | SN:14 | TN:34
+Word: mula_sa | Lemma: mula_sa | a56_181to186_tags.txt | SN:42 | TN:6
+Word: mula_sa | Lemma: mula_sa | a56_181to186_tags.txt | SN:15 | TN:7
+Word: mula_sa | Lemma: mula_sa | lopez_clement_s11_tags.txt | SN:11 | TN:8
+Word: mula_sa | Lemma: mula_sa | a56_253to258_tags.txt | SN:90 | TN:67
+Word: mula_sa | Lemma: mula_sa | lopez_clement_s11_tags.txt | SN:76 | TN:34
+Word: mula_sa | Lemma: mula_sa | a56_211_tags.txt | SN:23 | TN:12
+Word: mula_sa | Lemma: mula_sa | a56_247_tags.txt | SN:25 | TN:14
+Word: mula_sa | Lemma: mula_sa | a56_181to186_tags.txt | SN:84 | TN:11
+Word: mula_sa | Lemma: mula_sa | a56_181to186_tags.txt | SN:143 | TN:26
+Word: mula_sa | Lemma: mula_sa | cua_bernice_s11_tags.txt | SN:3 | TN:24
+Word: mula_sa | Lemma: mula_sa | a56_250_tags.txt | SN:20 | TN:33
+Word: mula_sa | Lemma: mula_sa | a56_260_tags.txt | SN:11 | TN:26
+Word: mula_sa | Lemma: mula_sa | a56_253to258_tags.txt | SN:80 | TN:22
+Word: mula_sa | Lemma: mula_sa | a56_238to240_tags.txt | SN:66 | TN:22
+Word: mula_sa | Lemma: mula_sa | a56_247_tags.txt | SN:29 | TN:14
+Word: mula_sa | Lemma: mula_sa | a56_193to197_tags.txt | SN:7 | TN:43
+Word: mula_sa | Lemma: mula_sa | a56_193to197_tags.txt | SN:18 | TN:11
+Word: mula_sa | Lemma: mula_sa | a56_193to197_tags.txt | SN:76 | TN:23
+Word: mula_sa | Lemma: mula_sa | a56_193to197_tags.txt | SN:65 | TN:70
+Word: mula_sa | Lemma: mula_sa | a56_264_tags.txt | SN:33 | TN:20
+Word: mula_sa | Lemma: mula_sa | a56_235to237_tags.txt | SN:2 | TN:16
+Word: mula_sa | Lemma: mula_sa | a56_248_tags.txt | SN:11 | TN:8
+Word: mula_sa | Lemma: mula_sa | a56_248_tags.txt | SN:10 | TN:21
+Word: mula_sa | Lemma: mula_sa | a56_224_tags.txt | SN:2 | TN:14
+Word: mula_sa | Lemma: mula_sa | a56_247_tags.txt | SN:29 | TN:19
+Word: mula_sa | Lemma: mula_sa | a56_253to258_tags.txt | SN:172 | TN:19
+Word: mula_sa | Lemma: mula_sa | a56_238to240_tags.txt | SN:14 | TN:45
+Word: mula_sa | Lemma: mula_sa | a56_253to258_tags.txt | SN:44 | TN:9
+Word: mula_sa | Lemma: mula_sa | a56_248_tags.txt | SN:14 | TN:18
+Word: mula_sa | Lemma: mula_sa | a56_235to237_tags.txt | SN:10 | TN:22
+Word: mula_sa | Lemma: mula_sa | a56_238to240_tags.txt | SN:4 | TN:40
+Word: mula_sa | Lemma: mula_sa | a56_253to258_tags.txt | SN:33 | TN:2
+Word: mula_sa | Lemma: mula_sa | a56_226_tags.txt | SN:27 | TN:7
+Word: mula_sa | Lemma: mula_sa | a56_193to197_tags.txt | SN:30 | TN:9
+Word: mula_sa | Lemma: mula_sa | a56_204_tags.txt | SN:23 | TN:23
+Word: mula_sa | Lemma: mula_sa | lopez_clement_s11_tags.txt | SN:18 | TN:23
+Word: mula_sa | Lemma: mula_sa | a56_193to197_tags.txt | SN:106 | TN:22
+Word: mula_sa | Lemma: mula_sa | a56_211_tags.txt | SN:37 | TN:30
+Word: mula_sa | Lemma: mula_sa | a56_249_tags.txt | SN:17 | TN:26
+Word: mula_sa | Lemma: mula_sa | a56_260_tags.txt | SN:14 | TN:10
+Word: mula_sa | Lemma: mula_sa | cua_bernice_s11_tags.txt | SN:28 | TN:19
+Word: mula_sa | Lemma: mula_sa | a56_260_tags.txt | SN:8 | TN:15
+Word: mula_sa | Lemma: mula_sa | a56_227_tags.txt | SN:2 | TN:32
+Word: mula_sa | Lemma: mula_sa | a56_238to240_tags.txt | SN:20 | TN:3
+Word: mula_sa | Lemma: mula_sa | a56_211_tags.txt | SN:1 | TN:18
+Word: mula_sa | Lemma: mula_sa | a56_238to240_tags.txt | SN:21 | TN:9
+Word: mula_sa | Lemma: mula_sa | a56_213_tags.txt | SN:43 | TN:34
+Word: mula_sa | Lemma: mula_sa | a56_251_tags.txt | SN:16 | TN:14
+Word: mula_sa | Lemma: mula_sa | a56_193to197_tags.txt | SN:35 | TN:24
+Word: mula_sa | Lemma: mula_sa | a56_211_tags.txt | SN:37 | TN:43
+Word: mula_sa | Lemma: mula_sa | a56_224_tags.txt | SN:2 | TN:22
+Word: mula_sa | Lemma: mula_sa | lopez_clement_s11_tags.txt | SN:32 | TN:15
+Word: mula_sa | Lemma: mula_sa | a56_235to237_tags.txt | SN:7 | TN:23
+Word: mula_sa | Lemma: mula_sa | a56_235to237_tags.txt | SN:64 | TN:6
+Word: mula_sa | Lemma: mula_sa | a56_223_tags.txt | SN:18 | TN:22
+Word: mula_sa | Lemma: mula_sa | a56_227_tags.txt | SN:4 | TN:114
+Word: mula_sa | Lemma: mula_sa | a56_227_tags.txt | SN:8 | TN:30
+Word: mula_sa | Lemma: mula_sa | a56_204_tags.txt | SN:17 | TN:27
+Word: mula_sa | Lemma: mula_sa | lopez_clement_s11_tags.txt | SN:76 | TN:40
+Word: mula_sa_haligi | Lemma: mula_sa_haligi | a56_213_tags.txt | SN:29 | TN:9
+Word: muli_sa | Lemma: muli_sa | a56_261_tags.txt | SN:22 | TN:15
+Word: na | Lemma: na | cua_bernice_s11_tags.txt | SN:23 | TN:20
+Word: naka-base_sa | Lemma: base_sa | a56_198_tags.txt | SN:29 | TN:13
+Word: nandito | Lemma: dito | a56_260_tags.txt | SN:16 | TN:13
+Word: nanggagaling_sa | Lemma: galing_sa | a56_181to186_tags.txt | SN:43 | TN:17
+Word: napunta_sa | Lemma: punta_sa | a56_181to186_tags.txt | SN:141 | TN:19
+Word: naroon | Lemma: doon | a56_250_tags.txt | SN:18 | TN:16
+Word: naroon | Lemma: doon | a56_250_tags.txt | SN:18 | TN:27
+Word: nasa | Lemma: nasa | a56_211_tags.txt | SN:5 | TN:15
+Word: nasa | Lemma: nasa | a56_181to186_tags.txt | SN:129 | TN:9
+Word: nasa | Lemma: nasa | a56_250_tags.txt | SN:10 | TN:12
+Word: nasa | Lemma: nasa | a56_193to197_tags.txt | SN:49 | TN:36
+Word: nasa | Lemma: nasa | a56_211_tags.txt | SN:7 | TN:1
+Word: nasa | Lemma: nasa | a56_214_tags.txt | SN:38 | TN:26
+Word: nasa | Lemma: nasa | a56_227_tags.txt | SN:27 | TN:1
+Word: nasa | Lemma: nasa | a56_235to237_tags.txt | SN:40 | TN:15
+Word: nasa | Lemma: nasa | a56_253to258_tags.txt | SN:115 | TN:1
+Word: nasa | Lemma: nasa | a56_238to240_tags.txt | SN:56 | TN:8
+Word: nasa | Lemma: nasa | a56_261_tags.txt | SN:9 | TN:10
+Word: nasa | Lemma: nasa | a56_250_tags.txt | SN:14 | TN:19
+Word: nasa | Lemma: nasa | a56_248_tags.txt | SN:31 | TN:15
+Word: nasa | Lemma: nasa | a56_249_tags.txt | SN:1 | TN:10
+Word: nasa_entablado | Lemma: nasa_entablado | a56_238to240_tags.txt | SN:28 | TN:35
+Word: nasa_field | Lemma: nasa_field | a56_253to258_tags.txt | SN:69 | TN:7
+Word: nasa_gitna | Lemma: nasa_gitna | a56_251_tags.txt | SN:9 | TN:11
+Word: nasa_harap | Lemma: nasa_harap | a56_204_tags.txt | SN:2 | TN:24
+Word: nasa_hulihan | Lemma: nasa_huli | a56_228_tags.txt | SN:20 | TN:52
+Word: nasa_ibabaw | Lemma: nasa_ibabaw | a56_264_tags.txt | SN:18 | TN:20
+Word: nasa_ilalim | Lemma: nasa_ilalim | a56_235to237_tags.txt | SN:34 | TN:18
+Word: nasa_likod | Lemma: nasa_likod | a56_253to258_tags.txt | SN:77 | TN:24
+Word: nasa_loob | Lemma: nasa_loob | a56_228_tags.txt | SN:5 | TN:37
+Word: nasa_lugar | Lemma: nasa_lugar | a56_250_tags.txt | SN:18 | TN:5
+Word: nasa_silid-aklatan | Lemma: nasa_silid-aklat | a56_193to197_tags.txt | SN:49 | TN:24
+Word: pabalik_sa | Lemma: balik_sa | cua_bernice_s11_tags.txt | SN:20 | TN:14
+Word: pag-alis | Lemma: alis | a56_253to258_tags.txt | SN:168 | TN:42
+Word: pagitan_sa | Lemma: pagitan_sa | a56_212_tags.txt | SN:13 | TN:35
+Word: palayo_kay | Lemma: layo_kay | a56_212_tags.txt | SN:35 | TN:17
+Word: palayo_sa | Lemma: layo_sa | a56_212_tags.txt | SN:1 | TN:18
+Word: palayo_sa | Lemma: layo_sa | a56_212_tags.txt | SN:17 | TN:19
+Word: palayo_sa | Lemma: layo_sa | a56_212_tags.txt | SN:35 | TN:5
+Word: palayo_sa | Lemma: layo_sa | a56_213_tags.txt | SN:19 | TN:10
+Word: palayo_sa | Lemma: layo_sa | a56_214_tags.txt | SN:26 | TN:5
+Word: palibot_sa | Lemma: palibot_sa | a56_224_tags.txt | SN:1 | TN:20
+Word: paloob | Lemma: loob | a56_253to258_tags.txt | SN:112 | TN:39
+Word: papunta_sa | Lemma: punta_sa | a56_200_tags.txt | SN:40 | TN:21
+Word: papunta_sa | Lemma: punta_sa | a56_213_tags.txt | SN:29 | TN:25
+Word: papunta_sa | Lemma: punta_sa | cua_bernice_s11_tags.txt | SN:22 | TN:11
+Word: papunta_sa | Lemma: punta_sa | cua_bernice_s11_tags.txt | SN:91 | TN:7
+Word: papuntang | Lemma: papunta | a56_250_tags.txt | SN:20 | TN:40
+Word: papuntang_timog-silangan | Lemma: punta_timog-silangan | a56_213_tags.txt | SN:26 | TN:14
+Word: patungo | Lemma: tungo | a56_213_tags.txt | SN:28 | TN:8
+Word: patungo_sa | Lemma: tungo_sa | a56_181to186_tags.txt | SN:12 | TN:17
+Word: patungo_sa | Lemma: tungo_sa | a56_211_tags.txt | SN:37 | TN:45
+Word: patungo_sa | Lemma: tungo_sa | a56_212_tags.txt | SN:9 | TN:11
+Word: patungo_sa | Lemma: tungo_sa | a56_264_tags.txt | SN:12 | TN:9
+Word: patungo_sa | Lemma: tungo_sa | cua_bernice_s11_tags.txt | SN:3 | TN:28
+Word: patungo_sa | Lemma: tungo_sa | cua_bernice_s11_tags.txt | SN:82 | TN:6
+Word: patungo_sa | Lemma: tungo_sa | lopez_clement_s11_tags.txt | SN:48 | TN:7
+Word: patungong | Lemma: tungo | a56_193to197_tags.txt | SN:5 | TN:21
+Word: patungong | Lemma: tungo | a56_211_tags.txt | SN:3 | TN:11
+Word: patungong | Lemma: tungo | a56_250_tags.txt | SN:7 | TN:20
+Word: patungong_silangan | Lemma: tungo_silangan | a56_213_tags.txt | SN:19 | TN:3
+Word: sa | Lemma: sa | a56_263_tags.txt | SN:21 | TN:21
+Word: sa | Lemma: sa | a56_235to237_tags.txt | SN:32 | TN:15
+Word: sa | Lemma: sa | a56_181to186_tags.txt | SN:61 | TN:16
+Word: sa | Lemma: sa | a56_263_tags.txt | SN:12 | TN:31
+Word: sa | Lemma: sa | a56_263_tags.txt | SN:15 | TN:28
+Word: sa | Lemma: sa | a56_263_tags.txt | SN:14 | TN:23
+Word: sa | Lemma: sa | a56_250_tags.txt | SN:24 | TN:9
+Word: sa | Lemma: sa | a56_263_tags.txt | SN:21 | TN:8
+Word: sa | Lemma: sa | a56_263_tags.txt | SN:19 | TN:18
+Word: sa | Lemma: sa | a56_264_tags.txt | SN:23 | TN:33
+Word: sa | Lemma: sa | a56_263_tags.txt | SN:5 | TN:2
+Word: sa | Lemma: sa | lopez_clement_s11_tags.txt | SN:6 | TN:21
+Word: sa | Lemma: sa | a56_235to237_tags.txt | SN:52 | TN:12
+Word: sa | Lemma: sa | a56_261_tags.txt | SN:26 | TN:8
+Word: sa | Lemma: sa | a56_263_tags.txt | SN:13 | TN:15
+Word: sa | Lemma: sa | a56_263_tags.txt | SN:17 | TN:20
+Word: sa | Lemma: sa | a56_263_tags.txt | SN:10 | TN:19
+Word: sa | Lemma: sa | a56_263_tags.txt | SN:19 | TN:20
+Word: sa | Lemma: sa | a56_263_tags.txt | SN:22 | TN:3
+Word: sa | Lemma: sa | a56_263_tags.txt | SN:1 | TN:19
+Word: sa | Lemma: sa | a56_263_tags.txt | SN:2 | TN:5
+Word: sa | Lemma: sa | a56_263_tags.txt | SN:24 | TN:12
+Word: sa | Lemma: sa | a56_263_tags.txt | SN:22 | TN:17
+Word: sa | Lemma: sa | a56_264_tags.txt | SN:33 | TN:14
+Word: sa | Lemma: sa | a56_250_tags.txt | SN:7 | TN:30
+Word: sa | Lemma: sa | a56_235to237_tags.txt | SN:52 | TN:25
+Word: sa | Lemma: sa | a56_238to240_tags.txt | SN:55 | TN:8
+Word: sa | Lemma: sa | a56_238to240_tags.txt | SN:62 | TN:10
+Word: sa | Lemma: sa | a56_263_tags.txt | SN:16 | TN:11
+Word: sa | Lemma: sa | a56_263_tags.txt | SN:23 | TN:5
+Word: sa | Lemma: sa | a56_263_tags.txt | SN:4 | TN:2
+Word: sa | Lemma: sa | a56_264_tags.txt | SN:3 | TN:9
+Word: sa | Lemma: sa | a56_264_tags.txt | SN:26 | TN:5
+Word: sa | Lemma: sa | a56_263_tags.txt | SN:15 | TN:18
+Word: sa | Lemma: sa | a56_263_tags.txt | SN:10 | TN:4
+Word: sa | Lemma: sa | a56_252_tags.txt | SN:9 | TN:19
+Word: sa | Lemma: sa | a56_263_tags.txt | SN:2 | TN:22
+Word: sa | Lemma: sa | a56_263_tags.txt | SN:14 | TN:30
+Word: sa | Lemma: sa | a56_247_tags.txt | SN:17 | TN:31
+Word: sa | Lemma: sa | a56_264_tags.txt | SN:22 | TN:13
+Word: sa | Lemma: sa | a56_263_tags.txt | SN:2 | TN:15
+Word: sa | Lemma: sa | a56_264_tags.txt | SN:22 | TN:9
+Word: sa | Lemma: sa | cua_bernice_s11_tags.txt | SN:18 | TN:2
+Word: sa | Lemma: sa | a56_248_tags.txt | SN:24 | TN:19
+Word: sa | Lemma: sa | a56_249_tags.txt | SN:9 | TN:6
+Word: sa | Lemma: sa | a56_263_tags.txt | SN:17 | TN:38
+Word: sa | Lemma: sa | a56_264_tags.txt | SN:4 | TN:11
+Word: sa | Lemma: sa | a56_264_tags.txt | SN:34 | TN:6
+Word: sa | Lemma: sa | a56_263_tags.txt | SN:12 | TN:38
+Word: sa | Lemma: sa | a56_263_tags.txt | SN:17 | TN:44
+Word: sa | Lemma: sa | a56_263_tags.txt | SN:25 | TN:29
+Word: sa | Lemma: sa | a56_264_tags.txt | SN:23 | TN:24
+Word: sa | Lemma: sa | a56_253to258_tags.txt | SN:112 | TN:40
+Word: sa | Lemma: sa | a56_263_tags.txt | SN:1 | TN:13
+Word: sa | Lemma: sa | a56_264_tags.txt | SN:31 | TN:3
+Word: sa | Lemma: sa | cua_bernice_s11_tags.txt | SN:15 | TN:22
+Word: sa | Lemma: sa | a56_263_tags.txt | SN:2 | TN:12
+Word: sa | Lemma: sa | a56_263_tags.txt | SN:20 | TN:24
+Word: sa_Rotunda | Lemma: sa_Rotunda | a56_193to197_tags.txt | SN:57 | TN:10
+Word: sa_Timog | Lemma: sa_Timog | a56_213_tags.txt | SN:37 | TN:18
+Word: sa_bahay | Lemma: sa_bahay | a56_225_tags.txt | SN:23 | TN:8
+Word: sa_bahay | Lemma: sa_bahay | a56_247_tags.txt | SN:6 | TN:40
+Word: sa_bahay | Lemma: sa_bahay | a56_264_tags.txt | SN:10 | TN:34
+Word: sa_baybayin | Lemma: sa_baybayin | cua_bernice_s11_tags.txt | SN:61 | TN:7
+Word: sa_bukas | Lemma: sa_bukas | a56_200_tags.txt | SN:20 | TN:11
+Word: sa_campus | Lemma: sa_campus | a56_238to240_tags.txt | SN:61 | TN:12
+Word: sa_campus | Lemma: sa_campus | a56_238to240_tags.txt | SN:69 | TN:13
+Word: sa_dagat | Lemma: sa_dagat | a56_214_tags.txt | SN:38 | TN:31
+Word: sa_daungan | Lemma: sa_daungan | a56_212_tags.txt | SN:17 | TN:48
+Word: sa_dulo | Lemma: sa_dulo | a56_181to186_tags.txt | SN:76 | TN:4
+Word: sa_dulo | Lemma: sa_dulo | a56_253to258_tags.txt | SN:29 | TN:7
+Word: sa_dulo | Lemma: sa_dulo | cua_bernice_s11_tags.txt | SN:8 | TN:16
+Word: sa_dulo | Lemma: sa_dulo | cua_bernice_s11_tags.txt | SN:10 | TN:4
+Word: sa_dulo | Lemma: sa_dulo | cua_bernice_s11_tags.txt | SN:18 | TN:12
+Word: sa_dulo | Lemma: sa_dulo | cua_bernice_s11_tags.txt | SN:50 | TN:6
+Word: sa_entablado | Lemma: sa_entablado | a56_238to240_tags.txt | SN:31 | TN:16
+Word: sa_gilid | Lemma: sa_gilid | a56_250_tags.txt | SN:24 | TN:19
+Word: sa_gitna | Lemma: sa_gitna | a56_238to240_tags.txt | SN:73 | TN:1
+Word: sa_gitna | Lemma: sa_gitna | a56_181to186_tags.txt | SN:27 | TN:66
+Word: sa_gitna | Lemma: sa_gitna | a56_181to186_tags.txt | SN:31 | TN:109
+Word: sa_gitna | Lemma: sa_gitna | a56_249_tags.txt | SN:13 | TN:17
+Word: sa_gitna | Lemma: sa_gitna | a56_264_tags.txt | SN:8 | TN:7
+Word: sa_gitna | Lemma: sa_gitna | a56_259_tags.txt | SN:19 | TN:7
+Word: sa_gitna | Lemma: sa_gitna | a56_250_tags.txt | SN:3 | TN:7
+Word: sa_gitna | Lemma: sa_gitna | a56_250_tags.txt | SN:6 | TN:5
+Word: sa_gitna | Lemma: sa_gitna | a56_250_tags.txt | SN:17 | TN:4
+Word: sa_gitna | Lemma: sa_gitna | a56_251_tags.txt | SN:14 | TN:8
+Word: sa_gitna | Lemma: sa_gitna | a56_259_tags.txt | SN:18 | TN:10
+Word: sa_gitna | Lemma: sa_gitna | a56_260_tags.txt | SN:2 | TN:62
+Word: sa_hangganan | Lemma: sa_hangganan | a56_249_tags.txt | SN:17 | TN:4
+Word: sa_harap | Lemma: sa_harap | a56_250_tags.txt | SN:20 | TN:17
+Word: sa_hilaga | Lemma: sa_hilaga | a56_235to237_tags.txt | SN:2 | TN:25
+Word: sa_hilaga | Lemma: sa_hilaga | a56_235to237_tags.txt | SN:33 | TN:25
+Word: sa_hilaga | Lemma: sa_hilaga | a56_248_tags.txt | SN:31 | TN:18
+Word: sa_hilagang | Lemma: sa_hilaga | a56_212_tags.txt | SN:23 | TN:19
+Word: sa_hilagang | Lemma: sa_hilaga | a56_212_tags.txt | SN:31 | TN:16
+Word: sa_himpapawid | Lemma: sa_himpapawid | cua_bernice_s11_tags.txt | SN:24 | TN:6
+Word: sa_ibaba | Lemma: sa_ibaba | a56_181to186_tags.txt | SN:32 | TN:41
+Word: sa_ibaba | Lemma: sa_baba | a56_193to197_tags.txt | SN:108 | TN:3
+Word: sa_ibaba | Lemma: sa_baba | a56_253to258_tags.txt | SN:86 | TN:12
+Word: sa_ibaba | Lemma: sa_baba | a56_260_tags.txt | SN:3 | TN:7
+Word: sa_ibabaw | Lemma: sa_babaw | a56_193to197_tags.txt | SN:59 | TN:54
+Word: sa_ibabaw | Lemma: sa_babaw | a56_200_tags.txt | SN:15 | TN:14
+Word: sa_ibabaw | Lemma: sa_babaw | a56_249_tags.txt | SN:19 | TN:9
+Word: sa_ibabaw | Lemma: sa_babaw | a56_253to258_tags.txt | SN:142 | TN:16
+Word: sa_ibabaw | Lemma: sa_babaw | a56_260_tags.txt | SN:3 | TN:61
+Word: sa_ibayo | Lemma: sa_ibayo | a56_181to186_tags.txt | SN:27 | TN:16
+Word: sa_ilalim | Lemma: sa_ilalim | a56_235to237_tags.txt | SN:42 | TN:8
+Word: sa_ilalim | Lemma: sa_lalim | a56_193to197_tags.txt | SN:55 | TN:31
+Word: sa_ilalim | Lemma: sa_lalim | a56_204_tags.txt | SN:16 | TN:19
+Word: sa_ilalim | Lemma: sa_lalim | a56_204_tags.txt | SN:17 | TN:23
+Word: sa_ilalim | Lemma: sa_ilalim | a56_261_tags.txt | SN:18 | TN:7
+Word: sa_ilalim | Lemma: sa_lalim | a56_204_tags.txt | SN:23 | TN:6
+Word: sa_ilalim | Lemma: sa_ilalim | a56_253to258_tags.txt | SN:161 | TN:24
+Word: sa_ilalim | Lemma: sa_ilalim | a56_261_tags.txt | SN:16 | TN:17
+Word: sa_ilalim | Lemma: sa_lalim | a56_264_tags.txt | SN:7 | TN:6
+Word: sa_ilalim | Lemma: sa_lalim | a56_259_tags.txt | SN:24 | TN:6
+Word: sa_ilalim | Lemma: sa_lalim | a56_212_tags.txt | SN:35 | TN:30
+Word: sa_ilalim | Lemma: sa_lalim | a56_212_tags.txt | SN:37 | TN:54
+Word: sa_ilalim | Lemma: sa_ilalim | a56_227_tags.txt | SN:18 | TN:3
+Word: sa_ilalim | Lemma: sa_lalim | a56_264_tags.txt | SN:6 | TN:16
+Word: sa_ilalim | Lemma: sa_lalim | a56_238to240_tags.txt | SN:70 | TN:20
+Word: sa_ilog | Lemma: sa_ilog | a56_250_tags.txt | SN:24 | TN:27
+Word: sa_isla | Lemma: sa_isla | a56_235to237_tags.txt | SN:1 | TN:12
+Word: sa_isla | Lemma: sa_isla | a56_235to237_tags.txt | SN:68 | TN:1
+Word: sa_isla | Lemma: isla | a56_235to237_tags.txt | SN:69 | TN:17
+Word: sa_itaas | Lemma: sa_taas | a56_193to197_tags.txt | SN:61 | TN:47
+Word: sa_itaas | Lemma: sa_taas | a56_260_tags.txt | SN:2 | TN:12
+Word: sa_itaas | Lemma: sa_itaas | lopez_clement_s11_tags.txt | SN:36 | TN:26
+Word: sa_kabilaan | Lemma: sa_kabila | a56_204_tags.txt | SN:10 | TN:13
+Word: sa_kahilagan | Lemma: sa_hilaga | a56_248_tags.txt | SN:18 | TN:10
+Word: sa_kaliwa | Lemma: sa_kaliwa | a56_260_tags.txt | SN:2 | TN:50
+Word: sa_kalupaan | Lemma: sa_lupa | cua_bernice_s11_tags.txt | SN:27 | TN:4
+Word: sa_kanluran | Lemma: sa_kanluran | a56_193to197_tags.txt | SN:65 | TN:18
+Word: sa_kanluran | Lemma: sa_kanluran | a56_214_tags.txt | SN:36 | TN:7
+Word: sa_kolonya | Lemma: sa_kolonya | a56_211_tags.txt | SN:29 | TN:46
+Word: sa_labas | Lemma: sa_labas | a56_225_tags.txt | SN:13 | TN:16
+Word: sa_labas | Lemma: sa_labas | a56_225_tags.txt | SN:25 | TN:44
+Word: sa_labas | Lemma: sa_labas | a56_238to240_tags.txt | SN:64 | TN:4
+Word: sa_labas | Lemma: sa_labas | a56_238to240_tags.txt | SN:70 | TN:8
+Word: sa_labas | Lemma: sa_labas | a56_238to240_tags.txt | SN:76 | TN:13
+Word: sa_labas | Lemma: sa_labas | a56_251_tags.txt | SN:14 | TN:14
+Word: sa_labas | Lemma: sa_labas | a56_253to258_tags.txt | SN:134 | TN:19
+Word: sa_labas | Lemma: sa_labas | a56_253to258_tags.txt | SN:171 | TN:7
+Word: sa_lagpas | Lemma: sa_lagpas | a56_250_tags.txt | SN:1 | TN:28
+Word: sa_landas | Lemma: sa_landas | a56_212_tags.txt | SN:3 | TN:40
+Word: sa_landas | Lemma: sa_landas | a56_212_tags.txt | SN:7 | TN:44
+Word: sa_likod | Lemma: sa_likod | a56_253to258_tags.txt | SN:51 | TN:22
+Word: sa_likod | Lemma: sa_likod | a56_259_tags.txt | SN:2 | TN:7
+Word: sa_likod | Lemma: sa_likod | a56_259_tags.txt | SN:16 | TN:8
+Word: sa_likod | Lemma: sa_likod | cua_bernice_s11_tags.txt | SN:11 | TN:9
+Word: sa_likuran | Lemma: sa_likuran | a56_212_tags.txt | SN:27 | TN:16
+Word: sa_lokasyon | Lemma: sa_lokasyon | cua_bernice_s11_tags.txt | SN:85 | TN:1
+Word: sa_loob | Lemma: sa_loob | a56_181to186_tags.txt | SN:74 | TN:16
+Word: sa_loob | Lemma: sa_loob | a56_181to186_tags.txt | SN:43 | TN:19
+Word: sa_loob | Lemma: sa_loob | a56_238to240_tags.txt | SN:75 | TN:10
+Word: sa_loob | Lemma: sa_loob | a56_264_tags.txt | SN:30 | TN:5
+Word: sa_loob | Lemma: sa_loob | cua_bernice_s11_tags.txt | SN:61 | TN:12
+Word: sa_loob | Lemma: sa_loob | a56_259_tags.txt | SN:3 | TN:22
+Word: sa_loob | Lemma: sa_loob | a56_264_tags.txt | SN:8 | TN:17
+Word: sa_loob | Lemma: sa_loob | a56_259_tags.txt | SN:20 | TN:20
+Word: sa_loob | Lemma: sa_loob | a56_249_tags.txt | SN:3 | TN:25
+Word: sa_loob | Lemma: sa_loob | a56_249_tags.txt | SN:20 | TN:2
+Word: sa_loob | Lemma: sa_loob | a56_251_tags.txt | SN:7 | TN:19
+Word: sa_loob | Lemma: sa_loob | a56_264_tags.txt | SN:17 | TN:7
+Word: sa_loob | Lemma: sa_loob | cua_bernice_s11_tags.txt | SN:61 | TN:4
+Word: sa_loob | Lemma: sa_loob | a56_264_tags.txt | SN:34 | TN:15
+Word: sa_loob | Lemma: sa_loob | a56_252_tags.txt | SN:2 | TN:10
+Word: sa_loob | Lemma: sa_loob | lopez_clement_s11_tags.txt | SN:19 | TN:14
+Word: sa_loob | Lemma: sa_loob | a56_252_tags.txt | SN:3 | TN:8
+Word: sa_loob | Lemma: sa_loob | a56_253to258_tags.txt | SN:47 | TN:16
+Word: sa_loob | Lemma: sa_loob | a56_253to258_tags.txt | SN:51 | TN:11
+Word: sa_loob | Lemma: sa_loob | cua_bernice_s11_tags.txt | SN:3 | TN:16
+Word: sa_loob | Lemma: sa_loob | a56_260_tags.txt | SN:1 | TN:14
+Word: sa_lugar | Lemma: sa_lugar | a56_204_tags.txt | SN:22 | TN:17
+Word: sa_lugar | Lemma: sa_lugar | a56_204_tags.txt | SN:8 | TN:18
+Word: sa_lugar | Lemma: sa_lugar | a56_235to237_tags.txt | SN:71 | TN:9
+Word: sa_lugar | Lemma: sa_lugar | a56_250_tags.txt | SN:3 | TN:15
+Word: sa_lugar | Lemma: sa_lugar | a56_250_tags.txt | SN:6 | TN:9
+Word: sa_lugar | Lemma: sa_lugar | a56_251_tags.txt | SN:9 | TN:9
+Word: sa_lugar | Lemma: sa_lugar | a56_251_tags.txt | SN:11 | TN:5
+Word: sa_lugar | Lemma: sa_lugar | cua_bernice_s11_tags.txt | SN:67 | TN:10
+Word: sa_lugar | Lemma: sa_lugar | cua_bernice_s11_tags.txt | SN:96 | TN:4
+Word: sa_lungsod | Lemma: sa_lungsod | a56_193to197_tags.txt | SN:22 | TN:33
+Word: sa_lungsod | Lemma: sa_lungsod | a56_225_tags.txt | SN:35 | TN:21
+Word: sa_lungsod | Lemma: sa_lungsod | a56_226_tags.txt | SN:9 | TN:2
+Word: sa_lungsod | Lemma: sa_lungsod | a56_226_tags.txt | SN:11 | TN:3
+Word: sa_lungsod | Lemma: sa_lungsod | a56_250_tags.txt | SN:16 | TN:23
+Word: sa_lupa | Lemma: sa_lupa | a56_235to237_tags.txt | SN:34 | TN:33
+Word: sa_pagitan | Lemma: sa_pagitan | a56_193to197_tags.txt | SN:105 | TN:11
+Word: sa_pagitan | Lemma: sa_pagitan | a56_181to186_tags.txt | SN:2 | TN:28
+Word: sa_pagitan | Lemma: sa_pagitan | a56_181to186_tags.txt | SN:99 | TN:13
+Word: sa_pagitan | Lemma: sa_pagitan | a56_253to258_tags.txt | SN:149 | TN:9
+Word: sa_pagitan | Lemma: sa_pagitan | lopez_clement_s11_tags.txt | SN:41 | TN:5
+Word: sa_pagitan | Lemma: sa_pagitan | a56_253to258_tags.txt | SN:23 | TN:5
+Word: sa_pagitan | Lemma: sa_pagitan | a56_204_tags.txt | SN:12 | TN:14
+Word: sa_pagitan | Lemma: sa_pagitan | a56_264_tags.txt | SN:27 | TN:12
+Word: sa_pagitan | Lemma: sa_pagitan | a56_253to258_tags.txt | SN:63 | TN:12
+Word: sa_pagitan | Lemma: sa_pagitan | a56_253to258_tags.txt | SN:71 | TN:28
+Word: sa_pagitan | Lemma: sa_pagitan | a56_204_tags.txt | SN:17 | TN:15
+Word: sa_pagitan | Lemma: sa_pagitan | a56_211_tags.txt | SN:11 | TN:12
+Word: sa_pagitan | Lemma: sa_pagitan | cua_bernice_s11_tags.txt | SN:41 | TN:18
+Word: sa_pagitan | Lemma: sa_pagitan | a56_213_tags.txt | SN:17 | TN:59
+Word: sa_pagitan | Lemma: sa_pagitan | a56_225_tags.txt | SN:14 | TN:28
+Word: sa_pagitan | Lemma: sa_pagitan | a56_253to258_tags.txt | SN:171 | TN:8
+Word: sa_pagitan | Lemma: sa_pagitan | lopez_clement_s11_tags.txt | SN:52 | TN:51
+Word: sa_pagitan | Lemma: sa_pagitan | a56_250_tags.txt | SN:22 | TN:20
+Word: sa_pagitan | Lemma: sa_pagitan | a56_235to237_tags.txt | SN:23 | TN:8
+Word: sa_pagitan | Lemma: sa_pagitan | lopez_clement_s11_tags.txt | SN:27 | TN:5
+Word: sa_pagitan | Lemma: sa_pagitan | a56_238to240_tags.txt | SN:66 | TN:32
+Word: sa_palibot | Lemma: sa_libot | a56_204_tags.txt | SN:18 | TN:17
+Word: sa_paligid | Lemma: sa_paligid | a56_238to240_tags.txt | SN:65 | TN:24
+Word: sa_paligid | Lemma: sa_ligid | a56_253to258_tags.txt | SN:58 | TN:4
+Word: sa_paligid | Lemma: sa_ligid | a56_253to258_tags.txt | SN:100 | TN:19
+Word: sa_paligid | Lemma: sa_ligid | cua_bernice_s11_tags.txt | SN:74 | TN:12
+Word: sa_palipiran | Lemma: sa_lipad | a56_248_tags.txt | SN:11 | TN:16
+Word: sa_paloob | Lemma: sa_loob | a56_181to186_tags.txt | SN:31 | TN:30
+Word: sa_pugad | Lemma: sa_pugad | cua_bernice_s11_tags.txt | SN:72 | TN:8
+Word: sa_pulo | Lemma: sa_pulo | a56_249_tags.txt | SN:18 | TN:14
+Word: sa_pulong | Lemma: sa_pulo | a56_253to258_tags.txt | SN:47 | TN:20
+Word: sa_purok | Lemma: sa_purok | a56_251_tags.txt | SN:23 | TN:14
+Word: sa_taas | Lemma: sa_taas | a56_204_tags.txt | SN:16 | TN:11
+Word: sa_tabi | Lemma: sa_tabi | a56_225_tags.txt | SN:35 | TN:18
+Word: sa_tabi | Lemma: sa_tabi | a56_227_tags.txt | SN:23 | TN:9
+Word: sa_tabi | Lemma: sa_tabi | a56_249_tags.txt | SN:4 | TN:30
+Word: sa_tabi | Lemma: sa_tabi | a56_249_tags.txt | SN:14 | TN:12
+Word: sa_tabing_dagat | Lemma: sa_tabi_dagat | a56_225_tags.txt | SN:23 | TN:11
+Word: sa_tabing_dagat | Lemma: sa_tabing_dagat | cua_bernice_s11_tags.txt | SN:17 | TN:2
+Word: sa_teritoryo | Lemma: sa_teritoryo | a56_193to197_tags.txt | SN:27 | TN:21
+Word: sa_timog | Lemma: sa_timog | a56_249_tags.txt | SN:16 | TN:22
+Word: sa_timog-silangan | Lemma: sa_timog-silangan | a56_214_tags.txt | SN:34 | TN:5
+Word: sa_timog_silangan | Lemma: sa_timog_silangan | a56_213_tags.txt | SN:17 | TN:35
+Word: taga-Oamaru | Lemma: Oamaru | a56_198_tags.txt | SN:26 | TN:25

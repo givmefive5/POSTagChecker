@@ -1,2 +1,2 @@
 POS Tag: JJCS_JJD_NNC
-pinakamalaking | a56_263_tags.txt | SN:14 | TN:20
+Word: pinakamalaking | Lemma: malaki | a56_263_tags.txt | SN:14 | TN:20

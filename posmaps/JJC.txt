@@ -1,34 +1,124 @@
 POS Tag: JJC
-pareho | a56_181to186_tags.txt | SN:55 | TN:11
-katulad | a56_247_tags.txt | SN:13 | TN:21
-parehas | a56_181to186_tags.txt | SN:102 | TN:4
-katugma_ng | a56_253to258_tags.txt | SN:46 | TN:19
-kasing | cua_bernice_s11_tags.txt | SN:2 | TN:26
-gaya_ng | a56_223_tags.txt | SN:23 | TN:9
-kagaya_ng | a56_181to186_tags.txt | SN:34 | TN:32
-kaysa_sa | a56_181to186_tags.txt | SN:109 | TN:21
-lalo | a56_198_tags.txt | SN:7 | TN:6
-kesa_sa | a56_253to258_tags.txt | SN:61 | TN:9
-Kumpara_sa | cua_bernice_s11_tags.txt | SN:45 | TN:0
-organisasyon | lopez_clement_s11_tags.txt | SN:63 | TN:40
-mas | a56_251_tags.txt | SN:9 | TN:5
-katumbas_ng | a56_193to197_tags.txt | SN:94 | TN:17
-kaugnay_sa | a56_213_tags.txt | SN:2 | TN:9
-kaysa | a56_253to258_tags.txt | SN:131 | TN:24
-tuyo | a56_264_tags.txt | SN:31 | TN:30
-kasintindi | a56_181to186_tags.txt | SN:13 | TN:9
-kagaya | a56_193to197_tags.txt | SN:2 | TN:12
-kumpara_sa | a56_181to186_tags.txt | SN:108 | TN:18
-Tulad_ng | a56_260_tags.txt | SN:15 | TN:0
-katulad_sa | a56_260_tags.txt | SN:19 | TN:20
-pare-parehong | a56_193to197_tags.txt | SN:94 | TN:12
-kaugnay_ng | a56_181to186_tags.txt | SN:104 | TN:20
-Magparis | a56_251_tags.txt | SN:8 | TN:0
-Katulad | lopez_clement_s11_tags.txt | SN:45 | TN:0
-kaparis | a56_213_tags.txt | SN:41 | TN:29
-katumbas | cua_bernice_s11_tags.txt | SN:108 | TN:20
-katulad_ng | a56_181to186_tags.txt | SN:137 | TN:20
-Tulad_sa | cua_bernice_s11_tags.txt | SN:32 | TN:0
-kawangis | a56_259_tags.txt | SN:10 | TN:6
-tulad | a56_225_tags.txt | SN:26 | TN:26
-tulad_ng | a56_181to186_tags.txt | SN:36 | TN:19
+Word: Katulad | Lemma: Katulad | lopez_clement_s11_tags.txt | SN:45 | TN:0
+Word: Katulad | Lemma: tulad | lopez_clement_s11_tags.txt | SN:50 | TN:0
+Word: Kumpara_sa | Lemma: Kumpara_sa | cua_bernice_s11_tags.txt | SN:45 | TN:0
+Word: Magparis | Lemma: paris | a56_251_tags.txt | SN:8 | TN:0
+Word: Tulad_ng | Lemma: Tulad_ng | a56_260_tags.txt | SN:15 | TN:0
+Word: Tulad_sa | Lemma: Tulad_sa | cua_bernice_s11_tags.txt | SN:32 | TN:0
+Word: gaya_ng | Lemma: gaya_ng | a56_223_tags.txt | SN:23 | TN:9
+Word: gaya_ng | Lemma: gaya_ng | lopez_clement_s11_tags.txt | SN:65 | TN:18
+Word: kagaya | Lemma: gaya | a56_193to197_tags.txt | SN:2 | TN:12
+Word: kagaya | Lemma: gaya | a56_261_tags.txt | SN:4 | TN:21
+Word: kagaya_ng | Lemma: kagaya_ng | a56_181to186_tags.txt | SN:96 | TN:64
+Word: kagaya_ng | Lemma: gaya_ng | a56_181to186_tags.txt | SN:34 | TN:32
+Word: kagaya_ng | Lemma: gaya_ng | a56_235to237_tags.txt | SN:7 | TN:26
+Word: kagaya_ng | Lemma: gaya_ng | a56_249_tags.txt | SN:15 | TN:18
+Word: kagaya_ng | Lemma: gaya_ng | a56_260_tags.txt | SN:19 | TN:23
+Word: kagaya_ng | Lemma: gaya_ng | a56_263_tags.txt | SN:20 | TN:14
+Word: kaparis | Lemma: paris | a56_213_tags.txt | SN:41 | TN:29
+Word: kasing | Lemma: kasing | cua_bernice_s11_tags.txt | SN:2 | TN:26
+Word: kasing | Lemma: kasing | cua_bernice_s11_tags.txt | SN:7 | TN:10
+Word: kasintindi | Lemma: tindi | a56_181to186_tags.txt | SN:13 | TN:9
+Word: katugma_ng | Lemma: tugma_ng | a56_253to258_tags.txt | SN:46 | TN:19
+Word: katulad | Lemma: tulad | a56_247_tags.txt | SN:13 | TN:21
+Word: katulad | Lemma: tulad | a56_247_tags.txt | SN:17 | TN:16
+Word: katulad | Lemma: tulad | a56_251_tags.txt | SN:24 | TN:23
+Word: katulad | Lemma: tulad | a56_253to258_tags.txt | SN:138 | TN:1
+Word: katulad | Lemma: tulad | lopez_clement_s11_tags.txt | SN:4 | TN:29
+Word: katulad_ng | Lemma: tulad_ng | a56_238to240_tags.txt | SN:22 | TN:37
+Word: katulad_ng | Lemma: tulad_ng | a56_181to186_tags.txt | SN:137 | TN:20
+Word: katulad_ng | Lemma: tulad_ng | a56_249_tags.txt | SN:7 | TN:17
+Word: katulad_ng | Lemma: tulad_ng | a56_251_tags.txt | SN:2 | TN:13
+Word: katulad_ng | Lemma: tulad_ng | a56_248_tags.txt | SN:28 | TN:20
+Word: katulad_ng | Lemma: tulad_ng | a56_200_tags.txt | SN:10 | TN:40
+Word: katulad_ng | Lemma: tulad_ng | a56_211_tags.txt | SN:1 | TN:49
+Word: katulad_ng | Lemma: tulad_ng | a56_247_tags.txt | SN:10 | TN:30
+Word: katulad_ng | Lemma: tulad_ng | a56_247_tags.txt | SN:14 | TN:13
+Word: katulad_ng | Lemma: tulad_ng | a56_247_tags.txt | SN:19 | TN:28
+Word: katulad_ng | Lemma: tulad_ng | a56_253to258_tags.txt | SN:41 | TN:16
+Word: katulad_ng | Lemma: tulad_ng | lopez_clement_s11_tags.txt | SN:3 | TN:12
+Word: katulad_ng | Lemma: tulad_ng | a56_247_tags.txt | SN:31 | TN:5
+Word: katulad_ng | Lemma: tulad_ng | a56_251_tags.txt | SN:10 | TN:10
+Word: katulad_ng | Lemma: tulad_ng | a56_253to258_tags.txt | SN:46 | TN:16
+Word: katulad_ng | Lemma: tulad_ng | a56_251_tags.txt | SN:6 | TN:18
+Word: katulad_ng | Lemma: tulad_ng | a56_248_tags.txt | SN:4 | TN:36
+Word: katulad_ng | Lemma: tulad_ng | a56_250_tags.txt | SN:7 | TN:16
+Word: katulad_sa | Lemma: tulad_sa | a56_260_tags.txt | SN:19 | TN:20
+Word: katumbas | Lemma: tumbas | cua_bernice_s11_tags.txt | SN:108 | TN:20
+Word: katumbas_ng | Lemma: tumbas_ng | a56_193to197_tags.txt | SN:94 | TN:17
+Word: katumbas_ng | Lemma: tumbas_ng | cua_bernice_s11_tags.txt | SN:22 | TN:9
+Word: kaugnay_ng | Lemma: ugnay_ng | a56_181to186_tags.txt | SN:104 | TN:20
+Word: kaugnay_sa | Lemma: ugnay_sa | a56_213_tags.txt | SN:2 | TN:9
+Word: kawangis | Lemma: wangis | a56_259_tags.txt | SN:10 | TN:6
+Word: kawangis | Lemma: wangis | a56_259_tags.txt | SN:10 | TN:26
+Word: kaysa | Lemma: kaysa | a56_253to258_tags.txt | SN:131 | TN:24
+Word: kaysa | Lemma: kaysa | a56_253to258_tags.txt | SN:133 | TN:12
+Word: kaysa_sa | Lemma: kaysa_sa | a56_181to186_tags.txt | SN:109 | TN:21
+Word: kaysa_sa | Lemma: kaysa_sa | a56_213_tags.txt | SN:15 | TN:25
+Word: kaysa_sa | Lemma: kaysa_sa | a56_181to186_tags.txt | SN:145 | TN:8
+Word: kaysa_sa | Lemma: kaysa_sa | a56_253to258_tags.txt | SN:106 | TN:8
+Word: kaysa_sa | Lemma: kaysa_sa | a56_193to197_tags.txt | SN:44 | TN:32
+Word: kaysa_sa | Lemma: kaysa_sa | a56_260_tags.txt | SN:5 | TN:24
+Word: kaysa_sa | Lemma: kaysa_sa | cua_bernice_s11_tags.txt | SN:79 | TN:5
+Word: kaysa_sa | Lemma: kaysa_sa | cua_bernice_s11_tags.txt | SN:46 | TN:10
+Word: kaysa_sa | Lemma: kaysa_sa | cua_bernice_s11_tags.txt | SN:87 | TN:10
+Word: kaysa_sa | Lemma: kaysa_sa | a56_193to197_tags.txt | SN:81 | TN:27
+Word: kaysa_sa | Lemma: kaysa_sa | a56_260_tags.txt | SN:18 | TN:7
+Word: kaysa_sa | Lemma: kaysa_sa | a56_214_tags.txt | SN:18 | TN:5
+Word: kaysa_sa | Lemma: kaysa_sa | a56_204_tags.txt | SN:5 | TN:44
+Word: kaysa_sa | Lemma: kaysa_sa | a56_214_tags.txt | SN:20 | TN:39
+Word: kaysa_sa | Lemma: kaysa_sa | a56_260_tags.txt | SN:20 | TN:21
+Word: kaysa_sa | Lemma: kaysa_sa | a56_238to240_tags.txt | SN:67 | TN:23
+Word: kaysa_sa | Lemma: kaysa_sa | a56_259_tags.txt | SN:11 | TN:29
+Word: kaysa_sa | Lemma: kaysa_sa | cua_bernice_s11_tags.txt | SN:21 | TN:32
+Word: kesa_sa | Lemma: kesa_sa | a56_253to258_tags.txt | SN:61 | TN:9
+Word: kumpara_sa | Lemma: kumpara_sa | a56_181to186_tags.txt | SN:108 | TN:18
+Word: kumpara_sa | Lemma: kumpara_sa | a56_181to186_tags.txt | SN:116 | TN:14
+Word: kumpara_sa | Lemma: kumpara_sa | a56_213_tags.txt | SN:51 | TN:18
+Word: kumpara_sa | Lemma: kumpara_sa | a56_253to258_tags.txt | SN:2 | TN:4
+Word: kumpara_sa | Lemma: kumpara_sa | lopez_clement_s11_tags.txt | SN:52 | TN:29
+Word: kumpara_sa | Lemma: kumpara_sa | lopez_clement_s11_tags.txt | SN:76 | TN:37
+Word: lalo | Lemma: lalo | a56_198_tags.txt | SN:7 | TN:6
+Word: lalo | Lemma: lalo | a56_260_tags.txt | SN:13 | TN:14
+Word: mas | Lemma: mas | a56_251_tags.txt | SN:9 | TN:5
+Word: organisasyon | Lemma: organisasyon | lopez_clement_s11_tags.txt | SN:63 | TN:40
+Word: pare-parehong | Lemma: pareho | a56_193to197_tags.txt | SN:94 | TN:12
+Word: parehas | Lemma: parehas | a56_181to186_tags.txt | SN:102 | TN:4
+Word: parehas | Lemma: parehas | a56_181to186_tags.txt | SN:115 | TN:5
+Word: pareho | Lemma: pareho | a56_181to186_tags.txt | SN:55 | TN:11
+Word: tulad | Lemma: tulad | a56_225_tags.txt | SN:26 | TN:26
+Word: tulad | Lemma: tulad | a56_228_tags.txt | SN:17 | TN:34
+Word: tulad | Lemma: tulad | lopez_clement_s11_tags.txt | SN:63 | TN:26
+Word: tulad_ng | Lemma: tulad_ng | a56_181to186_tags.txt | SN:142 | TN:14
+Word: tulad_ng | Lemma: tulad_ng | a56_181to186_tags.txt | SN:72 | TN:26
+Word: tulad_ng | Lemma: tulad_ng | a56_181to186_tags.txt | SN:36 | TN:19
+Word: tulad_ng | Lemma: tulad_ng | lopez_clement_s11_tags.txt | SN:65 | TN:27
+Word: tulad_ng | Lemma: tulad_ng | a56_264_tags.txt | SN:32 | TN:16
+Word: tulad_ng | Lemma: tulad_ng | lopez_clement_s11_tags.txt | SN:76 | TN:45
+Word: tulad_ng | Lemma: tulad_ng | a56_181to186_tags.txt | SN:139 | TN:13
+Word: tulad_ng | Lemma: tulad_ng | a56_223_tags.txt | SN:7 | TN:15
+Word: tulad_ng | Lemma: tulad_ng | a56_193to197_tags.txt | SN:36 | TN:38
+Word: tulad_ng | Lemma: tulad_ng | a56_193to197_tags.txt | SN:73 | TN:12
+Word: tulad_ng | Lemma: tulad_ng | a56_260_tags.txt | SN:12 | TN:16
+Word: tulad_ng | Lemma: tulad_ng | a56_253to258_tags.txt | SN:80 | TN:7
+Word: tulad_ng | Lemma: tulad_ng | lopez_clement_s11_tags.txt | SN:71 | TN:16
+Word: tulad_ng | Lemma: tulad_ng | a56_198_tags.txt | SN:39 | TN:5
+Word: tulad_ng | Lemma: tulad_ng | a56_223_tags.txt | SN:10 | TN:7
+Word: tulad_ng | Lemma: tulad_ng | lopez_clement_s11_tags.txt | SN:31 | TN:10
+Word: tulad_ng | Lemma: tulad_ng | a56_193to197_tags.txt | SN:97 | TN:42
+Word: tulad_ng | Lemma: tulad_ng | a56_198_tags.txt | SN:12 | TN:9
+Word: tulad_ng | Lemma: tulad_ng | a56_253to258_tags.txt | SN:86 | TN:5
+Word: tulad_ng | Lemma: tulad_ng | cua_bernice_s11_tags.txt | SN:23 | TN:16
+Word: tulad_ng | Lemma: tulad_ng | cua_bernice_s11_tags.txt | SN:99 | TN:8
+Word: tulad_ng | Lemma: tulad_ng | a56_193to197_tags.txt | SN:83 | TN:20
+Word: tulad_ng | Lemma: tulad_ng | cua_bernice_s11_tags.txt | SN:88 | TN:17
+Word: tulad_ng | Lemma: tulad_ng | a56_226_tags.txt | SN:28 | TN:14
+Word: tulad_ng | Lemma: tulad_ng | a56_253to258_tags.txt | SN:73 | TN:70
+Word: tulad_ng | Lemma: tulad_ng | a56_193to197_tags.txt | SN:92 | TN:27
+Word: tulad_ng | Lemma: tulad_ng | a56_193to197_tags.txt | SN:97 | TN:35
+Word: tulad_ng | Lemma: tulad_ng | cua_bernice_s11_tags.txt | SN:31 | TN:5
+Word: tulad_ng | Lemma: tulad_ng | a56_238to240_tags.txt | SN:28 | TN:6
+Word: tulad_ng | Lemma: tulad_ng | a56_253to258_tags.txt | SN:33 | TN:7
+Word: tulad_ng | Lemma: tulad_ng | a56_200_tags.txt | SN:14 | TN:16
+Word: tulad_ng | Lemma: tulad_ng | a56_223_tags.txt | SN:12 | TN:30
+Word: tuyo | Lemma: tuyo | a56_264_tags.txt | SN:31 | TN:30

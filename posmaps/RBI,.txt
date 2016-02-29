@@ -1,2 +1,2 @@
 POS Tag: RBI,
-man, | a56_264_tags.txt | SN:8 | TN:2
+Word: man, | Lemma: man, | a56_264_tags.txt | SN:8 | TN:2

@@ -1,40 +1,60 @@
 POS Tag: JJCS_JJD
-pinakamabilis | a56_253to258_tags.txt | SN:106 | TN:19
-pinakamalamig | a56_264_tags.txt | SN:27 | TN:18
-napaka”paulistanos” | a56_247_tags.txt | SN:4 | TN:3
-pinakahuli | a56_253to258_tags.txt | SN:61 | TN:46
-pinakamainit | a56_264_tags.txt | SN:27 | TN:28
-pinakamatagumpay | a56_223_tags.txt | SN:1 | TN:34
-pinaka-kapansin-pansin | a56_235to237_tags.txt | SN:69 | TN:8
-Napakabihra | a56_253to258_tags.txt | SN:113 | TN:0
-Napakataas | a56_214_tags.txt | SN:45 | TN:0
-pinakanagustuhan | a56_238to240_tags.txt | SN:3 | TN:33
-napakabigat | a56_259_tags.txt | SN:24 | TN:8
-pinakaliberal | a56_238to240_tags.txt | SN:22 | TN:32
-pinakamalaki | a56_204_tags.txt | SN:4 | TN:17
-pinakapersonal | a56_238to240_tags.txt | SN:14 | TN:5
-pinakasagad | a56_214_tags.txt | SN:20 | TN:45
-pinakamalulupit | a56_235to237_tags.txt | SN:38 | TN:18
-pinaka-laraniwang | a56_253to258_tags.txt | SN:73 | TN:57
-napakalaki | a56_214_tags.txt | SN:45 | TN:4
-pinakamalapit | a56_227_tags.txt | SN:21 | TN:41
-pinaka-karaniwan | a56_253to258_tags.txt | SN:56 | TN:30
-pinakamahusay | a56_224_tags.txt | SN:20 | TN:7
-pinakamataas | a56_200_tags.txt | SN:32 | TN:7
-pinakamaganda | a56_198_tags.txt | SN:24 | TN:2
-pinakamayaman | a56_251_tags.txt | SN:7 | TN:3
-pinakamatatag | a56_224_tags.txt | SN:13 | TN:11
-pinakabago | a56_252_tags.txt | SN:16 | TN:11
-pinakamalala | a56_248_tags.txt | SN:25 | TN:7
-pinakakilala | a56_250_tags.txt | SN:17 | TN:18
-pinakasikat | a56_223_tags.txt | SN:5 | TN:28
-pinakamahal | a56_249_tags.txt | SN:7 | TN:24
-pinakamagaling | a56_223_tags.txt | SN:8 | TN:10
-napakahalaga | a56_260_tags.txt | SN:15 | TN:10
-pinakamahina | a56_181to186_tags.txt | SN:22 | TN:26
-pinakapopular | a56_235to237_tags.txt | SN:17 | TN:34
-pinakamahalagang | a56_238to240_tags.txt | SN:50 | TN:4
-pinakamababa | a56_249_tags.txt | SN:10 | TN:4
-pinakamalaking | a56_204_tags.txt | SN:4 | TN:9
-sa_pamamamagitan_ | a56_252_tags.txt | SN:17 | TN:11
-pinakamatayog | a56_213_tags.txt | SN:6 | TN:17
+Word: Napakabihra | Lemma: bihra | a56_253to258_tags.txt | SN:113 | TN:0
+Word: Napakataas | Lemma: taas | a56_214_tags.txt | SN:45 | TN:0
+Word: napakabigat | Lemma: bigat | a56_259_tags.txt | SN:24 | TN:8
+Word: napakahalaga | Lemma: halaga | a56_260_tags.txt | SN:15 | TN:10
+Word: napakalaki | Lemma: laki | a56_214_tags.txt | SN:45 | TN:4
+Word: napaka”paulistanos” | Lemma: ”paulistanos” | a56_247_tags.txt | SN:4 | TN:3
+Word: pinaka-kapansin-pansin | Lemma: pansin | a56_235to237_tags.txt | SN:69 | TN:8
+Word: pinaka-kapansin-pansin | Lemma: pansin | a56_253to258_tags.txt | SN:159 | TN:22
+Word: pinaka-karaniwan | Lemma: karaniwan | a56_253to258_tags.txt | SN:56 | TN:30
+Word: pinaka-laraniwang | Lemma: karaniwan | a56_253to258_tags.txt | SN:73 | TN:57
+Word: pinakabago | Lemma: bago | a56_252_tags.txt | SN:16 | TN:11
+Word: pinakahuli | Lemma: huli | a56_253to258_tags.txt | SN:61 | TN:46
+Word: pinakakilala | Lemma: kilala | a56_250_tags.txt | SN:17 | TN:18
+Word: pinakaliberal | Lemma: liberal | a56_238to240_tags.txt | SN:22 | TN:32
+Word: pinakamababa | Lemma: baba | a56_249_tags.txt | SN:10 | TN:4
+Word: pinakamababa | Lemma: baba | a56_249_tags.txt | SN:25 | TN:18
+Word: pinakamabilis | Lemma: pinakamabilis | a56_253to258_tags.txt | SN:106 | TN:19
+Word: pinakamagaling | Lemma: galing | a56_223_tags.txt | SN:8 | TN:10
+Word: pinakamagaling | Lemma: galing | a56_247_tags.txt | SN:20 | TN:8
+Word: pinakamagaling | Lemma: galing | a56_250_tags.txt | SN:14 | TN:10
+Word: pinakamaganda | Lemma: ganda | a56_198_tags.txt | SN:24 | TN:2
+Word: pinakamahal | Lemma: mahal | a56_249_tags.txt | SN:7 | TN:24
+Word: pinakamahalagang | Lemma: halaga | a56_238to240_tags.txt | SN:50 | TN:4
+Word: pinakamahina | Lemma: hina | a56_181to186_tags.txt | SN:22 | TN:26
+Word: pinakamahusay | Lemma: husay | a56_224_tags.txt | SN:20 | TN:7
+Word: pinakamahusay | Lemma: husay | a56_260_tags.txt | SN:17 | TN:33
+Word: pinakamahusay | Lemma: husay | lopez_clement_s11_tags.txt | SN:49 | TN:36
+Word: pinakamainit | Lemma: init | a56_264_tags.txt | SN:27 | TN:28
+Word: pinakamalaki | Lemma: laki | a56_204_tags.txt | SN:4 | TN:17
+Word: pinakamalaki | Lemma: laki | a56_204_tags.txt | SN:11 | TN:14
+Word: pinakamalaki | Lemma: laki | a56_251_tags.txt | SN:18 | TN:1
+Word: pinakamalaking | Lemma: laki | a56_204_tags.txt | SN:4 | TN:9
+Word: pinakamalaking | Lemma: laki | a56_204_tags.txt | SN:5 | TN:4
+Word: pinakamalaking | Lemma: laki | a56_248_tags.txt | SN:2 | TN:17
+Word: pinakamalaking | Lemma: laki | a56_248_tags.txt | SN:6 | TN:25
+Word: pinakamalala | Lemma: lala | a56_248_tags.txt | SN:25 | TN:7
+Word: pinakamalamig | Lemma: malamig | a56_264_tags.txt | SN:27 | TN:18
+Word: pinakamalapit | Lemma: lapit | a56_227_tags.txt | SN:21 | TN:41
+Word: pinakamalapit | Lemma: pinakamalapit | a56_253to258_tags.txt | SN:109 | TN:12
+Word: pinakamalapit | Lemma: lapit | cua_bernice_s11_tags.txt | SN:48 | TN:1
+Word: pinakamalulupit | Lemma: lupit | a56_235to237_tags.txt | SN:38 | TN:18
+Word: pinakamataas | Lemma: taas | a56_200_tags.txt | SN:32 | TN:7
+Word: pinakamataas | Lemma: taas | a56_214_tags.txt | SN:3 | TN:19
+Word: pinakamataas | Lemma: taas | a56_224_tags.txt | SN:28 | TN:24
+Word: pinakamataas | Lemma: taas | a56_249_tags.txt | SN:9 | TN:12
+Word: pinakamataas | Lemma: taas | a56_249_tags.txt | SN:25 | TN:4
+Word: pinakamataas | Lemma: taas | a56_253to258_tags.txt | SN:7 | TN:7
+Word: pinakamataas | Lemma: taas | a56_263_tags.txt | SN:17 | TN:40
+Word: pinakamatagumpay | Lemma: tagumpay | a56_223_tags.txt | SN:1 | TN:34
+Word: pinakamatagumpay | Lemma: tagumpay | a56_235to237_tags.txt | SN:50 | TN:6
+Word: pinakamatatag | Lemma: tatag | a56_224_tags.txt | SN:13 | TN:11
+Word: pinakamatayog | Lemma: tayog | a56_213_tags.txt | SN:6 | TN:17
+Word: pinakamayaman | Lemma: yaman | a56_251_tags.txt | SN:7 | TN:3
+Word: pinakanagustuhan | Lemma: gusto | a56_238to240_tags.txt | SN:3 | TN:33
+Word: pinakapersonal | Lemma: personal | a56_238to240_tags.txt | SN:14 | TN:5
+Word: pinakapopular | Lemma: popular | a56_235to237_tags.txt | SN:17 | TN:34
+Word: pinakasagad | Lemma: sagad | a56_214_tags.txt | SN:20 | TN:45
+Word: pinakasikat | Lemma: sikat | a56_223_tags.txt | SN:5 | TN:28
+Word: sa_pamamamagitan_ | Lemma: sa_pamamamagitan_ | a56_252_tags.txt | SN:17 | TN:11

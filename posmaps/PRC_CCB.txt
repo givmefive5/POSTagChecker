@@ -1,2 +1,2 @@
 POS Tag: PRC_CCB
-ganoong | a56_238to240_tags.txt | SN:57 | TN:13
+Word: ganoong | Lemma: ganoon | a56_238to240_tags.txt | SN:57 | TN:13

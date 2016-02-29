@@ -1,3 +1,9 @@
 POS Tag: PRO_LM
-ito’y | a56_198_tags.txt | SN:23 | TN:9
-Ito’y | a56_198_tags.txt | SN:19 | TN:0
+Word: Ito’y | Lemma: Ito_ay | a56_198_tags.txt | SN:19 | TN:0
+Word: Ito’y | Lemma: Ito_ay | a56_204_tags.txt | SN:9 | TN:0
+Word: Ito’y | Lemma: Ito_ay | a56_211_tags.txt | SN:23 | TN:0
+Word: ito’y | Lemma: ito_ay | a56_198_tags.txt | SN:23 | TN:9
+Word: ito’y | Lemma: ito_ay | a56_200_tags.txt | SN:40 | TN:12
+Word: ito’y | Lemma: ito_ay | a56_200_tags.txt | SN:40 | TN:15
+Word: ito’y | Lemma: ito_ay | a56_204_tags.txt | SN:5 | TN:1
+Word: ito’y | Lemma: ito_ay | a56_204_tags.txt | SN:25 | TN:2

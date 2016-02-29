@@ -1,8 +1,8 @@
 POS Tag: VBTS_OF
-binawasan | a56_238to240_tags.txt | SN:68 | TN:5
-basahan | a56_227_tags.txt | SN:2 | TN:26
-hiniwalay | a56_181to186_tags.txt | SN:143 | TN:29
-Pinalawig | a56_235to237_tags.txt | SN:46 | TN:0
-dinaluhan | a56_238to240_tags.txt | SN:71 | TN:16
-tanggihan | a56_212_tags.txt | SN:7 | TN:21
-pangasiwaan | lopez_clement_s11_tags.txt | SN:38 | TN:14
+Word: Pinalawig | Lemma: lawig | a56_235to237_tags.txt | SN:46 | TN:0
+Word: basahan | Lemma: basa | a56_227_tags.txt | SN:2 | TN:26
+Word: binawasan | Lemma: bawas | a56_238to240_tags.txt | SN:68 | TN:5
+Word: dinaluhan | Lemma: dalo | a56_238to240_tags.txt | SN:71 | TN:16
+Word: hiniwalay | Lemma: hiwalay | a56_181to186_tags.txt | SN:143 | TN:29
+Word: pangasiwaan | Lemma: pangasiwa | lopez_clement_s11_tags.txt | SN:38 | TN:14
+Word: tanggihan | Lemma: tanggi | a56_212_tags.txt | SN:7 | TN:21

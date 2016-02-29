@@ -1,2 +1,2 @@
 POS Tag: RBDE
-tipikal | a56_238to240_tags.txt | SN:67 | TN:16
+Word: tipikal | Lemma: tipikal | a56_238to240_tags.txt | SN:67 | TN:16

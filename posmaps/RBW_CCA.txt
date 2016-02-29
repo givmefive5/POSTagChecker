@@ -1,2 +1,3 @@
 POS Tag: RBW_CCA
-hangga’t | a56_181to186_tags.txt | SN:142 | TN:40
+Word: hangga’t | Lemma: hanggang_at | a56_181to186_tags.txt | SN:142 | TN:40
+Word: hangga’t | Lemma: hanggang_at | a56_200_tags.txt | SN:3 | TN:19

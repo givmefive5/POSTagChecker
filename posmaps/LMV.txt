@@ -1,2 +1,2 @@
 POS Tag: LMV
-ay | a56_211_tags.txt | SN:25 | TN:2
+Word: ay | Lemma: ay | a56_211_tags.txt | SN:25 | TN:2

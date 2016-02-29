@@ -1,2 +1,2 @@
 POS Tag: VBTR_OF
-pangyayarihan | a56_252_tags.txt | SN:21 | TN:6
+Word: pangyayarihan | Lemma: pangyayari | a56_252_tags.txt | SN:21 | TN:6

@@ -1,3 +1,4 @@
 POS Tag: VB_TF_CCP
-mananatiling | a56_253to258_tags.txt | SN:130 | TN:1
-hayaang | a56_253to258_tags.txt | SN:62 | TN:9
+Word: hayaang | Lemma: hayaan | a56_253to258_tags.txt | SN:62 | TN:9
+Word: mananatiling | Lemma: mananatili | a56_253to258_tags.txt | SN:130 | TN:1
+Word: mananatiling | Lemma: mananatili | a56_253to258_tags.txt | SN:131 | TN:1

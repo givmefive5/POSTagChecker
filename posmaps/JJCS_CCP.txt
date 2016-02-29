@@ -1,6 +1,15 @@
 POS Tag: JJCS_CCP
-sukdulang | a56_213_tags.txt | SN:23 | TN:9
-lubhang | a56_253to258_tags.txt | SN:102 | TN:19
-pinakamalaking | lopez_clement_s11_tags.txt | SN:49 | TN:2
-napakaraming | a56_247_tags.txt | SN:15 | TN:33
-sobrang | a56_238to240_tags.txt | SN:73 | TN:18
+Word: lubhang | Lemma: lubha | a56_253to258_tags.txt | SN:102 | TN:19
+Word: napakaraming | Lemma: dami | a56_247_tags.txt | SN:15 | TN:33
+Word: pinakamalaking | Lemma: laki | lopez_clement_s11_tags.txt | SN:49 | TN:2
+Word: sobrang | Lemma: sobra | a56_238to240_tags.txt | SN:73 | TN:18
+Word: sukdulang | Lemma: sukdol | a56_213_tags.txt | SN:23 | TN:9
+Word: sukdulang | Lemma: sukdol | a56_253to258_tags.txt | SN:90 | TN:45
+Word: sukdulang | Lemma: sukdol | a56_253to258_tags.txt | SN:102 | TN:5
+Word: sukdulang | Lemma: sukdol | a56_253to258_tags.txt | SN:118 | TN:8
+Word: sukdulang | Lemma: sukdol | a56_253to258_tags.txt | SN:125 | TN:24
+Word: sukdulang | Lemma: sukdol | a56_253to258_tags.txt | SN:129 | TN:13
+Word: sukdulang | Lemma: sukdol | a56_253to258_tags.txt | SN:132 | TN:36
+Word: sukdulang | Lemma: sukdol | a56_253to258_tags.txt | SN:134 | TN:18
+Word: sukdulang | Lemma: sukdol | a56_253to258_tags.txt | SN:134 | TN:27
+Word: sukdulang | Lemma: sukdol | a56_264_tags.txt | SN:28 | TN:2

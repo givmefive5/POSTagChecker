@@ -1,9 +1,53 @@
 POS Tag: RBW_CCB
-kasalukuyang | a56_223_tags.txt | SN:8 | TN:9
-Kadalasang | lopez_clement_s11_tags.txt | SN:23 | TN:0
-noong | a56_193to197_tags.txt | SN:7 | TN:21
-kadalasang | lopez_clement_s11_tags.txt | SN:67 | TN:3
-Noong | a56_193to197_tags.txt | SN:90 | TN:0
-Palagiang | a56_225_tags.txt | SN:24 | TN:0
-nakaraang | a56_181to186_tags.txt | SN:15 | TN:1
-muling | a56_225_tags.txt | SN:35 | TN:16
+Word: Kadalasang | Lemma: dalas | lopez_clement_s11_tags.txt | SN:23 | TN:0
+Word: Noong | Lemma: Noon | a56_193to197_tags.txt | SN:90 | TN:0
+Word: Noong | Lemma: Noon | a56_212_tags.txt | SN:7 | TN:0
+Word: Noong | Lemma: Noon | a56_213_tags.txt | SN:35 | TN:0
+Word: Noong | Lemma: Noon | a56_223_tags.txt | SN:13 | TN:0
+Word: Noong | Lemma: Noon | a56_223_tags.txt | SN:20 | TN:0
+Word: Noong | Lemma: Noon | a56_227_tags.txt | SN:16 | TN:0
+Word: Noong | Lemma: Noon | a56_224_tags.txt | SN:31 | TN:0
+Word: Noong | Lemma: Noon | a56_225_tags.txt | SN:7 | TN:0
+Word: Noong | Lemma: Noon | a56_225_tags.txt | SN:35 | TN:0
+Word: Noong | Lemma: Noon | a56_228_tags.txt | SN:14 | TN:0
+Word: Noong | Lemma: Noon | a56_225_tags.txt | SN:9 | TN:0
+Word: Noong | Lemma: Noon | a56_228_tags.txt | SN:11 | TN:0
+Word: Noong | Lemma: Noon | a56_225_tags.txt | SN:25 | TN:0
+Word: Palagiang | Lemma: lagi | a56_225_tags.txt | SN:24 | TN:0
+Word: kadalasang | Lemma: dalas | lopez_clement_s11_tags.txt | SN:67 | TN:3
+Word: kasalukuyang | Lemma: kasalukuyan | a56_223_tags.txt | SN:8 | TN:9
+Word: muling | Lemma: muli | a56_225_tags.txt | SN:35 | TN:16
+Word: nakaraang | Lemma: daan | a56_181to186_tags.txt | SN:15 | TN:1
+Word: noong | Lemma: noon | a56_224_tags.txt | SN:22 | TN:9
+Word: noong | Lemma: noon | a56_212_tags.txt | SN:17 | TN:32
+Word: noong | Lemma: noon | a56_193to197_tags.txt | SN:7 | TN:21
+Word: noong | Lemma: noon | a56_213_tags.txt | SN:8 | TN:13
+Word: noong | Lemma: noon | a56_225_tags.txt | SN:25 | TN:20
+Word: noong | Lemma: noon | a56_235to237_tags.txt | SN:56 | TN:8
+Word: noong | Lemma: noon | a56_238to240_tags.txt | SN:12 | TN:3
+Word: noong | Lemma: noon | a56_238to240_tags.txt | SN:72 | TN:1
+Word: noong | Lemma: noon | a56_227_tags.txt | SN:8 | TN:11
+Word: noong | Lemma: noon | a56_224_tags.txt | SN:8 | TN:2
+Word: noong | Lemma: noon | a56_224_tags.txt | SN:11 | TN:2
+Word: noong | Lemma: noong | a56_228_tags.txt | SN:21 | TN:6
+Word: noong | Lemma: noon | a56_225_tags.txt | SN:33 | TN:15
+Word: noong | Lemma: noon | a56_225_tags.txt | SN:34 | TN:10
+Word: noong | Lemma: noon | a56_213_tags.txt | SN:39 | TN:1
+Word: noong | Lemma: noon | a56_214_tags.txt | SN:7 | TN:3
+Word: noong | Lemma: noon | a56_224_tags.txt | SN:18 | TN:1
+Word: noong | Lemma: noon | a56_225_tags.txt | SN:28 | TN:39
+Word: noong | Lemma: noon | a56_214_tags.txt | SN:10 | TN:3
+Word: noong | Lemma: noon | a56_224_tags.txt | SN:17 | TN:9
+Word: noong | Lemma: noon | a56_224_tags.txt | SN:19 | TN:15
+Word: noong | Lemma: noon | a56_225_tags.txt | SN:28 | TN:3
+Word: noong | Lemma: noon | a56_214_tags.txt | SN:20 | TN:9
+Word: noong | Lemma: noon | a56_228_tags.txt | SN:20 | TN:1
+Word: noong | Lemma: noon | a56_227_tags.txt | SN:8 | TN:21
+Word: noong | Lemma: noon | a56_223_tags.txt | SN:5 | TN:53
+Word: noong | Lemma: noon | a56_223_tags.txt | SN:11 | TN:8
+Word: noong | Lemma: noon | a56_223_tags.txt | SN:17 | TN:7
+Word: noong | Lemma: noon | a56_225_tags.txt | SN:22 | TN:3
+Word: noong | Lemma: noon | a56_225_tags.txt | SN:20 | TN:6
+Word: noong | Lemma: noon | a56_235to237_tags.txt | SN:57 | TN:17
+Word: noong | Lemma: noon | a56_235to237_tags.txt | SN:72 | TN:1
+Word: noong | Lemma: noon | a56_224_tags.txt | SN:7 | TN:10

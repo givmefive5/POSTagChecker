@@ -1,6 +1,6 @@
 POS Tag: JJD_CCB
-karagdagang | a56_223_tags.txt | SN:1 | TN:20
-parehong | a56_223_tags.txt | SN:1 | TN:48
-hilagang-silangang | a56_261_tags.txt | SN:25 | TN:10
-madaming | a56_253to258_tags.txt | SN:61 | TN:3
-buong | a56_228_tags.txt | SN:13 | TN:20
+Word: buong | Lemma: buo | a56_228_tags.txt | SN:13 | TN:20
+Word: hilagang-silangang | Lemma: hilaga-silangan | a56_261_tags.txt | SN:25 | TN:10
+Word: karagdagang | Lemma: dagdag | a56_223_tags.txt | SN:1 | TN:20
+Word: madaming | Lemma: dami | a56_253to258_tags.txt | SN:61 | TN:3
+Word: parehong | Lemma: pareho | a56_223_tags.txt | SN:1 | TN:48

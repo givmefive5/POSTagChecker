@@ -1,2 +1,2 @@
 POS Tag: JD
-haba | cua_bernice_s11_tags.txt | SN:7 | TN:11
+Word: haba | Lemma: haba | cua_bernice_s11_tags.txt | SN:7 | TN:11

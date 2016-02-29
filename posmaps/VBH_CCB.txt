@@ -1,3 +1,3 @@
 POS Tag: VBH_CCB
-mayroong | a56_227_tags.txt | SN:11 | TN:17
-Mayroong | a56_227_tags.txt | SN:4 | TN:0
+Word: Mayroong | Lemma: Mayroon | a56_227_tags.txt | SN:4 | TN:0
+Word: mayroong | Lemma: mayroon | a56_227_tags.txt | SN:11 | TN:17

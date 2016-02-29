@@ -1,10 +1,24 @@
 POS Tag: PRSP
-kanya | a56_193to197_tags.txt | SN:10 | TN:18
-akin | a56_227_tags.txt | SN:21 | TN:45
-kanilang | a56_212_tags.txt | SN:13 | TN:36
-kanila | a56_181to186_tags.txt | SN:120 | TN:25
-kaniya | a56_223_tags.txt | SN:5 | TN:57
-industriya | a56_238to240_tags.txt | SN:43 | TN:50
-Iyo | a56_214_tags.txt | SN:38 | TN:27
-iyo | a56_225_tags.txt | SN:24 | TN:22
-kanyang | a56_263_tags.txt | SN:10 | TN:20
+Word: Iyo | Lemma: Iyo | a56_214_tags.txt | SN:38 | TN:27
+Word: akin | Lemma: akin | a56_227_tags.txt | SN:21 | TN:45
+Word: industriya | Lemma: industriya | a56_238to240_tags.txt | SN:43 | TN:50
+Word: iyo | Lemma: iyo | a56_225_tags.txt | SN:24 | TN:22
+Word: kanila | Lemma: kanila | a56_181to186_tags.txt | SN:120 | TN:25
+Word: kanila | Lemma: kanila | a56_213_tags.txt | SN:17 | TN:7
+Word: kanila | Lemma: kanila | lopez_clement_s11_tags.txt | SN:43 | TN:23
+Word: kanilang | Lemma: kanila | a56_212_tags.txt | SN:13 | TN:36
+Word: kaniya | Lemma: kaniya | a56_223_tags.txt | SN:5 | TN:57
+Word: kanya | Lemma: kanya | a56_224_tags.txt | SN:24 | TN:31
+Word: kanya | Lemma: kanya | a56_193to197_tags.txt | SN:10 | TN:18
+Word: kanya | Lemma: kanya | a56_223_tags.txt | SN:8 | TN:16
+Word: kanya | Lemma: kanya | a56_223_tags.txt | SN:18 | TN:9
+Word: kanya | Lemma: kanya | a56_224_tags.txt | SN:17 | TN:21
+Word: kanya | Lemma: kanya | a56_224_tags.txt | SN:18 | TN:26
+Word: kanya | Lemma: kanya | a56_238to240_tags.txt | SN:5 | TN:12
+Word: kanya | Lemma: kanya | a56_224_tags.txt | SN:21 | TN:35
+Word: kanya | Lemma: kanya | a56_225_tags.txt | SN:10 | TN:8
+Word: kanya | Lemma: kanya | a56_238to240_tags.txt | SN:3 | TN:35
+Word: kanya | Lemma: kanya | a56_227_tags.txt | SN:18 | TN:18
+Word: kanya | Lemma: kanya | a56_228_tags.txt | SN:19 | TN:19
+Word: kanya | Lemma: kanya | a56_228_tags.txt | SN:12 | TN:6
+Word: kanyang | Lemma: kanya | a56_263_tags.txt | SN:10 | TN:20

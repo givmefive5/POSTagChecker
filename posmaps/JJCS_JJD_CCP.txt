@@ -1,25 +1,44 @@
 POS Tag: JJCS_JJD_CCP
-pinakakilalang | a56_253to258_tags.txt | SN:45 | TN:32
-pinakamagandang | a56_253to258_tags.txt | SN:39 | TN:4
-pinakakaraniwang | a56_181to186_tags.txt | SN:94 | TN:63
-napakayamang | a56_224_tags.txt | SN:9 | TN:4
-pinakauna-unahang | a56_238to240_tags.txt | SN:43 | TN:24
-pinakamaaagang | a56_253to258_tags.txt | SN:47 | TN:24
-pinakamadaming | a56_253to258_tags.txt | SN:29 | TN:5
-pinaka-magandang | a56_211_tags.txt | SN:19 | TN:40
-pinakaimportanteng | a56_226_tags.txt | SN:4 | TN:3
-pinakamaraming | a56_252_tags.txt | SN:19 | TN:12
-pinakunang | a56_235to237_tags.txt | SN:58 | TN:2
-pinakamatandang | a56_250_tags.txt | SN:10 | TN:8
-pinakahabang | cua_bernice_s11_tags.txt | SN:4 | TN:3
-pinakamadugong | a56_193to197_tags.txt | SN:4 | TN:10
-pinakakanlurang | a56_263_tags.txt | SN:2 | TN:3
-pinakamahalagang | a56_247_tags.txt | SN:17 | TN:3
-napakaimportanteng | a56_247_tags.txt | SN:19 | TN:1
-pinakamababang | a56_263_tags.txt | SN:17 | TN:16
-pinakamalaking | a56_204_tags.txt | SN:11 | TN:1
-pinakamaagang | a56_263_tags.txt | SN:5 | TN:4
-pinakamahabang | a56_224_tags.txt | SN:16 | TN:4
-pinakabagong | a56_227_tags.txt | SN:2 | TN:33
-napakalaking | a56_214_tags.txt | SN:24 | TN:11
-pinakarelihiyosong | a56_235to237_tags.txt | SN:13 | TN:8
+Word: napakaimportanteng | Lemma: importante | a56_247_tags.txt | SN:19 | TN:1
+Word: napakalaking | Lemma: laki | a56_214_tags.txt | SN:24 | TN:11
+Word: napakalaking | Lemma: laki | a56_223_tags.txt | SN:2 | TN:1
+Word: napakayamang | Lemma: yaman | a56_224_tags.txt | SN:9 | TN:4
+Word: pinaka-magandang | Lemma: ganda | a56_211_tags.txt | SN:19 | TN:40
+Word: pinakabagong | Lemma: bago | a56_227_tags.txt | SN:2 | TN:33
+Word: pinakabagong | Lemma: bago | a56_238to240_tags.txt | SN:4 | TN:28
+Word: pinakahabang | Lemma: haba | cua_bernice_s11_tags.txt | SN:4 | TN:3
+Word: pinakaimportanteng | Lemma: importante | a56_226_tags.txt | SN:4 | TN:3
+Word: pinakaimportanteng | Lemma: importante | a56_251_tags.txt | SN:28 | TN:1
+Word: pinakaimportanteng | Lemma: kaimportante | a56_252_tags.txt | SN:1 | TN:21
+Word: pinakakanlurang | Lemma: kanluran | a56_263_tags.txt | SN:2 | TN:3
+Word: pinakakaraniwang | Lemma: karaniwan | a56_181to186_tags.txt | SN:94 | TN:63
+Word: pinakakaraniwang | Lemma: karaniwan | lopez_clement_s11_tags.txt | SN:16 | TN:30
+Word: pinakakilalang | Lemma: kilala | a56_253to258_tags.txt | SN:45 | TN:32
+Word: pinakamaaagang | Lemma: aga | a56_253to258_tags.txt | SN:47 | TN:24
+Word: pinakamaagang | Lemma: aga | a56_263_tags.txt | SN:5 | TN:4
+Word: pinakamaagang | Lemma: aga | a56_263_tags.txt | SN:19 | TN:1
+Word: pinakamababang | Lemma: baba | a56_263_tags.txt | SN:17 | TN:16
+Word: pinakamadaming | Lemma: dami | a56_253to258_tags.txt | SN:29 | TN:5
+Word: pinakamadugong | Lemma: dugo | a56_193to197_tags.txt | SN:4 | TN:10
+Word: pinakamagandang | Lemma: ganda | a56_253to258_tags.txt | SN:39 | TN:4
+Word: pinakamahabang | Lemma: haba | a56_224_tags.txt | SN:16 | TN:4
+Word: pinakamahabang | Lemma: haba | a56_261_tags.txt | SN:17 | TN:17
+Word: pinakamahabang | Lemma: habang | cua_bernice_s11_tags.txt | SN:84 | TN:1
+Word: pinakamahalagang | Lemma: halaga | a56_247_tags.txt | SN:17 | TN:3
+Word: pinakamalaking | Lemma: laki | a56_250_tags.txt | SN:4 | TN:11
+Word: pinakamalaking | Lemma: laki | a56_204_tags.txt | SN:11 | TN:1
+Word: pinakamalaking | Lemma: laki | a56_250_tags.txt | SN:20 | TN:45
+Word: pinakamalaking | Lemma: laki | a56_253to258_tags.txt | SN:7 | TN:16
+Word: pinakamalaking | Lemma: laki | a56_253to258_tags.txt | SN:14 | TN:1
+Word: pinakamalaking | Lemma: laki | a56_261_tags.txt | SN:24 | TN:3
+Word: pinakamalaking | Lemma: laki | a56_261_tags.txt | SN:24 | TN:12
+Word: pinakamalaking | Lemma: laki | a56_261_tags.txt | SN:24 | TN:19
+Word: pinakamalaking | Lemma: laki | a56_264_tags.txt | SN:19 | TN:3
+Word: pinakamaraming | Lemma: dami | a56_252_tags.txt | SN:19 | TN:12
+Word: pinakamaraming | Lemma: dami | a56_259_tags.txt | SN:19 | TN:5
+Word: pinakamatandang | Lemma: tanda | a56_250_tags.txt | SN:10 | TN:8
+Word: pinakamatandang | Lemma: tanda | a56_252_tags.txt | SN:8 | TN:32
+Word: pinakamatandang | Lemma: tanda | a56_264_tags.txt | SN:4 | TN:5
+Word: pinakarelihiyosong | Lemma: relihiyoso | a56_235to237_tags.txt | SN:13 | TN:8
+Word: pinakauna-unahang | Lemma: una | a56_238to240_tags.txt | SN:43 | TN:24
+Word: pinakunang | Lemma: pinakunang | a56_235to237_tags.txt | SN:58 | TN:2

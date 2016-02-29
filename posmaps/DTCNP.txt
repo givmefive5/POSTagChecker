@@ -1,2 +1,2 @@
 POS Tag: DTCNP
-ng_mga | lopez_clement_s11_tags.txt | SN:62 | TN:1
+Word: ng_mga | Lemma: ng_mga | lopez_clement_s11_tags.txt | SN:62 | TN:1

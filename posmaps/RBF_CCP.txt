@@ -1,2 +1,6 @@
 POS Tag: RBF_CCP
-walang | a56_259_tags.txt | SN:12 | TN:3
+Word: walang | Lemma: wala | a56_259_tags.txt | SN:12 | TN:3
+Word: walang | Lemma: wala | a56_259_tags.txt | SN:13 | TN:11
+Word: walang | Lemma: wala | cua_bernice_s11_tags.txt | SN:16 | TN:16
+Word: walang | Lemma: wala | cua_bernice_s11_tags.txt | SN:107 | TN:13
+Word: walang | Lemma: wala | lopez_clement_s11_tags.txt | SN:18 | TN:14

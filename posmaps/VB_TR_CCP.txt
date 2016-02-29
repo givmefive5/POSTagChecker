@@ -1,5 +1,5 @@
 POS Tag: VB_TR_CCP
-hinihinging | lopez_clement_s11_tags.txt | SN:11 | TN:4
-pinagpipilitang | a56_225_tags.txt | SN:26 | TN:18
-nag-iisang | a56_224_tags.txt | SN:19 | TN:8
-nagsisimulang | a56_253to258_tags.txt | SN:87 | TN:21
+Word: hinihinging | Lemma: hingi | lopez_clement_s11_tags.txt | SN:11 | TN:4
+Word: nag-iisang | Lemma: isa | a56_224_tags.txt | SN:19 | TN:8
+Word: nagsisimulang | Lemma: mula | a56_253to258_tags.txt | SN:87 | TN:21
+Word: pinagpipilitang | Lemma: pilit | a56_225_tags.txt | SN:26 | TN:18

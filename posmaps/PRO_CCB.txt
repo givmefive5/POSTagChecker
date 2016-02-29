@@ -1,3 +1,5 @@
 POS Tag: PRO_CCB
-itong | a56_224_tags.txt | SN:2 | TN:1
-Itong | a56_238to240_tags.txt | SN:14 | TN:0
+Word: Itong | Lemma: Ito | a56_238to240_tags.txt | SN:14 | TN:0
+Word: itong | Lemma: ito | a56_224_tags.txt | SN:2 | TN:1
+Word: itong | Lemma: ito | a56_225_tags.txt | SN:14 | TN:38
+Word: itong | Lemma: ito | a56_235to237_tags.txt | SN:34 | TN:7

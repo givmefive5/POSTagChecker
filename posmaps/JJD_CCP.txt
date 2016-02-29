@@ -1,278 +1,657 @@
 POS Tag: JJD_CCP
-domestikong | a56_248_tags.txt | SN:17 | TN:37
-maling | a56_181to186_tags.txt | SN:11 | TN:19
-kalahating-inning | a56_253to258_tags.txt | SN:148 | TN:7
-dayuhang | a56_235to237_tags.txt | SN:7 | TN:21
-magkahalong | a56_235to237_tags.txt | SN:35 | TN:33
-mismong | a56_249_tags.txt | SN:13 | TN:7
-Karaniwang | a56_253to258_tags.txt | SN:81 | TN:0
-nakakahiyang | a56_193to197_tags.txt | SN:30 | TN:18
-konserbatibong | a56_181to186_tags.txt | SN:90 | TN:8
-napaagang | a56_224_tags.txt | SN:19 | TN:4
-importanteng | a56_198_tags.txt | SN:9 | TN:25
-iba’t_ibang | a56_181to186_tags.txt | SN:119 | TN:5
-dumedepensang | a56_253to258_tags.txt | SN:63 | TN:22
-Malawakang | a56_235to237_tags.txt | SN:6 | TN:0
-simpleng | a56_198_tags.txt | SN:8 | TN:1
-posibleng | a56_200_tags.txt | SN:4 | TN:7
-kahanga-hangang | a56_225_tags.txt | SN:15 | TN:9
-kabuluhang | a56_227_tags.txt | SN:22 | TN:12
-pangmagulang | a56_181to186_tags.txt | SN:139 | TN:23
-pampulitikang | a56_193to197_tags.txt | SN:36 | TN:35
-makasaysayang | a56_250_tags.txt | SN:1 | TN:21
-depensibong | a56_193to197_tags.txt | SN:3 | TN:16
-kadalasang | a56_181to186_tags.txt | SN:50 | TN:17
-maiksing | a56_181to186_tags.txt | SN:27 | TN:51
-pambansang | a56_198_tags.txt | SN:26 | TN:9
-iilang | a56_198_tags.txt | SN:12 | TN:7
-kalabang | a56_198_tags.txt | SN:29 | TN:1
-taunang | a56_227_tags.txt | SN:14 | TN:9
-Hilagang-silangang | a56_264_tags.txt | SN:26 | TN:6
-matinding | a56_181to186_tags.txt | SN:12 | TN:18
-pang-akademikong | lopez_clement_s11_tags.txt | SN:53 | TN:20
-iba’t-ibang | a56_181to186_tags.txt | SN:38 | TN:3
-marangyang | a56_251_tags.txt | SN:10 | TN:8
-nadagdagang | a56_259_tags.txt | SN:18 | TN:18
-entusiyastikong | a56_235to237_tags.txt | SN:53 | TN:1
-pabangong | a56_238to240_tags.txt | SN:42 | TN:8
-dakong | a56_213_tags.txt | SN:23 | TN:1
-libertaryong | a56_226_tags.txt | SN:21 | TN:8
-nag-iisang | a56_263_tags.txt | SN:25 | TN:40
-nakababatang | a56_226_tags.txt | SN:23 | TN:2
-paninirang | a56_225_tags.txt | SN:25 | TN:38
-diplomatikong | a56_264_tags.txt | SN:8 | TN:5
-eksaktong | a56_181to186_tags.txt | SN:118 | TN:16
-totalitaryong | a56_228_tags.txt | SN:5 | TN:35
-Mediteraneong | a56_264_tags.txt | SN:22 | TN:5
-publikong-pribadong | a56_248_tags.txt | SN:8 | TN:24
-bahagyang | a56_181to186_tags.txt | SN:20 | TN:7
-munting | a56_181to186_tags.txt | SN:74 | TN:25
-babang | a56_204_tags.txt | SN:14 | TN:9
-direktang | a56_181to186_tags.txt | SN:96 | TN:55
-masyadong | a56_193to197_tags.txt | SN:81 | TN:29
-pagtatangkang | a56_235to237_tags.txt | SN:38 | TN:6
-maadornong | a56_250_tags.txt | SN:9 | TN:27
-Tanging | a56_253to258_tags.txt | SN:112 | TN:0
-nangungunang | a56_226_tags.txt | SN:5 | TN:9
-mahinang | a56_181to186_tags.txt | SN:27 | TN:55
-lalaking | a56_227_tags.txt | SN:4 | TN:65
-sa | a56_260_tags.txt | SN:18 | TN:11
-prestihiyosong | a56_224_tags.txt | SN:17 | TN:41
-kasamang | a56_263_tags.txt | SN:12 | TN:14
-natititrang | a56_235to237_tags.txt | SN:1 | TN:31
-komunistang | a56_261_tags.txt | SN:17 | TN:20
-kasalukuyang | a56_253to258_tags.txt | SN:172 | TN:1
-solong | a56_253to258_tags.txt | SN:85 | TN:5
-kinikilalang | a56_261_tags.txt | SN:7 | TN:16
-mahahalagang | a56_228_tags.txt | SN:4 | TN:8
-natatanging | a56_253to258_tags.txt | SN:44 | TN:5
-dobleng | a56_181to186_tags.txt | SN:27 | TN:14
-pantaong | a56_181to186_tags.txt | SN:37 | TN:12
-babaeng | a56_227_tags.txt | SN:4 | TN:10
-mahabang | a56_181to186_tags.txt | SN:50 | TN:10
-modernong | a56_193to197_tags.txt | SN:75 | TN:12
-ispesipikong | lopez_clement_s11_tags.txt | SN:63 | TN:17
-magrasang | a56_198_tags.txt | SN:1 | TN:10
-natitirang | a56_249_tags.txt | SN:21 | TN:9
-espesyalisadong | lopez_clement_s11_tags.txt | SN:74 | TN:5
-magandang | a56_204_tags.txt | SN:7 | TN:12
-seryosong | a56_214_tags.txt | SN:12 | TN:11
-huwarang | a56_181to186_tags.txt | SN:26 | TN:6
-epektibong | a56_193to197_tags.txt | SN:22 | TN:27
-pampalakasang | a56_235to237_tags.txt | SN:49 | TN:32
-pamantayang | a56_260_tags.txt | SN:13 | TN:11
-mapanuring | a56_238to240_tags.txt | SN:18 | TN:23
-palakaibigang | a56_181to186_tags.txt | SN:8 | TN:68
-Mahalagang | a56_259_tags.txt | SN:23 | TN:0
-katimugang | a56_193to197_tags.txt | SN:52 | TN:12
-kauna-unahang | a56_193to197_tags.txt | SN:25 | TN:9
-pandayuhang | a56_235to237_tags.txt | SN:25 | TN:30
-anti-Semitikong | a56_228_tags.txt | SN:8 | TN:22
-kinatawang | a56_261_tags.txt | SN:1 | TN:10
-malalang | a56_214_tags.txt | SN:7 | TN:19
-kahuli-hulihang | a56_211_tags.txt | SN:31 | TN:3
-pang-isking | a56_227_tags.txt | SN:23 | TN:18
-gawang | a56_198_tags.txt | SN:24 | TN:10
-iisang | a56_238to240_tags.txt | SN:76 | TN:26
-karagdagang | a56_181to186_tags.txt | SN:103 | TN:1
-barkong | a56_213_tags.txt | SN:47 | TN:16
-kaparehong | a56_238to240_tags.txt | SN:67 | TN:45
-distritong | a56_261_tags.txt | SN:21 | TN:6
-malalaking | a56_200_tags.txt | SN:30 | TN:5
-mahahabang | a56_181to186_tags.txt | SN:140 | TN:4
-huling | a56_224_tags.txt | SN:1 | TN:2
-banyagang | a56_235to237_tags.txt | SN:44 | TN:6
-iluminadong | a56_193to197_tags.txt | SN:65 | TN:52
-Dating | a56_252_tags.txt | SN:9 | TN:0
-agresibong | a56_212_tags.txt | SN:37 | TN:41
-kumpletong | a56_253to258_tags.txt | SN:59 | TN:11
-spesipikong | a56_200_tags.txt | SN:12 | TN:3
-kilalang | a56_181to186_tags.txt | SN:126 | TN:19
-kapansin-pansing | a56_253to258_tags.txt | SN:73 | TN:65
-malawakang | a56_235to237_tags.txt | SN:7 | TN:38
-naghaharing | a56_263_tags.txt | SN:15 | TN:14
-madaming | a56_214_tags.txt | SN:14 | TN:10
-nakakalamang | a56_264_tags.txt | SN:17 | TN:9
-kumpanya | lopez_clement_s11_tags.txt | SN:50 | TN:9
-buong | a56_193to197_tags.txt | SN:96 | TN:17
-pulang | cua_bernice_s11_tags.txt | SN:7 | TN:7
-sambayanang | a56_261_tags.txt | SN:23 | TN:14
-malalayong | cua_bernice_s11_tags.txt | SN:26 | TN:8
-wastong | a56_181to186_tags.txt | SN:30 | TN:22
-dakilang | a56_226_tags.txt | SN:5 | TN:18
-madaling | a56_193to197_tags.txt | SN:97 | TN:2
-Pandaigdigang | a56_261_tags.txt | SN:2 | TN:0
-pribadong | a56_235to237_tags.txt | SN:16 | TN:18
-malaking | a56_181to186_tags.txt | SN:96 | TN:13
-binokulong | a56_193to197_tags.txt | SN:74 | TN:6
-eksklusibong | lopez_clement_s11_tags.txt | SN:15 | TN:10
-permanenteng | a56_235to237_tags.txt | SN:4 | TN:8
-kakaibang | a56_247_tags.txt | SN:29 | TN:10
-armadong | a56_263_tags.txt | SN:14 | TN:5
-dating | a56_198_tags.txt | SN:19 | TN:12
-pampublikong | a56_193to197_tags.txt | SN:21 | TN:15
-parliyamentayong | a56_261_tags.txt | SN:1 | TN:7
-inaasahang | lopez_clement_s11_tags.txt | SN:22 | TN:18
-luntiang | a56_253to258_tags.txt | SN:48 | TN:32
-pagkukunwaring | a56_212_tags.txt | SN:31 | TN:14
-madetalyeng | a56_238to240_tags.txt | SN:53 | TN:3
-panngunahing | a56_253to258_tags.txt | SN:124 | TN:35
-balanseng | a56_253to258_tags.txt | SN:1 | TN:1
-parehong | a56_253to258_tags.txt | SN:123 | TN:29
-hilagang | a56_235to237_tags.txt | SN:4 | TN:3
-makataong | a56_264_tags.txt | SN:10 | TN:30
-pangmasang | lopez_clement_s11_tags.txt | SN:74 | TN:18
-nakopyang | a56_181to186_tags.txt | SN:58 | TN:15
-higit-kumulang | a56_247_tags.txt | SN:30 | TN:1
-iskuwadrang | a56_214_tags.txt | SN:40 | TN:19
-timog-kanlurang | a56_249_tags.txt | SN:19 | TN:11
-seriosong | cua_bernice_s11_tags.txt | SN:66 | TN:5
-katamtamang | a56_181to186_tags.txt | SN:22 | TN:29
-namumunong | a56_259_tags.txt | SN:11 | TN:23
-kataas-taasang | a56_193to197_tags.txt | SN:53 | TN:13
-magkaparehong | cua_bernice_s11_tags.txt | SN:42 | TN:8
-magaling | a56_213_tags.txt | SN:39 | TN:16
-aktibong | a56_214_tags.txt | SN:26 | TN:6
-nakausling | a56_181to186_tags.txt | SN:31 | TN:57
-bulung-bulungang | a56_225_tags.txt | SN:19 | TN:10
-kanang | a56_253to258_tags.txt | SN:94 | TN:26
-biyolenteng | a56_253to258_tags.txt | SN:7 | TN:11
-agarang | a56_193to197_tags.txt | SN:7 | TN:30
-patingi-tinging | a56_238to240_tags.txt | SN:44 | TN:19
-mapanlikhang | a56_238to240_tags.txt | SN:22 | TN:22
-tanging | a56_193to197_tags.txt | SN:41 | TN:2
-makamundong | a56_193to197_tags.txt | SN:61 | TN:31
-katam-tamang | cua_bernice_s11_tags.txt | SN:28 | TN:4
-pangkaisipang | a56_181to186_tags.txt | SN:32 | TN:1
-malayong | a56_250_tags.txt | SN:10 | TN:13
-pampanguluhang | a56_226_tags.txt | SN:6 | TN:31
-komersiyong | a56_250_tags.txt | SN:20 | TN:31
-makabuluhang | a56_181to186_tags.txt | SN:52 | TN:1
-muling | a56_248_tags.txt | SN:30 | TN:14
-istandardisadong | lopez_clement_s11_tags.txt | SN:62 | TN:5
-Katam-tamang | cua_bernice_s11_tags.txt | SN:5 | TN:0
-napapanahong | a56_259_tags.txt | SN:28 | TN:32
-humigit-kumulang | a56_235to237_tags.txt | SN:2 | TN:12
-relihiyosong | a56_235to237_tags.txt | SN:69 | TN:5
-dalubhasang | a56_253to258_tags.txt | SN:158 | TN:1
-tamang | a56_193to197_tags.txt | SN:46 | TN:2
-nakikitang | a56_260_tags.txt | SN:11 | TN:28
-masayang | a56_211_tags.txt | SN:17 | TN:2
-minimong | a56_260_tags.txt | SN:2 | TN:35
-sapilitang | a56_238to240_tags.txt | SN:68 | TN:13
-awtomatikong | a56_253to258_tags.txt | SN:66 | TN:7
-detalyadong | cua_bernice_s11_tags.txt | SN:53 | TN:3
-kawili-wiling | lopez_clement_s11_tags.txt | SN:46 | TN:8
-mahinahong | a56_264_tags.txt | SN:27 | TN:8
-sekundaryang | a56_235to237_tags.txt | SN:16 | TN:8
-gintong | a56_252_tags.txt | SN:13 | TN:36
-karaniwang | a56_181to186_tags.txt | SN:29 | TN:19
-sibilisadong | a56_181to186_tags.txt | SN:10 | TN:17
-mababang | a56_181to186_tags.txt | SN:22 | TN:2
-pambihirang | a56_214_tags.txt | SN:43 | TN:18
-limitadong | a56_193to197_tags.txt | SN:51 | TN:10
-malaki-laking | a56_235to237_tags.txt | SN:10 | TN:20
-perpektong | a56_253to258_tags.txt | SN:137 | TN:16
-magkaibang | a56_238to240_tags.txt | SN:67 | TN:27
-aspaltadong | a56_235to237_tags.txt | SN:72 | TN:11
-katatagang | a56_263_tags.txt | SN:14 | TN:31
-pangkatawang | a56_181to186_tags.txt | SN:30 | TN:7
-genetikong | a56_181to186_tags.txt | SN:34 | TN:12
-matatandang | a56_181to186_tags.txt | SN:67 | TN:23
-mahalagang | a56_181to186_tags.txt | SN:13 | TN:15
-Timog-silangang | a56_264_tags.txt | SN:26 | TN:21
-nabuong | a56_247_tags.txt | SN:25 | TN:4
-batang | a56_253to258_tags.txt | SN:41 | TN:4
-lantarang | a56_225_tags.txt | SN:4 | TN:12
-kaliwang | a56_253to258_tags.txt | SN:73 | TN:35
-saradong | a56_200_tags.txt | SN:40 | TN:19
-independenteng | a56_238to240_tags.txt | SN:67 | TN:42
-mukhang | a56_253to258_tags.txt | SN:102 | TN:15
-kalakarang | a56_263_tags.txt | SN:17 | TN:42
-punong | a56_200_tags.txt | SN:18 | TN:12
-iba't_ibang | a56_253to258_tags.txt | SN:25 | TN:23
-bersatilong | a56_223_tags.txt | SN:7 | TN:2
-matandang | a56_250_tags.txt | SN:11 | TN:4
-mahihinang | a56_253to258_tags.txt | SN:158 | TN:4
-ibabang | a56_253to258_tags.txt | SN:149 | TN:16
-pandaigdigang | a56_227_tags.txt | SN:27 | TN:16
-reserbang | a56_261_tags.txt | SN:13 | TN:1
-kalahating | a56_226_tags.txt | SN:4 | TN:11
-magkabilang | a56_212_tags.txt | SN:19 | TN:2
-kaunting | a56_181to186_tags.txt | SN:119 | TN:24
-sariling | a56_212_tags.txt | SN:1 | TN:19
-klasikong | a56_223_tags.txt | SN:3 | TN:7
-baliktaring | a56_193to197_tags.txt | SN:67 | TN:18
-bihasang | a56_226_tags.txt | SN:24 | TN:2
-pampanitikang | a56_235to237_tags.txt | SN:56 | TN:2
-bagong | a56_181to186_tags.txt | SN:67 | TN:2
-pampamilyang | a56_238to240_tags.txt | SN:73 | TN:3
-sukdulang | a56_264_tags.txt | SN:26 | TN:1
-bihirang | a56_253to258_tags.txt | SN:73 | TN:82
-hilagang-kanluran | a56_249_tags.txt | SN:9 | TN:7
-katutubong | a56_181to186_tags.txt | SN:63 | TN:4
-ekspertong | a56_259_tags.txt | SN:13 | TN:6
-nagsasariling | a56_264_tags.txt | SN:19 | TN:27
-pangkaraniwang | a56_193to197_tags.txt | SN:28 | TN:52
-pangkalahatang | a56_260_tags.txt | SN:17 | TN:1
-pampulitikong | a56_225_tags.txt | SN:32 | TN:13
-paunang | a56_227_tags.txt | SN:4 | TN:61
-puting | a56_181to186_tags.txt | SN:31 | TN:79
-maraming | a56_253to258_tags.txt | SN:2 | TN:15
-lumang | a56_198_tags.txt | SN:15 | TN:4
-Puting | a56_228_tags.txt | SN:14 | TN:31
-pangkawang-gawang | a56_238to240_tags.txt | SN:45 | TN:6
-makalumang | a56_247_tags.txt | SN:1 | TN:6
-malay | a56_193to197_tags.txt | SN:47 | TN:22
-malayang | a56_212_tags.txt | SN:25 | TN:16
-makapangyarihang | a56_181to186_tags.txt | SN:3 | TN:26
-kanlurang | a56_261_tags.txt | SN:26 | TN:9
-masiglang | a56_264_tags.txt | SN:4 | TN:6
-masamang | a56_211_tags.txt | SN:5 | TN:20
-mandatoryong | a56_253to258_tags.txt | SN:70 | TN:12
-kilalang_kilala | a56_223_tags.txt | SN:9 | TN:10
-ibang | a56_247_tags.txt | SN:6 | TN:13
-alternatibong | a56_247_tags.txt | SN:15 | TN:1
-maliksing | a56_253to258_tags.txt | SN:84 | TN:47
-masalawahang | a56_193to197_tags.txt | SN:3 | TN:2
-naunang | a56_238to240_tags.txt | SN:10 | TN:7
-pangunahing | a56_181to186_tags.txt | SN:93 | TN:33
-panimulang | a56_213_tags.txt | SN:37 | TN:4
-katangi-tanging | a56_223_tags.txt | SN:9 | TN:25
-kamangha-manghang | a56_247_tags.txt | SN:8 | TN:22
-urbanong | a56_250_tags.txt | SN:16 | TN:11
-panghuling | lopez_clement_s11_tags.txt | SN:34 | TN:9
-malakihang | a56_235to237_tags.txt | SN:7 | TN:18
-tahasang | a56_235to237_tags.txt | SN:17 | TN:27
-magagandang | a56_214_tags.txt | SN:20 | TN:36
-pamamahalang | a56_264_tags.txt | SN:16 | TN:3
-socio-ekonomikong | a56_181to186_tags.txt | SN:99 | TN:18
-panlipunang | a56_181to186_tags.txt | SN:115 | TN:2
-maikling | a56_193to197_tags.txt | SN:7 | TN:5
-biktimang | cua_bernice_s11_tags.txt | SN:88 | TN:1
-maagang | a56_181to186_tags.txt | SN:46 | TN:24
-tuwirang | a56_227_tags.txt | SN:18 | TN:5
-naturalisadong | a56_224_tags.txt | SN:26 | TN:1
-pambatasang | a56_193to197_tags.txt | SN:47 | TN:18
-purong | a56_181to186_tags.txt | SN:35 | TN:26
-dagatang | cua_bernice_s11_tags.txt | SN:90 | TN:7
+Word: Dating | Lemma: Dati | a56_252_tags.txt | SN:9 | TN:0
+Word: Hilagang-silangang | Lemma: Hilaga-silangan | a56_264_tags.txt | SN:26 | TN:6
+Word: Karaniwang | Lemma: Karaniwan | a56_253to258_tags.txt | SN:81 | TN:0
+Word: Katam-tamang | Lemma: Katam-taman | cua_bernice_s11_tags.txt | SN:5 | TN:0
+Word: Mahalagang | Lemma: halaga | a56_259_tags.txt | SN:23 | TN:0
+Word: Malawakang | Lemma: lawak | a56_235to237_tags.txt | SN:6 | TN:0
+Word: Mediteraneong | Lemma: Mediteraneong | a56_264_tags.txt | SN:22 | TN:5
+Word: Mediteraneong | Lemma: Mediteraneong | a56_264_tags.txt | SN:32 | TN:14
+Word: Pandaigdigang | Lemma: daigdig | a56_261_tags.txt | SN:2 | TN:0
+Word: Puting | Lemma: Puti | a56_228_tags.txt | SN:14 | TN:31
+Word: Puting | Lemma: Puti | a56_228_tags.txt | SN:15 | TN:7
+Word: Tanging | Lemma: Tangi | a56_253to258_tags.txt | SN:112 | TN:0
+Word: Timog-silangang | Lemma: Timog-silangan | a56_264_tags.txt | SN:26 | TN:21
+Word: agarang | Lemma: agad | a56_193to197_tags.txt | SN:7 | TN:30
+Word: agarang | Lemma: agad | lopez_clement_s11_tags.txt | SN:41 | TN:47
+Word: agresibong | Lemma: agresibo | a56_212_tags.txt | SN:37 | TN:41
+Word: aktibong | Lemma: aktibo | a56_214_tags.txt | SN:26 | TN:6
+Word: aktibong | Lemma: aktibo | a56_223_tags.txt | SN:18 | TN:4
+Word: aktibong | Lemma: aktibo | a56_226_tags.txt | SN:10 | TN:2
+Word: aktibong | Lemma: aktibo | a56_250_tags.txt | SN:16 | TN:4
+Word: aktibong | Lemma: aktibo | a56_252_tags.txt | SN:8 | TN:33
+Word: aktibong | Lemma: aktibo | a56_253to258_tags.txt | SN:173 | TN:22
+Word: alternatibong | Lemma: alternatibo | a56_247_tags.txt | SN:15 | TN:1
+Word: alternatibong | Lemma: alternatibo | a56_247_tags.txt | SN:15 | TN:34
+Word: alternatibong | Lemma: alternatibo | lopez_clement_s11_tags.txt | SN:64 | TN:1
+Word: anti-Semitikong | Lemma: anti-Semitiko | a56_228_tags.txt | SN:8 | TN:22
+Word: armadong | Lemma: armado | a56_263_tags.txt | SN:14 | TN:5
+Word: armadong | Lemma: armado | a56_264_tags.txt | SN:9 | TN:1
+Word: aspaltadong | Lemma: aspaltado | a56_235to237_tags.txt | SN:72 | TN:11
+Word: aspaltadong | Lemma: aspaltado | a56_235to237_tags.txt | SN:72 | TN:20
+Word: awtomatikong | Lemma: awtomatiko | a56_253to258_tags.txt | SN:66 | TN:7
+Word: babaeng | Lemma: babae | a56_227_tags.txt | SN:4 | TN:10
+Word: babaeng | Lemma: babae | a56_227_tags.txt | SN:4 | TN:42
+Word: babang | Lemma: baba | a56_204_tags.txt | SN:14 | TN:9
+Word: bagong | Lemma: bago | a56_211_tags.txt | SN:39 | TN:11
+Word: bagong | Lemma: bago | a56_181to186_tags.txt | SN:67 | TN:2
+Word: bagong | Lemma: bago | a56_211_tags.txt | SN:7 | TN:23
+Word: bagong | Lemma: bago | a56_253to258_tags.txt | SN:148 | TN:12
+Word: bagong | Lemma: bago | a56_248_tags.txt | SN:28 | TN:16
+Word: bagong | Lemma: bago | a56_235to237_tags.txt | SN:5 | TN:35
+Word: bagong | Lemma: bago | lopez_clement_s11_tags.txt | SN:49 | TN:25
+Word: bagong | Lemma: bago | a56_260_tags.txt | SN:7 | TN:15
+Word: bagong | Lemma: bago | a56_235to237_tags.txt | SN:5 | TN:44
+Word: bagong | Lemma: bago | a56_235to237_tags.txt | SN:17 | TN:85
+Word: bagong | Lemma: bago | a56_253to258_tags.txt | SN:1 | TN:7
+Word: bagong | Lemma: bago | a56_250_tags.txt | SN:12 | TN:13
+Word: bagong | Lemma: bago | a56_247_tags.txt | SN:22 | TN:8
+Word: bagong | Lemma: bago | a56_253to258_tags.txt | SN:84 | TN:2
+Word: bagong | Lemma: bago | a56_253to258_tags.txt | SN:53 | TN:2
+Word: bagong | Lemma: bago | a56_249_tags.txt | SN:3 | TN:2
+Word: bagong | Lemma: bago | a56_238to240_tags.txt | SN:13 | TN:1
+Word: bagong | Lemma: bago | a56_238to240_tags.txt | SN:56 | TN:20
+Word: bagong | Lemma: bago | a56_253to258_tags.txt | SN:47 | TN:18
+Word: bagong | Lemma: bago | a56_238to240_tags.txt | SN:14 | TN:47
+Word: bagong | Lemma: bago | a56_250_tags.txt | SN:10 | TN:23
+Word: bagong | Lemma: bago | a56_249_tags.txt | SN:6 | TN:3
+Word: bagong | Lemma: bago | a56_250_tags.txt | SN:23 | TN:7
+Word: bagong | Lemma: bago | a56_238to240_tags.txt | SN:43 | TN:14
+Word: bahagyang | Lemma: bahagya | a56_181to186_tags.txt | SN:20 | TN:7
+Word: bahagyang | Lemma: bahagya | a56_181to186_tags.txt | SN:87 | TN:26
+Word: balanseng | Lemma: balanse | a56_253to258_tags.txt | SN:1 | TN:1
+Word: baliktaring | Lemma: baliktad | a56_193to197_tags.txt | SN:67 | TN:18
+Word: banyagang | Lemma: banyaga | a56_235to237_tags.txt | SN:44 | TN:6
+Word: barkong | Lemma: barko | a56_213_tags.txt | SN:47 | TN:16
+Word: batang | Lemma: bata | a56_253to258_tags.txt | SN:41 | TN:4
+Word: bersatilong | Lemma: bersatilo | a56_223_tags.txt | SN:7 | TN:2
+Word: bihasang | Lemma: bihasa | a56_226_tags.txt | SN:24 | TN:2
+Word: bihasang | Lemma: bihasa | a56_253to258_tags.txt | SN:142 | TN:9
+Word: bihirang | Lemma: bihira | a56_253to258_tags.txt | SN:73 | TN:82
+Word: bihirang | Lemma: bihira | a56_259_tags.txt | SN:20 | TN:45
+Word: bihirang | Lemma: bihira | a56_259_tags.txt | SN:21 | TN:22
+Word: biktimang | Lemma: biktima | cua_bernice_s11_tags.txt | SN:88 | TN:1
+Word: binokulong | Lemma: binokulo | a56_193to197_tags.txt | SN:74 | TN:6
+Word: biyolenteng | Lemma: biyolente | a56_253to258_tags.txt | SN:7 | TN:11
+Word: bulung-bulungang | Lemma: bulong | a56_225_tags.txt | SN:19 | TN:10
+Word: buong | Lemma: buo | a56_253to258_tags.txt | SN:81 | TN:16
+Word: buong | Lemma: buo | a56_193to197_tags.txt | SN:96 | TN:17
+Word: buong | Lemma: buo | a56_223_tags.txt | SN:9 | TN:31
+Word: buong | Lemma: buo | a56_226_tags.txt | SN:5 | TN:4
+Word: buong | Lemma: buo | a56_238to240_tags.txt | SN:10 | TN:4
+Word: buong | Lemma: buo | a56_247_tags.txt | SN:20 | TN:18
+Word: buong | Lemma: buo | a56_253to258_tags.txt | SN:90 | TN:23
+Word: buong | Lemma: buo | a56_263_tags.txt | SN:11 | TN:10
+Word: buong | Lemma: buo | lopez_clement_s11_tags.txt | SN:40 | TN:2
+Word: dagatang | Lemma: dagat | cua_bernice_s11_tags.txt | SN:90 | TN:7
+Word: dakilang | Lemma: dakila | a56_226_tags.txt | SN:5 | TN:18
+Word: dakilang | Lemma: dakila | a56_253to258_tags.txt | SN:91 | TN:11
+Word: dakong | Lemma: dako | a56_213_tags.txt | SN:23 | TN:1
+Word: dalubhasang | Lemma: dalubhasa | a56_253to258_tags.txt | SN:158 | TN:1
+Word: dating | Lemma: dati | a56_198_tags.txt | SN:19 | TN:12
+Word: dating | Lemma: dati | a56_204_tags.txt | SN:1 | TN:4
+Word: dating | Lemma: dati | a56_223_tags.txt | SN:5 | TN:65
+Word: dating | Lemma: dati | a56_227_tags.txt | SN:4 | TN:110
+Word: dating | Lemma: dati | a56_227_tags.txt | SN:23 | TN:11
+Word: dating | Lemma: dati | a56_248_tags.txt | SN:4 | TN:2
+Word: dating | Lemma: dati | lopez_clement_s11_tags.txt | SN:49 | TN:35
+Word: dayuhang | Lemma: dayuhan | a56_235to237_tags.txt | SN:7 | TN:21
+Word: depensibong | Lemma: depensibo | a56_193to197_tags.txt | SN:3 | TN:16
+Word: detalyadong | Lemma: detalyado | cua_bernice_s11_tags.txt | SN:53 | TN:3
+Word: diplomatikong | Lemma: diplomatiko | a56_264_tags.txt | SN:8 | TN:5
+Word: direktang | Lemma: direkta | a56_181to186_tags.txt | SN:96 | TN:55
+Word: direktang | Lemma: direkta | a56_259_tags.txt | SN:11 | TN:30
+Word: direktang | Lemma: direkta | lopez_clement_s11_tags.txt | SN:76 | TN:35
+Word: distritong | Lemma: distrito | a56_261_tags.txt | SN:21 | TN:6
+Word: distritong | Lemma: distrito | a56_261_tags.txt | SN:21 | TN:9
+Word: dobleng | Lemma: doble | a56_181to186_tags.txt | SN:27 | TN:14
+Word: dobleng | Lemma: doble | a56_193to197_tags.txt | SN:30 | TN:40
+Word: domestikong | Lemma: domestiko | a56_248_tags.txt | SN:17 | TN:37
+Word: dumedepensang | Lemma: depensa | a56_253to258_tags.txt | SN:63 | TN:22
+Word: eksaktong | Lemma: eksakto | a56_181to186_tags.txt | SN:118 | TN:16
+Word: eksaktong | Lemma: eksakto | a56_181to186_tags.txt | SN:121 | TN:3
+Word: eksaktong | Lemma: eksakto | a56_200_tags.txt | SN:31 | TN:1
+Word: eksklusibong | Lemma: eksklusibo | lopez_clement_s11_tags.txt | SN:15 | TN:10
+Word: eksklusibong | Lemma: eksklusibo | lopez_clement_s11_tags.txt | SN:69 | TN:1
+Word: ekspertong | Lemma: eksperto | a56_259_tags.txt | SN:13 | TN:6
+Word: ekspertong | Lemma: eksperto | a56_259_tags.txt | SN:14 | TN:9
+Word: entusiyastikong | Lemma: entusiyastiko | a56_235to237_tags.txt | SN:53 | TN:1
+Word: epektibong | Lemma: epektibo | a56_193to197_tags.txt | SN:22 | TN:27
+Word: epektibong | Lemma: epektibo | a56_248_tags.txt | SN:4 | TN:25
+Word: epektibong | Lemma: epektibo | a56_253to258_tags.txt | SN:80 | TN:27
+Word: espesyalisadong | Lemma: espesyalisado | lopez_clement_s11_tags.txt | SN:74 | TN:5
+Word: gawang | Lemma: gawa | a56_198_tags.txt | SN:24 | TN:10
+Word: genetikong | Lemma: genetiko | a56_181to186_tags.txt | SN:34 | TN:12
+Word: genetikong | Lemma: genetiko | a56_181to186_tags.txt | SN:72 | TN:23
+Word: genetikong | Lemma: genetiko | a56_181to186_tags.txt | SN:77 | TN:32
+Word: gintong | Lemma: ginto | a56_252_tags.txt | SN:13 | TN:36
+Word: higit-kumulang | Lemma: higit-kumulang | a56_247_tags.txt | SN:30 | TN:1
+Word: hilagang | Lemma: hilaga | a56_235to237_tags.txt | SN:40 | TN:7
+Word: hilagang | Lemma: hilaga | a56_235to237_tags.txt | SN:4 | TN:3
+Word: hilagang | Lemma: hilaga | a56_235to237_tags.txt | SN:30 | TN:5
+Word: hilagang | Lemma: hilaga | a56_235to237_tags.txt | SN:45 | TN:6
+Word: hilagang | Lemma: hilaga | a56_235to237_tags.txt | SN:46 | TN:7
+Word: hilagang | Lemma: hilaga | a56_249_tags.txt | SN:15 | TN:29
+Word: hilagang | Lemma: hilaga | a56_264_tags.txt | SN:30 | TN:1
+Word: hilagang | Lemma: hilaga | cua_bernice_s11_tags.txt | SN:90 | TN:13
+Word: hilagang | Lemma: hilaga | a56_264_tags.txt | SN:33 | TN:15
+Word: hilagang | Lemma: hilaga | cua_bernice_s11_tags.txt | SN:3 | TN:26
+Word: hilagang-kanluran | Lemma: hilaga-kanluran | a56_249_tags.txt | SN:9 | TN:7
+Word: huling | Lemma: huli | a56_227_tags.txt | SN:2 | TN:15
+Word: huling | Lemma: huli | a56_224_tags.txt | SN:1 | TN:2
+Word: huling | Lemma: huli | a56_235to237_tags.txt | SN:1 | TN:1
+Word: huling | Lemma: huli | a56_235to237_tags.txt | SN:57 | TN:18
+Word: huling | Lemma: huli | a56_235to237_tags.txt | SN:70 | TN:4
+Word: huling | Lemma: huli | a56_253to258_tags.txt | SN:61 | TN:50
+Word: huling | Lemma: huli | a56_259_tags.txt | SN:12 | TN:15
+Word: huling | Lemma: huli | a56_259_tags.txt | SN:27 | TN:13
+Word: huling | Lemma: huli | lopez_clement_s11_tags.txt | SN:33 | TN:7
+Word: huling | Lemma: huli | a56_263_tags.txt | SN:16 | TN:1
+Word: humigit-kumulang | Lemma: higit-kulang | a56_235to237_tags.txt | SN:2 | TN:12
+Word: humigit-kumulang | Lemma: higit-kulang | a56_235to237_tags.txt | SN:72 | TN:18
+Word: humigit-kumulang | Lemma: humigit-kumulang | cua_bernice_s11_tags.txt | SN:19 | TN:8
+Word: humigit-kumulang | Lemma: humigit-kumulang | lopez_clement_s11_tags.txt | SN:26 | TN:6
+Word: huwarang | Lemma: huwad | a56_181to186_tags.txt | SN:26 | TN:6
+Word: iba't_ibang | Lemma: iba | a56_253to258_tags.txt | SN:25 | TN:23
+Word: iba't_ibang | Lemma: iba't_iba | lopez_clement_s11_tags.txt | SN:36 | TN:19
+Word: iba't_ibang | Lemma: iba't_iba | lopez_clement_s11_tags.txt | SN:41 | TN:13
+Word: iba't_ibang | Lemma: iba't_iba | lopez_clement_s11_tags.txt | SN:65 | TN:21
+Word: ibabang | Lemma: baba | a56_253to258_tags.txt | SN:149 | TN:16
+Word: ibang | Lemma: iba | a56_247_tags.txt | SN:6 | TN:13
+Word: ibang | Lemma: iba | a56_248_tags.txt | SN:4 | TN:48
+Word: ibang | Lemma: iba | a56_250_tags.txt | SN:1 | TN:8
+Word: ibang | Lemma: iba | a56_253to258_tags.txt | SN:31 | TN:18
+Word: ibang | Lemma: iba | a56_253to258_tags.txt | SN:31 | TN:27
+Word: ibang | Lemma: iba | a56_259_tags.txt | SN:13 | TN:1
+Word: ibang | Lemma: iba | a56_260_tags.txt | SN:18 | TN:8
+Word: iba’t-ibang | Lemma: iba’t-iba | a56_181to186_tags.txt | SN:38 | TN:3
+Word: iba’t-ibang | Lemma: iba’t-iba | a56_181to186_tags.txt | SN:70 | TN:3
+Word: iba’t-ibang | Lemma: iba | a56_247_tags.txt | SN:29 | TN:9
+Word: iba’t-ibang | Lemma: iba | a56_260_tags.txt | SN:9 | TN:1
+Word: iba’t-ibang | Lemma: iba | a56_260_tags.txt | SN:17 | TN:24
+Word: iba’t_ibang | Lemma: iba’t_iba | a56_181to186_tags.txt | SN:120 | TN:16
+Word: iba’t_ibang | Lemma: iba’t_iba | a56_181to186_tags.txt | SN:119 | TN:5
+Word: iba’t_ibang | Lemma: iba’t_iba | a56_181to186_tags.txt | SN:139 | TN:2
+Word: iba’t_ibang | Lemma: iba’t_iba | a56_193to197_tags.txt | SN:66 | TN:10
+Word: iba’t_ibang | Lemma: iba | a56_260_tags.txt | SN:8 | TN:16
+Word: iba’t_ibang | Lemma: iba’t_iba | a56_193to197_tags.txt | SN:73 | TN:7
+Word: iba’t_ibang | Lemma: iba’t_iba | a56_193to197_tags.txt | SN:77 | TN:25
+Word: iba’t_ibang | Lemma: iba’t_iba | a56_193to197_tags.txt | SN:83 | TN:35
+Word: iba’t_ibang | Lemma: iba | a56_235to237_tags.txt | SN:7 | TN:24
+Word: iba’t_ibang | Lemma: iba | a56_247_tags.txt | SN:31 | TN:17
+Word: iba’t_ibang | Lemma: iba | a56_253to258_tags.txt | SN:15 | TN:4
+Word: iba’t_ibang | Lemma: iba | a56_253to258_tags.txt | SN:97 | TN:23
+Word: iilang | Lemma: ilan | a56_198_tags.txt | SN:12 | TN:7
+Word: iilang | Lemma: ilan | a56_198_tags.txt | SN:15 | TN:3
+Word: iisang | Lemma: iisa | a56_238to240_tags.txt | SN:76 | TN:26
+Word: iluminadong | Lemma: iluminado | a56_193to197_tags.txt | SN:65 | TN:52
+Word: importanteng | Lemma: importante | a56_198_tags.txt | SN:9 | TN:25
+Word: importanteng | Lemma: importante | a56_235to237_tags.txt | SN:8 | TN:8
+Word: importanteng | Lemma: importante | a56_235to237_tags.txt | SN:10 | TN:12
+Word: importanteng | Lemma: importante | a56_252_tags.txt | SN:3 | TN:2
+Word: importanteng | Lemma: importante | a56_252_tags.txt | SN:21 | TN:1
+Word: importanteng | Lemma: importante | a56_261_tags.txt | SN:25 | TN:1
+Word: importanteng | Lemma: importante | cua_bernice_s11_tags.txt | SN:87 | TN:6
+Word: inaasahang | Lemma: asa | lopez_clement_s11_tags.txt | SN:22 | TN:18
+Word: independenteng | Lemma: independente | a56_238to240_tags.txt | SN:67 | TN:42
+Word: iskuwadrang | Lemma: iskuwadra | a56_214_tags.txt | SN:40 | TN:19
+Word: ispesipikong | Lemma: ispesipiko | lopez_clement_s11_tags.txt | SN:63 | TN:17
+Word: istandardisadong | Lemma: istandardisado | lopez_clement_s11_tags.txt | SN:62 | TN:5
+Word: kabuluhang | Lemma: kabuluhan | a56_227_tags.txt | SN:22 | TN:12
+Word: kadalasang | Lemma: dalas | a56_181to186_tags.txt | SN:50 | TN:17
+Word: kahanga-hangang | Lemma: hanga | a56_225_tags.txt | SN:15 | TN:9
+Word: kahanga-hangang | Lemma: hanga | a56_235to237_tags.txt | SN:54 | TN:3
+Word: kahanga-hangang | Lemma: hanga | a56_235to237_tags.txt | SN:61 | TN:5
+Word: kahanga-hangang | Lemma: hanga | a56_235to237_tags.txt | SN:66 | TN:11
+Word: kahanga-hangang | Lemma: hanga | cua_bernice_s11_tags.txt | SN:23 | TN:3
+Word: kahuli-hulihang | Lemma: huli | a56_211_tags.txt | SN:31 | TN:3
+Word: kakaibang | Lemma: iba | a56_247_tags.txt | SN:29 | TN:10
+Word: kakaibang | Lemma: iba | a56_260_tags.txt | SN:9 | TN:6
+Word: kakaibang | Lemma: iba | a56_260_tags.txt | SN:11 | TN:27
+Word: kalabang | Lemma: laban | a56_198_tags.txt | SN:29 | TN:1
+Word: kalabang | Lemma: laban | a56_198_tags.txt | SN:39 | TN:3
+Word: kalahating | Lemma: hati | a56_226_tags.txt | SN:4 | TN:11
+Word: kalahating | Lemma: kalahati | a56_253to258_tags.txt | SN:57 | TN:14
+Word: kalahating-inning | Lemma: hati-inning | a56_253to258_tags.txt | SN:148 | TN:7
+Word: kalakarang | Lemma: kalakal | a56_263_tags.txt | SN:17 | TN:42
+Word: kaliwang | Lemma: kaliwa | a56_253to258_tags.txt | SN:73 | TN:35
+Word: kamangha-manghang | Lemma: mangha | a56_247_tags.txt | SN:8 | TN:22
+Word: kanang | Lemma: kanan | a56_253to258_tags.txt | SN:94 | TN:26
+Word: kanlurang | Lemma: kanluran | a56_261_tags.txt | SN:26 | TN:9
+Word: kapansin-pansing | Lemma: pansin | a56_253to258_tags.txt | SN:73 | TN:65
+Word: kaparehong | Lemma: kapareho | a56_238to240_tags.txt | SN:67 | TN:45
+Word: karagdagang | Lemma: dagdag | a56_181to186_tags.txt | SN:103 | TN:1
+Word: karagdagang | Lemma: dagdag | a56_181to186_tags.txt | SN:144 | TN:17
+Word: karagdagang | Lemma: dagdag | a56_226_tags.txt | SN:7 | TN:21
+Word: karagdagang | Lemma: dagdag | a56_253to258_tags.txt | SN:173 | TN:8
+Word: karaniwang | Lemma: karaniwan | a56_181to186_tags.txt | SN:29 | TN:19
+Word: karaniwang | Lemma: karaniwan | a56_181to186_tags.txt | SN:99 | TN:2
+Word: karaniwang | Lemma: karaniwan | a56_181to186_tags.txt | SN:32 | TN:43
+Word: karaniwang | Lemma: karaniwan | a56_181to186_tags.txt | SN:101 | TN:16
+Word: karaniwang | Lemma: karaniwan | a56_253to258_tags.txt | SN:158 | TN:9
+Word: karaniwang | Lemma: karaniwan | a56_253to258_tags.txt | SN:66 | TN:5
+Word: karaniwang | Lemma: karaniwan | a56_253to258_tags.txt | SN:84 | TN:41
+Word: karaniwang | Lemma: karaniwan | a56_181to186_tags.txt | SN:112 | TN:7
+Word: karaniwang | Lemma: karaniwan | a56_211_tags.txt | SN:5 | TN:12
+Word: karaniwang | Lemma: karaniwan | a56_235to237_tags.txt | SN:17 | TN:15
+Word: karaniwang | Lemma: karaniwan | a56_253to258_tags.txt | SN:138 | TN:10
+Word: karaniwang | Lemma: karaniwan | a56_249_tags.txt | SN:23 | TN:5
+Word: karaniwang | Lemma: karaniwan | a56_253to258_tags.txt | SN:98 | TN:3
+Word: karaniwang | Lemma: karaniwan | cua_bernice_s11_tags.txt | SN:40 | TN:6
+Word: karaniwang | Lemma: karaniwan | a56_253to258_tags.txt | SN:51 | TN:3
+Word: karaniwang | Lemma: karaniwan | a56_253to258_tags.txt | SN:89 | TN:21
+Word: kasalukuyang | Lemma: kasalukuyan | a56_253to258_tags.txt | SN:172 | TN:1
+Word: kasamang | Lemma: sama | a56_263_tags.txt | SN:12 | TN:14
+Word: kataas-taasang | Lemma: taas | a56_193to197_tags.txt | SN:53 | TN:13
+Word: kataas-taasang | Lemma: taas | a56_193to197_tags.txt | SN:54 | TN:14
+Word: kataas-taasang | Lemma: taas | a56_193to197_tags.txt | SN:55 | TN:2
+Word: katam-tamang | Lemma: katam-tamang | cua_bernice_s11_tags.txt | SN:28 | TN:4
+Word: katamtamang | Lemma: katamtaman | a56_181to186_tags.txt | SN:22 | TN:29
+Word: katamtamang | Lemma: katamtaman | cua_bernice_s11_tags.txt | SN:17 | TN:5
+Word: katangi-tanging | Lemma: tangi | a56_223_tags.txt | SN:9 | TN:25
+Word: katatagang | Lemma: katataga | a56_263_tags.txt | SN:14 | TN:31
+Word: katimugang | Lemma: timog | a56_193to197_tags.txt | SN:52 | TN:12
+Word: katimugang | Lemma: timog | cua_bernice_s11_tags.txt | SN:15 | TN:23
+Word: katutubong | Lemma: katutubo | a56_181to186_tags.txt | SN:63 | TN:4
+Word: katutubong | Lemma: katutubo | a56_235to237_tags.txt | SN:33 | TN:21
+Word: kauna-unahang | Lemma: una | a56_193to197_tags.txt | SN:25 | TN:9
+Word: kaunting | Lemma: unti | a56_181to186_tags.txt | SN:119 | TN:24
+Word: kaunting | Lemma: kaunti | lopez_clement_s11_tags.txt | SN:74 | TN:10
+Word: kawili-wiling | Lemma: kawili-wili | lopez_clement_s11_tags.txt | SN:46 | TN:8
+Word: kilalang | Lemma: kilala | a56_181to186_tags.txt | SN:126 | TN:19
+Word: kilalang | Lemma: kilala | a56_193to197_tags.txt | SN:1 | TN:43
+Word: kilalang | Lemma: kilala | lopez_clement_s11_tags.txt | SN:13 | TN:4
+Word: kilalang | Lemma: kilala | a56_193to197_tags.txt | SN:37 | TN:17
+Word: kilalang | Lemma: kilala | a56_193to197_tags.txt | SN:105 | TN:8
+Word: kilalang | Lemma: kilala | a56_238to240_tags.txt | SN:65 | TN:1
+Word: kilalang | Lemma: kilala | a56_250_tags.txt | SN:4 | TN:3
+Word: kilalang | Lemma: kilala | a56_251_tags.txt | SN:20 | TN:4
+Word: kilalang | Lemma: kilala | lopez_clement_s11_tags.txt | SN:27 | TN:14
+Word: kilalang | Lemma: kilala | a56_250_tags.txt | SN:15 | TN:7
+Word: kilalang | Lemma: kilala | a56_251_tags.txt | SN:3 | TN:10
+Word: kilalang | Lemma: kilalang | a56_251_tags.txt | SN:19 | TN:3
+Word: kilalang_kilala | Lemma: kilala | a56_223_tags.txt | SN:9 | TN:10
+Word: kinatawang | Lemma: kinatawan | a56_261_tags.txt | SN:1 | TN:10
+Word: kinikilalang | Lemma: kilala | a56_261_tags.txt | SN:7 | TN:16
+Word: kinikilalang | Lemma: kilala | cua_bernice_s11_tags.txt | SN:16 | TN:17
+Word: klasikong | Lemma: klasiko | a56_223_tags.txt | SN:3 | TN:7
+Word: komersiyong | Lemma: komersiyo | a56_250_tags.txt | SN:20 | TN:31
+Word: komunistang | Lemma: komunista | a56_261_tags.txt | SN:17 | TN:20
+Word: konserbatibong | Lemma: konserbatibo | a56_181to186_tags.txt | SN:90 | TN:8
+Word: konserbatibong | Lemma: konserbatibo | a56_226_tags.txt | SN:1 | TN:4
+Word: konserbatibong | Lemma: konserbatibo | a56_228_tags.txt | SN:11 | TN:27
+Word: kumpanya | Lemma: kumpanya | lopez_clement_s11_tags.txt | SN:50 | TN:9
+Word: kumpletong | Lemma: kumpleto | a56_253to258_tags.txt | SN:59 | TN:11
+Word: kumpletong | Lemma: kumpleto | a56_253to258_tags.txt | SN:83 | TN:7
+Word: kumpletong | Lemma: kumpleto | a56_253to258_tags.txt | SN:84 | TN:62
+Word: lalaking | Lemma: lalaki | a56_227_tags.txt | SN:4 | TN:65
+Word: lalaking | Lemma: lalaki | a56_227_tags.txt | SN:4 | TN:87
+Word: lantarang | Lemma: lantad | a56_225_tags.txt | SN:4 | TN:12
+Word: libertaryong | Lemma: libertaryo | a56_226_tags.txt | SN:21 | TN:8
+Word: limitadong | Lemma: limitado | a56_193to197_tags.txt | SN:51 | TN:10
+Word: lumang | Lemma: luma | a56_198_tags.txt | SN:15 | TN:4
+Word: lumang | Lemma: luma | a56_223_tags.txt | SN:14 | TN:18
+Word: luntiang | Lemma: luntian | a56_253to258_tags.txt | SN:48 | TN:32
+Word: maadornong | Lemma: adorno | a56_250_tags.txt | SN:9 | TN:27
+Word: maagang | Lemma: aga | a56_253to258_tags.txt | SN:90 | TN:1
+Word: maagang | Lemma: aga | a56_181to186_tags.txt | SN:86 | TN:12
+Word: maagang | Lemma: aga | a56_181to186_tags.txt | SN:46 | TN:24
+Word: maagang | Lemma: aga | a56_193to197_tags.txt | SN:36 | TN:34
+Word: maagang | Lemma: aga | a56_193to197_tags.txt | SN:86 | TN:9
+Word: maagang | Lemma: aga | a56_250_tags.txt | SN:14 | TN:35
+Word: maagang | Lemma: aga | a56_251_tags.txt | SN:24 | TN:18
+Word: maagang | Lemma: aga | a56_264_tags.txt | SN:11 | TN:1
+Word: maagang | Lemma: aga | a56_263_tags.txt | SN:9 | TN:5
+Word: mababang | Lemma: baba | a56_238to240_tags.txt | SN:66 | TN:28
+Word: mababang | Lemma: baba | a56_181to186_tags.txt | SN:22 | TN:2
+Word: mababang | Lemma: baba | a56_181to186_tags.txt | SN:86 | TN:1
+Word: mababang | Lemma: baba | a56_181to186_tags.txt | SN:97 | TN:16
+Word: mababang | Lemma: baba | a56_250_tags.txt | SN:6 | TN:22
+Word: mababang | Lemma: baba | lopez_clement_s11_tags.txt | SN:77 | TN:12
+Word: mababang | Lemma: baba | a56_253to258_tags.txt | SN:98 | TN:49
+Word: mababang | Lemma: baba | a56_261_tags.txt | SN:6 | TN:13
+Word: madaling | Lemma: dali | a56_193to197_tags.txt | SN:97 | TN:2
+Word: madaling | Lemma: dali | a56_213_tags.txt | SN:4 | TN:27
+Word: madaming | Lemma: dami | a56_214_tags.txt | SN:14 | TN:10
+Word: madaming | Lemma: dami | a56_253to258_tags.txt | SN:45 | TN:14
+Word: madaming | Lemma: dami | a56_253to258_tags.txt | SN:61 | TN:7
+Word: madetalyeng | Lemma: detalye | a56_238to240_tags.txt | SN:53 | TN:3
+Word: magagandang | Lemma: ganda | a56_214_tags.txt | SN:20 | TN:36
+Word: magaling | Lemma: galing | a56_213_tags.txt | SN:39 | TN:16
+Word: magandang | Lemma: ganda | a56_235to237_tags.txt | SN:16 | TN:1
+Word: magandang | Lemma: ganda | a56_204_tags.txt | SN:7 | TN:12
+Word: magandang | Lemma: ganda | a56_235to237_tags.txt | SN:17 | TN:55
+Word: magandang | Lemma: ganda | a56_235to237_tags.txt | SN:17 | TN:82
+Word: magandang | Lemma: ganda | a56_252_tags.txt | SN:18 | TN:23
+Word: magandang | Lemma: ganda | a56_253to258_tags.txt | SN:45 | TN:24
+Word: magandang | Lemma: maganda | a56_253to258_tags.txt | SN:164 | TN:19
+Word: magandang | Lemma: ganda | a56_259_tags.txt | SN:2 | TN:13
+Word: magandang | Lemma: maganda | cua_bernice_s11_tags.txt | SN:49 | TN:19
+Word: magkabilang | Lemma: kabila | a56_212_tags.txt | SN:19 | TN:2
+Word: magkabilang | Lemma: kabila | a56_235to237_tags.txt | SN:31 | TN:4
+Word: magkahalong | Lemma: halo | a56_235to237_tags.txt | SN:35 | TN:33
+Word: magkaibang | Lemma: iba | a56_238to240_tags.txt | SN:67 | TN:27
+Word: magkaparehong | Lemma: magkaparehong | cua_bernice_s11_tags.txt | SN:42 | TN:8
+Word: magkaparehong | Lemma: pareho | cua_bernice_s11_tags.txt | SN:68 | TN:12
+Word: magrasang | Lemma: grasa | a56_198_tags.txt | SN:1 | TN:10
+Word: magrasang | Lemma: grasa | a56_200_tags.txt | SN:14 | TN:33
+Word: mahabang | Lemma: haba | a56_181to186_tags.txt | SN:50 | TN:10
+Word: mahabang | Lemma: haba | a56_251_tags.txt | SN:22 | TN:12
+Word: mahabang | Lemma: haba | a56_259_tags.txt | SN:7 | TN:8
+Word: mahabang | Lemma: haba | a56_259_tags.txt | SN:18 | TN:8
+Word: mahabang | Lemma: haba | cua_bernice_s11_tags.txt | SN:45 | TN:5
+Word: mahabang | Lemma: haba | cua_bernice_s11_tags.txt | SN:45 | TN:23
+Word: mahabang | Lemma: habang | cua_bernice_s11_tags.txt | SN:83 | TN:1
+Word: mahahabang | Lemma: haba | a56_181to186_tags.txt | SN:140 | TN:4
+Word: mahahalagang | Lemma: halaga | a56_228_tags.txt | SN:4 | TN:8
+Word: mahahalagang | Lemma: halaga | a56_235to237_tags.txt | SN:60 | TN:7
+Word: mahalagang | Lemma: mahalaga | a56_181to186_tags.txt | SN:13 | TN:15
+Word: mahalagang | Lemma: halaga | a56_181to186_tags.txt | SN:77 | TN:6
+Word: mahalagang | Lemma: halaga | a56_204_tags.txt | SN:14 | TN:3
+Word: mahalagang | Lemma: halaga | a56_213_tags.txt | SN:13 | TN:19
+Word: mahalagang | Lemma: halaga | a56_248_tags.txt | SN:2 | TN:6
+Word: mahalagang | Lemma: halaga | a56_248_tags.txt | SN:17 | TN:9
+Word: mahalagang | Lemma: halaga | a56_249_tags.txt | SN:13 | TN:20
+Word: mahalagang | Lemma: halaga | a56_249_tags.txt | SN:16 | TN:5
+Word: mahalagang | Lemma: halaga | a56_250_tags.txt | SN:14 | TN:16
+Word: mahihinang | Lemma: hina | a56_253to258_tags.txt | SN:158 | TN:4
+Word: mahinahong | Lemma: hinahon | a56_264_tags.txt | SN:27 | TN:8
+Word: mahinang | Lemma: hina | a56_181to186_tags.txt | SN:27 | TN:55
+Word: mahinang | Lemma: hina | a56_181to186_tags.txt | SN:31 | TN:40
+Word: mahinang | Lemma: hina | a56_181to186_tags.txt | SN:112 | TN:1
+Word: mahinang | Lemma: hina | a56_181to186_tags.txt | SN:112 | TN:29
+Word: mahinang | Lemma: mahina | a56_181to186_tags.txt | SN:113 | TN:23
+Word: mahinang | Lemma: hina | a56_213_tags.txt | SN:17 | TN:21
+Word: mahinang | Lemma: hina | a56_214_tags.txt | SN:5 | TN:13
+Word: maikling | Lemma: ikli | a56_193to197_tags.txt | SN:7 | TN:5
+Word: maikling | Lemma: ikli | a56_253to258_tags.txt | SN:148 | TN:2
+Word: maikling | Lemma: ikli | cua_bernice_s11_tags.txt | SN:38 | TN:30
+Word: maiksing | Lemma: iksi | a56_181to186_tags.txt | SN:27 | TN:51
+Word: maiksing | Lemma: iksi | a56_181to186_tags.txt | SN:31 | TN:76
+Word: maiksing | Lemma: iksi | a56_248_tags.txt | SN:25 | TN:21
+Word: makabuluhang | Lemma: makabuluhan | a56_181to186_tags.txt | SN:52 | TN:1
+Word: makabuluhang | Lemma: makabuluhan | a56_253to258_tags.txt | SN:98 | TN:47
+Word: makabuluhang | Lemma: makabuluhan | lopez_clement_s11_tags.txt | SN:6 | TN:25
+Word: makalumang | Lemma: luma | a56_247_tags.txt | SN:1 | TN:6
+Word: makamundong | Lemma: mundo | a56_193to197_tags.txt | SN:61 | TN:31
+Word: makamundong | Lemma: mundo | a56_193to197_tags.txt | SN:61 | TN:50
+Word: makapangyarihang | Lemma: yari | a56_181to186_tags.txt | SN:3 | TN:26
+Word: makapangyarihang | Lemma: yari | a56_261_tags.txt | SN:7 | TN:2
+Word: makasaysayang | Lemma: saysay | a56_250_tags.txt | SN:1 | TN:21
+Word: makasaysayang | Lemma: saysay | a56_251_tags.txt | SN:6 | TN:16
+Word: makasaysayang | Lemma: saysay | a56_251_tags.txt | SN:11 | TN:3
+Word: makataong | Lemma: tao | a56_264_tags.txt | SN:10 | TN:30
+Word: malaki-laking | Lemma: laki | a56_235to237_tags.txt | SN:10 | TN:20
+Word: malakihang | Lemma: laki | a56_235to237_tags.txt | SN:7 | TN:18
+Word: malaking | Lemma: laki | a56_250_tags.txt | SN:9 | TN:18
+Word: malaking | Lemma: laki | a56_212_tags.txt | SN:13 | TN:25
+Word: malaking | Lemma: laki | a56_181to186_tags.txt | SN:96 | TN:13
+Word: malaking | Lemma: laki | a56_181to186_tags.txt | SN:118 | TN:20
+Word: malaking | Lemma: laki | a56_235to237_tags.txt | SN:8 | TN:17
+Word: malaking | Lemma: laki | lopez_clement_s11_tags.txt | SN:60 | TN:2
+Word: malaking | Lemma: laki | a56_253to258_tags.txt | SN:132 | TN:47
+Word: malaking | Lemma: laki | a56_235to237_tags.txt | SN:12 | TN:19
+Word: malaking | Lemma: laki | a56_235to237_tags.txt | SN:17 | TN:9
+Word: malaking | Lemma: laki | a56_238to240_tags.txt | SN:43 | TN:35
+Word: malaking | Lemma: laki | cua_bernice_s11_tags.txt | SN:96 | TN:10
+Word: malaking | Lemma: laki | a56_253to258_tags.txt | SN:95 | TN:1
+Word: malaking | Lemma: malaki | a56_259_tags.txt | SN:7 | TN:4
+Word: malalaking | Lemma: laki | a56_200_tags.txt | SN:30 | TN:5
+Word: malalaking | Lemma: laki | a56_228_tags.txt | SN:6 | TN:27
+Word: malalaking | Lemma: laki | a56_250_tags.txt | SN:9 | TN:11
+Word: malalaking | Lemma: laki | a56_251_tags.txt | SN:8 | TN:12
+Word: malalaking | Lemma: laki | a56_253to258_tags.txt | SN:100 | TN:50
+Word: malalaking | Lemma: laki | cua_bernice_s11_tags.txt | SN:65 | TN:5
+Word: malalaking | Lemma: laki | lopez_clement_s11_tags.txt | SN:27 | TN:11
+Word: malalang | Lemma: malala | a56_214_tags.txt | SN:7 | TN:19
+Word: malalang | Lemma: malala | a56_214_tags.txt | SN:10 | TN:19
+Word: malalayong | Lemma: layo | cua_bernice_s11_tags.txt | SN:26 | TN:8
+Word: malawakang | Lemma: lawak | a56_235to237_tags.txt | SN:7 | TN:38
+Word: malay | Lemma: malay | a56_193to197_tags.txt | SN:47 | TN:22
+Word: malayang | Lemma: laya | a56_212_tags.txt | SN:25 | TN:16
+Word: malayang | Lemma: laya | a56_235to237_tags.txt | SN:20 | TN:14
+Word: malayang | Lemma: malaya | a56_235to237_tags.txt | SN:36 | TN:10
+Word: malayang | Lemma: laya | a56_263_tags.txt | SN:23 | TN:21
+Word: malayong | Lemma: layo | a56_250_tags.txt | SN:10 | TN:13
+Word: malayong | Lemma: malayo | cua_bernice_s11_tags.txt | SN:23 | TN:13
+Word: maliksing | Lemma: liksi | a56_253to258_tags.txt | SN:84 | TN:47
+Word: maling | Lemma: mali | a56_181to186_tags.txt | SN:11 | TN:19
+Word: maling | Lemma: mali | a56_238to240_tags.txt | SN:7 | TN:8
+Word: maling | Lemma: mali | a56_253to258_tags.txt | SN:16 | TN:20
+Word: mandatoryong | Lemma: mandatoryo | a56_253to258_tags.txt | SN:70 | TN:12
+Word: mapanlikhang | Lemma: likha | a56_238to240_tags.txt | SN:22 | TN:22
+Word: mapanuring | Lemma: suri | a56_238to240_tags.txt | SN:18 | TN:23
+Word: maraming | Lemma: dami | a56_253to258_tags.txt | SN:2 | TN:15
+Word: maraming | Lemma: maraming | cua_bernice_s11_tags.txt | SN:79 | TN:3
+Word: maraming | Lemma: marami | lopez_clement_s11_tags.txt | SN:76 | TN:32
+Word: marangyang | Lemma: rangya | a56_251_tags.txt | SN:10 | TN:8
+Word: marangyang | Lemma: rangya | a56_251_tags.txt | SN:12 | TN:4
+Word: masalawahang | Lemma: salawa | a56_193to197_tags.txt | SN:3 | TN:2
+Word: masamang | Lemma: sama | a56_211_tags.txt | SN:5 | TN:20
+Word: masayang | Lemma: saya | a56_211_tags.txt | SN:17 | TN:2
+Word: masayang | Lemma: saya | a56_238to240_tags.txt | SN:62 | TN:35
+Word: masiglang | Lemma: sigla | a56_264_tags.txt | SN:4 | TN:6
+Word: masiglang | Lemma: sigla | a56_264_tags.txt | SN:23 | TN:3
+Word: masyadong | Lemma: masyado | a56_193to197_tags.txt | SN:81 | TN:29
+Word: masyadong | Lemma: masyado | lopez_clement_s11_tags.txt | SN:52 | TN:38
+Word: matandang | Lemma: tanda | a56_250_tags.txt | SN:11 | TN:4
+Word: matandang | Lemma: tanda | cua_bernice_s11_tags.txt | SN:33 | TN:2
+Word: matatandang | Lemma: tanda | a56_181to186_tags.txt | SN:67 | TN:23
+Word: matinding | Lemma: tindi | a56_181to186_tags.txt | SN:12 | TN:18
+Word: matinding | Lemma: tindi | a56_224_tags.txt | SN:3 | TN:26
+Word: matinding | Lemma: tindi | a56_248_tags.txt | SN:4 | TN:31
+Word: minimong | Lemma: minimo | a56_260_tags.txt | SN:2 | TN:35
+Word: minimong | Lemma: minimo | a56_260_tags.txt | SN:8 | TN:29
+Word: mismong | Lemma: mismo | a56_249_tags.txt | SN:13 | TN:7
+Word: mismong | Lemma: mismo | a56_253to258_tags.txt | SN:53 | TN:16
+Word: modernong | Lemma: moderno | a56_250_tags.txt | SN:1 | TN:29
+Word: modernong | Lemma: moderno | a56_193to197_tags.txt | SN:75 | TN:12
+Word: modernong | Lemma: moderno | a56_193to197_tags.txt | SN:98 | TN:14
+Word: modernong | Lemma: moderno | a56_198_tags.txt | SN:15 | TN:44
+Word: modernong | Lemma: moderno | a56_253to258_tags.txt | SN:91 | TN:14
+Word: modernong | Lemma: moderno | a56_212_tags.txt | SN:3 | TN:12
+Word: modernong | Lemma: moderno | a56_226_tags.txt | SN:4 | TN:28
+Word: modernong | Lemma: moderno | lopez_clement_s11_tags.txt | SN:57 | TN:5
+Word: modernong | Lemma: moderno | a56_226_tags.txt | SN:6 | TN:27
+Word: modernong | Lemma: moderno | a56_235to237_tags.txt | SN:64 | TN:4
+Word: modernong | Lemma: moderno | a56_253to258_tags.txt | SN:46 | TN:17
+Word: modernong | Lemma: moderno | a56_253to258_tags.txt | SN:32 | TN:7
+Word: mukhang | Lemma: mukha | a56_253to258_tags.txt | SN:102 | TN:15
+Word: muling | Lemma: muli | a56_248_tags.txt | SN:30 | TN:14
+Word: munting | Lemma: munti | a56_181to186_tags.txt | SN:74 | TN:25
+Word: munting | Lemma: munti | a56_181to186_tags.txt | SN:87 | TN:18
+Word: nabuong | Lemma: nabuo | a56_247_tags.txt | SN:25 | TN:4
+Word: nadagdagang | Lemma: dagdag | a56_259_tags.txt | SN:18 | TN:18
+Word: nag-iisang | Lemma: isa | a56_263_tags.txt | SN:25 | TN:40
+Word: nag-iisang | Lemma: isa | a56_264_tags.txt | SN:5 | TN:1
+Word: naghaharing | Lemma: hari | a56_263_tags.txt | SN:15 | TN:14
+Word: nagsasariling | Lemma: sarili | a56_264_tags.txt | SN:19 | TN:27
+Word: nakababatang | Lemma: bata | a56_226_tags.txt | SN:23 | TN:2
+Word: nakakahiyang | Lemma: hiya | a56_193to197_tags.txt | SN:30 | TN:18
+Word: nakakalamang | Lemma: lamang | a56_264_tags.txt | SN:17 | TN:9
+Word: nakausling | Lemma: usli | a56_181to186_tags.txt | SN:31 | TN:57
+Word: nakikitang | Lemma: kita | a56_260_tags.txt | SN:11 | TN:28
+Word: nakopyang | Lemma: kopya | a56_181to186_tags.txt | SN:58 | TN:15
+Word: namumunong | Lemma: puno | a56_259_tags.txt | SN:11 | TN:23
+Word: nangungunang | Lemma: una | a56_226_tags.txt | SN:5 | TN:9
+Word: nangungunang | Lemma: una | lopez_clement_s11_tags.txt | SN:50 | TN:16
+Word: napaagang | Lemma: aga | a56_224_tags.txt | SN:19 | TN:4
+Word: napapanahong | Lemma: panahon | a56_259_tags.txt | SN:28 | TN:32
+Word: natatanging | Lemma: tangi | a56_253to258_tags.txt | SN:44 | TN:5
+Word: natitirang | Lemma: tira | a56_249_tags.txt | SN:21 | TN:9
+Word: natititrang | Lemma: tira | a56_235to237_tags.txt | SN:1 | TN:31
+Word: naturalisadong | Lemma: naturalisado | a56_224_tags.txt | SN:26 | TN:1
+Word: naunang | Lemma: una | a56_238to240_tags.txt | SN:10 | TN:7
+Word: pabangong | Lemma: pabango | a56_238to240_tags.txt | SN:42 | TN:8
+Word: pagkukunwaring | Lemma: kunwari | a56_212_tags.txt | SN:31 | TN:14
+Word: pagtatangkang | Lemma: tangka | a56_235to237_tags.txt | SN:38 | TN:6
+Word: palakaibigang | Lemma: ibig | a56_181to186_tags.txt | SN:8 | TN:68
+Word: pamamahalang | Lemma: pamamahala | a56_264_tags.txt | SN:16 | TN:3
+Word: pamamahalang | Lemma: pamamahala | a56_264_tags.txt | SN:17 | TN:5
+Word: pamantayang | Lemma: pamantayan | a56_260_tags.txt | SN:13 | TN:11
+Word: pambansang | Lemma: bansa | a56_238to240_tags.txt | SN:71 | TN:26
+Word: pambansang | Lemma: bansa | a56_198_tags.txt | SN:26 | TN:9
+Word: pambansang | Lemma: bansa | lopez_clement_s11_tags.txt | SN:61 | TN:8
+Word: pambansang | Lemma: bansa | a56_204_tags.txt | SN:20 | TN:17
+Word: pambansang | Lemma: bansa | a56_228_tags.txt | SN:19 | TN:16
+Word: pambansang | Lemma: bansa | a56_253to258_tags.txt | SN:40 | TN:7
+Word: pambansang | Lemma: bansa | a56_259_tags.txt | SN:8 | TN:12
+Word: pambansang | Lemma: bansa | a56_263_tags.txt | SN:24 | TN:4
+Word: pambansang | Lemma: bansa | lopez_clement_s11_tags.txt | SN:18 | TN:34
+Word: pambansang | Lemma: bansa | lopez_clement_s11_tags.txt | SN:19 | TN:38
+Word: pambatasang | Lemma: batas | a56_193to197_tags.txt | SN:47 | TN:18
+Word: pambihirang | Lemma: bihira | a56_214_tags.txt | SN:43 | TN:18
+Word: pambihirang | Lemma: bihira | a56_225_tags.txt | SN:25 | TN:27
+Word: pampalakasang | Lemma: lakas | a56_235to237_tags.txt | SN:49 | TN:32
+Word: pampamilyang | Lemma: pamilya | a56_238to240_tags.txt | SN:73 | TN:3
+Word: pampanguluhang | Lemma: ulo | a56_226_tags.txt | SN:6 | TN:31
+Word: pampanguluhang | Lemma: ulo | a56_235to237_tags.txt | SN:20 | TN:8
+Word: pampanitikang | Lemma: panitikan | a56_235to237_tags.txt | SN:56 | TN:2
+Word: pampanitikang | Lemma: panitikan | lopez_clement_s11_tags.txt | SN:5 | TN:37
+Word: pampublikong | Lemma: publiko | a56_193to197_tags.txt | SN:21 | TN:15
+Word: pampublikong | Lemma: publiko | a56_211_tags.txt | SN:7 | TN:13
+Word: pampublikong | Lemma: publiko | a56_211_tags.txt | SN:13 | TN:12
+Word: pampublikong | Lemma: publiko | a56_225_tags.txt | SN:13 | TN:14
+Word: pampublikong | Lemma: publiko | a56_226_tags.txt | SN:4 | TN:4
+Word: pampublikong | Lemma: publiko | a56_235to237_tags.txt | SN:23 | TN:30
+Word: pampulitikang | Lemma: pulitiko | a56_193to197_tags.txt | SN:36 | TN:35
+Word: pampulitikang | Lemma: pulitika | a56_227_tags.txt | SN:7 | TN:3
+Word: pampulitikong | Lemma: pulitiko | a56_225_tags.txt | SN:32 | TN:13
+Word: pandaigdigang | Lemma: daigdig | a56_227_tags.txt | SN:27 | TN:16
+Word: pandaigdigang | Lemma: daigdig | a56_235to237_tags.txt | SN:5 | TN:20
+Word: pandaigdigang | Lemma: daigdig | a56_238to240_tags.txt | SN:48 | TN:38
+Word: pandaigdigang | Lemma: daigdig | a56_261_tags.txt | SN:18 | TN:14
+Word: pandayuhang | Lemma: dayuhan | a56_235to237_tags.txt | SN:25 | TN:30
+Word: pang-akademikong | Lemma: akademiko | lopez_clement_s11_tags.txt | SN:53 | TN:20
+Word: pang-akademikong | Lemma: akademiko | lopez_clement_s11_tags.txt | SN:60 | TN:7
+Word: pang-akademikong | Lemma: akademiko | lopez_clement_s11_tags.txt | SN:64 | TN:19
+Word: pang-isking | Lemma: iski | a56_227_tags.txt | SN:23 | TN:18
+Word: panghuling | Lemma: huli | lopez_clement_s11_tags.txt | SN:34 | TN:9
+Word: pangkaisipang | Lemma: isip | a56_181to186_tags.txt | SN:32 | TN:1
+Word: pangkalahatang | Lemma: lahat | a56_260_tags.txt | SN:17 | TN:1
+Word: pangkaraniwang | Lemma: karaniwan | a56_193to197_tags.txt | SN:28 | TN:52
+Word: pangkaraniwang | Lemma: karaniwan | a56_226_tags.txt | SN:3 | TN:18
+Word: pangkaraniwang | Lemma: karaniwan | cua_bernice_s11_tags.txt | SN:84 | TN:19
+Word: pangkaraniwang | Lemma: karaniwan | lopez_clement_s11_tags.txt | SN:41 | TN:3
+Word: pangkatawang | Lemma: katawan | a56_181to186_tags.txt | SN:30 | TN:7
+Word: pangkatawang | Lemma: katawan | a56_181to186_tags.txt | SN:142 | TN:35
+Word: pangkawang-gawang | Lemma: kawang-gawa | a56_238to240_tags.txt | SN:45 | TN:6
+Word: pangmagulang | Lemma: gulang | a56_181to186_tags.txt | SN:139 | TN:23
+Word: pangmagulang | Lemma: gulang | a56_181to186_tags.txt | SN:139 | TN:28
+Word: pangmasang | Lemma: masa | lopez_clement_s11_tags.txt | SN:74 | TN:18
+Word: pangunahing | Lemma: una | a56_248_tags.txt | SN:30 | TN:5
+Word: pangunahing | Lemma: una | a56_181to186_tags.txt | SN:134 | TN:3
+Word: pangunahing | Lemma: una | a56_181to186_tags.txt | SN:93 | TN:33
+Word: pangunahing | Lemma: una | a56_261_tags.txt | SN:27 | TN:4
+Word: pangunahing | Lemma: una | a56_253to258_tags.txt | SN:136 | TN:5
+Word: pangunahing | Lemma: una | a56_181to186_tags.txt | SN:125 | TN:10
+Word: pangunahing | Lemma: una | lopez_clement_s11_tags.txt | SN:52 | TN:31
+Word: pangunahing | Lemma: una | a56_198_tags.txt | SN:13 | TN:24
+Word: pangunahing | Lemma: una | a56_260_tags.txt | SN:4 | TN:1
+Word: pangunahing | Lemma: una | a56_223_tags.txt | SN:11 | TN:19
+Word: pangunahing | Lemma: una | a56_248_tags.txt | SN:3 | TN:1
+Word: pangunahing | Lemma: una | a56_226_tags.txt | SN:6 | TN:14
+Word: pangunahing | Lemma: una | lopez_clement_s11_tags.txt | SN:47 | TN:16
+Word: pangunahing | Lemma: una | a56_253to258_tags.txt | SN:89 | TN:17
+Word: pangunahing | Lemma: una | a56_193to197_tags.txt | SN:105 | TN:9
+Word: pangunahing | Lemma: una | a56_261_tags.txt | SN:15 | TN:37
+Word: pangunahing | Lemma: una | a56_228_tags.txt | SN:14 | TN:21
+Word: pangunahing | Lemma: una | a56_193to197_tags.txt | SN:9 | TN:2
+Word: pangunahing | Lemma: una | a56_213_tags.txt | SN:6 | TN:40
+Word: pangunahing | Lemma: una | a56_193to197_tags.txt | SN:18 | TN:16
+Word: pangunahing | Lemma: una | a56_193to197_tags.txt | SN:37 | TN:29
+Word: pangunahing | Lemma: una | a56_193to197_tags.txt | SN:38 | TN:18
+Word: pangunahing | Lemma: una | a56_193to197_tags.txt | SN:59 | TN:82
+Word: pangunahing | Lemma: una | lopez_clement_s11_tags.txt | SN:67 | TN:10
+Word: pangunahing | Lemma: pangunahing | a56_253to258_tags.txt | SN:123 | TN:35
+Word: pangunahing | Lemma: una | a56_212_tags.txt | SN:3 | TN:42
+Word: pangunahing | Lemma: una | a56_264_tags.txt | SN:29 | TN:7
+Word: pangunahing | Lemma: una | lopez_clement_s11_tags.txt | SN:61 | TN:4
+Word: pangunahing | Lemma: unah | a56_212_tags.txt | SN:11 | TN:13
+Word: pangunahing | Lemma: una | a56_193to197_tags.txt | SN:72 | TN:8
+Word: pangunahing | Lemma: una | a56_261_tags.txt | SN:15 | TN:1
+Word: pangunahing | Lemma: una | a56_264_tags.txt | SN:19 | TN:17
+Word: panimulang | Lemma: simula | a56_213_tags.txt | SN:37 | TN:4
+Word: panimulang | Lemma: mula | a56_253to258_tags.txt | SN:85 | TN:10
+Word: panimulang | Lemma: mula | a56_253to258_tags.txt | SN:161 | TN:9
+Word: paninirang | Lemma: sira | a56_225_tags.txt | SN:25 | TN:38
+Word: panlipunang | Lemma: lipon | a56_181to186_tags.txt | SN:115 | TN:2
+Word: panngunahing | Lemma: una | a56_253to258_tags.txt | SN:124 | TN:35
+Word: pantaong | Lemma: tao | a56_181to186_tags.txt | SN:37 | TN:12
+Word: parehong | Lemma: parehong | a56_253to258_tags.txt | SN:123 | TN:29
+Word: parehong | Lemma: pareho | a56_253to258_tags.txt | SN:124 | TN:29
+Word: parehong | Lemma: pareho | a56_253to258_tags.txt | SN:161 | TN:18
+Word: parehong | Lemma: pareho | cua_bernice_s11_tags.txt | SN:36 | TN:2
+Word: parehong | Lemma: pareho | cua_bernice_s11_tags.txt | SN:77 | TN:2
+Word: parliyamentayong | Lemma: parliyamentayo | a56_261_tags.txt | SN:1 | TN:7
+Word: patingi-tinging | Lemma: tingi | a56_238to240_tags.txt | SN:44 | TN:19
+Word: paunang | Lemma: una | a56_227_tags.txt | SN:4 | TN:61
+Word: paunang | Lemma: una | lopez_clement_s11_tags.txt | SN:48 | TN:5
+Word: permanenteng | Lemma: permanente | a56_235to237_tags.txt | SN:4 | TN:8
+Word: permanenteng | Lemma: permanente | a56_235to237_tags.txt | SN:7 | TN:43
+Word: perpektong | Lemma: perpekto | a56_253to258_tags.txt | SN:137 | TN:16
+Word: posibleng | Lemma: posible | a56_200_tags.txt | SN:4 | TN:7
+Word: posibleng | Lemma: posible | a56_260_tags.txt | SN:19 | TN:15
+Word: prestihiyosong | Lemma: prestihiyoso | a56_224_tags.txt | SN:17 | TN:41
+Word: pribadong | Lemma: pribado | a56_235to237_tags.txt | SN:16 | TN:18
+Word: publikong-pribadong | Lemma: publiko-pribado | a56_248_tags.txt | SN:8 | TN:24
+Word: pulang | Lemma: pula | cua_bernice_s11_tags.txt | SN:7 | TN:7
+Word: punong | Lemma: puno | a56_200_tags.txt | SN:18 | TN:12
+Word: punong | Lemma: puno | a56_213_tags.txt | SN:41 | TN:24
+Word: punong | Lemma: puno | a56_228_tags.txt | SN:9 | TN:14
+Word: punong | Lemma: puno | a56_248_tags.txt | SN:2 | TN:18
+Word: purong | Lemma: puro | a56_181to186_tags.txt | SN:35 | TN:26
+Word: puting | Lemma: puti | a56_181to186_tags.txt | SN:31 | TN:79
+Word: puting | Lemma: puti | a56_228_tags.txt | SN:17 | TN:13
+Word: puting | Lemma: puti | cua_bernice_s11_tags.txt | SN:7 | TN:23
+Word: puting | Lemma: puti | cua_bernice_s11_tags.txt | SN:7 | TN:41
+Word: puting | Lemma: puti | cua_bernice_s11_tags.txt | SN:33 | TN:15
+Word: relihiyosong | Lemma: relihiyoso | a56_235to237_tags.txt | SN:69 | TN:5
+Word: reserbang | Lemma: reserba | a56_261_tags.txt | SN:13 | TN:1
+Word: sa | Lemma: sa | a56_260_tags.txt | SN:18 | TN:11
+Word: sambayanang | Lemma: bayan | a56_261_tags.txt | SN:23 | TN:14
+Word: sapilitang | Lemma: sapilitan | a56_238to240_tags.txt | SN:68 | TN:13
+Word: sapilitang | Lemma: pilit | a56_264_tags.txt | SN:11 | TN:4
+Word: saradong | Lemma: sarado | a56_200_tags.txt | SN:40 | TN:19
+Word: saradong | Lemma: sarado | a56_253to258_tags.txt | SN:66 | TN:2
+Word: sariling | Lemma: sarili | a56_212_tags.txt | SN:1 | TN:19
+Word: sariling | Lemma: sarili | a56_235to237_tags.txt | SN:35 | TN:9
+Word: sariling | Lemma: sariling | a56_238to240_tags.txt | SN:14 | TN:58
+Word: sariling | Lemma: sarili | a56_238to240_tags.txt | SN:29 | TN:6
+Word: sariling | Lemma: sarili | a56_247_tags.txt | SN:5 | TN:20
+Word: sariling | Lemma: sarili | a56_259_tags.txt | SN:27 | TN:21
+Word: sariling | Lemma: sarili | lopez_clement_s11_tags.txt | SN:71 | TN:4
+Word: sekundaryang | Lemma: sekundarya | a56_235to237_tags.txt | SN:16 | TN:8
+Word: seriosong | Lemma: serioso | cua_bernice_s11_tags.txt | SN:66 | TN:5
+Word: seryosong | Lemma: seryoso | a56_214_tags.txt | SN:12 | TN:11
+Word: seryosong | Lemma: seryoso | lopez_clement_s11_tags.txt | SN:58 | TN:12
+Word: sibilisadong | Lemma: sibilisado | a56_181to186_tags.txt | SN:10 | TN:17
+Word: simpleng | Lemma: simple | a56_198_tags.txt | SN:8 | TN:1
+Word: socio-ekonomikong | Lemma: socio-ekonomiko | a56_181to186_tags.txt | SN:99 | TN:18
+Word: solong | Lemma: solo | a56_253to258_tags.txt | SN:85 | TN:5
+Word: solong | Lemma: solo | lopez_clement_s11_tags.txt | SN:68 | TN:15
+Word: spesipikong | Lemma: spesipiko | a56_200_tags.txt | SN:12 | TN:3
+Word: sukdulang | Lemma: sukdol | a56_264_tags.txt | SN:26 | TN:1
+Word: tahasang | Lemma: tahas | a56_235to237_tags.txt | SN:17 | TN:27
+Word: tamang | Lemma: tama | a56_193to197_tags.txt | SN:46 | TN:2
+Word: tamang | Lemma: tama | a56_193to197_tags.txt | SN:74 | TN:12
+Word: tamang | Lemma: tama | a56_213_tags.txt | SN:2 | TN:7
+Word: tanging | Lemma: tangi | a56_193to197_tags.txt | SN:41 | TN:2
+Word: tanging | Lemma: tangi | a56_235to237_tags.txt | SN:70 | TN:9
+Word: tanging | Lemma: tanging | a56_248_tags.txt | SN:29 | TN:23
+Word: tanging | Lemma: tangi | a56_253to258_tags.txt | SN:70 | TN:7
+Word: tanging | Lemma: tangi | a56_253to258_tags.txt | SN:86 | TN:33
+Word: tanging | Lemma: tangi | a56_253to258_tags.txt | SN:164 | TN:5
+Word: taunang | Lemma: taon | a56_227_tags.txt | SN:14 | TN:9
+Word: taunang | Lemma: taon | a56_264_tags.txt | SN:23 | TN:12
+Word: taunang | Lemma: taon | cua_bernice_s11_tags.txt | SN:84 | TN:32
+Word: timog-kanlurang | Lemma: timog-kanluran | a56_249_tags.txt | SN:19 | TN:11
+Word: timog-kanlurang | Lemma: timog-kanluran | a56_250_tags.txt | SN:24 | TN:21
+Word: timog-kanlurang | Lemma: timog-kanluran | a56_263_tags.txt | SN:1 | TN:14
+Word: totalitaryong | Lemma: totalitarya | a56_228_tags.txt | SN:5 | TN:35
+Word: tuwirang | Lemma: tuwid | a56_227_tags.txt | SN:18 | TN:5
+Word: urbanong | Lemma: urbano | a56_250_tags.txt | SN:16 | TN:11
+Word: urbanong | Lemma: urbano | a56_250_tags.txt | SN:21 | TN:8
+Word: wastong | Lemma: wasto | a56_181to186_tags.txt | SN:30 | TN:22
+Word: wastong | Lemma: wasto | a56_181to186_tags.txt | SN:89 | TN:8
+Word: wastong | Lemma: wasto | a56_181to186_tags.txt | SN:131 | TN:12

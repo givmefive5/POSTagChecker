@@ -1,4 +1,4 @@
 POS Tag: VB_TS_OB
-Itinuring | a56_247_tags.txt | SN:4 | TN:0
-pinagtanggol | a56_228_tags.txt | SN:20 | TN:4
-ipagpatuloy | a56_238to240_tags.txt | SN:26 | TN:2
+Word: Itinuring | Lemma: Turing | a56_247_tags.txt | SN:4 | TN:0
+Word: ipagpatuloy | Lemma: tuloy | a56_238to240_tags.txt | SN:26 | TN:2
+Word: pinagtanggol | Lemma: tanggol | a56_228_tags.txt | SN:20 | TN:4

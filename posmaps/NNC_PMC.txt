@@ -1,2 +1,2 @@
 POS Tag: NNC_PMC
-larong | a56_260_tags.txt | SN:1 | TN:7
+Word: larong | Lemma: laro | a56_260_tags.txt | SN:1 | TN:7

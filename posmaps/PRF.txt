@@ -1,2 +1,2 @@
 POS Tag: PRF
-Yung | cua_bernice_s11_tags.txt | SN:87 | TN:0
+Word: Yung | Lemma: Yung | cua_bernice_s11_tags.txt | SN:87 | TN:0

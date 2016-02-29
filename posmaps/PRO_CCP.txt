@@ -1,7 +1,37 @@
 POS Tag: PRO_CCP
-ganitong | lopez_clement_s11_tags.txt | SN:77 | TN:8
-itong | a56_181to186_tags.txt | SN:6 | TN:74
-Itong | a56_259_tags.txt | SN:7 | TN:0
-ibong | cua_bernice_s11_tags.txt | SN:3 | TN:4
-gayong | lopez_clement_s11_tags.txt | SN:42 | TN:19
-nitong | a56_200_tags.txt | SN:29 | TN:1
+Word: Itong | Lemma: Ito | a56_259_tags.txt | SN:7 | TN:0
+Word: Itong | Lemma: Ito | cua_bernice_s11_tags.txt | SN:2 | TN:0
+Word: Itong | Lemma: Ito | cua_bernice_s11_tags.txt | SN:21 | TN:0
+Word: Itong | Lemma: Ito | cua_bernice_s11_tags.txt | SN:21 | TN:22
+Word: ganitong | Lemma: ganito | lopez_clement_s11_tags.txt | SN:77 | TN:8
+Word: gayong | Lemma: gayon | lopez_clement_s11_tags.txt | SN:42 | TN:19
+Word: ibong | Lemma: ibon | cua_bernice_s11_tags.txt | SN:3 | TN:4
+Word: itong | Lemma: ito | a56_181to186_tags.txt | SN:46 | TN:1
+Word: itong | Lemma: ito | a56_181to186_tags.txt | SN:6 | TN:74
+Word: itong | Lemma: ito | a56_181to186_tags.txt | SN:45 | TN:22
+Word: itong | Lemma: ito | lopez_clement_s11_tags.txt | SN:51 | TN:12
+Word: itong | Lemma: ito | a56_224_tags.txt | SN:29 | TN:19
+Word: itong | Lemma: itong | a56_259_tags.txt | SN:20 | TN:42
+Word: itong | Lemma: ito | a56_226_tags.txt | SN:23 | TN:21
+Word: itong | Lemma: ito | a56_225_tags.txt | SN:1 | TN:3
+Word: itong | Lemma: ito | a56_181to186_tags.txt | SN:87 | TN:55
+Word: itong | Lemma: ito | a56_181to186_tags.txt | SN:90 | TN:1
+Word: itong | Lemma: ito | a56_181to186_tags.txt | SN:108 | TN:6
+Word: itong | Lemma: ito | a56_181to186_tags.txt | SN:134 | TN:1
+Word: itong | Lemma: ito | a56_198_tags.txt | SN:7 | TN:3
+Word: itong | Lemma: ito | a56_227_tags.txt | SN:15 | TN:13
+Word: itong | Lemma: ito | lopez_clement_s11_tags.txt | SN:40 | TN:29
+Word: itong | Lemma: ito | a56_204_tags.txt | SN:7 | TN:27
+Word: itong | Lemma: itong | a56_204_tags.txt | SN:15 | TN:18
+Word: itong | Lemma: ito | a56_211_tags.txt | SN:27 | TN:1
+Word: itong | Lemma: ito | a56_260_tags.txt | SN:8 | TN:7
+Word: nitong | Lemma: nito | a56_235to237_tags.txt | SN:5 | TN:32
+Word: nitong | Lemma: nito | a56_200_tags.txt | SN:29 | TN:1
+Word: nitong | Lemma: nito | a56_226_tags.txt | SN:5 | TN:17
+Word: nitong | Lemma: nito | a56_228_tags.txt | SN:3 | TN:16
+Word: nitong | Lemma: nito | cua_bernice_s11_tags.txt | SN:21 | TN:12
+Word: nitong | Lemma: nito | lopez_clement_s11_tags.txt | SN:71 | TN:15
+Word: nitong | Lemma: nito | cua_bernice_s11_tags.txt | SN:48 | TN:4
+Word: nitong | Lemma: nito | cua_bernice_s11_tags.txt | SN:49 | TN:25
+Word: nitong | Lemma: nito | lopez_clement_s11_tags.txt | SN:49 | TN:17
+Word: nitong | Lemma: nito | lopez_clement_s11_tags.txt | SN:50 | TN:29

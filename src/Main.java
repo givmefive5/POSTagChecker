@@ -4,6 +4,8 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.io.PrintWriter;
 import java.util.ArrayList;
+import java.util.Collections;
+import java.util.Comparator;
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Iterator;
@@ -50,24 +52,24 @@ public class Main {
 					if (!posMap.containsKey(posSplit[k])) {
 						posMap.put(posSplit[k], new HashSet<POSInstance>());
 					}
-					System.out.println(lem.getName() + " " + lemSplit.length + " " + posSplit.length + " " + wordSplit.length + " " + (j+1) + " " + k);
-					POSInstance pi = new POSInstance(posSplit[k], wordSplit[k], pos.getName(), j+1, k);
+					System.out.println(lem.getName() + " " + lemSplit.length + " " + posSplit.length + " "
+							+ wordSplit.length + " " + (j + 1) + " " + k);
+					POSInstance pi = new POSInstance(posSplit[k], wordSplit[k], lemSplit[k], pos.getName(), j + 1, k);
 					posMap.get(posSplit[k]).add(pi);
 				}
 			}
 		}
-		
 
 		Iterator it = posMap.entrySet().iterator();
 		while (it.hasNext()) {
 			Map.Entry pair = (Map.Entry) it.next();
 			HashSet<POSInstance> words = (HashSet<POSInstance>) pair.getValue();
-			outputToFile((String)pair.getKey(), words);
+			outputToFile((String) pair.getKey(), words);
 			it.remove(); // avoids a ConcurrentModificationException
 		}
 	}
 
-	private static void outputToFile(String pos, HashSet<POSInstance> words) throws IOException{
+	private static void outputToFile(String pos, HashSet<POSInstance> words) throws IOException {
 		String folder = "posmaps/";
 		String outputPath = folder + pos + ".txt";
 		File f = new File(outputPath);
@@ -75,15 +77,25 @@ public class Main {
 			f.delete();
 			f.createNewFile();
 		}
-		
+
+		List<POSInstance> sortedWords = new ArrayList<>(words);
+		Collections.sort(sortedWords, new Comparator<POSInstance>() {
+			@Override
+			public int compare(POSInstance p1, POSInstance p2) {
+				return p1.getWord().compareTo(p2.getWord());
+			}
+		});
+
 		PrintWriter outFile = new PrintWriter(new FileWriter(outputPath, true));
 		System.out.println("POS Tag: " + pos);
 		outFile.println("POS Tag: " + pos);
-		for (POSInstance s : words){
-			System.out.println(s.getWord() + " | " + s.filename + " | SN:" + s.getSentenceNumber() + " | TN:"  + s.getTokenNumber());
-			outFile.println(s.getWord() + " | " + s.filename + " | SN:" + s.getSentenceNumber() + " | TN:"  + s.getTokenNumber());
+		for (POSInstance s : sortedWords) {
+			System.out.println("Word: " + s.getWord() + " | Lemma: " + s.getLemma() + " | " + s.filename + " | SN:"
+					+ s.getSentenceNumber() + " | TN:" + s.getTokenNumber());
+			outFile.println("Word: " + s.getWord() + " | Lemma: " + s.getLemma() + " | " + s.filename + " | SN:"
+					+ s.getSentenceNumber() + " | TN:" + s.getTokenNumber());
 		}
 		outFile.close();
 	}
-	
+
 }

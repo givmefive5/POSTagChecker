@@ -1,3 +1,3 @@
 POS Tag: RBF_LM
-diumano’y | a56_225_tags.txt | SN:22 | TN:18
-di-umano’y | a56_225_tags.txt | SN:14 | TN:25
+Word: di-umano’y | Lemma: di-umano’y | a56_225_tags.txt | SN:14 | TN:25
+Word: diumano’y | Lemma: diumano’y | a56_225_tags.txt | SN:22 | TN:18

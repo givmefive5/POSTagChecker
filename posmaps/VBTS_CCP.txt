@@ -1,9 +1,9 @@
 POS Tag: VBTS_CCP
-nasabing | a56_193to197_tags.txt | SN:28 | TN:2
-ipinasyang | a56_181to186_tags.txt | SN:6 | TN:38
-nakitang | a56_181to186_tags.txt | SN:118 | TN:19
-natalang | a56_181to186_tags.txt | SN:102 | TN:13
-nanatiling | a56_247_tags.txt | SN:17 | TN:11
-nabawasang | a56_181to186_tags.txt | SN:96 | TN:70
-natagpuang | a56_238to240_tags.txt | SN:14 | TN:48
-nawalang | lopez_clement_s11_tags.txt | SN:52 | TN:43
+Word: ipinasyang | Lemma: pasya | a56_181to186_tags.txt | SN:6 | TN:38
+Word: nabawasang | Lemma: bawas | a56_181to186_tags.txt | SN:96 | TN:70
+Word: nakitang | Lemma: kita | a56_181to186_tags.txt | SN:118 | TN:19
+Word: nanatiling | Lemma: panatili | a56_247_tags.txt | SN:17 | TN:11
+Word: nasabing | Lemma: sabi | a56_193to197_tags.txt | SN:28 | TN:2
+Word: natagpuang | Lemma: tagpo | a56_238to240_tags.txt | SN:14 | TN:48
+Word: natalang | Lemma: tala | a56_181to186_tags.txt | SN:102 | TN:13
+Word: nawalang | Lemma: wala | lopez_clement_s11_tags.txt | SN:52 | TN:43

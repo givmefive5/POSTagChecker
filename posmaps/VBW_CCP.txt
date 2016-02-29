@@ -1,9 +1,13 @@
 POS Tag: VBW_CCP
-mapagkumpitensiyang | a56_253to258_tags.txt | SN:136 | TN:10
-maaring | a56_253to258_tags.txt | SN:173 | TN:3
-magkahalong | a56_238to240_tags.txt | SN:21 | TN:23
-mayroong | a56_224_tags.txt | SN:31 | TN:42
-makukuhang | a56_181to186_tags.txt | SN:59 | TN:6
-maaaring | cua_bernice_s11_tags.txt | SN:72 | TN:9
-masigurong | a56_200_tags.txt | SN:31 | TN:21
-Mayroong | a56_235to237_tags.txt | SN:16 | TN:0
+Word: Mayroong | Lemma: Mayroon | a56_235to237_tags.txt | SN:16 | TN:0
+Word: maaaring | Lemma: maaari | cua_bernice_s11_tags.txt | SN:72 | TN:9
+Word: maaring | Lemma: maari | a56_253to258_tags.txt | SN:173 | TN:3
+Word: magkahalong | Lemma: halo | a56_238to240_tags.txt | SN:21 | TN:23
+Word: makukuhang | Lemma: kuha | a56_181to186_tags.txt | SN:59 | TN:6
+Word: mapagkumpitensiyang | Lemma: kumpitensya | a56_253to258_tags.txt | SN:136 | TN:10
+Word: masigurong | Lemma: siguro | a56_200_tags.txt | SN:31 | TN:21
+Word: mayroong | Lemma: mayroon | a56_224_tags.txt | SN:31 | TN:42
+Word: mayroong | Lemma: mayroon | a56_235to237_tags.txt | SN:18 | TN:5
+Word: mayroong | Lemma: mayroon | a56_235to237_tags.txt | SN:19 | TN:11
+Word: mayroong | Lemma: mayroon | a56_235to237_tags.txt | SN:60 | TN:6
+Word: mayroong | Lemma: mayroon | a56_235to237_tags.txt | SN:72 | TN:4

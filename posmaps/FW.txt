@@ -1,445 +1,600 @@
 POS Tag: FW
-fissures | a56_181to186_tags.txt | SN:27 | TN:48
-polarizing | a56_193to197_tags.txt | SN:90 | TN:20
-egg | a56_181to186_tags.txt | SN:41 | TN:19
-arteries | a56_181to186_tags.txt | SN:97 | TN:21
-boys | a56_198_tags.txt | SN:13 | TN:11
-liquids | a56_200_tags.txt | SN:9 | TN:14
-advance | lopez_clement_s11_tags.txt | SN:26 | TN:1
-equations | a56_193to197_tags.txt | SN:96 | TN:35
-becoming_a_mother_makes_you_a_grown-up | a56_238to240_tags.txt | SN:14 | TN:62
-karyotype | a56_181to186_tags.txt | SN:39 | TN:31
-predictable | a56_238to240_tags.txt | SN:22 | TN:39
-fluid | a56_181to186_tags.txt | SN:84 | TN:10
-circumpolar | cua_bernice_s11_tags.txt | SN:16 | TN:8
-chromosomal | a56_181to186_tags.txt | SN:34 | TN:1
-counters | a56_181to186_tags.txt | SN:92 | TN:23
-pennants | a56_252_tags.txt | SN:16 | TN:8
-neutral | a56_200_tags.txt | SN:39 | TN:13
-umbilical | a56_181to186_tags.txt | SN:72 | TN:38
-ray | a56_193to197_tags.txt | SN:64 | TN:27
-eclipses | a56_193to197_tags.txt | SN:73 | TN:16
-analysis | a56_181to186_tags.txt | SN:127 | TN:7
-tallow | a56_198_tags.txt | SN:2 | TN:12
-matris | a56_181to186_tags.txt | SN:74 | TN:18
-lanolin | a56_198_tags.txt | SN:4 | TN:17
-dubbin | a56_198_tags.txt | SN:7 | TN:18
-chemical | a56_200_tags.txt | SN:3 | TN:12
-clutch | a56_259_tags.txt | SN:28 | TN:21
-flight | cua_bernice_s11_tags.txt | SN:54 | TN:6
-electromagnetism | a56_193to197_tags.txt | SN:91 | TN:8
-chapters | a56_238to240_tags.txt | SN:63 | TN:13
-craniofacial | a56_181to186_tags.txt | SN:119 | TN:25
-yellow | a56_200_tags.txt | SN:10 | TN:42
-tumor-suppressor | a56_181to186_tags.txt | SN:96 | TN:58
-submarine | a56_253to258_tags.txt | SN:104 | TN:9
-proteins | a56_181to186_tags.txt | SN:104 | TN:30
-by | a56_181to186_tags.txt | SN:90 | TN:4
-civil | a56_193to197_tags.txt | SN:34 | TN:29
-sensory-neural | a56_181to186_tags.txt | SN:94 | TN:32
-acquisition | lopez_clement_s11_tags.txt | SN:5 | TN:10
-pitcher’s | a56_260_tags.txt | SN:11 | TN:11
-God | a56_253to258_tags.txt | SN:150 | TN:31
-winners | a56_253to258_tags.txt | SN:39 | TN:9
-webbed | cua_bernice_s11_tags.txt | SN:31 | TN:8
-sets | a56_253to258_tags.txt | SN:51 | TN:19
-unlimited | a56_252_tags.txt | SN:12 | TN:13
-sex | a56_181to186_tags.txt | SN:68 | TN:21
-jobos | a56_200_tags.txt | SN:39 | TN:5
-bat-and-ball | a56_253to258_tags.txt | SN:45 | TN:19
-blood | a56_181to186_tags.txt | SN:72 | TN:40
-lymphocyte | a56_181to186_tags.txt | SN:137 | TN:8
-the | a56_259_tags.txt | SN:28 | TN:19
-interest.oss | lopez_clement_s11_tags.txt | SN:72 | TN:13
-palpebral | a56_181to186_tags.txt | SN:27 | TN:47
-encroachments | a56_193to197_tags.txt | SN:53 | TN:23
-phenomena | a56_193to197_tags.txt | SN:99 | TN:13
-lacrosse | a56_238to240_tags.txt | SN:72 | TN:6
-septal | a56_181to186_tags.txt | SN:94 | TN:20
-garde | a56_247_tags.txt | SN:2 | TN:21
-de | a56_235to237_tags.txt | SN:35 | TN:15
-Comunidade | a56_263_tags.txt | SN:18 | TN:32
-genetically | a56_181to186_tags.txt | SN:112 | TN:32
-ventricular | a56_181to186_tags.txt | SN:94 | TN:19
-armour | a56_214_tags.txt | SN:16 | TN:13
-acid | a56_181to186_tags.txt | SN:138 | TN:20
-familial | a56_181to186_tags.txt | SN:53 | TN:3
-Whatever_Happened_to | a56_225_tags.txt | SN:20 | TN:17
-shipping | a56_212_tags.txt | SN:1 | TN:20
-franca | a56_204_tags.txt | SN:25 | TN:14
-speakers | a56_204_tags.txt | SN:5 | TN:25
-epicanthic | a56_181to186_tags.txt | SN:27 | TN:37
-signal | a56_212_tags.txt | SN:5 | TN:5
-weighted | a56_235to237_tags.txt | SN:20 | TN:36
-area | a56_235to237_tags.txt | SN:46 | TN:23
-flexion | a56_181to186_tags.txt | SN:31 | TN:121
-wave-particle | a56_193to197_tags.txt | SN:112 | TN:17
-direct-to-retail | lopez_clement_s11_tags.txt | SN:52 | TN:3
-gamete | a56_181to186_tags.txt | SN:43 | TN:22
-electromagnetic | a56_193to197_tags.txt | SN:92 | TN:11
-State | a56_253to258_tags.txt | SN:4 | TN:0
-high_enough | a56_238to240_tags.txt | SN:3 | TN:68
-deep | a56_227_tags.txt | SN:19 | TN:23
-dysfunctions | a56_181to186_tags.txt | SN:28 | TN:27
-technical | a56_238to240_tags.txt | SN:3 | TN:26
-production | a56_223_tags.txt | SN:12 | TN:11
-back | a56_253to258_tags.txt | SN:3 | TN:12
-miles | cua_bernice_s11_tags.txt | SN:22 | TN:18
-wetlands | a56_249_tags.txt | SN:14 | TN:6
-vocal_Olympian_for_whom_there_ain't_no_mountain | a56_238to240_tags.txt | SN:3 | TN:64
-Language | a56_263_tags.txt | SN:18 | TN:42
-alpha | a56_181to186_tags.txt | SN:87 | TN:69
-colloidal | a56_200_tags.txt | SN:9 | TN:4
-company | a56_223_tags.txt | SN:12 | TN:12
-human | a56_181to186_tags.txt | SN:39 | TN:30
-live | a56_238to240_tags.txt | SN:63 | TN:14
-gum-arabic | a56_200_tags.txt | SN:18 | TN:4
-translocation | a56_181to186_tags.txt | SN:34 | TN:36
-living | a56_238to240_tags.txt | SN:58 | TN:6
-serous | a56_181to186_tags.txt | SN:94 | TN:37
-home | a56_260_tags.txt | SN:2 | TN:45
-hirundinancae | cua_bernice_s11_tags.txt | SN:48 | TN:18
-material | a56_181to186_tags.txt | SN:38 | TN:9
-micro | a56_193to197_tags.txt | SN:59 | TN:48
-clone | a56_181to186_tags.txt | SN:122 | TN:15
-cancer | a56_181to186_tags.txt | SN:96 | TN:27
-age | a56_181to186_tags.txt | SN:66 | TN:33
-Community | a56_263_tags.txt | SN:18 | TN:39
-otitis | a56_181to186_tags.txt | SN:94 | TN:38
-triplication | a56_181to186_tags.txt | SN:119 | TN:14
-ho | a56_181to186_tags.txt | SN:15 | TN:58
-fouling | a56_253to258_tags.txt | SN:139 | TN:17
-defect | a56_181to186_tags.txt | SN:94 | TN:21
-Sterna | cua_bernice_s11_tags.txt | SN:1 | TN:11
-precursor | a56_181to186_tags.txt | SN:133 | TN:7
-per | a56_248_tags.txt | SN:7 | TN:6
-glycol | a56_200_tags.txt | SN:10 | TN:25
-avante | a56_247_tags.txt | SN:2 | TN:20
-mapping | a56_181to186_tags.txt | SN:123 | TN:4
-in | a56_238to240_tags.txt | SN:63 | TN:15
-punto | a56_247_tags.txt | SN:10 | TN:42
-metal | a56_247_tags.txt | SN:14 | TN:4
-Mies_van_der_Rohe | a56_251_tags.txt | SN:2 | TN:24
-is | a56_214_tags.txt | SN:16 | TN:12
-amniotic | a56_181to186_tags.txt | SN:84 | TN:9
-reinforced | a56_253to258_tags.txt | SN:78 | TN:29
-hypotonia | a56_181to186_tags.txt | SN:31 | TN:36
-heavy | a56_247_tags.txt | SN:14 | TN:3
-reform | a56_253to258_tags.txt | SN:16 | TN:26
-self-propagating | a56_193to197_tags.txt | SN:94 | TN:6
-system | lopez_clement_s11_tags.txt | SN:34 | TN:22
-field | a56_193to197_tags.txt | SN:90 | TN:28
-retinopathy | a56_181to186_tags.txt | SN:97 | TN:25
-integration | lopez_clement_s11_tags.txt | SN:43 | TN:13
-gum | a56_200_tags.txt | SN:10 | TN:21
-dos | a56_263_tags.txt | SN:18 | TN:33
-Língua | a56_263_tags.txt | SN:18 | TN:36
-plate | a56_260_tags.txt | SN:2 | TN:46
-cell | a56_181to186_tags.txt | SN:41 | TN:20
-matter | a56_193to197_tags.txt | SN:87 | TN:17
-K-selected | cua_bernice_s11_tags.txt | SN:83 | TN:22
-distilled | a56_200_tags.txt | SN:35 | TN:11
-summer | cua_bernice_s11_tags.txt | SN:17 | TN:18
-products | a56_200_tags.txt | SN:3 | TN:15
-literature | a56_193to197_tags.txt | SN:52 | TN:23
-chorionic | a56_181to186_tags.txt | SN:72 | TN:29
-tipping | a56_253to258_tags.txt | SN:128 | TN:9
-native | a56_204_tags.txt | SN:5 | TN:24
-conspecifics | cua_bernice_s11_tags.txt | SN:94 | TN:5
-gene-regulator | a56_181to186_tags.txt | SN:106 | TN:4
-fraternity | a56_238to240_tags.txt | SN:63 | TN:12
-man | a56_224_tags.txt | SN:1 | TN:14
-grease | a56_200_tags.txt | SN:14 | TN:7
-atlanto-axial | a56_181to186_tags.txt | SN:31 | TN:98
-product | a56_223_tags.txt | SN:23 | TN:32
-fledging | cua_bernice_s11_tags.txt | SN:81 | TN:3
-bless | a56_253to258_tags.txt | SN:150 | TN:32
-first-out | a56_235to237_tags.txt | SN:18 | TN:33
-off | a56_253to258_tags.txt | SN:139 | TN:18
-bat-at-ball | a56_253to258_tags.txt | SN:23 | TN:1
-species | cua_bernice_s11_tags.txt | SN:48 | TN:12
-corporate | lopez_clement_s11_tags.txt | SN:64 | TN:4
-non-division | a56_253to258_tags.txt | SN:39 | TN:8
-paradisaea | cua_bernice_s11_tags.txt | SN:1 | TN:12
-leukemia | a56_181to186_tags.txt | SN:95 | TN:2
-bacteria | a56_181to186_tags.txt | SN:122 | TN:6
-fastball/change-up | a56_253to258_tags.txt | SN:100 | TN:10
-shoeshine | a56_198_tags.txt | SN:13 | TN:10
-volatility | a56_200_tags.txt | SN:12 | TN:21
-northern | cua_bernice_s11_tags.txt | SN:17 | TN:17
-radio | a56_193to197_tags.txt | SN:97 | TN:21
-arrangement | a56_238to240_tags.txt | SN:63 | TN:24
-high | a56_235to237_tags.txt | SN:52 | TN:9
-modified | a56_181to186_tags.txt | SN:112 | TN:33
-pitches | a56_253to258_tags.txt | SN:128 | TN:10
-administered | a56_253to258_tags.txt | SN:4 | TN:1
-chronic | a56_181to186_tags.txt | SN:94 | TN:36
-riskier | a56_253to258_tags.txt | SN:132 | TN:44
-selected | a56_238to240_tags.txt | SN:59 | TN:7
-powerboat | a56_252_tags.txt | SN:12 | TN:14
-solids | a56_200_tags.txt | SN:9 | TN:16
-heater | a56_200_tags.txt | SN:32 | TN:14
-duality | a56_193to197_tags.txt | SN:112 | TN:18
-concelho/concelhos | a56_264_tags.txt | SN:16 | TN:13
-army | a56_198_tags.txt | SN:32 | TN:38
-emitted | a56_193to197_tags.txt | SN:87 | TN:24
-refered | a56_253to258_tags.txt | SN:128 | TN:5
-prediction | a56_181to186_tags.txt | SN:127 | TN:6
-paperback | lopez_clement_s11_tags.txt | SN:16 | TN:21
-with_medical_and_law_schools | a56_253to258_tags.txt | SN:10 | TN:24
-furrow | a56_181to186_tags.txt | SN:31 | TN:122
-ether | a56_193to197_tags.txt | SN:92 | TN:28
-apoptosis | a56_181to186_tags.txt | SN:136 | TN:6
-best | a56_224_tags.txt | SN:20 | TN:13
-media | a56_181to186_tags.txt | SN:94 | TN:39
-units | a56_213_tags.txt | SN:17 | TN:39
-masa-market | lopez_clement_s11_tags.txt | SN:16 | TN:20
-oil | a56_200_tags.txt | SN:36 | TN:15
-hour | a56_248_tags.txt | SN:7 | TN:7
-and | a56_247_tags.txt | SN:13 | TN:9
-muscle | a56_181to186_tags.txt | SN:112 | TN:4
-of | a56_263_tags.txt | SN:18 | TN:40
-hitter’s | a56_260_tags.txt | SN:11 | TN:16
-ang | a56_253to258_tags.txt | SN:11 | TN:7
-occupied | a56_235to237_tags.txt | SN:46 | TN:22
-mutated | a56_181to186_tags.txt | SN:122 | TN:5
-immune | a56_181to186_tags.txt | SN:95 | TN:4
-disjunction | a56_181to186_tags.txt | SN:52 | TN:15
-social | a56_238to240_tags.txt | SN:69 | TN:34
-equation | a56_193to197_tags.txt | SN:102 | TN:10
-banal | a56_238to240_tags.txt | SN:22 | TN:43
-isochromosome | a56_181to186_tags.txt | SN:50 | TN:35
-singular/plural | a56_264_tags.txt | SN:16 | TN:11
-nondisjuction | a56_181to186_tags.txt | SN:40 | TN:12
-structure | a56_181to186_tags.txt | SN:120 | TN:21
-bista | a56_247_tags.txt | SN:10 | TN:44
-radiation | a56_193to197_tags.txt | SN:93 | TN:13
-bonding | a56_200_tags.txt | SN:14 | TN:26
-exon | a56_181to186_tags.txt | SN:127 | TN:5
-dup | a56_181to186_tags.txt | SN:57 | TN:19
-capita | a56_263_tags.txt | SN:17 | TN:19
-shoaling | cua_bernice_s11_tags.txt | SN:88 | TN:15
-villus | a56_181to186_tags.txt | SN:72 | TN:30
-panchayats | a56_261_tags.txt | SN:13 | TN:6
-advertising | cua_bernice_s11_tags.txt | SN:40 | TN:24
-scene | a56_251_tags.txt | SN:29 | TN:9
-immiscible | a56_200_tags.txt | SN:9 | TN:13
-cover | a56_227_tags.txt | SN:19 | TN:24
-scandal | a56_238to240_tags.txt | SN:72 | TN:7
-protein | a56_181to186_tags.txt | SN:105 | TN:2
-elected_board | a56_253to258_tags.txt | SN:16 | TN:13
-lanes | a56_212_tags.txt | SN:1 | TN:21
-pick-off | a56_253to258_tags.txt | SN:118 | TN:34
-magnetic | a56_193to197_tags.txt | SN:90 | TN:27
-particles | a56_193to197_tags.txt | SN:87 | TN:15
-waves | a56_193to197_tags.txt | SN:82 | TN:13
-antioxidant | a56_181to186_tags.txt | SN:138 | TN:17
-genes | a56_181to186_tags.txt | SN:107 | TN:16
-or_scale | a56_238to240_tags.txt | SN:3 | TN:66
-sampling | a56_181to186_tags.txt | SN:72 | TN:31
-marshes | a56_249_tags.txt | SN:14 | TN:8
-diseases | a56_181to186_tags.txt | SN:101 | TN:11
-congenital | a56_181to186_tags.txt | SN:31 | TN:100
-modelo | lopez_clement_s11_tags.txt | SN:64 | TN:5
-source-publish | lopez_clement_s11_tags.txt | SN:65 | TN:7
-consolidated | a56_253to258_tags.txt | SN:2 | TN:16
-power-sharing | a56_235to237_tags.txt | SN:20 | TN:37
-S. | cua_bernice_s11_tags.txt | SN:48 | TN:23
-subspecies | cua_bernice_s11_tags.txt | SN:16 | TN:18
-shines | a56_198_tags.txt | SN:13 | TN:19
-access | lopez_clement_s11_tags.txt | SN:64 | TN:8
-skeletal | a56_181to186_tags.txt | SN:120 | TN:20
-scan | a56_193to197_tags.txt | SN:59 | TN:67
-facto | a56_235to237_tags.txt | SN:35 | TN:16
-industry | a56_200_tags.txt | SN:4 | TN:15
-palmar | a56_181to186_tags.txt | SN:27 | TN:6
-vomit | a56_198_tags.txt | SN:30 | TN:9
-bases | a56_253to258_tags.txt | SN:115 | TN:7
-swooping | cua_bernice_s11_tags.txt | SN:93 | TN:23
-boots | a56_198_tags.txt | SN:32 | TN:39
-first-in | a56_235to237_tags.txt | SN:18 | TN:31
-operating | lopez_clement_s11_tags.txt | SN:34 | TN:21
-genetic | a56_181to186_tags.txt | SN:30 | TN:9
-phenotype | a56_181to186_tags.txt | SN:117 | TN:11
-forgettable | a56_238to240_tags.txt | SN:18 | TN:10
-print_on_demand | lopez_clement_s11_tags.txt | SN:47 | TN:19
-substances | a56_200_tags.txt | SN:13 | TN:6
-star | a56_247_tags.txt | SN:29 | TN:26
-transverse | a56_181to186_tags.txt | SN:27 | TN:5
-one | a56_224_tags.txt | SN:1 | TN:13
-black | a56_200_tags.txt | SN:10 | TN:35
-garage | a56_247_tags.txt | SN:10 | TN:8
-launch | a56_223_tags.txt | SN:23 | TN:33
-call | cua_bernice_s11_tags.txt | SN:40 | TN:10
-dye | a56_200_tags.txt | SN:10 | TN:38
-print-on-demand | lopez_clement_s11_tags.txt | SN:50 | TN:32
-ash | a56_198_tags.txt | SN:2 | TN:10
-fish | cua_bernice_s11_tags.txt | SN:55 | TN:5
-to | a56_198_tags.txt | SN:30 | TN:8
-polish | a56_198_tags.txt | SN:6 | TN:10
-open | lopez_clement_s11_tags.txt | SN:64 | TN:7
-turpentine | a56_200_tags.txt | SN:10 | TN:12
-fashion | a56_235to237_tags.txt | SN:18 | TN:34
-ratio | a56_235to237_tags.txt | SN:20 | TN:38
-gene-regulating | a56_181to186_tags.txt | SN:104 | TN:29
-agent | a56_200_tags.txt | SN:14 | TN:27
-abortion | a56_181to186_tags.txt | SN:90 | TN:5
-Countries | a56_263_tags.txt | SN:18 | TN:43
-embryo | a56_181to186_tags.txt | SN:46 | TN:30
-run | a56_260_tags.txt | SN:14 | TN:34
-ice | cua_bernice_s11_tags.txt | SN:18 | TN:15
-nondisjunction | a56_181to186_tags.txt | SN:41 | TN:1
-electrons | a56_193to197_tags.txt | SN:107 | TN:13
-ethylene | a56_200_tags.txt | SN:10 | TN:24
-frequency | a56_193to197_tags.txt | SN:107 | TN:17
-loaded | a56_253to258_tags.txt | SN:115 | TN:8
-Portuguesa | a56_263_tags.txt | SN:18 | TN:37
-Portuguese | a56_263_tags.txt | SN:18 | TN:41
-loop | a56_181to186_tags.txt | SN:31 | TN:134
-up | a56_253to258_tags.txt | SN:51 | TN:20
-five | a56_247_tags.txt | SN:29 | TN:25
-virgata | cua_bernice_s11_tags.txt | SN:48 | TN:24
-deficiencies | a56_181to186_tags.txt | SN:95 | TN:5
-imaging | a56_193to197_tags.txt | SN:98 | TN:22
-sections | a56_238to240_tags.txt | SN:57 | TN:6
-elected | a56_253to258_tags.txt | SN:17 | TN:8
-thyroid | a56_181to186_tags.txt | SN:28 | TN:26
-punk | a56_247_tags.txt | SN:10 | TN:4
-regulator | a56_181to186_tags.txt | SN:129 | TN:25
-vital | a56_181to186_tags.txt | SN:109 | TN:34
-wars | a56_193to197_tags.txt | SN:4 | TN:14
-mechanical_laws_of_motion | a56_193to197_tags.txt | SN:102 | TN:20
-coastal | a56_249_tags.txt | SN:14 | TN:5
-unlar | a56_181to186_tags.txt | SN:31 | TN:133
-heavyweight | a56_252_tags.txt | SN:14 | TN:6
-thymus | a56_181to186_tags.txt | SN:137 | TN:5
-classes | a56_181to186_tags.txt | SN:63 | TN:11
-show | a56_224_tags.txt | SN:1 | TN:15
-lampblack | a56_198_tags.txt | SN:7 | TN:11
-vertical | lopez_clement_s11_tags.txt | SN:43 | TN:12
-non | a56_253to258_tags.txt | SN:4 | TN:3
-mice | a56_181to186_tags.txt | SN:37 | TN:8
-speed | a56_214_tags.txt | SN:16 | TN:11
-life | a56_238to240_tags.txt | SN:69 | TN:35
-blues | a56_251_tags.txt | SN:22 | TN:6
-acrtic | a56_235to237_tags.txt | SN:61 | TN:7
-grooved | a56_248_tags.txt | SN:28 | TN:24
-boot | a56_198_tags.txt | SN:6 | TN:20
-shoe | a56_198_tags.txt | SN:6 | TN:9
-jumper | a56_235to237_tags.txt | SN:52 | TN:10
-vittata | cua_bernice_s11_tags.txt | SN:48 | TN:31
-Pinacoteco_do_Estado | a56_247_tags.txt | SN:32 | TN:13
-rounders | a56_253to258_tags.txt | SN:33 | TN:8
-rotation | a56_193to197_tags.txt | SN:90 | TN:38
-war | a56_193to197_tags.txt | SN:34 | TN:30
-volatile | a56_200_tags.txt | SN:13 | TN:5
-wax | a56_200_tags.txt | SN:10 | TN:14
-target | lopez_clement_s11_tags.txt | SN:20 | TN:35
-icurve | a56_253to258_tags.txt | SN:98 | TN:25
-bass | a56_247_tags.txt | SN:13 | TN:10
-cells | a56_181to186_tags.txt | SN:68 | TN:22
-marvel | a56_238to240_tags.txt | SN:3 | TN:27
-typical | a56_181to186_tags.txt | SN:39 | TN:29
-Phenotypically | a56_181to186_tags.txt | SN:51 | TN:0
-folinic | a56_181to186_tags.txt | SN:138 | TN:19
-extant | a56_250_tags.txt | SN:11 | TN:6
-aether | a56_193to197_tags.txt | SN:89 | TN:33
-diabetic | a56_181to186_tags.txt | SN:97 | TN:24
-carbon | a56_200_tags.txt | SN:10 | TN:34
-electron | a56_193to197_tags.txt | SN:106 | TN:21
-hydrophilic | a56_200_tags.txt | SN:14 | TN:6
-syndicated | a56_226_tags.txt | SN:2 | TN:35
-give | a56_253to258_tags.txt | SN:3 | TN:11
-gene | a56_181to186_tags.txt | SN:96 | TN:59
-nationally | a56_226_tags.txt | SN:2 | TN:34
-light | a56_213_tags.txt | SN:17 | TN:38
-neurodegenerative | a56_181to186_tags.txt | SN:101 | TN:10
-cooling | a56_200_tags.txt | SN:40 | TN:22
-style | a56_253to258_tags.txt | SN:104 | TN:10
-aniline | a56_200_tags.txt | SN:10 | TN:41
-waterproofing | a56_200_tags.txt | SN:14 | TN:23
-care | a56_200_tags.txt | SN:3 | TN:14
-racing | a56_252_tags.txt | SN:12 | TN:15
-lingua | a56_204_tags.txt | SN:25 | TN:13
-meiotic | a56_181to186_tags.txt | SN:40 | TN:11
-rock | a56_251_tags.txt | SN:29 | TN:8
-arabic | a56_200_tags.txt | SN:10 | TN:22
-physics | a56_193to197_tags.txt | SN:99 | TN:25
-azo | a56_200_tags.txt | SN:10 | TN:37
-malignancies | a56_181to186_tags.txt | SN:96 | TN:19
-event | a56_181to186_tags.txt | SN:56 | TN:4
-beeswax | a56_198_tags.txt | SN:4 | TN:19
-plunge-diving | cua_bernice_s11_tags.txt | SN:81 | TN:22
-middle-class | a56_250_tags.txt | SN:9 | TN:22
-change-up | a56_253to258_tags.txt | SN:98 | TN:35
-droplets | a56_193to197_tags.txt | SN:59 | TN:49
-sperm | a56_181to186_tags.txt | SN:41 | TN:17
-Serra_da_Estrela | a56_264_tags.txt | SN:28 | TN:10
-eugenics | a56_181to186_tags.txt | SN:90 | TN:3
-naphtha | a56_200_tags.txt | SN:10 | TN:8
-songs | a56_235to237_tags.txt | SN:61 | TN:8
-proximal | a56_181to186_tags.txt | SN:117 | TN:1
-board_of_directors | a56_223_tags.txt | SN:22 | TN:11
-ethicists | a56_181to186_tags.txt | SN:89 | TN:5
-economic | a56_181to186_tags.txt | SN:63 | TN:10
-intercepts | a56_212_tags.txt | SN:5 | TN:6
-board | a56_253to258_tags.txt | SN:16 | TN:27
-alliance | a56_261_tags.txt | SN:15 | TN:11
-optikal | a56_193to197_tags.txt | SN:99 | TN:11
-fertility | a56_181to186_tags.txt | SN:66 | TN:31
-sound | a56_193to197_tags.txt | SN:82 | TN:12
-drum | a56_247_tags.txt | SN:13 | TN:8
-section | a56_238to240_tags.txt | SN:63 | TN:16
-chamber | a56_200_tags.txt | SN:40 | TN:23
-abolitionist | a56_193to197_tags.txt | SN:52 | TN:22
-partisan | a56_253to258_tags.txt | SN:4 | TN:4
-piket | a56_212_tags.txt | SN:3 | TN:36
-copyediting | lopez_clement_s11_tags.txt | SN:5 | TN:9
-bean | a56_181to186_tags.txt | SN:92 | TN:22
-group | a56_181to186_tags.txt | SN:66 | TN:34
-testicular | a56_181to186_tags.txt | SN:96 | TN:26
-drinking | a56_251_tags.txt | SN:15 | TN:26
-percutaneous | a56_181to186_tags.txt | SN:72 | TN:37
-like | lopez_clement_s11_tags.txt | SN:4 | TN:40
-lifeless | a56_238to240_tags.txt | SN:18 | TN:14
-meno_de_ | a56_253to258_tags.txt | SN:168 | TN:29
-water | a56_200_tags.txt | SN:35 | TN:12
-Países | a56_263_tags.txt | SN:18 | TN:34
-cord | a56_181to186_tags.txt | SN:72 | TN:39
-market | lopez_clement_s11_tags.txt | SN:20 | TN:36
-sequence | a56_181to186_tags.txt | SN:126 | TN:21
-square | cua_bernice_s11_tags.txt | SN:19 | TN:11
-Battle_of_Sao_Mamede | a56_263_tags.txt | SN:24 | TN:13
-out-of-print | lopez_clement_s11_tags.txt | SN:49 | TN:33
-marker | a56_181to186_tags.txt | SN:122 | TN:25
-techniques | a56_181to186_tags.txt | SN:123 | TN:5
-Continental | a56_249_tags.txt | SN:21 | TN:1
-crease | a56_181to186_tags.txt | SN:27 | TN:7
-line | a56_212_tags.txt | SN:3 | TN:37
-cytoplasm | a56_181to186_tags.txt | SN:109 | TN:20
-polished | a56_198_tags.txt | SN:32 | TN:37
-evacuee | a56_226_tags.txt | SN:17 | TN:19
-prenatal | a56_181to186_tags.txt | SN:71 | TN:2
-emulsion | a56_200_tags.txt | SN:9 | TN:5
-Poèmes_d'_amour | a56_235to237_tags.txt | SN:63 | TN:6
-alarm | cua_bernice_s11_tags.txt | SN:40 | TN:9
-transgenic | a56_181to186_tags.txt | SN:37 | TN:7
-photoelectric | a56_193to197_tags.txt | SN:106 | TN:7
-park | a56_260_tags.txt | SN:11 | TN:12
-amniocentesis | a56_181to186_tags.txt | SN:72 | TN:27
-selective | a56_238to240_tags.txt | SN:58 | TN:5
-chromosome | a56_181to186_tags.txt | SN:111 | TN:3
-electric | a56_193to197_tags.txt | SN:96 | TN:24
-dysregulation | a56_181to186_tags.txt | SN:104 | TN:27
-groups | a56_238to240_tags.txt | SN:58 | TN:7
-dermatogylphs | a56_181to186_tags.txt | SN:31 | TN:135
-soda | a56_198_tags.txt | SN:2 | TN:9
-duplication | a56_181to186_tags.txt | SN:56 | TN:3
-factors | a56_181to186_tags.txt | SN:94 | TN:33
-re-entry | a56_253to258_tags.txt | SN:161 | TN:27
-phenotypes | a56_181to186_tags.txt | SN:104 | TN:11
-wireless | a56_193to197_tags.txt | SN:98 | TN:26
-spew | a56_198_tags.txt | SN:30 | TN:23
-blacking | a56_198_tags.txt | SN:7 | TN:4
-flights | cua_bernice_s11_tags.txt | SN:55 | TN:6
-account | a56_193to197_tags.txt | SN:103 | TN:21
+Word: Battle_of_Sao_Mamede | Lemma: Battle_of_Sao_Mamede | a56_263_tags.txt | SN:24 | TN:13
+Word: Battle_of_Sao_Mamede | Lemma: Battle_of_Sao_Mamede | a56_263_tags.txt | SN:25 | TN:1
+Word: Community | Lemma: Community | a56_263_tags.txt | SN:18 | TN:39
+Word: Comunidade | Lemma: Comunidade | a56_263_tags.txt | SN:18 | TN:32
+Word: Continental | Lemma: Continental | a56_249_tags.txt | SN:21 | TN:1
+Word: Countries | Lemma: Countries | a56_263_tags.txt | SN:18 | TN:43
+Word: God | Lemma: God | a56_253to258_tags.txt | SN:150 | TN:31
+Word: K-selected | Lemma: K-selected | cua_bernice_s11_tags.txt | SN:83 | TN:22
+Word: Language | Lemma: Language | a56_263_tags.txt | SN:18 | TN:42
+Word: Língua | Lemma: Língua | a56_263_tags.txt | SN:18 | TN:36
+Word: Mies_van_der_Rohe | Lemma: Mies_van_der_Rohe | a56_251_tags.txt | SN:2 | TN:24
+Word: Países | Lemma: Países | a56_263_tags.txt | SN:18 | TN:34
+Word: Phenotypically | Lemma: Phenotypically | a56_181to186_tags.txt | SN:51 | TN:0
+Word: Pinacoteco_do_Estado | Lemma: Pinacoteco_do_Estado | a56_247_tags.txt | SN:32 | TN:13
+Word: Portuguesa | Lemma: Portuguesa | a56_263_tags.txt | SN:18 | TN:37
+Word: Portuguese | Lemma: Portuguese | a56_263_tags.txt | SN:18 | TN:41
+Word: Poèmes_d'_amour | Lemma: Poèmes_d'_amour | a56_235to237_tags.txt | SN:63 | TN:6
+Word: S. | Lemma: S. | cua_bernice_s11_tags.txt | SN:48 | TN:23
+Word: S. | Lemma: S. | cua_bernice_s11_tags.txt | SN:48 | TN:30
+Word: Serra_da_Estrela | Lemma: Serra_da_Estrela | a56_264_tags.txt | SN:28 | TN:10
+Word: State | Lemma: State | a56_253to258_tags.txt | SN:4 | TN:0
+Word: Sterna | Lemma: Sterna | cua_bernice_s11_tags.txt | SN:1 | TN:11
+Word: Sterna | Lemma: Sterna | cua_bernice_s11_tags.txt | SN:48 | TN:17
+Word: Whatever_Happened_to | Lemma: Whatever_Happened_to | a56_225_tags.txt | SN:20 | TN:17
+Word: abolitionist | Lemma: abolitionist | a56_193to197_tags.txt | SN:52 | TN:22
+Word: abortion | Lemma: abortion | a56_181to186_tags.txt | SN:90 | TN:5
+Word: access | Lemma: access | lopez_clement_s11_tags.txt | SN:64 | TN:8
+Word: account | Lemma: account | a56_193to197_tags.txt | SN:103 | TN:21
+Word: acid | Lemma: acid | a56_181to186_tags.txt | SN:138 | TN:20
+Word: acquisition | Lemma: acquisition | lopez_clement_s11_tags.txt | SN:5 | TN:10
+Word: acrtic | Lemma: acrtic | a56_235to237_tags.txt | SN:61 | TN:7
+Word: administered | Lemma: administered | a56_253to258_tags.txt | SN:4 | TN:1
+Word: advance | Lemma: advance | lopez_clement_s11_tags.txt | SN:26 | TN:1
+Word: advertising | Lemma: advertising | cua_bernice_s11_tags.txt | SN:40 | TN:24
+Word: advertising | Lemma: advertising | cua_bernice_s11_tags.txt | SN:41 | TN:1
+Word: aether | Lemma: aether | a56_193to197_tags.txt | SN:89 | TN:33
+Word: age | Lemma: age | a56_181to186_tags.txt | SN:66 | TN:33
+Word: age | Lemma: age | a56_251_tags.txt | SN:15 | TN:27
+Word: agent | Lemma: agent | a56_200_tags.txt | SN:14 | TN:27
+Word: agent | Lemma: agent | a56_227_tags.txt | SN:19 | TN:25
+Word: alarm | Lemma: alarm | cua_bernice_s11_tags.txt | SN:40 | TN:9
+Word: alliance | Lemma: alliance | a56_261_tags.txt | SN:15 | TN:11
+Word: alpha | Lemma: alpha | a56_181to186_tags.txt | SN:87 | TN:69
+Word: amniocentesis | Lemma: amniocentesis | a56_181to186_tags.txt | SN:72 | TN:27
+Word: amniocentesis | Lemma: amniocentesis | a56_181to186_tags.txt | SN:83 | TN:4
+Word: amniocentesis | Lemma: amniocentesis | a56_181to186_tags.txt | SN:87 | TN:4
+Word: amniocentesis | Lemma: amniocentesis | a56_181to186_tags.txt | SN:87 | TN:16
+Word: amniotic | Lemma: amniotic | a56_181to186_tags.txt | SN:84 | TN:9
+Word: analysis | Lemma: analysis | a56_181to186_tags.txt | SN:127 | TN:7
+Word: and | Lemma: and | a56_247_tags.txt | SN:13 | TN:9
+Word: ang | Lemma: ang | a56_253to258_tags.txt | SN:11 | TN:7
+Word: aniline | Lemma: aniline | a56_200_tags.txt | SN:10 | TN:41
+Word: antioxidant | Lemma: antioxidant | a56_181to186_tags.txt | SN:138 | TN:17
+Word: apoptosis | Lemma: apoptosis | a56_181to186_tags.txt | SN:136 | TN:6
+Word: arabic | Lemma: arabic | a56_200_tags.txt | SN:10 | TN:22
+Word: area | Lemma: area | a56_235to237_tags.txt | SN:46 | TN:23
+Word: armour | Lemma: armour | a56_214_tags.txt | SN:16 | TN:13
+Word: army | Lemma: army | a56_198_tags.txt | SN:32 | TN:38
+Word: arrangement | Lemma: arrangement | a56_238to240_tags.txt | SN:63 | TN:24
+Word: arteries | Lemma: arteries | a56_181to186_tags.txt | SN:97 | TN:21
+Word: ash | Lemma: ash | a56_198_tags.txt | SN:2 | TN:10
+Word: atlanto-axial | Lemma: atlanto-axial | a56_181to186_tags.txt | SN:31 | TN:98
+Word: avante | Lemma: avante | a56_247_tags.txt | SN:2 | TN:20
+Word: azo | Lemma: azo | a56_200_tags.txt | SN:10 | TN:37
+Word: back | Lemma: back | a56_253to258_tags.txt | SN:3 | TN:12
+Word: bacteria | Lemma: bacteria | a56_181to186_tags.txt | SN:122 | TN:6
+Word: banal | Lemma: banal | a56_238to240_tags.txt | SN:22 | TN:43
+Word: bases | Lemma: bases | a56_253to258_tags.txt | SN:115 | TN:7
+Word: bass | Lemma: bass | a56_247_tags.txt | SN:13 | TN:10
+Word: bat-and-ball | Lemma: bat-and-ball | a56_253to258_tags.txt | SN:45 | TN:19
+Word: bat-at-ball | Lemma: bat-at-ball | a56_253to258_tags.txt | SN:23 | TN:1
+Word: bat-at-ball | Lemma: bat-at-ball | a56_253to258_tags.txt | SN:33 | TN:4
+Word: bat-at-ball | Lemma: bat-at-ball | a56_253to258_tags.txt | SN:44 | TN:12
+Word: bean | Lemma: bean | a56_181to186_tags.txt | SN:92 | TN:22
+Word: becoming_a_mother_makes_you_a_grown-up | Lemma: becoming_a_mother_makes_you_a_grown-up | a56_238to240_tags.txt | SN:14 | TN:62
+Word: beeswax | Lemma: beeswax | a56_198_tags.txt | SN:4 | TN:19
+Word: best | Lemma: best | a56_224_tags.txt | SN:20 | TN:13
+Word: bista | Lemma: bista | a56_247_tags.txt | SN:10 | TN:44
+Word: black | Lemma: black | a56_200_tags.txt | SN:10 | TN:35
+Word: blacking | Lemma: blacking | a56_198_tags.txt | SN:7 | TN:4
+Word: bless | Lemma: bless | a56_253to258_tags.txt | SN:150 | TN:32
+Word: blood | Lemma: blood | a56_181to186_tags.txt | SN:72 | TN:40
+Word: blues | Lemma: blues | a56_251_tags.txt | SN:22 | TN:6
+Word: board | Lemma: board | a56_253to258_tags.txt | SN:16 | TN:27
+Word: board | Lemma: board | a56_253to258_tags.txt | SN:17 | TN:9
+Word: board_of_directors | Lemma: board_of_directors | a56_223_tags.txt | SN:22 | TN:11
+Word: bonding | Lemma: bonding | a56_200_tags.txt | SN:14 | TN:26
+Word: boot | Lemma: boot | a56_198_tags.txt | SN:6 | TN:20
+Word: boot | Lemma: boot | a56_198_tags.txt | SN:16 | TN:14
+Word: boot | Lemma: boot | a56_198_tags.txt | SN:24 | TN:7
+Word: boot | Lemma: boot | a56_198_tags.txt | SN:29 | TN:9
+Word: boot | Lemma: boot | a56_200_tags.txt | SN:5 | TN:4
+Word: boots | Lemma: boots | a56_198_tags.txt | SN:32 | TN:39
+Word: boys | Lemma: boys | a56_198_tags.txt | SN:13 | TN:11
+Word: boys | Lemma: boys | a56_200_tags.txt | SN:5 | TN:2
+Word: boys | Lemma: boys | a56_200_tags.txt | SN:5 | TN:6
+Word: by | Lemma: by | a56_181to186_tags.txt | SN:90 | TN:4
+Word: call | Lemma: call | cua_bernice_s11_tags.txt | SN:40 | TN:10
+Word: call | Lemma: call | cua_bernice_s11_tags.txt | SN:40 | TN:25
+Word: call | Lemma: call | cua_bernice_s11_tags.txt | SN:41 | TN:2
+Word: cancer | Lemma: cancer | a56_181to186_tags.txt | SN:96 | TN:27
+Word: capita | Lemma: capita | a56_263_tags.txt | SN:17 | TN:19
+Word: carbon | Lemma: carbon | a56_200_tags.txt | SN:10 | TN:34
+Word: care | Lemma: care | a56_200_tags.txt | SN:3 | TN:14
+Word: care | Lemma: care | a56_200_tags.txt | SN:4 | TN:14
+Word: cell | Lemma: cell | a56_181to186_tags.txt | SN:41 | TN:20
+Word: cells | Lemma: cells | a56_181to186_tags.txt | SN:68 | TN:22
+Word: cells | Lemma: cells | a56_181to186_tags.txt | SN:84 | TN:17
+Word: chamber | Lemma: chamber | a56_200_tags.txt | SN:40 | TN:23
+Word: change-up | Lemma: change-up | a56_253to258_tags.txt | SN:98 | TN:35
+Word: change-up | Lemma: change-up | a56_253to258_tags.txt | SN:102 | TN:39
+Word: chapters | Lemma: chapters | a56_238to240_tags.txt | SN:63 | TN:13
+Word: chemical | Lemma: chemical | a56_200_tags.txt | SN:3 | TN:12
+Word: chorionic | Lemma: chorionic | a56_181to186_tags.txt | SN:72 | TN:29
+Word: chorionic | Lemma: chorionic | a56_181to186_tags.txt | SN:83 | TN:6
+Word: chromosomal | Lemma: chromosomal | a56_181to186_tags.txt | SN:34 | TN:1
+Word: chromosomal | Lemma: chromosomal | a56_181to186_tags.txt | SN:38 | TN:8
+Word: chromosomal | Lemma: chromosomal | a56_181to186_tags.txt | SN:85 | TN:24
+Word: chromosome | Lemma: chromosome | a56_181to186_tags.txt | SN:111 | TN:3
+Word: chromosome | Lemma: chromosome | a56_181to186_tags.txt | SN:119 | TN:17
+Word: chronic | Lemma: chronic | a56_181to186_tags.txt | SN:94 | TN:36
+Word: chronic | Lemma: chronic | a56_181to186_tags.txt | SN:101 | TN:9
+Word: circumpolar | Lemma: circumpolar | cua_bernice_s11_tags.txt | SN:16 | TN:8
+Word: civil | Lemma: civil | a56_193to197_tags.txt | SN:34 | TN:29
+Word: classes | Lemma: classes | a56_181to186_tags.txt | SN:63 | TN:11
+Word: clone | Lemma: clone | a56_181to186_tags.txt | SN:122 | TN:15
+Word: clutch | Lemma: clutch | a56_259_tags.txt | SN:28 | TN:21
+Word: coastal | Lemma: coastal | a56_249_tags.txt | SN:14 | TN:5
+Word: colloidal | Lemma: colloidal | a56_200_tags.txt | SN:9 | TN:4
+Word: company | Lemma: company | a56_223_tags.txt | SN:12 | TN:12
+Word: concelho/concelhos | Lemma: concelho/concelhos | a56_264_tags.txt | SN:16 | TN:13
+Word: congenital | Lemma: congenital | a56_181to186_tags.txt | SN:31 | TN:100
+Word: consolidated | Lemma: consolidated | a56_253to258_tags.txt | SN:2 | TN:16
+Word: conspecifics | Lemma: conspecifics | cua_bernice_s11_tags.txt | SN:94 | TN:5
+Word: cooling | Lemma: cooling | a56_200_tags.txt | SN:40 | TN:22
+Word: copyediting | Lemma: copyediting | lopez_clement_s11_tags.txt | SN:5 | TN:9
+Word: cord | Lemma: cord | a56_181to186_tags.txt | SN:72 | TN:39
+Word: corporate | Lemma: corporate | lopez_clement_s11_tags.txt | SN:64 | TN:4
+Word: corporate | Lemma: corporate | lopez_clement_s11_tags.txt | SN:72 | TN:12
+Word: counters | Lemma: counters | a56_181to186_tags.txt | SN:92 | TN:23
+Word: cover | Lemma: cover | a56_227_tags.txt | SN:19 | TN:24
+Word: craniofacial | Lemma: craniofacial | a56_181to186_tags.txt | SN:119 | TN:25
+Word: crease | Lemma: crease | a56_181to186_tags.txt | SN:27 | TN:7
+Word: cytoplasm | Lemma: cytoplasm | a56_181to186_tags.txt | SN:109 | TN:20
+Word: de | Lemma: de | a56_235to237_tags.txt | SN:35 | TN:15
+Word: de | Lemma: de | a56_247_tags.txt | SN:10 | TN:43
+Word: de | Lemma: de | a56_263_tags.txt | SN:18 | TN:35
+Word: deep | Lemma: deep | a56_227_tags.txt | SN:19 | TN:23
+Word: defect | Lemma: defect | a56_181to186_tags.txt | SN:94 | TN:21
+Word: deficiencies | Lemma: deficiencies | a56_181to186_tags.txt | SN:95 | TN:5
+Word: dermatogylphs | Lemma: dermatogylphs | a56_181to186_tags.txt | SN:31 | TN:135
+Word: diabetic | Lemma: diabetic | a56_181to186_tags.txt | SN:97 | TN:24
+Word: direct-to-retail | Lemma: direct-to-retail | lopez_clement_s11_tags.txt | SN:52 | TN:3
+Word: diseases | Lemma: diseases | a56_181to186_tags.txt | SN:101 | TN:11
+Word: disjunction | Lemma: disjunction | a56_181to186_tags.txt | SN:52 | TN:15
+Word: distilled | Lemma: distilled | a56_200_tags.txt | SN:35 | TN:11
+Word: dos | Lemma: dos | a56_263_tags.txt | SN:18 | TN:33
+Word: drinking | Lemma: drinking | a56_251_tags.txt | SN:15 | TN:26
+Word: droplets | Lemma: droplets | a56_193to197_tags.txt | SN:59 | TN:49
+Word: drum | Lemma: drum | a56_247_tags.txt | SN:13 | TN:8
+Word: duality | Lemma: duality | a56_193to197_tags.txt | SN:112 | TN:18
+Word: dubbin | Lemma: dubbin | a56_198_tags.txt | SN:7 | TN:18
+Word: dup | Lemma: dup | a56_181to186_tags.txt | SN:57 | TN:19
+Word: duplication | Lemma: duplication | a56_181to186_tags.txt | SN:56 | TN:3
+Word: dye | Lemma: dye | a56_200_tags.txt | SN:10 | TN:38
+Word: dysfunctions | Lemma: dysfunctions | a56_181to186_tags.txt | SN:28 | TN:27
+Word: dysregulation | Lemma: dysregulation | a56_181to186_tags.txt | SN:104 | TN:27
+Word: dysregulation | Lemma: dysregulation | a56_181to186_tags.txt | SN:110 | TN:9
+Word: eclipses | Lemma: eclipses | a56_193to197_tags.txt | SN:73 | TN:16
+Word: economic | Lemma: economic | a56_181to186_tags.txt | SN:63 | TN:10
+Word: egg | Lemma: egg | a56_181to186_tags.txt | SN:41 | TN:19
+Word: elected | Lemma: elected | a56_253to258_tags.txt | SN:17 | TN:8
+Word: elected_board | Lemma: elected_board | a56_253to258_tags.txt | SN:16 | TN:13
+Word: electric | Lemma: electric | a56_193to197_tags.txt | SN:96 | TN:24
+Word: electric | Lemma: electric | a56_200_tags.txt | SN:32 | TN:13
+Word: electromagnetic | Lemma: electromagnetic | a56_193to197_tags.txt | SN:92 | TN:11
+Word: electromagnetic | Lemma: electromagnetic | a56_193to197_tags.txt | SN:93 | TN:12
+Word: electromagnetic | Lemma: electromagnetic | a56_193to197_tags.txt | SN:94 | TN:7
+Word: electromagnetic | Lemma: electromagnetic | a56_193to197_tags.txt | SN:95 | TN:10
+Word: electromagnetic | Lemma: electromagnetic | a56_193to197_tags.txt | SN:98 | TN:21
+Word: electromagnetic | Lemma: electromagnetic | a56_193to197_tags.txt | SN:99 | TN:12
+Word: electromagnetism | Lemma: electromagnetism | a56_193to197_tags.txt | SN:91 | TN:8
+Word: electron | Lemma: electron | a56_193to197_tags.txt | SN:106 | TN:21
+Word: electrons | Lemma: electrons | a56_193to197_tags.txt | SN:107 | TN:13
+Word: embryo | Lemma: embryo | a56_181to186_tags.txt | SN:46 | TN:30
+Word: emitted | Lemma: emitted | a56_193to197_tags.txt | SN:87 | TN:24
+Word: emulsion | Lemma: emulsion | a56_200_tags.txt | SN:9 | TN:5
+Word: encroachments | Lemma: encroachments | a56_193to197_tags.txt | SN:53 | TN:23
+Word: epicanthic | Lemma: epicanthic | a56_181to186_tags.txt | SN:27 | TN:37
+Word: epicanthic | Lemma: epicanthic | a56_181to186_tags.txt | SN:31 | TN:27
+Word: equation | Lemma: equation | a56_193to197_tags.txt | SN:102 | TN:10
+Word: equation | Lemma: equation | a56_193to197_tags.txt | SN:105 | TN:20
+Word: equations | Lemma: equations | a56_193to197_tags.txt | SN:96 | TN:35
+Word: ether | Lemma: ether | a56_193to197_tags.txt | SN:92 | TN:28
+Word: ethicists | Lemma: ethicists | a56_181to186_tags.txt | SN:89 | TN:5
+Word: ethylene | Lemma: ethylene | a56_200_tags.txt | SN:10 | TN:24
+Word: eugenics | Lemma: eugenics | a56_181to186_tags.txt | SN:90 | TN:3
+Word: eugenics | Lemma: eugenics | a56_181to186_tags.txt | SN:91 | TN:47
+Word: evacuee | Lemma: evacuee | a56_226_tags.txt | SN:17 | TN:19
+Word: event | Lemma: event | a56_181to186_tags.txt | SN:56 | TN:4
+Word: exon | Lemma: exon | a56_181to186_tags.txt | SN:127 | TN:5
+Word: exon | Lemma: exon | a56_181to186_tags.txt | SN:128 | TN:10
+Word: extant | Lemma: extant | a56_250_tags.txt | SN:11 | TN:6
+Word: facto | Lemma: facto | a56_235to237_tags.txt | SN:35 | TN:16
+Word: factors | Lemma: factors | a56_181to186_tags.txt | SN:94 | TN:33
+Word: familial | Lemma: familial | a56_181to186_tags.txt | SN:53 | TN:3
+Word: fashion | Lemma: fashion | a56_235to237_tags.txt | SN:18 | TN:34
+Word: fastball/change-up | Lemma: fastball/change-up | a56_253to258_tags.txt | SN:100 | TN:10
+Word: fertility | Lemma: fertility | a56_181to186_tags.txt | SN:66 | TN:31
+Word: field | Lemma: field | a56_193to197_tags.txt | SN:90 | TN:28
+Word: field | Lemma: field | a56_193to197_tags.txt | SN:96 | TN:27
+Word: first-in | Lemma: first-in | a56_235to237_tags.txt | SN:18 | TN:31
+Word: first-out | Lemma: first-out | a56_235to237_tags.txt | SN:18 | TN:33
+Word: fish | Lemma: fish | cua_bernice_s11_tags.txt | SN:55 | TN:5
+Word: fissures | Lemma: fissures | a56_181to186_tags.txt | SN:27 | TN:48
+Word: fissures | Lemma: fissures | a56_181to186_tags.txt | SN:31 | TN:22
+Word: five | Lemma: five | a56_247_tags.txt | SN:29 | TN:25
+Word: fledging | Lemma: fledging | cua_bernice_s11_tags.txt | SN:81 | TN:3
+Word: flexion | Lemma: flexion | a56_181to186_tags.txt | SN:31 | TN:121
+Word: flight | Lemma: flight | cua_bernice_s11_tags.txt | SN:54 | TN:6
+Word: flights | Lemma: flights | cua_bernice_s11_tags.txt | SN:55 | TN:6
+Word: fluid | Lemma: fluid | a56_181to186_tags.txt | SN:84 | TN:10
+Word: folinic | Lemma: folinic | a56_181to186_tags.txt | SN:138 | TN:19
+Word: forgettable | Lemma: forgettable | a56_238to240_tags.txt | SN:18 | TN:10
+Word: fouling | Lemma: fouling | a56_253to258_tags.txt | SN:139 | TN:17
+Word: franca | Lemma: franca | a56_204_tags.txt | SN:25 | TN:14
+Word: fraternity | Lemma: fraternity | a56_238to240_tags.txt | SN:63 | TN:12
+Word: frequency | Lemma: frequency | a56_193to197_tags.txt | SN:107 | TN:17
+Word: frequency | Lemma: frequency | a56_193to197_tags.txt | SN:108 | TN:8
+Word: furrow | Lemma: furrow | a56_181to186_tags.txt | SN:31 | TN:122
+Word: gamete | Lemma: gamete | a56_181to186_tags.txt | SN:43 | TN:22
+Word: garage | Lemma: garage | a56_247_tags.txt | SN:10 | TN:8
+Word: garde | Lemma: garde | a56_247_tags.txt | SN:2 | TN:21
+Word: gene | Lemma: gene | a56_181to186_tags.txt | SN:126 | TN:7
+Word: gene | Lemma: gene | a56_181to186_tags.txt | SN:103 | TN:16
+Word: gene | Lemma: gene | a56_181to186_tags.txt | SN:96 | TN:59
+Word: gene | Lemma: gene | a56_181to186_tags.txt | SN:129 | TN:24
+Word: gene | Lemma: gene | a56_181to186_tags.txt | SN:130 | TN:11
+Word: gene | Lemma: gene | a56_181to186_tags.txt | SN:129 | TN:7
+Word: gene | Lemma: gene | a56_181to186_tags.txt | SN:117 | TN:5
+Word: gene | Lemma: gene | a56_181to186_tags.txt | SN:119 | TN:8
+Word: gene | Lemma: gene | a56_181to186_tags.txt | SN:120 | TN:10
+Word: gene | Lemma: gene | a56_181to186_tags.txt | SN:135 | TN:2
+Word: gene | Lemma: gene | a56_181to186_tags.txt | SN:132 | TN:17
+Word: gene | Lemma: gene | a56_181to186_tags.txt | SN:122 | TN:3
+Word: gene | Lemma: gene | a56_181to186_tags.txt | SN:124 | TN:5
+Word: gene | Lemma: gene | a56_181to186_tags.txt | SN:126 | TN:27
+Word: gene | Lemma: gene | a56_181to186_tags.txt | SN:122 | TN:24
+Word: gene | Lemma: gene | a56_181to186_tags.txt | SN:125 | TN:11
+Word: gene-regulating | Lemma: gene-regulating | a56_181to186_tags.txt | SN:104 | TN:29
+Word: gene-regulating | Lemma: gene-regulating | a56_181to186_tags.txt | SN:105 | TN:1
+Word: gene-regulator | Lemma: gene-regulator | a56_181to186_tags.txt | SN:106 | TN:4
+Word: genes | Lemma: genes | a56_181to186_tags.txt | SN:107 | TN:16
+Word: genes | Lemma: genes | a56_181to186_tags.txt | SN:118 | TN:24
+Word: genetic | Lemma: genetic | a56_181to186_tags.txt | SN:30 | TN:9
+Word: genetic | Lemma: genetic | a56_181to186_tags.txt | SN:104 | TN:17
+Word: genetically | Lemma: genetically | a56_181to186_tags.txt | SN:112 | TN:32
+Word: give | Lemma: give | a56_253to258_tags.txt | SN:3 | TN:11
+Word: glycol | Lemma: glycol | a56_200_tags.txt | SN:10 | TN:25
+Word: grease | Lemma: grease | a56_200_tags.txt | SN:14 | TN:7
+Word: grooved | Lemma: grooved | a56_248_tags.txt | SN:28 | TN:24
+Word: group | Lemma: group | a56_181to186_tags.txt | SN:66 | TN:34
+Word: group | Lemma: group | a56_238to240_tags.txt | SN:59 | TN:9
+Word: groups | Lemma: groups | a56_238to240_tags.txt | SN:58 | TN:7
+Word: gum | Lemma: gum | a56_200_tags.txt | SN:10 | TN:21
+Word: gum-arabic | Lemma: gum-arabic | a56_200_tags.txt | SN:18 | TN:4
+Word: heater | Lemma: heater | a56_200_tags.txt | SN:32 | TN:14
+Word: heavy | Lemma: heavy | a56_247_tags.txt | SN:14 | TN:3
+Word: heavyweight | Lemma: heavyweight | a56_252_tags.txt | SN:14 | TN:6
+Word: high | Lemma: high | a56_235to237_tags.txt | SN:52 | TN:9
+Word: high | Lemma: high | cua_bernice_s11_tags.txt | SN:54 | TN:5
+Word: high_enough | Lemma: high_enough | a56_238to240_tags.txt | SN:3 | TN:68
+Word: hirundinancae | Lemma: hirundinancae | cua_bernice_s11_tags.txt | SN:48 | TN:18
+Word: hitter’s | Lemma: hitter’s | a56_260_tags.txt | SN:11 | TN:16
+Word: ho | Lemma: ho | a56_181to186_tags.txt | SN:15 | TN:58
+Word: home | Lemma: home | a56_260_tags.txt | SN:2 | TN:45
+Word: home | Lemma: home | a56_260_tags.txt | SN:14 | TN:33
+Word: hour | Lemma: hour | a56_248_tags.txt | SN:7 | TN:7
+Word: human | Lemma: human | a56_181to186_tags.txt | SN:39 | TN:30
+Word: human | Lemma: human | a56_181to186_tags.txt | SN:119 | TN:16
+Word: hydrophilic | Lemma: hydrophilic | a56_200_tags.txt | SN:14 | TN:6
+Word: hypotonia | Lemma: hypotonia | a56_181to186_tags.txt | SN:31 | TN:36
+Word: ice | Lemma: ice | cua_bernice_s11_tags.txt | SN:18 | TN:15
+Word: icurve | Lemma: icurve | a56_253to258_tags.txt | SN:98 | TN:25
+Word: imaging | Lemma: imaging | a56_193to197_tags.txt | SN:98 | TN:22
+Word: immiscible | Lemma: immiscible | a56_200_tags.txt | SN:9 | TN:13
+Word: immune | Lemma: immune | a56_181to186_tags.txt | SN:95 | TN:4
+Word: in | Lemma: in | a56_238to240_tags.txt | SN:63 | TN:15
+Word: industry | Lemma: industry | a56_200_tags.txt | SN:4 | TN:15
+Word: integration | Lemma: integration | lopez_clement_s11_tags.txt | SN:43 | TN:13
+Word: intercepts | Lemma: intercepts | a56_212_tags.txt | SN:5 | TN:6
+Word: interest.oss | Lemma: interest.oss | lopez_clement_s11_tags.txt | SN:72 | TN:13
+Word: is | Lemma: is | a56_214_tags.txt | SN:16 | TN:12
+Word: isochromosome | Lemma: isochromosome | a56_181to186_tags.txt | SN:50 | TN:35
+Word: jobos | Lemma: jobos | a56_200_tags.txt | SN:39 | TN:5
+Word: jumper | Lemma: jumper | a56_235to237_tags.txt | SN:52 | TN:10
+Word: karyotype | Lemma: karyotype | a56_181to186_tags.txt | SN:39 | TN:31
+Word: lacrosse | Lemma: lacrosse | a56_238to240_tags.txt | SN:72 | TN:6
+Word: lampblack | Lemma: lampblack | a56_198_tags.txt | SN:7 | TN:11
+Word: lanes | Lemma: lanes | a56_212_tags.txt | SN:1 | TN:21
+Word: lanolin | Lemma: lanolin | a56_198_tags.txt | SN:4 | TN:17
+Word: lanolin | Lemma: lanolin | a56_200_tags.txt | SN:10 | TN:10
+Word: launch | Lemma: launch | a56_223_tags.txt | SN:23 | TN:33
+Word: leukemia | Lemma: leukemia | a56_181to186_tags.txt | SN:95 | TN:2
+Word: leukemia | Lemma: leukemia | a56_181to186_tags.txt | SN:96 | TN:24
+Word: life | Lemma: life | a56_238to240_tags.txt | SN:69 | TN:35
+Word: lifeless | Lemma: lifeless | a56_238to240_tags.txt | SN:18 | TN:14
+Word: light | Lemma: light | a56_213_tags.txt | SN:17 | TN:38
+Word: like | Lemma: like | lopez_clement_s11_tags.txt | SN:4 | TN:40
+Word: line | Lemma: line | a56_212_tags.txt | SN:3 | TN:37
+Word: lingua | Lemma: lingua | a56_204_tags.txt | SN:25 | TN:13
+Word: liquids | Lemma: liquids | a56_200_tags.txt | SN:9 | TN:14
+Word: literature | Lemma: literature | a56_193to197_tags.txt | SN:52 | TN:23
+Word: live | Lemma: live | a56_238to240_tags.txt | SN:63 | TN:14
+Word: live | Lemma: live | a56_251_tags.txt | SN:16 | TN:6
+Word: living | Lemma: living | a56_238to240_tags.txt | SN:58 | TN:6
+Word: living | Lemma: living | a56_238to240_tags.txt | SN:59 | TN:8
+Word: living | Lemma: living | a56_238to240_tags.txt | SN:63 | TN:23
+Word: loaded | Lemma: loaded | a56_253to258_tags.txt | SN:115 | TN:8
+Word: loop | Lemma: loop | a56_181to186_tags.txt | SN:31 | TN:134
+Word: lymphocyte | Lemma: lymphocyte | a56_181to186_tags.txt | SN:137 | TN:8
+Word: magnetic | Lemma: magnetic | a56_193to197_tags.txt | SN:90 | TN:27
+Word: magnetic | Lemma: magnetic | a56_193to197_tags.txt | SN:96 | TN:26
+Word: malignancies | Lemma: malignancies | a56_181to186_tags.txt | SN:96 | TN:19
+Word: man | Lemma: man | a56_224_tags.txt | SN:1 | TN:14
+Word: mapping | Lemma: mapping | a56_181to186_tags.txt | SN:123 | TN:4
+Word: mapping | Lemma: mapping | a56_181to186_tags.txt | SN:128 | TN:8
+Word: marker | Lemma: marker | a56_181to186_tags.txt | SN:122 | TN:25
+Word: market | Lemma: market | lopez_clement_s11_tags.txt | SN:20 | TN:36
+Word: marshes | Lemma: marshes | a56_249_tags.txt | SN:14 | TN:8
+Word: marvel | Lemma: marvel | a56_238to240_tags.txt | SN:3 | TN:27
+Word: masa-market | Lemma: masa-market | lopez_clement_s11_tags.txt | SN:16 | TN:20
+Word: material | Lemma: material | a56_181to186_tags.txt | SN:38 | TN:9
+Word: material | Lemma: material | a56_181to186_tags.txt | SN:43 | TN:21
+Word: material | Lemma: material | a56_181to186_tags.txt | SN:49 | TN:9
+Word: matris | Lemma: matris | a56_181to186_tags.txt | SN:74 | TN:18
+Word: matter | Lemma: matter | a56_193to197_tags.txt | SN:87 | TN:17
+Word: mechanical_laws_of_motion | Lemma: mechanical_laws_of_motion | a56_193to197_tags.txt | SN:102 | TN:20
+Word: media | Lemma: media | a56_181to186_tags.txt | SN:94 | TN:39
+Word: meiotic | Lemma: meiotic | a56_181to186_tags.txt | SN:40 | TN:11
+Word: meno_de_ | Lemma: meno_de_ | a56_253to258_tags.txt | SN:168 | TN:29
+Word: metal | Lemma: metal | a56_247_tags.txt | SN:14 | TN:4
+Word: mice | Lemma: mice | a56_181to186_tags.txt | SN:37 | TN:8
+Word: micro | Lemma: micro | a56_193to197_tags.txt | SN:59 | TN:48
+Word: middle-class | Lemma: middle-class | a56_250_tags.txt | SN:9 | TN:22
+Word: miles | Lemma: miles | cua_bernice_s11_tags.txt | SN:22 | TN:18
+Word: modelo | Lemma: modelo | lopez_clement_s11_tags.txt | SN:64 | TN:5
+Word: modified | Lemma: modified | a56_181to186_tags.txt | SN:112 | TN:33
+Word: muscle | Lemma: muscle | a56_181to186_tags.txt | SN:112 | TN:4
+Word: mutated | Lemma: mutated | a56_181to186_tags.txt | SN:122 | TN:5
+Word: naphtha | Lemma: naphtha | a56_200_tags.txt | SN:10 | TN:8
+Word: naphtha | Lemma: naphtha | a56_200_tags.txt | SN:12 | TN:24
+Word: naphtha | Lemma: naphtha | a56_200_tags.txt | SN:15 | TN:3
+Word: naphtha | Lemma: naphtha | a56_200_tags.txt | SN:31 | TN:27
+Word: nationally | Lemma: nationally | a56_226_tags.txt | SN:2 | TN:34
+Word: native | Lemma: native | a56_204_tags.txt | SN:5 | TN:24
+Word: neurodegenerative | Lemma: neurodegenerative | a56_181to186_tags.txt | SN:101 | TN:10
+Word: neutral | Lemma: neutral | a56_200_tags.txt | SN:39 | TN:13
+Word: non | Lemma: non | a56_253to258_tags.txt | SN:4 | TN:3
+Word: non-division | Lemma: non-division | a56_253to258_tags.txt | SN:39 | TN:8
+Word: nondisjuction | Lemma: nondisjuction | a56_181to186_tags.txt | SN:40 | TN:12
+Word: nondisjunction | Lemma: nondisjunction | a56_181to186_tags.txt | SN:41 | TN:1
+Word: nondisjunction | Lemma: nondisjunction | a56_181to186_tags.txt | SN:43 | TN:18
+Word: nondisjunction | Lemma: nondisjunction | a56_181to186_tags.txt | SN:43 | TN:27
+Word: nondisjunction | Lemma: nondisjunction | a56_181to186_tags.txt | SN:46 | TN:20
+Word: nondisjunction | Lemma: nondisjunction | a56_181to186_tags.txt | SN:46 | TN:35
+Word: northern | Lemma: northern | cua_bernice_s11_tags.txt | SN:17 | TN:17
+Word: occupied | Lemma: occupied | a56_235to237_tags.txt | SN:46 | TN:22
+Word: of | Lemma: of | a56_263_tags.txt | SN:18 | TN:40
+Word: off | Lemma: off | a56_253to258_tags.txt | SN:139 | TN:18
+Word: oil | Lemma: oil | a56_200_tags.txt | SN:36 | TN:15
+Word: oil | Lemma: oil | a56_200_tags.txt | SN:39 | TN:8
+Word: one | Lemma: one | a56_224_tags.txt | SN:1 | TN:13
+Word: open | Lemma: open | lopez_clement_s11_tags.txt | SN:64 | TN:7
+Word: open | Lemma: open | lopez_clement_s11_tags.txt | SN:65 | TN:6
+Word: operating | Lemma: operating | lopez_clement_s11_tags.txt | SN:34 | TN:21
+Word: optikal | Lemma: optikal | a56_193to197_tags.txt | SN:99 | TN:11
+Word: or_scale | Lemma: or_scale | a56_238to240_tags.txt | SN:3 | TN:66
+Word: otitis | Lemma: otitis | a56_181to186_tags.txt | SN:94 | TN:38
+Word: out-of-print | Lemma: out-of-print | lopez_clement_s11_tags.txt | SN:49 | TN:33
+Word: palmar | Lemma: palmar | a56_181to186_tags.txt | SN:27 | TN:6
+Word: palmar | Lemma: palmar | a56_181to186_tags.txt | SN:31 | TN:55
+Word: palpebral | Lemma: palpebral | a56_181to186_tags.txt | SN:27 | TN:47
+Word: panchayats | Lemma: panchayats | a56_261_tags.txt | SN:13 | TN:6
+Word: panchayats | Lemma: panchayats | a56_261_tags.txt | SN:23 | TN:5
+Word: paperback | Lemma: paperback | lopez_clement_s11_tags.txt | SN:16 | TN:21
+Word: paradisaea | Lemma: paradisaea | cua_bernice_s11_tags.txt | SN:1 | TN:12
+Word: park | Lemma: park | a56_260_tags.txt | SN:11 | TN:12
+Word: park | Lemma: park | a56_260_tags.txt | SN:11 | TN:17
+Word: particles | Lemma: particles | a56_193to197_tags.txt | SN:87 | TN:15
+Word: partisan | Lemma: partisan | a56_253to258_tags.txt | SN:4 | TN:4
+Word: pennants | Lemma: pennants | a56_252_tags.txt | SN:16 | TN:8
+Word: per | Lemma: per | a56_248_tags.txt | SN:7 | TN:6
+Word: per | Lemma: per | a56_263_tags.txt | SN:17 | TN:18
+Word: percutaneous | Lemma: percutaneous | a56_181to186_tags.txt | SN:72 | TN:37
+Word: phenomena | Lemma: phenomena | a56_193to197_tags.txt | SN:99 | TN:13
+Word: phenotype | Lemma: phenotype | a56_181to186_tags.txt | SN:117 | TN:11
+Word: phenotype | Lemma: phenotype | a56_181to186_tags.txt | SN:121 | TN:23
+Word: phenotype | Lemma: phenotype | a56_181to186_tags.txt | SN:129 | TN:32
+Word: phenotypes | Lemma: phenotypes | a56_181to186_tags.txt | SN:104 | TN:11
+Word: photoelectric | Lemma: photoelectric | a56_193to197_tags.txt | SN:106 | TN:7
+Word: photoelectric | Lemma: photoelectric | a56_193to197_tags.txt | SN:112 | TN:9
+Word: physics | Lemma: physics | a56_193to197_tags.txt | SN:99 | TN:25
+Word: pick-off | Lemma: pick-off | a56_253to258_tags.txt | SN:118 | TN:34
+Word: piket | Lemma: piket | a56_212_tags.txt | SN:3 | TN:36
+Word: pitcher’s | Lemma: pitcher’s | a56_260_tags.txt | SN:11 | TN:11
+Word: pitches | Lemma: pitches | a56_253to258_tags.txt | SN:128 | TN:10
+Word: pitches | Lemma: pitches | a56_253to258_tags.txt | SN:139 | TN:19
+Word: plate | Lemma: plate | a56_260_tags.txt | SN:2 | TN:46
+Word: plunge-diving | Lemma: plunge-diving | cua_bernice_s11_tags.txt | SN:81 | TN:22
+Word: polarizing | Lemma: polarizing | a56_193to197_tags.txt | SN:90 | TN:20
+Word: polish | Lemma: polish | a56_198_tags.txt | SN:6 | TN:10
+Word: polish | Lemma: polish | a56_198_tags.txt | SN:6 | TN:18
+Word: polish | Lemma: polish | a56_200_tags.txt | SN:39 | TN:14
+Word: polish | Lemma: polish | a56_198_tags.txt | SN:26 | TN:4
+Word: polish | Lemma: polish | a56_198_tags.txt | SN:29 | TN:10
+Word: polish | Lemma: polish | a56_198_tags.txt | SN:27 | TN:16
+Word: polish | Lemma: polish | a56_198_tags.txt | SN:6 | TN:21
+Word: polish | Lemma: polish | a56_198_tags.txt | SN:8 | TN:5
+Word: polish | Lemma: polish | a56_200_tags.txt | SN:5 | TN:5
+Word: polish | Lemma: polish | a56_198_tags.txt | SN:9 | TN:31
+Word: polish | Lemma: polish | a56_198_tags.txt | SN:11 | TN:8
+Word: polish | Lemma: polish | a56_198_tags.txt | SN:16 | TN:15
+Word: polish | Lemma: polish | a56_200_tags.txt | SN:1 | TN:31
+Word: polish | Lemma: polish | a56_198_tags.txt | SN:13 | TN:28
+Word: polish | Lemma: polish | a56_198_tags.txt | SN:38 | TN:6
+Word: polish | Lemma: polish | a56_198_tags.txt | SN:15 | TN:40
+Word: polish | Lemma: polish | a56_198_tags.txt | SN:24 | TN:8
+Word: polished | Lemma: polished | a56_198_tags.txt | SN:32 | TN:37
+Word: power-sharing | Lemma: power-sharing | a56_235to237_tags.txt | SN:20 | TN:37
+Word: powerboat | Lemma: powerboat | a56_252_tags.txt | SN:12 | TN:14
+Word: precursor | Lemma: precursor | a56_181to186_tags.txt | SN:133 | TN:7
+Word: predictable | Lemma: predictable | a56_238to240_tags.txt | SN:22 | TN:39
+Word: prediction | Lemma: prediction | a56_181to186_tags.txt | SN:127 | TN:6
+Word: prenatal | Lemma: prenatal | a56_181to186_tags.txt | SN:71 | TN:2
+Word: prenatal | Lemma: prenatal | a56_181to186_tags.txt | SN:72 | TN:56
+Word: prenatal | Lemma: prenatal | a56_181to186_tags.txt | SN:93 | TN:22
+Word: print-on-demand | Lemma: print-on-demand | lopez_clement_s11_tags.txt | SN:50 | TN:32
+Word: print_on_demand | Lemma: print_on_demand | lopez_clement_s11_tags.txt | SN:47 | TN:19
+Word: product | Lemma: product | a56_223_tags.txt | SN:23 | TN:32
+Word: production | Lemma: production | a56_223_tags.txt | SN:12 | TN:11
+Word: production | Lemma: production | a56_224_tags.txt | SN:20 | TN:14
+Word: products | Lemma: products | a56_200_tags.txt | SN:3 | TN:15
+Word: protein | Lemma: protein | a56_181to186_tags.txt | SN:105 | TN:2
+Word: protein | Lemma: protein | a56_181to186_tags.txt | SN:126 | TN:20
+Word: protein | Lemma: protein | a56_181to186_tags.txt | SN:133 | TN:8
+Word: proteins | Lemma: proteins | a56_181to186_tags.txt | SN:104 | TN:30
+Word: proteins | Lemma: proteins | a56_181to186_tags.txt | SN:109 | TN:35
+Word: proximal | Lemma: proximal | a56_181to186_tags.txt | SN:117 | TN:1
+Word: punk | Lemma: punk | a56_247_tags.txt | SN:10 | TN:4
+Word: punto | Lemma: punto | a56_247_tags.txt | SN:10 | TN:42
+Word: racing | Lemma: racing | a56_252_tags.txt | SN:12 | TN:15
+Word: radiation | Lemma: radiation | a56_193to197_tags.txt | SN:93 | TN:13
+Word: radiation | Lemma: radiation | a56_193to197_tags.txt | SN:95 | TN:11
+Word: radio | Lemma: radio | a56_193to197_tags.txt | SN:97 | TN:21
+Word: ratio | Lemma: ratio | a56_235to237_tags.txt | SN:20 | TN:38
+Word: ray | Lemma: ray | a56_193to197_tags.txt | SN:64 | TN:27
+Word: re-entry | Lemma: re-entry | a56_253to258_tags.txt | SN:161 | TN:27
+Word: refered | Lemma: refered | a56_253to258_tags.txt | SN:128 | TN:5
+Word: reform | Lemma: reform | a56_253to258_tags.txt | SN:16 | TN:26
+Word: regulator | Lemma: regulator | a56_181to186_tags.txt | SN:129 | TN:25
+Word: reinforced | Lemma: reinforced | a56_253to258_tags.txt | SN:78 | TN:29
+Word: retinopathy | Lemma: retinopathy | a56_181to186_tags.txt | SN:97 | TN:25
+Word: riskier | Lemma: riskier | a56_253to258_tags.txt | SN:132 | TN:44
+Word: rock | Lemma: rock | a56_251_tags.txt | SN:29 | TN:8
+Word: rotation | Lemma: rotation | a56_193to197_tags.txt | SN:90 | TN:38
+Word: rounders | Lemma: rounders | a56_253to258_tags.txt | SN:33 | TN:8
+Word: run | Lemma: run | a56_260_tags.txt | SN:14 | TN:34
+Word: sampling | Lemma: sampling | a56_181to186_tags.txt | SN:72 | TN:31
+Word: sampling | Lemma: sampling | a56_181to186_tags.txt | SN:72 | TN:41
+Word: sampling | Lemma: sampling | a56_181to186_tags.txt | SN:83 | TN:8
+Word: scan | Lemma: scan | a56_193to197_tags.txt | SN:59 | TN:67
+Word: scandal | Lemma: scandal | a56_238to240_tags.txt | SN:72 | TN:7
+Word: scene | Lemma: scene | a56_251_tags.txt | SN:29 | TN:9
+Word: section | Lemma: section | a56_238to240_tags.txt | SN:63 | TN:16
+Word: sections | Lemma: sections | a56_238to240_tags.txt | SN:57 | TN:6
+Word: selected | Lemma: selected | a56_238to240_tags.txt | SN:59 | TN:7
+Word: selective | Lemma: selective | a56_238to240_tags.txt | SN:58 | TN:5
+Word: self-propagating | Lemma: self-propagating | a56_193to197_tags.txt | SN:94 | TN:6
+Word: sensory-neural | Lemma: sensory-neural | a56_181to186_tags.txt | SN:94 | TN:32
+Word: septal | Lemma: septal | a56_181to186_tags.txt | SN:94 | TN:20
+Word: sequence | Lemma: sequence | a56_181to186_tags.txt | SN:126 | TN:21
+Word: sequence | Lemma: sequence | a56_181to186_tags.txt | SN:128 | TN:11
+Word: serous | Lemma: serous | a56_181to186_tags.txt | SN:94 | TN:37
+Word: sets | Lemma: sets | a56_253to258_tags.txt | SN:51 | TN:19
+Word: sex | Lemma: sex | a56_181to186_tags.txt | SN:68 | TN:21
+Word: shines | Lemma: shines | a56_198_tags.txt | SN:13 | TN:19
+Word: shipping | Lemma: shipping | a56_212_tags.txt | SN:1 | TN:20
+Word: shoaling | Lemma: shoaling | cua_bernice_s11_tags.txt | SN:88 | TN:15
+Word: shoe | Lemma: shoe | a56_198_tags.txt | SN:6 | TN:9
+Word: shoe | Lemma: shoe | a56_198_tags.txt | SN:6 | TN:17
+Word: shoe | Lemma: shoe | a56_200_tags.txt | SN:1 | TN:30
+Word: shoe | Lemma: shoe | a56_200_tags.txt | SN:4 | TN:13
+Word: shoe | Lemma: shoe | a56_198_tags.txt | SN:8 | TN:4
+Word: shoe | Lemma: shoe | a56_198_tags.txt | SN:9 | TN:30
+Word: shoe | Lemma: shoe | a56_198_tags.txt | SN:11 | TN:7
+Word: shoe | Lemma: shoe | a56_198_tags.txt | SN:38 | TN:5
+Word: shoe | Lemma: shoe | a56_198_tags.txt | SN:13 | TN:18
+Word: shoe | Lemma: shoe | a56_198_tags.txt | SN:13 | TN:27
+Word: shoe | Lemma: shoe | a56_198_tags.txt | SN:27 | TN:15
+Word: shoe | Lemma: shoe | a56_198_tags.txt | SN:15 | TN:39
+Word: shoe | Lemma: shoe | a56_198_tags.txt | SN:26 | TN:3
+Word: shoe | Lemma: shoe | a56_200_tags.txt | SN:3 | TN:13
+Word: shoeshine | Lemma: shoeshine | a56_198_tags.txt | SN:13 | TN:10
+Word: shoeshine | Lemma: shoeshine | a56_200_tags.txt | SN:5 | TN:1
+Word: show | Lemma: show | a56_224_tags.txt | SN:1 | TN:15
+Word: signal | Lemma: signal | a56_212_tags.txt | SN:5 | TN:5
+Word: singular/plural | Lemma: singular/plural | a56_264_tags.txt | SN:16 | TN:11
+Word: skeletal | Lemma: skeletal | a56_181to186_tags.txt | SN:120 | TN:20
+Word: social | Lemma: social | a56_238to240_tags.txt | SN:69 | TN:34
+Word: soda | Lemma: soda | a56_198_tags.txt | SN:2 | TN:9
+Word: solids | Lemma: solids | a56_200_tags.txt | SN:9 | TN:16
+Word: songs | Lemma: songs | a56_235to237_tags.txt | SN:61 | TN:8
+Word: sound | Lemma: sound | a56_193to197_tags.txt | SN:82 | TN:12
+Word: source-publish | Lemma: source-publish | lopez_clement_s11_tags.txt | SN:65 | TN:7
+Word: speakers | Lemma: speakers | a56_204_tags.txt | SN:5 | TN:25
+Word: species | Lemma: species | cua_bernice_s11_tags.txt | SN:48 | TN:12
+Word: species | Lemma: species | cua_bernice_s11_tags.txt | SN:88 | TN:16
+Word: speed | Lemma: speed | a56_214_tags.txt | SN:16 | TN:11
+Word: sperm | Lemma: sperm | a56_181to186_tags.txt | SN:41 | TN:17
+Word: spew | Lemma: spew | a56_198_tags.txt | SN:30 | TN:23
+Word: square | Lemma: square | cua_bernice_s11_tags.txt | SN:19 | TN:11
+Word: star | Lemma: star | a56_247_tags.txt | SN:29 | TN:26
+Word: structure | Lemma: structure | a56_181to186_tags.txt | SN:120 | TN:21
+Word: style | Lemma: style | a56_253to258_tags.txt | SN:104 | TN:10
+Word: submarine | Lemma: submarine | a56_253to258_tags.txt | SN:104 | TN:9
+Word: submarine | Lemma: submarine | a56_253to258_tags.txt | SN:110 | TN:9
+Word: subspecies | Lemma: subspecies | cua_bernice_s11_tags.txt | SN:16 | TN:18
+Word: substances | Lemma: substances | a56_200_tags.txt | SN:13 | TN:6
+Word: summer | Lemma: summer | cua_bernice_s11_tags.txt | SN:17 | TN:18
+Word: swooping | Lemma: swooping | cua_bernice_s11_tags.txt | SN:93 | TN:23
+Word: syndicated | Lemma: syndicated | a56_226_tags.txt | SN:2 | TN:35
+Word: system | Lemma: system | lopez_clement_s11_tags.txt | SN:34 | TN:22
+Word: tallow | Lemma: tallow | a56_198_tags.txt | SN:2 | TN:12
+Word: tallow | Lemma: tallow | a56_198_tags.txt | SN:8 | TN:10
+Word: target | Lemma: target | lopez_clement_s11_tags.txt | SN:20 | TN:35
+Word: target | Lemma: target | lopez_clement_s11_tags.txt | SN:34 | TN:20
+Word: technical | Lemma: technical | a56_238to240_tags.txt | SN:3 | TN:26
+Word: techniques | Lemma: techniques | a56_181to186_tags.txt | SN:123 | TN:5
+Word: testicular | Lemma: testicular | a56_181to186_tags.txt | SN:96 | TN:26
+Word: the | Lemma: the | a56_259_tags.txt | SN:28 | TN:19
+Word: thymus | Lemma: thymus | a56_181to186_tags.txt | SN:137 | TN:5
+Word: thyroid | Lemma: thyroid | a56_181to186_tags.txt | SN:28 | TN:26
+Word: tipping | Lemma: tipping | a56_253to258_tags.txt | SN:128 | TN:9
+Word: to | Lemma: to | a56_198_tags.txt | SN:30 | TN:8
+Word: transgenic | Lemma: transgenic | a56_181to186_tags.txt | SN:37 | TN:7
+Word: transgenic | Lemma: transgenic | a56_181to186_tags.txt | SN:110 | TN:5
+Word: transgenic | Lemma: transgenic | a56_181to186_tags.txt | SN:118 | TN:7
+Word: transgenic | Lemma: transgenic | a56_181to186_tags.txt | SN:120 | TN:2
+Word: transgenic | Lemma: transgenic | a56_181to186_tags.txt | SN:132 | TN:9
+Word: transgenic | Lemma: transgenic | a56_181to186_tags.txt | SN:137 | TN:10
+Word: translocation | Lemma: translocation | a56_181to186_tags.txt | SN:34 | TN:36
+Word: translocation | Lemma: translocation | a56_181to186_tags.txt | SN:49 | TN:3
+Word: translocation | Lemma: translocation | a56_181to186_tags.txt | SN:53 | TN:7
+Word: transverse | Lemma: transverse | a56_181to186_tags.txt | SN:27 | TN:5
+Word: triplication | Lemma: triplication | a56_181to186_tags.txt | SN:119 | TN:14
+Word: tumor-suppressor | Lemma: tumor-suppressor | a56_181to186_tags.txt | SN:96 | TN:58
+Word: turpentine | Lemma: turpentine | a56_200_tags.txt | SN:10 | TN:12
+Word: turpentine | Lemma: turpentine | a56_200_tags.txt | SN:36 | TN:14
+Word: turpentine | Lemma: turpentine | a56_200_tags.txt | SN:39 | TN:7
+Word: typical | Lemma: typical | a56_181to186_tags.txt | SN:39 | TN:29
+Word: umbilical | Lemma: umbilical | a56_181to186_tags.txt | SN:72 | TN:38
+Word: units | Lemma: units | a56_213_tags.txt | SN:17 | TN:39
+Word: unlar | Lemma: unlar | a56_181to186_tags.txt | SN:31 | TN:133
+Word: unlimited | Lemma: unlimited | a56_252_tags.txt | SN:12 | TN:13
+Word: up | Lemma: up | a56_253to258_tags.txt | SN:51 | TN:20
+Word: ventricular | Lemma: ventricular | a56_181to186_tags.txt | SN:94 | TN:19
+Word: vertical | Lemma: vertical | lopez_clement_s11_tags.txt | SN:43 | TN:12
+Word: villus | Lemma: villus | a56_181to186_tags.txt | SN:72 | TN:30
+Word: villus | Lemma: villus | a56_181to186_tags.txt | SN:83 | TN:7
+Word: virgata | Lemma: virgata | cua_bernice_s11_tags.txt | SN:48 | TN:24
+Word: vital | Lemma: vital | a56_181to186_tags.txt | SN:109 | TN:34
+Word: vittata | Lemma: vittata | cua_bernice_s11_tags.txt | SN:48 | TN:31
+Word: vocal_Olympian_for_whom_there_ain't_no_mountain | Lemma: vocal_Olympian_for_whom_there_ain't_no_mountain | a56_238to240_tags.txt | SN:3 | TN:64
+Word: volatile | Lemma: volatile | a56_200_tags.txt | SN:13 | TN:5
+Word: volatility | Lemma: volatility | a56_200_tags.txt | SN:12 | TN:21
+Word: vomit | Lemma: vomit | a56_198_tags.txt | SN:30 | TN:9
+Word: war | Lemma: war | a56_193to197_tags.txt | SN:34 | TN:30
+Word: war | Lemma: war | a56_226_tags.txt | SN:17 | TN:18
+Word: wars | Lemma: wars | a56_193to197_tags.txt | SN:4 | TN:14
+Word: water | Lemma: water | a56_200_tags.txt | SN:35 | TN:12
+Word: waterproofing | Lemma: waterproofing | a56_200_tags.txt | SN:14 | TN:23
+Word: wave-particle | Lemma: wave-particle | a56_193to197_tags.txt | SN:112 | TN:17
+Word: waves | Lemma: waves | a56_193to197_tags.txt | SN:82 | TN:13
+Word: waves | Lemma: waves | a56_193to197_tags.txt | SN:94 | TN:8
+Word: waves | Lemma: waves | a56_193to197_tags.txt | SN:97 | TN:22
+Word: wax | Lemma: wax | a56_200_tags.txt | SN:10 | TN:14
+Word: wax | Lemma: wax | a56_200_tags.txt | SN:10 | TN:18
+Word: wax | Lemma: wax | a56_200_tags.txt | SN:14 | TN:24
+Word: wax | Lemma: wax | a56_200_tags.txt | SN:32 | TN:5
+Word: wax | Lemma: wax | a56_200_tags.txt | SN:33 | TN:7
+Word: wax | Lemma: wax | a56_200_tags.txt | SN:35 | TN:8
+Word: webbed | Lemma: webbed | cua_bernice_s11_tags.txt | SN:31 | TN:8
+Word: weighted | Lemma: weighted | a56_235to237_tags.txt | SN:20 | TN:36
+Word: wetlands | Lemma: wetlands | a56_249_tags.txt | SN:14 | TN:6
+Word: winners | Lemma: winners | a56_253to258_tags.txt | SN:39 | TN:9
+Word: wireless | Lemma: wireless | a56_193to197_tags.txt | SN:98 | TN:26
+Word: with_medical_and_law_schools | Lemma: with_medical_and_law_schools | a56_253to258_tags.txt | SN:10 | TN:24
+Word: yellow | Lemma: yellow | a56_200_tags.txt | SN:10 | TN:42

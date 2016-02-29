@@ -1,5 +1,6 @@
 POS Tag: VB_TS_OF_CCP
-ginawang | a56_213_tags.txt | SN:31 | TN:25
-pinasyahan | a56_253to258_tags.txt | SN:123 | TN:10
-ginampanang | a56_223_tags.txt | SN:4 | TN:2
-pinasadyang | lopez_clement_s11_tags.txt | SN:38 | TN:10
+Word: ginampanang | Lemma: ganap | a56_223_tags.txt | SN:4 | TN:2
+Word: ginawang | Lemma: gawa | a56_213_tags.txt | SN:31 | TN:25
+Word: pinasadyang | Lemma: sadya | lopez_clement_s11_tags.txt | SN:38 | TN:10
+Word: pinasyahan | Lemma: pinasyahan | a56_253to258_tags.txt | SN:123 | TN:10
+Word: pinasyahan | Lemma: pasiya | a56_253to258_tags.txt | SN:124 | TN:10

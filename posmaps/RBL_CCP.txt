@@ -1,7 +1,7 @@
 POS Tag: RBL_CCP
-nasa_kaliwang | a56_235to237_tags.txt | SN:73 | TN:16
-patungong | a56_181to186_tags.txt | SN:143 | TN:33
-sa_gawing | a56_193to197_tags.txt | SN:65 | TN:77
-sa_kabilang | a56_204_tags.txt | SN:9 | TN:9
-sa_kanlurang | a56_212_tags.txt | SN:13 | TN:10
-sa_kaliwang | a56_260_tags.txt | SN:3 | TN:51
+Word: nasa_kaliwang | Lemma: nasa_kaliwa | a56_235to237_tags.txt | SN:73 | TN:16
+Word: patungong | Lemma: tungo | a56_181to186_tags.txt | SN:143 | TN:33
+Word: sa_gawing | Lemma: sa_gawi | a56_193to197_tags.txt | SN:65 | TN:77
+Word: sa_kabilang | Lemma: sa_bilang | a56_204_tags.txt | SN:9 | TN:9
+Word: sa_kaliwang | Lemma: sa_kaliwa | a56_260_tags.txt | SN:3 | TN:51
+Word: sa_kanlurang | Lemma: sa_kanluran | a56_212_tags.txt | SN:13 | TN:10

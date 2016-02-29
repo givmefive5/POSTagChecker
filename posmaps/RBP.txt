@@ -1,7 +1,41 @@
 POS Tag: RBP
-dahil | a56_260_tags.txt | SN:18 | TN:10
-Dahil_sa | a56_181to186_tags.txt | SN:77 | TN:0
-dahil_dito | a56_193to197_tags.txt | SN:5 | TN:17
-dahil_sa | a56_181to186_tags.txt | SN:31 | TN:60
-Dahil_dito | a56_248_tags.txt | SN:2 | TN:0
-Kaya | cua_bernice_s11_tags.txt | SN:27 | TN:0
+Word: Dahil_dito | Lemma: Dahil_dito | a56_248_tags.txt | SN:2 | TN:0
+Word: Dahil_sa | Lemma: Dahil_sa | a56_181to186_tags.txt | SN:77 | TN:0
+Word: Dahil_sa | Lemma: Dahil_sa | a56_181to186_tags.txt | SN:86 | TN:0
+Word: Dahil_sa | Lemma: Dahil_sa | a56_181to186_tags.txt | SN:123 | TN:0
+Word: Dahil_sa | Lemma: ahil_sa | a56_193to197_tags.txt | SN:75 | TN:0
+Word: Dahil_sa | Lemma: Dahil_sa | a56_253to258_tags.txt | SN:19 | TN:0
+Word: Dahil_sa | Lemma: Dahil_sa | a56_260_tags.txt | SN:8 | TN:0
+Word: Kaya | Lemma: Kaya | cua_bernice_s11_tags.txt | SN:27 | TN:0
+Word: dahil | Lemma: dahil | a56_260_tags.txt | SN:18 | TN:10
+Word: dahil_dito | Lemma: dahil_dito | a56_193to197_tags.txt | SN:5 | TN:17
+Word: dahil_sa | Lemma: dahil_sa | a56_193to197_tags.txt | SN:76 | TN:11
+Word: dahil_sa | Lemma: dahil_sa | a56_181to186_tags.txt | SN:31 | TN:60
+Word: dahil_sa | Lemma: dahil_sa | a56_181to186_tags.txt | SN:49 | TN:1
+Word: dahil_sa | Lemma: dahil_sa | a56_193to197_tags.txt | SN:14 | TN:20
+Word: dahil_sa | Lemma: dahil_sa | a56_226_tags.txt | SN:3 | TN:6
+Word: dahil_sa | Lemma: dahil_sa | a56_227_tags.txt | SN:4 | TN:33
+Word: dahil_sa | Lemma: dahil_sa | a56_228_tags.txt | SN:17 | TN:27
+Word: dahil_sa | Lemma: dahil_sa | a56_238to240_tags.txt | SN:3 | TN:7
+Word: dahil_sa | Lemma: dahil_sa | a56_193to197_tags.txt | SN:15 | TN:5
+Word: dahil_sa | Lemma: dahil_sa | a56_193to197_tags.txt | SN:23 | TN:6
+Word: dahil_sa | Lemma: dahil_sa | a56_224_tags.txt | SN:7 | TN:16
+Word: dahil_sa | Lemma: dahil_sa | a56_259_tags.txt | SN:14 | TN:11
+Word: dahil_sa | Lemma: dahil_sa | a56_193to197_tags.txt | SN:111 | TN:2
+Word: dahil_sa | Lemma: dahil_sa | a56_224_tags.txt | SN:12 | TN:8
+Word: dahil_sa | Lemma: dahil_sa | a56_198_tags.txt | SN:29 | TN:19
+Word: dahil_sa | Lemma: dahil_sa | a56_238to240_tags.txt | SN:28 | TN:15
+Word: dahil_sa | Lemma: dahil_sa | a56_228_tags.txt | SN:13 | TN:10
+Word: dahil_sa | Lemma: dahil_sa | a56_226_tags.txt | SN:7 | TN:5
+Word: dahil_sa | Lemma: dahil_sa | a56_252_tags.txt | SN:4 | TN:3
+Word: dahil_sa | Lemma: dahil_sa | a56_248_tags.txt | SN:28 | TN:15
+Word: dahil_sa | Lemma: dahil_sa | a56_226_tags.txt | SN:30 | TN:11
+Word: dahil_sa | Lemma: dahil_sa | a56_211_tags.txt | SN:5 | TN:19
+Word: dahil_sa | Lemma: dahil_sa | lopez_clement_s11_tags.txt | SN:77 | TN:10
+Word: dahil_sa | Lemma: dahil_sa | a56_235to237_tags.txt | SN:5 | TN:12
+Word: dahil_sa | Lemma: dahil_sa | a56_235to237_tags.txt | SN:27 | TN:12
+Word: dahil_sa | Lemma: dahil_sa | a56_249_tags.txt | SN:6 | TN:10
+Word: dahil_sa | Lemma: dahil_sa | a56_248_tags.txt | SN:30 | TN:13
+Word: dahil_sa | Lemma: dahil_sa | a56_213_tags.txt | SN:43 | TN:2
+Word: dahil_sa | Lemma: dahil_sa | a56_228_tags.txt | SN:17 | TN:8
+Word: dahil_sa | Lemma: dahil_sa | a56_238to240_tags.txt | SN:1 | TN:4

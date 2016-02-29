@@ -1,25 +1,26 @@
 POS Tag: VB_TF_AF
-tumulong | a56_259_tags.txt | SN:26 | TN:19
-humabol | cua_bernice_s11_tags.txt | SN:92 | TN:3
-magdadala | a56_253to258_tags.txt | SN:135 | TN:2
-magmumungkahi | a56_260_tags.txt | SN:7 | TN:20
-Mag-aatake | cua_bernice_s11_tags.txt | SN:65 | TN:0
-umabot | a56_253to258_tags.txt | SN:119 | TN:14
-makikilala | cua_bernice_s11_tags.txt | SN:49 | TN:3
-Manghaharot | cua_bernice_s11_tags.txt | SN:98 | TN:0
-magdesisyon | a56_259_tags.txt | SN:25 | TN:21
-kumalat | a56_247_tags.txt | SN:6 | TN:20
-magtataglay | a56_235to237_tags.txt | SN:21 | TN:37
-kumuha | a56_253to258_tags.txt | SN:94 | TN:3
-ipasok | lopez_clement_s11_tags.txt | SN:6 | TN:32
-umaabot | a56_259_tags.txt | SN:15 | TN:11
-mag-asawa | lopez_clement_s11_tags.txt | SN:6 | TN:30
-magpapalabas | a56_224_tags.txt | SN:2 | TN:8
-magnanakaw | cua_bernice_s11_tags.txt | SN:98 | TN:2
-umasa | lopez_clement_s11_tags.txt | SN:8 | TN:8
-magtatayo | a56_260_tags.txt | SN:7 | TN:13
-magsisimula | lopez_clement_s11_tags.txt | SN:51 | TN:11
-lumipad | cua_bernice_s11_tags.txt | SN:82 | TN:5
-magbabalik | a56_252_tags.txt | SN:10 | TN:3
-pumigil | a56_253to258_tags.txt | SN:80 | TN:19
-maglalarawan | cua_bernice_s11_tags.txt | SN:55 | TN:1
+Word: Mag-aatake | Lemma: atake | cua_bernice_s11_tags.txt | SN:65 | TN:0
+Word: Manghaharot | Lemma: Harot | cua_bernice_s11_tags.txt | SN:98 | TN:0
+Word: humabol | Lemma: habol | cua_bernice_s11_tags.txt | SN:92 | TN:3
+Word: ipasok | Lemma: pasok | lopez_clement_s11_tags.txt | SN:6 | TN:32
+Word: kumalat | Lemma: kalat | a56_247_tags.txt | SN:6 | TN:20
+Word: kumuha | Lemma: kuha | a56_253to258_tags.txt | SN:94 | TN:3
+Word: kumuha | Lemma: kuha | a56_259_tags.txt | SN:23 | TN:16
+Word: lumipad | Lemma: lipad | cua_bernice_s11_tags.txt | SN:82 | TN:5
+Word: mag-asawa | Lemma: asawa | lopez_clement_s11_tags.txt | SN:6 | TN:30
+Word: magbabalik | Lemma: balik | a56_252_tags.txt | SN:10 | TN:3
+Word: magdadala | Lemma: dala | a56_253to258_tags.txt | SN:135 | TN:2
+Word: magdesisyon | Lemma: desisyon | a56_259_tags.txt | SN:25 | TN:21
+Word: maglalarawan | Lemma: larawan | cua_bernice_s11_tags.txt | SN:55 | TN:1
+Word: magmumungkahi | Lemma: mungkahi | a56_260_tags.txt | SN:7 | TN:20
+Word: magnanakaw | Lemma: nakaw | cua_bernice_s11_tags.txt | SN:98 | TN:2
+Word: magpapalabas | Lemma: labas | a56_224_tags.txt | SN:2 | TN:8
+Word: magsisimula | Lemma: simula | lopez_clement_s11_tags.txt | SN:51 | TN:11
+Word: magtataglay | Lemma: taglay | a56_235to237_tags.txt | SN:21 | TN:37
+Word: magtatayo | Lemma: tayo | a56_260_tags.txt | SN:7 | TN:13
+Word: makikilala | Lemma: kilala | cua_bernice_s11_tags.txt | SN:49 | TN:3
+Word: pumigil | Lemma: pigil | a56_253to258_tags.txt | SN:80 | TN:19
+Word: tumulong | Lemma: tulong | a56_259_tags.txt | SN:26 | TN:19
+Word: umaabot | Lemma: abot | a56_259_tags.txt | SN:15 | TN:11
+Word: umabot | Lemma: abot | a56_253to258_tags.txt | SN:119 | TN:14
+Word: umasa | Lemma: asa | lopez_clement_s11_tags.txt | SN:8 | TN:8

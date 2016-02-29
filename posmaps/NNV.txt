@@ -1,2 +1,2 @@
 POS Tag: NNV
-edad | a56_253to258_tags.txt | SN:168 | TN:30
+Word: edad | Lemma: edad | a56_253to258_tags.txt | SN:168 | TN:30

@@ -1,3 +1,26 @@
 POS Tag: DTPP
-sina | a56_198_tags.txt | SN:16 | TN:4
-nina | a56_225_tags.txt | SN:12 | TN:8
+Word: nina | Lemma: nina | a56_225_tags.txt | SN:12 | TN:8
+Word: nina | Lemma: nina | a56_225_tags.txt | SN:13 | TN:1
+Word: nina | Lemma: nina | a56_225_tags.txt | SN:14 | TN:29
+Word: nina | Lemma: nina | a56_225_tags.txt | SN:26 | TN:27
+Word: nina | Lemma: nina | a56_228_tags.txt | SN:7 | TN:31
+Word: nina | Lemma: nina | a56_247_tags.txt | SN:17 | TN:17
+Word: nina | Lemma: nina | a56_238to240_tags.txt | SN:19 | TN:2
+Word: nina | Lemma: nina | a56_228_tags.txt | SN:17 | TN:35
+Word: nina | Lemma: nina | a56_235to237_tags.txt | SN:63 | TN:16
+Word: nina | Lemma: nina | a56_238to240_tags.txt | SN:2 | TN:13
+Word: nina | Lemma: nina | a56_238to240_tags.txt | SN:43 | TN:56
+Word: nina | Lemma: nina | a56_238to240_tags.txt | SN:10 | TN:32
+Word: sina | Lemma: sina | a56_225_tags.txt | SN:18 | TN:4
+Word: sina | Lemma: sina | a56_225_tags.txt | SN:7 | TN:6
+Word: sina | Lemma: sina | a56_198_tags.txt | SN:16 | TN:4
+Word: sina | Lemma: sina | a56_235to237_tags.txt | SN:69 | TN:21
+Word: sina | Lemma: sina | a56_225_tags.txt | SN:8 | TN:8
+Word: sina | Lemma: sina | a56_225_tags.txt | SN:13 | TN:8
+Word: sina | Lemma: sina | a56_226_tags.txt | SN:18 | TN:4
+Word: sina | Lemma: sina | a56_226_tags.txt | SN:19 | TN:2
+Word: sina | Lemma: sina | a56_227_tags.txt | SN:5 | TN:2
+Word: sina | Lemma: sina | a56_228_tags.txt | SN:2 | TN:13
+Word: sina | Lemma: sina | a56_235to237_tags.txt | SN:64 | TN:31
+Word: sina | Lemma: sina | a56_235to237_tags.txt | SN:65 | TN:3
+Word: sina | Lemma: sina | a56_235to237_tags.txt | SN:66 | TN:1

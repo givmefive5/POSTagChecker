@@ -1,3 +1,3 @@
 POS Tag: PRS_CCB
-niyang | a56_223_tags.txt | SN:1 | TN:1
-siyang | a56_223_tags.txt | SN:1 | TN:27
+Word: niyang | Lemma: niya | a56_223_tags.txt | SN:1 | TN:1
+Word: siyang | Lemma: siya | a56_223_tags.txt | SN:1 | TN:27

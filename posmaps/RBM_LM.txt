@@ -1,2 +1,2 @@
 POS Tag: RBM_LM
-animo’y | a56_225_tags.txt | SN:23 | TN:13
+Word: animo’y | Lemma: animo’y | a56_225_tags.txt | SN:23 | TN:13

@@ -1,2 +1,2 @@
 POS Tag: CB
-para | cua_bernice_s11_tags.txt | SN:91 | TN:11
+Word: para | Lemma: para | cua_bernice_s11_tags.txt | SN:91 | TN:11

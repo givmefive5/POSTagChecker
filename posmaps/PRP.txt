@@ -1,7 +1,70 @@
 POS Tag: PRP
-nila | a56_193to197_tags.txt | SN:2 | TN:29
-tayo | a56_238to240_tags.txt | SN:56 | TN:21
-nilang | a56_228_tags.txt | SN:6 | TN:24
-siya | a56_252_tags.txt | SN:19 | TN:6
-natin | a56_181to186_tags.txt | SN:9 | TN:1
-sila | a56_181to186_tags.txt | SN:13 | TN:1
+Word: natin | Lemma: natin | a56_181to186_tags.txt | SN:9 | TN:1
+Word: natin | Lemma: natin | a56_193to197_tags.txt | SN:76 | TN:8
+Word: natin | Lemma: natin | a56_238to240_tags.txt | SN:34 | TN:1
+Word: nila | Lemma: nila | a56_225_tags.txt | SN:23 | TN:9
+Word: nila | Lemma: nila | a56_225_tags.txt | SN:13 | TN:23
+Word: nila | Lemma: nila | a56_193to197_tags.txt | SN:2 | TN:29
+Word: nila | Lemma: nila | a56_264_tags.txt | SN:18 | TN:21
+Word: nila | Lemma: nila | a56_214_tags.txt | SN:18 | TN:1
+Word: nila | Lemma: nila | a56_225_tags.txt | SN:25 | TN:42
+Word: nila | Lemma: nila | a56_253to258_tags.txt | SN:41 | TN:20
+Word: nila | Lemma: nila | a56_259_tags.txt | SN:28 | TN:26
+Word: nila | Lemma: nila | cua_bernice_s11_tags.txt | SN:110 | TN:3
+Word: nila | Lemma: nila | a56_263_tags.txt | SN:9 | TN:20
+Word: nila | Lemma: nila | a56_253to258_tags.txt | SN:82 | TN:10
+Word: nila | Lemma: nila | a56_235to237_tags.txt | SN:32 | TN:26
+Word: nila | Lemma: nila | a56_260_tags.txt | SN:17 | TN:28
+Word: nila | Lemma: nila | cua_bernice_s11_tags.txt | SN:108 | TN:18
+Word: nila | Lemma: nila | a56_247_tags.txt | SN:4 | TN:8
+Word: nila | Lemma: nila | a56_260_tags.txt | SN:17 | TN:31
+Word: nila | Lemma: nila | a56_247_tags.txt | SN:22 | TN:1
+Word: nila | Lemma: nila | a56_250_tags.txt | SN:2 | TN:6
+Word: nila | Lemma: nila | cua_bernice_s11_tags.txt | SN:14 | TN:10
+Word: nila | Lemma: nila | lopez_clement_s11_tags.txt | SN:76 | TN:39
+Word: nila | Lemma: nila | cua_bernice_s11_tags.txt | SN:82 | TN:4
+Word: nila | Lemma: nila | a56_259_tags.txt | SN:28 | TN:29
+Word: nila | Lemma: nila | cua_bernice_s11_tags.txt | SN:87 | TN:13
+Word: nila | Lemma: nila | cua_bernice_s11_tags.txt | SN:20 | TN:6
+Word: nilang | Lemma: nila | a56_228_tags.txt | SN:6 | TN:24
+Word: sila | Lemma: sila | a56_181to186_tags.txt | SN:119 | TN:22
+Word: sila | Lemma: sila | a56_181to186_tags.txt | SN:13 | TN:1
+Word: sila | Lemma: sila | a56_181to186_tags.txt | SN:14 | TN:19
+Word: sila | Lemma: sila | a56_238to240_tags.txt | SN:48 | TN:21
+Word: sila | Lemma: sila | a56_249_tags.txt | SN:4 | TN:1
+Word: sila | Lemma: sila | a56_253to258_tags.txt | SN:41 | TN:8
+Word: sila | Lemma: sila | cua_bernice_s11_tags.txt | SN:75 | TN:1
+Word: sila | Lemma: sila | a56_247_tags.txt | SN:5 | TN:1
+Word: sila | Lemma: sila | cua_bernice_s11_tags.txt | SN:63 | TN:1
+Word: sila | Lemma: sila | cua_bernice_s11_tags.txt | SN:27 | TN:2
+Word: sila | Lemma: sila | cua_bernice_s11_tags.txt | SN:55 | TN:2
+Word: sila | Lemma: sila | a56_247_tags.txt | SN:7 | TN:4
+Word: sila | Lemma: sila | a56_211_tags.txt | SN:31 | TN:1
+Word: sila | Lemma: sila | a56_252_tags.txt | SN:20 | TN:12
+Word: sila | Lemma: sila | a56_212_tags.txt | SN:31 | TN:26
+Word: sila | Lemma: sila | a56_235to237_tags.txt | SN:65 | TN:12
+Word: sila | Lemma: sila | a56_235to237_tags.txt | SN:21 | TN:27
+Word: sila | Lemma: sila | a56_247_tags.txt | SN:22 | TN:21
+Word: sila | Lemma: sila | a56_247_tags.txt | SN:6 | TN:4
+Word: sila | Lemma: sila | a56_247_tags.txt | SN:24 | TN:2
+Word: sila | Lemma: sila | a56_213_tags.txt | SN:21 | TN:29
+Word: sila | Lemma: sila | a56_252_tags.txt | SN:20 | TN:4
+Word: sila | Lemma: sila | a56_260_tags.txt | SN:6 | TN:23
+Word: sila | Lemma: sila | a56_228_tags.txt | SN:21 | TN:4
+Word: sila | Lemma: sila | a56_261_tags.txt | SN:4 | TN:31
+Word: sila | Lemma: sila | cua_bernice_s11_tags.txt | SN:82 | TN:1
+Word: sila | Lemma: sila | a56_259_tags.txt | SN:13 | TN:23
+Word: sila | Lemma: sila | a56_247_tags.txt | SN:4 | TN:1
+Word: sila | Lemma: sila | a56_224_tags.txt | SN:8 | TN:1
+Word: sila | Lemma: sila | a56_263_tags.txt | SN:17 | TN:11
+Word: sila | Lemma: sila | a56_247_tags.txt | SN:11 | TN:19
+Word: sila | Lemma: sila | cua_bernice_s11_tags.txt | SN:62 | TN:2
+Word: sila | Lemma: sila | a56_238to240_tags.txt | SN:70 | TN:19
+Word: sila | Lemma: sila | a56_225_tags.txt | SN:9 | TN:12
+Word: sila | Lemma: sila | a56_227_tags.txt | SN:2 | TN:27
+Word: sila | Lemma: sila | a56_228_tags.txt | SN:20 | TN:53
+Word: sila | Lemma: sila | a56_228_tags.txt | SN:14 | TN:56
+Word: sila | Lemma: sila | a56_260_tags.txt | SN:17 | TN:21
+Word: siya | Lemma: siya | a56_252_tags.txt | SN:19 | TN:6
+Word: tayo | Lemma: tayo | a56_238to240_tags.txt | SN:56 | TN:21
+Word: tayo | Lemma: tayo | a56_253to258_tags.txt | SN:173 | TN:39

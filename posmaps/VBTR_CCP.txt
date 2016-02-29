@@ -1,18 +1,22 @@
 POS Tag: VBTR_CCP
-pangyayaring | a56_181to186_tags.txt | SN:40 | TN:10
-kinakailangang | a56_181to186_tags.txt | SN:121 | TN:10
-nabibiling | a56_198_tags.txt | SN:11 | TN:3
-nananatiling | a56_204_tags.txt | SN:5 | TN:29
-isinasaalang-alang | a56_181to186_tags.txt | SN:47 | TN:1
-nangungunang | a56_223_tags.txt | SN:6 | TN:11
-nakikilalang | a56_181to186_tags.txt | SN:96 | TN:90
-nadagdagang | a56_181to186_tags.txt | SN:72 | TN:7
-pinananatiling | a56_200_tags.txt | SN:34 | TN:1
-isinasagawang | a56_181to186_tags.txt | SN:80 | TN:6
-nag-iisang | a56_181to186_tags.txt | SN:27 | TN:4
-magkakaibang | a56_181to186_tags.txt | SN:99 | TN:15
-Ipinapakitang | a56_181to186_tags.txt | SN:138 | TN:0
-nagdadalang | a56_181to186_tags.txt | SN:70 | TN:6
-tumatakbong | a56_181to186_tags.txt | SN:126 | TN:26
-inaasahang | a56_181to186_tags.txt | SN:98 | TN:7
-sumusuyong | a56_181to186_tags.txt | SN:145 | TN:17
+Word: Ipinapakitang | Lemma: Kita | a56_181to186_tags.txt | SN:138 | TN:0
+Word: inaasahang | Lemma: asa | a56_181to186_tags.txt | SN:98 | TN:7
+Word: isinasaalang-alang | Lemma: alang | a56_181to186_tags.txt | SN:47 | TN:1
+Word: isinasagawang | Lemma: gawa | a56_181to186_tags.txt | SN:80 | TN:6
+Word: kinakailangang | Lemma: kailangan | a56_181to186_tags.txt | SN:121 | TN:10
+Word: kinakailangang | Lemma: kailangan | a56_193to197_tags.txt | SN:41 | TN:26
+Word: magkakaibang | Lemma: iba | a56_181to186_tags.txt | SN:99 | TN:15
+Word: nabibiling | Lemma: bili | a56_198_tags.txt | SN:11 | TN:3
+Word: nadagdagang | Lemma: dagdag | a56_181to186_tags.txt | SN:72 | TN:7
+Word: nadagdagang | Lemma: dagdag | a56_181to186_tags.txt | SN:87 | TN:43
+Word: nag-iisang | Lemma: isa | a56_181to186_tags.txt | SN:27 | TN:4
+Word: nag-iisang | Lemma: isa | a56_181to186_tags.txt | SN:31 | TN:120
+Word: nagdadalang | Lemma: dala | a56_181to186_tags.txt | SN:70 | TN:6
+Word: nagdadalang | Lemma: dala | a56_181to186_tags.txt | SN:73 | TN:7
+Word: nakikilalang | Lemma: kilala | a56_181to186_tags.txt | SN:96 | TN:90
+Word: nananatiling | Lemma: tili | a56_204_tags.txt | SN:5 | TN:29
+Word: nangungunang | Lemma: una | a56_223_tags.txt | SN:6 | TN:11
+Word: pangyayaring | Lemma: yari | a56_181to186_tags.txt | SN:40 | TN:10
+Word: pinananatiling | Lemma: tili | a56_200_tags.txt | SN:34 | TN:1
+Word: sumusuyong | Lemma: suyo | a56_181to186_tags.txt | SN:145 | TN:17
+Word: tumatakbong | Lemma: takbo | a56_181to186_tags.txt | SN:126 | TN:26

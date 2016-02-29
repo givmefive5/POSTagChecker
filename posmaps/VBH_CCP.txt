@@ -1,5 +1,42 @@
 POS Tag: VBH_CCP
-mayroong | a56_181to186_tags.txt | SN:42 | TN:18
-Merong | a56_251_tags.txt | SN:5 | TN:0
-merong | a56_211_tags.txt | SN:23 | TN:21
-Mayroong | a56_181to186_tags.txt | SN:23 | TN:0
+Word: Mayroong | Lemma: Mayroon | a56_181to186_tags.txt | SN:47 | TN:0
+Word: Mayroong | Lemma: Mayroon | a56_181to186_tags.txt | SN:23 | TN:0
+Word: Mayroong | Lemma: Mayroon | a56_181to186_tags.txt | SN:32 | TN:0
+Word: Mayroong | Lemma: Mayroon | a56_181to186_tags.txt | SN:52 | TN:0
+Word: Mayroong | Lemma: Mayroon | a56_181to186_tags.txt | SN:75 | TN:0
+Word: Mayroong | Lemma: Mayroon | a56_238to240_tags.txt | SN:56 | TN:0
+Word: Mayroong | Lemma: Mayroon | a56_248_tags.txt | SN:16 | TN:0
+Word: Mayroong | Lemma: Mayroon | a56_252_tags.txt | SN:3 | TN:0
+Word: Mayroong | Lemma: Mayroon | a56_253to258_tags.txt | SN:56 | TN:0
+Word: Merong | Lemma: Mayroon | a56_251_tags.txt | SN:5 | TN:0
+Word: Merong | Lemma: Mayroon | a56_253to258_tags.txt | SN:1 | TN:0
+Word: mayroong | Lemma: mayroon | a56_181to186_tags.txt | SN:108 | TN:10
+Word: mayroong | Lemma: mayroon | a56_181to186_tags.txt | SN:42 | TN:18
+Word: mayroong | Lemma: mayroon | a56_226_tags.txt | SN:11 | TN:36
+Word: mayroong | Lemma: mayroon | lopez_clement_s11_tags.txt | SN:52 | TN:21
+Word: mayroong | Lemma: mayroon | a56_181to186_tags.txt | SN:52 | TN:7
+Word: mayroong | Lemma: mayroon | a56_181to186_tags.txt | SN:72 | TN:14
+Word: mayroong | Lemma: mayroon | a56_193to197_tags.txt | SN:16 | TN:12
+Word: mayroong | Lemma: mayroon | a56_247_tags.txt | SN:15 | TN:27
+Word: mayroong | Lemma: mayroon | a56_181to186_tags.txt | SN:77 | TN:5
+Word: mayroong | Lemma: mayroon | a56_181to186_tags.txt | SN:85 | TN:26
+Word: mayroong | Lemma: mayroon | a56_181to186_tags.txt | SN:87 | TN:25
+Word: mayroong | Lemma: mayroon | a56_250_tags.txt | SN:14 | TN:25
+Word: mayroong | Lemma: mayroon | a56_181to186_tags.txt | SN:91 | TN:22
+Word: mayroong | Lemma: mayroon | a56_238to240_tags.txt | SN:64 | TN:2
+Word: mayroong | Lemma: mayroon | a56_247_tags.txt | SN:34 | TN:6
+Word: mayroong | Lemma: mayroon | a56_225_tags.txt | SN:17 | TN:5
+Word: mayroong | Lemma: mayroon | a56_181to186_tags.txt | SN:126 | TN:18
+Word: mayroong | Lemma: mayroon | a56_181to186_tags.txt | SN:143 | TN:16
+Word: mayroong | Lemma: mayroon | a56_259_tags.txt | SN:14 | TN:17
+Word: mayroong | Lemma: mayroon | lopez_clement_s11_tags.txt | SN:6 | TN:68
+Word: mayroong | Lemma: mayroon | a56_259_tags.txt | SN:21 | TN:12
+Word: mayroong | Lemma: mayroon | a56_181to186_tags.txt | SN:134 | TN:2
+Word: mayroong | Lemma: mayroon | lopez_clement_s11_tags.txt | SN:63 | TN:7
+Word: merong | Lemma: mayroon | a56_211_tags.txt | SN:23 | TN:21
+Word: merong | Lemma: mayroon | a56_211_tags.txt | SN:23 | TN:32
+Word: merong | Lemma: mayroon | a56_212_tags.txt | SN:3 | TN:10
+Word: merong | Lemma: mayroon | a56_212_tags.txt | SN:29 | TN:7
+Word: merong | Lemma: mayroon | a56_214_tags.txt | SN:18 | TN:10
+Word: merong | Lemma: mayroon | a56_214_tags.txt | SN:20 | TN:35
+Word: merong | Lemma: mayroon | a56_214_tags.txt | SN:43 | TN:36

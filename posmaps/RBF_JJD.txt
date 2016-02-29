@@ -1,2 +1,2 @@
 POS Tag: RBF_JJD
-di-mariin | a56_213_tags.txt | SN:21 | TN:13
+Word: di-mariin | Lemma: di-diin | a56_213_tags.txt | SN:21 | TN:13

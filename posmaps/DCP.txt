@@ -1,3 +1,3 @@
 POS Tag: DCP
-Ang_mga | a56_200_tags.txt | SN:5 | TN:0
-mga | a56_259_tags.txt | SN:28 | TN:11
+Word: Ang_mga | Lemma: Ang_mga | a56_200_tags.txt | SN:5 | TN:0
+Word: mga | Lemma: mga | a56_259_tags.txt | SN:28 | TN:11

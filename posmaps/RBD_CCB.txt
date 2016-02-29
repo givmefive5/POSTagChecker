@@ -1,3 +1,3 @@
 POS Tag: RBD_CCB
-bigyang | a56_225_tags.txt | SN:17 | TN:2
-Patuksong | a56_224_tags.txt | SN:10 | TN:0
+Word: Patuksong | Lemma: tukso | a56_224_tags.txt | SN:10 | TN:0
+Word: bigyang | Lemma: bigay | a56_225_tags.txt | SN:17 | TN:2

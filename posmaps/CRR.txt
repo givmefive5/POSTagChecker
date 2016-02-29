@@ -1,2 +1,2 @@
 POS Tag: CRR
-dahil | a56_249_tags.txt | SN:21 | TN:16
+Word: dahil | Lemma: dahil | a56_249_tags.txt | SN:21 | TN:16

@@ -1,2 +1,2 @@
 POS Tag: CAA
-at | a56_227_tags.txt | SN:5 | TN:4
+Word: at | Lemma: at | a56_227_tags.txt | SN:5 | TN:4

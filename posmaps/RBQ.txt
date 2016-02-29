@@ -1,9 +1,92 @@
 POS Tag: RBQ
-ano | a56_181to186_tags.txt | SN:11 | TN:3
-bakit | a56_193to197_tags.txt | SN:1 | TN:25
-Paano | a56_238to240_tags.txt | SN:33 | TN:50
-paano | a56_193to197_tags.txt | SN:78 | TN:13
-papano | a56_238to240_tags.txt | SN:69 | TN:9
-alin | a56_248_tags.txt | SN:10 | TN:28
-saan | a56_181to186_tags.txt | SN:2 | TN:11
-saang | a56_260_tags.txt | SN:11 | TN:22
+Word: Paano | Lemma: Paano | a56_238to240_tags.txt | SN:33 | TN:50
+Word: alin | Lemma: alin | a56_248_tags.txt | SN:10 | TN:28
+Word: ano | Lemma: ano | a56_181to186_tags.txt | SN:11 | TN:3
+Word: ano | Lemma: ano | a56_193to197_tags.txt | SN:41 | TN:12
+Word: ano | Lemma: ano | a56_227_tags.txt | SN:20 | TN:14
+Word: ano | Lemma: ano | a56_227_tags.txt | SN:24 | TN:4
+Word: ano | Lemma: ano | a56_238to240_tags.txt | SN:16 | TN:11
+Word: ano | Lemma: ano | a56_253to258_tags.txt | SN:102 | TN:13
+Word: ano | Lemma: ano | a56_253to258_tags.txt | SN:142 | TN:29
+Word: ano | Lemma: ano | lopez_clement_s11_tags.txt | SN:53 | TN:25
+Word: bakit | Lemma: bakit | a56_193to197_tags.txt | SN:1 | TN:25
+Word: bakit | Lemma: bakit | a56_193to197_tags.txt | SN:79 | TN:4
+Word: bakit | Lemma: bakit | a56_253to258_tags.txt | SN:75 | TN:7
+Word: paano | Lemma: paano | a56_193to197_tags.txt | SN:78 | TN:13
+Word: paano | Lemma: paano | a56_224_tags.txt | SN:17 | TN:18
+Word: paano | Lemma: paano | a56_253to258_tags.txt | SN:52 | TN:9
+Word: paano | Lemma: paano | a56_253to258_tags.txt | SN:84 | TN:17
+Word: papano | Lemma: paano | a56_238to240_tags.txt | SN:69 | TN:9
+Word: saan | Lemma: saan | a56_181to186_tags.txt | SN:8 | TN:5
+Word: saan | Lemma: saan | a56_181to186_tags.txt | SN:2 | TN:11
+Word: saan | Lemma: saan | a56_235to237_tags.txt | SN:65 | TN:10
+Word: saan | Lemma: saan | a56_235to237_tags.txt | SN:32 | TN:23
+Word: saan | Lemma: saan | a56_259_tags.txt | SN:16 | TN:14
+Word: saan | Lemma: saan | a56_261_tags.txt | SN:17 | TN:13
+Word: saan | Lemma: saan | a56_193to197_tags.txt | SN:89 | TN:11
+Word: saan | Lemma: saan | a56_214_tags.txt | SN:38 | TN:25
+Word: saan | Lemma: saan | a56_261_tags.txt | SN:4 | TN:30
+Word: saan | Lemma: saan | a56_213_tags.txt | SN:17 | TN:56
+Word: saan | Lemma: saan | a56_227_tags.txt | SN:10 | TN:16
+Word: saan | Lemma: saan | lopez_clement_s11_tags.txt | SN:6 | TN:67
+Word: saan | Lemma: saan | a56_193to197_tags.txt | SN:105 | TN:22
+Word: saan | Lemma: saan | a56_181to186_tags.txt | SN:6 | TN:63
+Word: saan | Lemma: saan | a56_214_tags.txt | SN:7 | TN:8
+Word: saan | Lemma: saan | cua_bernice_s11_tags.txt | SN:102 | TN:8
+Word: saan | Lemma: saan | lopez_clement_s11_tags.txt | SN:41 | TN:20
+Word: saan | Lemma: saan | lopez_clement_s11_tags.txt | SN:54 | TN:17
+Word: saan | Lemma: saan | a56_260_tags.txt | SN:3 | TN:30
+Word: saan | Lemma: saan | a56_226_tags.txt | SN:12 | TN:32
+Word: saan | Lemma: saan | a56_193to197_tags.txt | SN:87 | TN:23
+Word: saan | Lemma: saan | a56_238to240_tags.txt | SN:71 | TN:21
+Word: saan | Lemma: saan | a56_193to197_tags.txt | SN:102 | TN:30
+Word: saan | Lemma: saan | a56_193to197_tags.txt | SN:59 | TN:79
+Word: saan | Lemma: saan | a56_261_tags.txt | SN:13 | TN:9
+Word: saan | Lemma: saan | a56_193to197_tags.txt | SN:85 | TN:20
+Word: saan | Lemma: saan | a56_181to186_tags.txt | SN:10 | TN:5
+Word: saan | Lemma: saan | a56_181to186_tags.txt | SN:29 | TN:26
+Word: saan | Lemma: saan | a56_235to237_tags.txt | SN:69 | TN:15
+Word: saan | Lemma: saan | a56_250_tags.txt | SN:17 | TN:9
+Word: saan | Lemma: saan | a56_181to186_tags.txt | SN:72 | TN:48
+Word: saan | Lemma: saan | a56_253to258_tags.txt | SN:98 | TN:9
+Word: saan | Lemma: saan | a56_253to258_tags.txt | SN:173 | TN:33
+Word: saan | Lemma: saan | lopez_clement_s11_tags.txt | SN:15 | TN:24
+Word: saan | Lemma: saan | a56_253to258_tags.txt | SN:148 | TN:10
+Word: saan | Lemma: saan | a56_235to237_tags.txt | SN:73 | TN:15
+Word: saan | Lemma: saan | a56_249_tags.txt | SN:16 | TN:18
+Word: saan | Lemma: saan | a56_225_tags.txt | SN:20 | TN:23
+Word: saan | Lemma: saan | a56_227_tags.txt | SN:4 | TN:55
+Word: saan | Lemma: saan | a56_238to240_tags.txt | SN:60 | TN:13
+Word: saan | Lemma: saan | a56_228_tags.txt | SN:7 | TN:26
+Word: saan | Lemma: saan | a56_181to186_tags.txt | SN:74 | TN:10
+Word: saan | Lemma: saan | a56_193to197_tags.txt | SN:80 | TN:22
+Word: saan | Lemma: saan | lopez_clement_s11_tags.txt | SN:63 | TN:15
+Word: saan | Lemma: saan | a56_253to258_tags.txt | SN:139 | TN:9
+Word: saan | Lemma: saan | a56_214_tags.txt | SN:10 | TN:8
+Word: saan | Lemma: saan | a56_225_tags.txt | SN:35 | TN:23
+Word: saan | Lemma: saan | a56_228_tags.txt | SN:14 | TN:53
+Word: saan | Lemma: saan | a56_193to197_tags.txt | SN:106 | TN:10
+Word: saan | Lemma: saan | a56_260_tags.txt | SN:14 | TN:17
+Word: saan | Lemma: saan | a56_260_tags.txt | SN:19 | TN:41
+Word: saan | Lemma: saan | a56_238to240_tags.txt | SN:67 | TN:15
+Word: saan | Lemma: saan | cua_bernice_s11_tags.txt | SN:104 | TN:13
+Word: saan | Lemma: saan | a56_235to237_tags.txt | SN:12 | TN:25
+Word: saan | Lemma: saan | a56_238to240_tags.txt | SN:43 | TN:18
+Word: saan | Lemma: saan | a56_204_tags.txt | SN:10 | TN:8
+Word: saan | Lemma: saan | a56_181to186_tags.txt | SN:109 | TN:30
+Word: saan | Lemma: saan | a56_193to197_tags.txt | SN:65 | TN:44
+Word: saan | Lemma: saan | a56_224_tags.txt | SN:2 | TN:7
+Word: saan | Lemma: saan | lopez_clement_s11_tags.txt | SN:15 | TN:38
+Word: saan | Lemma: saan | a56_248_tags.txt | SN:8 | TN:14
+Word: saan | Lemma: saan | a56_260_tags.txt | SN:5 | TN:35
+Word: saan | Lemma: saan | a56_252_tags.txt | SN:21 | TN:16
+Word: saan | Lemma: saan | a56_250_tags.txt | SN:18 | TN:26
+Word: saan | Lemma: saan | a56_214_tags.txt | SN:3 | TN:27
+Word: saan | Lemma: saan | a56_193to197_tags.txt | SN:8 | TN:7
+Word: saan | Lemma: saan | a56_193to197_tags.txt | SN:12 | TN:12
+Word: saan | Lemma: saan | a56_228_tags.txt | SN:2 | TN:9
+Word: saan | Lemma: saan | a56_238to240_tags.txt | SN:21 | TN:18
+Word: saan | Lemma: saan | a56_250_tags.txt | SN:18 | TN:15
+Word: saan | Lemma: saan | lopez_clement_s11_tags.txt | SN:12 | TN:16
+Word: saan | Lemma: saan | a56_193to197_tags.txt | SN:54 | TN:22
+Word: saang | Lemma: saan | a56_260_tags.txt | SN:11 | TN:22

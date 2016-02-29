@@ -1,14 +1,21 @@
 POS Tag: NNP_CCP
-Ikalawang | a56_226_tags.txt | SN:16 | TN:3
-Alemang | a56_198_tags.txt | SN:15 | TN:27
-Britanyang | a56_213_tags.txt | SN:39 | TN:13
-Digmaang | a56_226_tags.txt | SN:16 | TN:4
-Amerikanong | a56_193to197_tags.txt | SN:61 | TN:37
-Ginoong | a56_181to186_tags.txt | SN:6 | TN:16
-Demokratikong | a56_204_tags.txt | SN:15 | TN:36
-Pangulong | a56_193to197_tags.txt | SN:61 | TN:21
-Perubyanong | a56_227_tags.txt | SN:27 | TN:22
-Bretanyang | a56_181to186_tags.txt | SN:8 | TN:27
-Protestanteng | a56_226_tags.txt | SN:27 | TN:6
-Europang | a56_264_tags.txt | SN:23 | TN:4
-Atlantikong | a56_264_tags.txt | SN:24 | TN:1
+Word: Alemang | Lemma: Aleman | a56_198_tags.txt | SN:15 | TN:27
+Word: Amerikanong | Lemma: Amerikano | a56_193to197_tags.txt | SN:61 | TN:37
+Word: Amerikanong | Lemma: Amerikano | a56_226_tags.txt | SN:1 | TN:1
+Word: Amerikanong | Lemma: Amerikanong | a56_259_tags.txt | SN:6 | TN:6
+Word: Amerikanong | Lemma: Amerikano | a56_259_tags.txt | SN:7 | TN:16
+Word: Amerikanong | Lemma: Amerikano | a56_259_tags.txt | SN:10 | TN:36
+Word: Amerikanong | Lemma: Amerikano | a56_259_tags.txt | SN:11 | TN:6
+Word: Atlantikong | Lemma: Atlantiko | a56_264_tags.txt | SN:24 | TN:1
+Word: Bretanyang | Lemma: Bretanya | a56_181to186_tags.txt | SN:8 | TN:27
+Word: Bretanyang | Lemma: Bretanya | a56_181to186_tags.txt | SN:17 | TN:8
+Word: Britanyang | Lemma: Britanya | a56_213_tags.txt | SN:39 | TN:13
+Word: Britanyang | Lemma: Britanyang | a56_213_tags.txt | SN:41 | TN:15
+Word: Demokratikong | Lemma: Demokratiko | a56_204_tags.txt | SN:15 | TN:36
+Word: Digmaang | Lemma: Digma | a56_226_tags.txt | SN:16 | TN:4
+Word: Europang | Lemma: Europa | a56_264_tags.txt | SN:23 | TN:4
+Word: Ginoong | Lemma: Ginoo | a56_181to186_tags.txt | SN:6 | TN:16
+Word: Ikalawang | Lemma: Dalawa | a56_226_tags.txt | SN:16 | TN:3
+Word: Pangulong | Lemma: Pangulong | a56_193to197_tags.txt | SN:61 | TN:21
+Word: Perubyanong | Lemma: Perubyano | a56_227_tags.txt | SN:27 | TN:22
+Word: Protestanteng | Lemma: Protestante | a56_226_tags.txt | SN:27 | TN:6

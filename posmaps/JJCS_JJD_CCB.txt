@@ -1,2 +1,2 @@
 POS Tag: JJCS_JJD_CCB
-pinakabagong | lopez_clement_s11_tags.txt | SN:53 | TN:12
+Word: pinakabagong | Lemma: bago | lopez_clement_s11_tags.txt | SN:53 | TN:12

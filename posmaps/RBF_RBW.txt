@@ -1,2 +1,2 @@
 POS Tag: RBF_RBW
-Di-kalaunan | a56_228_tags.txt | SN:19 | TN:0
+Word: Di-kalaunan | Lemma: Di-laon | a56_228_tags.txt | SN:19 | TN:0

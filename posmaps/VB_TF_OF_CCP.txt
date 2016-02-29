@@ -1,3 +1,3 @@
 POS Tag: VB_TF_OF_CCP
-susubukang | a56_248_tags.txt | SN:8 | TN:16
-tawaging | a56_253to258_tags.txt | SN:144 | TN:28
+Word: susubukang | Lemma: subok | a56_248_tags.txt | SN:8 | TN:16
+Word: tawaging | Lemma: tawag | a56_253to258_tags.txt | SN:144 | TN:28

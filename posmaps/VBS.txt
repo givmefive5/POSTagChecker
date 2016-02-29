@@ -1,25 +1,77 @@
 POS Tag: VBS
-Pwede | a56_253to258_tags.txt | SN:107 | TN:0
-Maaari | a56_181to186_tags.txt | SN:25 | TN:0
-batid | a56_225_tags.txt | SN:23 | TN:3
-Depende | cua_bernice_s11_tags.txt | SN:85 | TN:0
-ayaw | a56_193to197_tags.txt | SN:18 | TN:21
-maaring | a56_249_tags.txt | SN:22 | TN:26
-Gawa | a56_198_tags.txt | SN:2 | TN:0
-ibig | a56_181to186_tags.txt | SN:109 | TN:10
-gamit | a56_181to186_tags.txt | SN:113 | TN:7
-dapat | a56_193to197_tags.txt | SN:32 | TN:17
-maari | a56_200_tags.txt | SN:29 | TN:11
-Dapat | a56_181to186_tags.txt | SN:78 | TN:0
-Kailangan | a56_228_tags.txt | SN:5 | TN:1
-nais | a56_224_tags.txt | SN:29 | TN:7
-maaari | a56_181to186_tags.txt | SN:87 | TN:54
-pwedeng | a56_248_tags.txt | SN:30 | TN:20
-gawa | a56_193to197_tags.txt | SN:58 | TN:30
-sana | a56_253to258_tags.txt | SN:102 | TN:22
-Nais | a56_238to240_tags.txt | SN:26 | TN:0
-alam | a56_225_tags.txt | SN:31 | TN:2
-depende | a56_181to186_tags.txt | SN:35 | TN:13
-gawin | a56_224_tags.txt | SN:29 | TN:11
-kailangan | a56_181to186_tags.txt | SN:144 | TN:19
-pwede | a56_259_tags.txt | SN:26 | TN:18
+Word: Dapat | Lemma: Dapat | a56_181to186_tags.txt | SN:78 | TN:0
+Word: Dapat | Lemma: Dapat | a56_200_tags.txt | SN:21 | TN:0
+Word: Dapat | Lemma: Dapat | a56_225_tags.txt | SN:17 | TN:1
+Word: Dapat | Lemma: Dapat | a56_259_tags.txt | SN:25 | TN:0
+Word: Depende | Lemma: Depende | cua_bernice_s11_tags.txt | SN:85 | TN:0
+Word: Gawa | Lemma: Gawa | a56_198_tags.txt | SN:2 | TN:0
+Word: Gawa | Lemma: Gawa | a56_200_tags.txt | SN:9 | TN:0
+Word: Kailangan | Lemma: Kailangan | a56_228_tags.txt | SN:5 | TN:1
+Word: Kailangan | Lemma: Kailangan | a56_238to240_tags.txt | SN:34 | TN:0
+Word: Maaari | Lemma: Maaari | a56_181to186_tags.txt | SN:25 | TN:0
+Word: Maaari | Lemma: Maaari | a56_181to186_tags.txt | SN:27 | TN:0
+Word: Maaari | Lemma: Maaari | a56_181to186_tags.txt | SN:33 | TN:25
+Word: Maaari | Lemma: Maaari | a56_200_tags.txt | SN:29 | TN:0
+Word: Nais | Lemma: Nais | a56_238to240_tags.txt | SN:26 | TN:0
+Word: Pwede | Lemma: Pwede | a56_253to258_tags.txt | SN:107 | TN:0
+Word: Pwede | Lemma: Pwede | cua_bernice_s11_tags.txt | SN:92 | TN:0
+Word: alam | Lemma: alam | a56_225_tags.txt | SN:31 | TN:2
+Word: ayaw | Lemma: ayaw | a56_193to197_tags.txt | SN:18 | TN:21
+Word: batid | Lemma: batid | a56_225_tags.txt | SN:23 | TN:3
+Word: dapat | Lemma: dapat | a56_193to197_tags.txt | SN:77 | TN:3
+Word: dapat | Lemma: dapat | a56_193to197_tags.txt | SN:32 | TN:17
+Word: dapat | Lemma: dapat | a56_200_tags.txt | SN:20 | TN:5
+Word: dapat | Lemma: dapat | a56_224_tags.txt | SN:27 | TN:9
+Word: dapat | Lemma: dapat | a56_259_tags.txt | SN:25 | TN:29
+Word: dapat | Lemma: dapat | lopez_clement_s11_tags.txt | SN:22 | TN:3
+Word: dapat | Lemma: dapat | lopez_clement_s11_tags.txt | SN:61 | TN:13
+Word: dapat | Lemma: dapat | a56_260_tags.txt | SN:2 | TN:33
+Word: dapat | Lemma: dapat | a56_260_tags.txt | SN:19 | TN:8
+Word: dapat | Lemma: dapat | lopez_clement_s11_tags.txt | SN:6 | TN:53
+Word: dapat | Lemma: dapat | lopez_clement_s11_tags.txt | SN:21 | TN:10
+Word: dapat | Lemma: dapat | lopez_clement_s11_tags.txt | SN:12 | TN:6
+Word: dapat | Lemma: dapat | lopez_clement_s11_tags.txt | SN:16 | TN:10
+Word: depende | Lemma: depende | a56_181to186_tags.txt | SN:35 | TN:13
+Word: depende | Lemma: depende | a56_253to258_tags.txt | SN:52 | TN:3
+Word: depende | Lemma: depende | a56_253to258_tags.txt | SN:84 | TN:50
+Word: depende | Lemma: depende | a56_260_tags.txt | SN:11 | TN:20
+Word: depende | Lemma: depende | a56_260_tags.txt | SN:12 | TN:26
+Word: gamit | Lemma: gamit | a56_181to186_tags.txt | SN:113 | TN:7
+Word: gamit | Lemma: gamit | a56_181to186_tags.txt | SN:132 | TN:7
+Word: gamit | Lemma: gamit | a56_193to197_tags.txt | SN:65 | TN:37
+Word: gamit | Lemma: gamit | a56_223_tags.txt | SN:7 | TN:18
+Word: gawa | Lemma: gawa | a56_193to197_tags.txt | SN:58 | TN:30
+Word: gawa | Lemma: gawa | a56_198_tags.txt | SN:32 | TN:14
+Word: gawa | Lemma: gawa | a56_238to240_tags.txt | SN:39 | TN:12
+Word: gawa | Lemma: gawa | a56_250_tags.txt | SN:9 | TN:14
+Word: gawin | Lemma: gawa | a56_224_tags.txt | SN:29 | TN:11
+Word: ibig | Lemma: ibig | a56_181to186_tags.txt | SN:109 | TN:10
+Word: ibig | Lemma: ibig | a56_198_tags.txt | SN:30 | TN:1
+Word: kailangan | Lemma: kailangan | a56_181to186_tags.txt | SN:144 | TN:19
+Word: kailangan | Lemma: kailangan | a56_193to197_tags.txt | SN:30 | TN:6
+Word: kailangan | Lemma: kailangan | a56_238to240_tags.txt | SN:4 | TN:16
+Word: kailangan | Lemma: kailangan | a56_249_tags.txt | SN:16 | TN:19
+Word: kailangan | Lemma: kailangan | a56_253to258_tags.txt | SN:71 | TN:19
+Word: maaari | Lemma: maaari | a56_181to186_tags.txt | SN:87 | TN:54
+Word: maaari | Lemma: maaari | a56_181to186_tags.txt | SN:142 | TN:41
+Word: maaari | Lemma: maaari | a56_181to186_tags.txt | SN:144 | TN:6
+Word: maaari | Lemma: maaari | a56_193to197_tags.txt | SN:58 | TN:34
+Word: maaari | Lemma: maaari | a56_223_tags.txt | SN:16 | TN:11
+Word: maari | Lemma: maari | a56_200_tags.txt | SN:29 | TN:11
+Word: maari | Lemma: maari | a56_213_tags.txt | SN:4 | TN:32
+Word: maari | Lemma: maari | a56_213_tags.txt | SN:6 | TN:22
+Word: maari | Lemma: maari | a56_213_tags.txt | SN:6 | TN:29
+Word: maari | Lemma: maari | a56_213_tags.txt | SN:31 | TN:8
+Word: maari | Lemma: ari | a56_260_tags.txt | SN:8 | TN:1
+Word: maaring | Lemma: maari | a56_249_tags.txt | SN:22 | TN:26
+Word: maaring | Lemma: maari | a56_259_tags.txt | SN:3 | TN:5
+Word: nais | Lemma: nais | a56_224_tags.txt | SN:29 | TN:7
+Word: nais | Lemma: nais | a56_226_tags.txt | SN:25 | TN:12
+Word: nais | Lemma: nais | a56_253to258_tags.txt | SN:164 | TN:9
+Word: pwede | Lemma: pwede | a56_259_tags.txt | SN:26 | TN:18
+Word: pwede | Lemma: pwede | a56_260_tags.txt | SN:12 | TN:22
+Word: pwede | Lemma: pwede | lopez_clement_s11_tags.txt | SN:1 | TN:20
+Word: pwede | Lemma: pwede | lopez_clement_s11_tags.txt | SN:2 | TN:6
+Word: pwedeng | Lemma: pwede | a56_248_tags.txt | SN:30 | TN:20
+Word: pwedeng | Lemma: pwede | a56_259_tags.txt | SN:26 | TN:1
+Word: sana | Lemma: sana | a56_253to258_tags.txt | SN:102 | TN:22

@@ -1,2 +1,2 @@
 POS Tag: VB_R_OF
-Kinakailangan | a56_238to240_tags.txt | SN:54 | TN:0
+Word: Kinakailangan | Lemma: kailangan | a56_238to240_tags.txt | SN:54 | TN:0

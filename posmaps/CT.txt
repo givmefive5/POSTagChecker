@@ -1,2 +1,2 @@
 POS Tag: CT
-sa | a56_193to197_tags.txt | SN:61 | TN:30
+Word: sa | Lemma: sa | a56_193to197_tags.txt | SN:61 | TN:30

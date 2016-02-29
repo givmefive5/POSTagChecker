@@ -1,6 +1,23 @@
 POS Tag: PRL
-diyan | a56_238to240_tags.txt | SN:34 | TN:3
-doon | a56_204_tags.txt | SN:7 | TN:17
-rito | a56_253to258_tags.txt | SN:3 | TN:2
-Doon | a56_227_tags.txt | SN:18 | TN:0
-dito | a56_181to186_tags.txt | SN:59 | TN:10
+Word: Doon | Lemma: Doon | a56_227_tags.txt | SN:18 | TN:0
+Word: dito | Lemma: dito | a56_193to197_tags.txt | SN:108 | TN:1
+Word: dito | Lemma: dito | a56_181to186_tags.txt | SN:59 | TN:10
+Word: dito | Lemma: dito | a56_193to197_tags.txt | SN:95 | TN:1
+Word: dito | Lemma: dito | a56_253to258_tags.txt | SN:150 | TN:28
+Word: dito | Lemma: dito | a56_211_tags.txt | SN:19 | TN:29
+Word: dito | Lemma: dito | lopez_clement_s11_tags.txt | SN:35 | TN:1
+Word: dito | Lemma: dito | a56_224_tags.txt | SN:13 | TN:21
+Word: dito | Lemma: dito | a56_227_tags.txt | SN:16 | TN:20
+Word: dito | Lemma: dito | a56_247_tags.txt | SN:13 | TN:17
+Word: dito | Lemma: dito | a56_247_tags.txt | SN:25 | TN:1
+Word: dito | Lemma: dito | a56_259_tags.txt | SN:10 | TN:1
+Word: dito | Lemma: dito | a56_253to258_tags.txt | SN:115 | TN:11
+Word: dito | Lemma: dito | a56_253to258_tags.txt | SN:120 | TN:24
+Word: diyan | Lemma: diyan | a56_238to240_tags.txt | SN:34 | TN:3
+Word: doon | Lemma: doon | a56_204_tags.txt | SN:7 | TN:17
+Word: doon | Lemma: doon | a56_211_tags.txt | SN:19 | TN:42
+Word: doon | Lemma: doon | a56_225_tags.txt | SN:23 | TN:10
+Word: doon | Lemma: doon | a56_227_tags.txt | SN:20 | TN:28
+Word: doon | Lemma: doon | a56_247_tags.txt | SN:6 | TN:51
+Word: doon | Lemma: doon | a56_247_tags.txt | SN:22 | TN:17
+Word: rito | Lemma: rito | a56_253to258_tags.txt | SN:3 | TN:2

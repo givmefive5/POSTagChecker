@@ -1,6 +1,6 @@
 POS Tag: VBOB
-pinagpatibay | a56_193to197_tags.txt | SN:45 | TN:6
-ipagpalagay | a56_181to186_tags.txt | SN:8 | TN:30
-ipabalik | a56_211_tags.txt | SN:35 | TN:17
-ibunsod | a56_212_tags.txt | SN:3 | TN:22
-ilihis | a56_212_tags.txt | SN:17 | TN:16
+Word: ibunsod | Lemma: bunsod | a56_212_tags.txt | SN:3 | TN:22
+Word: ilihis | Lemma: lihis | a56_212_tags.txt | SN:17 | TN:16
+Word: ipabalik | Lemma: balik | a56_211_tags.txt | SN:35 | TN:17
+Word: ipagpalagay | Lemma: lagay | a56_181to186_tags.txt | SN:8 | TN:30
+Word: pinagpatibay | Lemma: tibay | a56_193to197_tags.txt | SN:45 | TN:6

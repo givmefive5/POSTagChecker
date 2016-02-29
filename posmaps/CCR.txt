@@ -1,19 +1,104 @@
 POS Tag: CCR
-Kung | a56_181to186_tags.txt | SN:4 | TN:0
-dahil | a56_181to186_tags.txt | SN:96 | TN:68
-Dahil | a56_181to186_tags.txt | SN:87 | TN:0
-sakali | a56_259_tags.txt | SN:20 | TN:48
-kaya | a56_181to186_tags.txt | SN:96 | TN:85
-Kapag | a56_253to258_tags.txt | SN:115 | TN:0
-Dagdag | a56_253to258_tags.txt | SN:3 | TN:0
-kung | a56_181to186_tags.txt | SN:9 | TN:12
-kapag | a56_181to186_tags.txt | SN:45 | TN:2
-kung_saan | a56_263_tags.txt | SN:21 | TN:19
-para | a56_181to186_tags.txt | SN:98 | TN:4
-sa_gayon | a56_263_tags.txt | SN:25 | TN:32
-para_sa | cua_bernice_s11_tags.txt | SN:84 | TN:5
-pangangaso | cua_bernice_s11_tags.txt | SN:103 | TN:10
-dahil_sa | a56_251_tags.txt | SN:14 | TN:18
-Kaya | a56_253to258_tags.txt | SN:114 | TN:0
-kasi | a56_253to258_tags.txt | SN:105 | TN:4
-sapagkat | a56_193to197_tags.txt | SN:5 | TN:7
+Word: Dagdag | Lemma: Dagdag | a56_253to258_tags.txt | SN:3 | TN:0
+Word: Dahil | Lemma: Dahil | a56_181to186_tags.txt | SN:87 | TN:0
+Word: Dahil | Lemma: Dahil | a56_198_tags.txt | SN:3 | TN:0
+Word: Dahil | Lemma: Dahil | a56_263_tags.txt | SN:2 | TN:0
+Word: Kapag | Lemma: Kapag | a56_253to258_tags.txt | SN:115 | TN:0
+Word: Kapag | Lemma: Kapag | a56_253to258_tags.txt | SN:137 | TN:0
+Word: Kapag | Lemma: Kapag | lopez_clement_s11_tags.txt | SN:12 | TN:0
+Word: Kaya | Lemma: Kaya | a56_253to258_tags.txt | SN:114 | TN:0
+Word: Kaya | Lemma: Kaya | a56_259_tags.txt | SN:10 | TN:0
+Word: Kaya | Lemma: Kaya | a56_264_tags.txt | SN:19 | TN:0
+Word: Kaya | Lemma: Kaya | lopez_clement_s11_tags.txt | SN:20 | TN:0
+Word: Kung | Lemma: Kung | a56_214_tags.txt | SN:36 | TN:0
+Word: Kung | Lemma: Kung | a56_181to186_tags.txt | SN:4 | TN:0
+Word: Kung | Lemma: Kung | a56_204_tags.txt | SN:6 | TN:0
+Word: Kung | Lemma: Kung | a56_227_tags.txt | SN:21 | TN:0
+Word: Kung | Lemma: Kung | a56_253to258_tags.txt | SN:119 | TN:0
+Word: Kung | Lemma: Kung | cua_bernice_s11_tags.txt | SN:72 | TN:0
+Word: Kung | Lemma: Kung | lopez_clement_s11_tags.txt | SN:18 | TN:0
+Word: Kung | Lemma: Kung | lopez_clement_s11_tags.txt | SN:34 | TN:0
+Word: Kung | Lemma: Kung | lopez_clement_s11_tags.txt | SN:40 | TN:0
+Word: dahil | Lemma: dahil | a56_204_tags.txt | SN:22 | TN:10
+Word: dahil | Lemma: dahil | a56_181to186_tags.txt | SN:96 | TN:68
+Word: dahil | Lemma: dahil | a56_211_tags.txt | SN:29 | TN:15
+Word: dahil | Lemma: dahil | a56_223_tags.txt | SN:18 | TN:12
+Word: dahil | Lemma: dahil | a56_235to237_tags.txt | SN:17 | TN:76
+Word: dahil | Lemma: dahil | a56_238to240_tags.txt | SN:14 | TN:54
+Word: dahil | Lemma: dahil | a56_238to240_tags.txt | SN:67 | TN:29
+Word: dahil | Lemma: dahil | a56_253to258_tags.txt | SN:150 | TN:16
+Word: dahil | Lemma: dahil | lopez_clement_s11_tags.txt | SN:22 | TN:2
+Word: dahil | Lemma: dahil | cua_bernice_s11_tags.txt | SN:3 | TN:20
+Word: dahil_sa | Lemma: dahil_sa | a56_251_tags.txt | SN:14 | TN:18
+Word: dahil_sa | Lemma: dahil_sa | a56_252_tags.txt | SN:11 | TN:10
+Word: dahil_sa | Lemma: dahil_sa | cua_bernice_s11_tags.txt | SN:15 | TN:20
+Word: dahil_sa | Lemma: dahil_sa | cua_bernice_s11_tags.txt | SN:20 | TN:4
+Word: dahil_sa | Lemma: dahil_sa | cua_bernice_s11_tags.txt | SN:108 | TN:16
+Word: dahil_sa | Lemma: dahil_sa | lopez_clement_s11_tags.txt | SN:20 | TN:12
+Word: kapag | Lemma: kapag | a56_181to186_tags.txt | SN:45 | TN:2
+Word: kapag | Lemma: kapag | a56_253to258_tags.txt | SN:131 | TN:18
+Word: kapag | Lemma: kapag | a56_253to258_tags.txt | SN:133 | TN:6
+Word: kapag | Lemma: kapag | a56_200_tags.txt | SN:16 | TN:11
+Word: kapag | Lemma: kapag | a56_253to258_tags.txt | SN:87 | TN:14
+Word: kapag | Lemma: kapag | a56_253to258_tags.txt | SN:102 | TN:28
+Word: kasi | Lemma: kasi | a56_253to258_tags.txt | SN:105 | TN:4
+Word: kaya | Lemma: kaya | a56_181to186_tags.txt | SN:96 | TN:85
+Word: kaya | Lemma: kaya | a56_181to186_tags.txt | SN:112 | TN:13
+Word: kaya | Lemma: kaya | a56_181to186_tags.txt | SN:121 | TN:9
+Word: kaya | Lemma: kaya | a56_252_tags.txt | SN:4 | TN:10
+Word: kaya | Lemma: kaya | a56_253to258_tags.txt | SN:62 | TN:14
+Word: kaya | Lemma: kaya | lopez_clement_s11_tags.txt | SN:52 | TN:36
+Word: kaya | Lemma: kaya | a56_253to258_tags.txt | SN:63 | TN:25
+Word: kaya | Lemma: kaya | a56_253to258_tags.txt | SN:84 | TN:9
+Word: kaya | Lemma: kaya | a56_253to258_tags.txt | SN:132 | TN:14
+Word: kaya | Lemma: kaya | a56_260_tags.txt | SN:3 | TN:41
+Word: kung | Lemma: kung | a56_181to186_tags.txt | SN:96 | TN:37
+Word: kung | Lemma: kung | a56_181to186_tags.txt | SN:9 | TN:12
+Word: kung | Lemma: kung | a56_259_tags.txt | SN:11 | TN:21
+Word: kung | Lemma: kung | a56_253to258_tags.txt | SN:118 | TN:27
+Word: kung | Lemma: kung | a56_193to197_tags.txt | SN:59 | TN:27
+Word: kung | Lemma: kung | a56_253to258_tags.txt | SN:94 | TN:25
+Word: kung | Lemma: kung | a56_253to258_tags.txt | SN:90 | TN:26
+Word: kung | Lemma: kung | lopez_clement_s11_tags.txt | SN:25 | TN:2
+Word: kung | Lemma: kung | a56_253to258_tags.txt | SN:112 | TN:37
+Word: kung | Lemma: kung | a56_261_tags.txt | SN:12 | TN:9
+Word: kung | Lemma: kung | a56_200_tags.txt | SN:39 | TN:9
+Word: kung | Lemma: kung | a56_253to258_tags.txt | SN:112 | TN:14
+Word: kung | Lemma: kung | lopez_clement_s11_tags.txt | SN:17 | TN:6
+Word: kung | Lemma: kung | a56_204_tags.txt | SN:5 | TN:18
+Word: kung | Lemma: kung | a56_213_tags.txt | SN:4 | TN:31
+Word: kung | Lemma: kung | a56_259_tags.txt | SN:21 | TN:11
+Word: kung | Lemma: kung | a56_253to258_tags.txt | SN:144 | TN:7
+Word: kung | Lemma: kung | a56_259_tags.txt | SN:2 | TN:22
+Word: kung | Lemma: kung | a56_259_tags.txt | SN:25 | TN:28
+Word: kung | Lemma: kung | a56_213_tags.txt | SN:6 | TN:2
+Word: kung | Lemma: kung | a56_228_tags.txt | SN:14 | TN:26
+Word: kung | Lemma: kung | a56_253to258_tags.txt | SN:164 | TN:17
+Word: kung | Lemma: kung | a56_259_tags.txt | SN:20 | TN:47
+Word: kung | Lemma: kung | a56_259_tags.txt | SN:21 | TN:24
+Word: kung_saan | Lemma: kung_saan | a56_263_tags.txt | SN:21 | TN:19
+Word: kung_saan | Lemma: kung_saan | a56_263_tags.txt | SN:22 | TN:9
+Word: kung_saan | Lemma: kung_saan | a56_264_tags.txt | SN:16 | TN:16
+Word: kung_saan | Lemma: kung_saan | a56_264_tags.txt | SN:21 | TN:28
+Word: kung_saan | Lemma: kung_saan | a56_264_tags.txt | SN:26 | TN:13
+Word: kung_saan | Lemma: kung_saan | a56_264_tags.txt | SN:26 | TN:26
+Word: kung_saan | Lemma: kung_saan | cua_bernice_s11_tags.txt | SN:54 | TN:9
+Word: kung_saan | Lemma: kung_saan | cua_bernice_s11_tags.txt | SN:55 | TN:8
+Word: pangangaso | Lemma: pangangaso | cua_bernice_s11_tags.txt | SN:103 | TN:10
+Word: para | Lemma: para | a56_181to186_tags.txt | SN:98 | TN:4
+Word: para | Lemma: para | a56_198_tags.txt | SN:1 | TN:15
+Word: para | Lemma: para | a56_200_tags.txt | SN:6 | TN:7
+Word: para | Lemma: para | a56_235to237_tags.txt | SN:20 | TN:41
+Word: para | Lemma: para | a56_235to237_tags.txt | SN:33 | TN:9
+Word: para | Lemma: para | a56_235to237_tags.txt | SN:34 | TN:10
+Word: para | Lemma: para | a56_253to258_tags.txt | SN:80 | TN:14
+Word: para_sa | Lemma: para_sa | cua_bernice_s11_tags.txt | SN:84 | TN:5
+Word: sa_gayon | Lemma: sa_gayon | a56_263_tags.txt | SN:25 | TN:32
+Word: sakali | Lemma: sakali | a56_259_tags.txt | SN:20 | TN:48
+Word: sakali | Lemma: sakali | a56_259_tags.txt | SN:21 | TN:25
+Word: sapagkat | Lemma: sapagkat | a56_193to197_tags.txt | SN:5 | TN:7
+Word: sapagkat | Lemma: sapagkat | a56_204_tags.txt | SN:12 | TN:8
+Word: sapagkat | Lemma: sapagkat | a56_223_tags.txt | SN:23 | TN:14
+Word: sapagkat | Lemma: sapagkat | a56_228_tags.txt | SN:5 | TN:9
+Word: sapagkat | Lemma: sapagkat | a56_228_tags.txt | SN:6 | TN:14
+Word: sapagkat | Lemma: sapagkat | a56_228_tags.txt | SN:15 | TN:13

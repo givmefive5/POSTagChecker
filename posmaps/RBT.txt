@@ -1,15 +1,39 @@
 POS Tag: RBT
-Oo | a56_228_tags.txt | SN:15 | TN:0
-Tama | a56_193to197_tags.txt | SN:76 | TN:0
-talaga | a56_181to186_tags.txt | SN:11 | TN:4
-mismo | a56_193to197_tags.txt | SN:44 | TN:31
-maaaring | lopez_clement_s11_tags.txt | SN:9 | TN:12
-posible | a56_213_tags.txt | SN:1 | TN:17
-maaari | a56_253to258_tags.txt | SN:72 | TN:19
-Maaring | a56_253to258_tags.txt | SN:100 | TN:14
-totoo | a56_260_tags.txt | SN:6 | TN:25
-tama | a56_181to186_tags.txt | SN:11 | TN:17
-sapat | a56_214_tags.txt | SN:45 | TN:30
-tiyak | a56_181to186_tags.txt | SN:103 | TN:14
-posibleng | a56_253to258_tags.txt | SN:159 | TN:21
-tunay | a56_181to186_tags.txt | SN:15 | TN:19
+Word: Maaring | Lemma: Maari | a56_253to258_tags.txt | SN:100 | TN:14
+Word: Oo | Lemma: Oo | a56_228_tags.txt | SN:15 | TN:0
+Word: Tama | Lemma: Tama | a56_193to197_tags.txt | SN:76 | TN:0
+Word: maaari | Lemma: maaari | a56_253to258_tags.txt | SN:72 | TN:19
+Word: maaari | Lemma: maaari | a56_253to258_tags.txt | SN:88 | TN:6
+Word: maaaring | Lemma: maaari | lopez_clement_s11_tags.txt | SN:9 | TN:12
+Word: maaaring | Lemma: maaari | lopez_clement_s11_tags.txt | SN:12 | TN:35
+Word: mismo | Lemma: mismo | a56_193to197_tags.txt | SN:44 | TN:31
+Word: mismo | Lemma: mismo | a56_211_tags.txt | SN:35 | TN:26
+Word: mismo | Lemma: mismo | a56_214_tags.txt | SN:40 | TN:2
+Word: posible | Lemma: posible | a56_213_tags.txt | SN:1 | TN:17
+Word: posibleng | Lemma: posible | a56_253to258_tags.txt | SN:159 | TN:21
+Word: sapat | Lemma: sapat | a56_214_tags.txt | SN:45 | TN:30
+Word: talaga | Lemma: talaga | a56_181to186_tags.txt | SN:11 | TN:4
+Word: talaga | Lemma: talaga | a56_225_tags.txt | SN:22 | TN:24
+Word: talaga | Lemma: talaga | a56_253to258_tags.txt | SN:64 | TN:28
+Word: tama | Lemma: tama | a56_181to186_tags.txt | SN:11 | TN:17
+Word: tama | Lemma: tama | a56_193to197_tags.txt | SN:81 | TN:14
+Word: tama | Lemma: tama | a56_193to197_tags.txt | SN:83 | TN:1
+Word: tama | Lemma: tama | a56_193to197_tags.txt | SN:83 | TN:11
+Word: tiyak | Lemma: tiyak | a56_181to186_tags.txt | SN:122 | TN:21
+Word: tiyak | Lemma: tiyak | a56_181to186_tags.txt | SN:103 | TN:14
+Word: tiyak | Lemma: tiyak | a56_260_tags.txt | SN:11 | TN:1
+Word: tiyak | Lemma: tiyak | a56_181to186_tags.txt | SN:132 | TN:15
+Word: tiyak | Lemma: tiyak | a56_193to197_tags.txt | SN:32 | TN:12
+Word: tiyak | Lemma: tiyak | a56_193to197_tags.txt | SN:108 | TN:6
+Word: tiyak | Lemma: tiyak | a56_214_tags.txt | SN:45 | TN:11
+Word: tiyak | Lemma: tiyak | a56_253to258_tags.txt | SN:72 | TN:10
+Word: tiyak | Lemma: tiyak | a56_259_tags.txt | SN:26 | TN:13
+Word: tiyak | Lemma: tiyak | a56_260_tags.txt | SN:1 | TN:16
+Word: totoo | Lemma: totoo | a56_260_tags.txt | SN:6 | TN:25
+Word: tunay | Lemma: tunay | a56_181to186_tags.txt | SN:15 | TN:19
+Word: tunay | Lemma: tunay | a56_193to197_tags.txt | SN:61 | TN:34
+Word: tunay | Lemma: tunay | a56_227_tags.txt | SN:18 | TN:12
+Word: tunay | Lemma: tunay | a56_227_tags.txt | SN:19 | TN:29
+Word: tunay | Lemma: tunay | a56_227_tags.txt | SN:20 | TN:16
+Word: tunay | Lemma: tunay | a56_228_tags.txt | SN:21 | TN:1
+Word: tunay | Lemma: tunay | a56_259_tags.txt | SN:9 | TN:9

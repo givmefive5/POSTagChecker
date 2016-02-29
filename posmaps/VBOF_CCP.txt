@@ -1,5 +1,9 @@
 POS Tag: VBOF_CCP
-bigyang | a56_193to197_tags.txt | SN:32 | TN:18
-binagong | a56_181to186_tags.txt | SN:113 | TN:13
-pinalaking | a56_181to186_tags.txt | SN:31 | TN:68
-kinopyang | a56_181to186_tags.txt | SN:118 | TN:23
+Word: bigyang | Lemma: bigay | a56_193to197_tags.txt | SN:32 | TN:18
+Word: binagong | Lemma: bago | a56_181to186_tags.txt | SN:113 | TN:13
+Word: binagong | Lemma: bagong | a56_181to186_tags.txt | SN:115 | TN:10
+Word: binagong | Lemma: bagong | a56_181to186_tags.txt | SN:116 | TN:2
+Word: binagong | Lemma: bago | a56_181to186_tags.txt | SN:116 | TN:16
+Word: kinopyang | Lemma: kopya | a56_181to186_tags.txt | SN:118 | TN:23
+Word: kinopyang | Lemma: kopya | a56_181to186_tags.txt | SN:120 | TN:9
+Word: pinalaking | Lemma: laki | a56_181to186_tags.txt | SN:31 | TN:68

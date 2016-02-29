@@ -1,8 +1,25 @@
 POS Tag: PRI_CCB
-anumang | a56_228_tags.txt | SN:13 | TN:27
-ibang | a56_260_tags.txt | SN:12 | TN:1
-maraming | a56_225_tags.txt | SN:23 | TN:5
-Isang | a56_235to237_tags.txt | SN:60 | TN:0
-ilang | a56_223_tags.txt | SN:6 | TN:2
-isang | a56_223_tags.txt | SN:14 | TN:2
-buong | a56_251_tags.txt | SN:16 | TN:24
+Word: Isang | Lemma: Isa | a56_235to237_tags.txt | SN:60 | TN:0
+Word: anumang | Lemma: anuman | a56_228_tags.txt | SN:13 | TN:27
+Word: anumang | Lemma: anuman | a56_228_tags.txt | SN:21 | TN:10
+Word: anumang | Lemma: anuman | a56_260_tags.txt | SN:12 | TN:32
+Word: buong | Lemma: buo | a56_251_tags.txt | SN:16 | TN:24
+Word: buong | Lemma: buo | cua_bernice_s11_tags.txt | SN:51 | TN:1
+Word: ibang | Lemma: iba | a56_260_tags.txt | SN:12 | TN:1
+Word: ibang | Lemma: iba | a56_261_tags.txt | SN:1 | TN:20
+Word: ibang | Lemma: iba | a56_264_tags.txt | SN:10 | TN:37
+Word: ilang | Lemma: ilan | a56_223_tags.txt | SN:6 | TN:2
+Word: ilang | Lemma: ilan | a56_227_tags.txt | SN:2 | TN:29
+Word: ilang | Lemma: ilan | a56_248_tags.txt | SN:23 | TN:4
+Word: ilang | Lemma: ilan | a56_260_tags.txt | SN:13 | TN:4
+Word: isang | Lemma: isa | a56_224_tags.txt | SN:1 | TN:12
+Word: isang | Lemma: isa | a56_223_tags.txt | SN:14 | TN:2
+Word: isang | Lemma: isa | a56_225_tags.txt | SN:13 | TN:18
+Word: isang | Lemma: isa | a56_225_tags.txt | SN:18 | TN:9
+Word: isang | Lemma: isa | a56_225_tags.txt | SN:22 | TN:1
+Word: isang | Lemma: isa | a56_225_tags.txt | SN:27 | TN:5
+Word: isang | Lemma: isa | a56_225_tags.txt | SN:28 | TN:1
+Word: isang | Lemma: isa | a56_227_tags.txt | SN:4 | TN:73
+Word: isang | Lemma: isa | a56_259_tags.txt | SN:28 | TN:31
+Word: maraming | Lemma: dami | a56_225_tags.txt | SN:23 | TN:5
+Word: maraming | Lemma: dami | a56_250_tags.txt | SN:23 | TN:17

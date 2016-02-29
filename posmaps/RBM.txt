@@ -1,14 +1,54 @@
 POS Tag: RBM
-Maaari | a56_181to186_tags.txt | SN:46 | TN:0
-walang | a56_181to186_tags.txt | SN:126 | TN:13
-Mangyari | a56_235to237_tags.txt | SN:10 | TN:0
-maaring | a56_193to197_tags.txt | SN:92 | TN:17
-sakali | a56_224_tags.txt | SN:10 | TN:24
-marahil | a56_193to197_tags.txt | SN:7 | TN:27
-maaaring | a56_181to186_tags.txt | SN:9 | TN:2
-Maaaring | a56_181to186_tags.txt | SN:10 | TN:0
-Tila | a56_211_tags.txt | SN:29 | TN:0
-Habang | a56_181to186_tags.txt | SN:119 | TN:0
-Marahil | a56_226_tags.txt | SN:4 | TN:1
-siguro | a56_260_tags.txt | SN:16 | TN:12
-tila | a56_211_tags.txt | SN:19 | TN:27
+Word: Habang | Lemma: Habang | a56_181to186_tags.txt | SN:119 | TN:0
+Word: Maaari | Lemma: Maaari | a56_181to186_tags.txt | SN:46 | TN:0
+Word: Maaari | Lemma: Maaari | lopez_clement_s11_tags.txt | SN:57 | TN:0
+Word: Maaaring | Lemma: Maaari | a56_181to186_tags.txt | SN:10 | TN:0
+Word: Maaaring | Lemma: Maaari | a56_181to186_tags.txt | SN:29 | TN:0
+Word: Maaaring | Lemma: Maaari | a56_181to186_tags.txt | SN:31 | TN:0
+Word: Maaaring | Lemma: Maaari | a56_181to186_tags.txt | SN:38 | TN:0
+Word: Maaaring | Lemma: Maaari | a56_181to186_tags.txt | SN:49 | TN:0
+Word: Maaaring | Lemma: Maaari | a56_181to186_tags.txt | SN:70 | TN:0
+Word: Maaaring | Lemma: Maaari | a56_181to186_tags.txt | SN:85 | TN:0
+Word: Maaaring | Lemma: Maaari | a56_225_tags.txt | SN:29 | TN:0
+Word: Maaaring | Lemma: Maaari | a56_238to240_tags.txt | SN:55 | TN:0
+Word: Maaaring | Lemma: Maaari | a56_235to237_tags.txt | SN:17 | TN:0
+Word: Maaaring | Lemma: Maaari | lopez_clement_s11_tags.txt | SN:48 | TN:0
+Word: Mangyari | Lemma: Mangyari | a56_235to237_tags.txt | SN:10 | TN:0
+Word: Marahil | Lemma: Marahil | a56_226_tags.txt | SN:4 | TN:1
+Word: Tila | Lemma: Tila | a56_211_tags.txt | SN:29 | TN:0
+Word: maaaring | Lemma: maaari | a56_181to186_tags.txt | SN:129 | TN:27
+Word: maaaring | Lemma: maaari | a56_181to186_tags.txt | SN:9 | TN:2
+Word: maaaring | Lemma: maaari | a56_181to186_tags.txt | SN:30 | TN:2
+Word: maaaring | Lemma: maaari | a56_181to186_tags.txt | SN:71 | TN:6
+Word: maaaring | Lemma: maaari | a56_181to186_tags.txt | SN:72 | TN:5
+Word: maaaring | Lemma: maaari | a56_200_tags.txt | SN:19 | TN:12
+Word: maaaring | Lemma: maaari | a56_223_tags.txt | SN:14 | TN:24
+Word: maaaring | Lemma: maaari | a56_235to237_tags.txt | SN:57 | TN:15
+Word: maaaring | Lemma: maaari | a56_223_tags.txt | SN:14 | TN:29
+Word: maaaring | Lemma: maaari | lopez_clement_s11_tags.txt | SN:37 | TN:7
+Word: maaaring | Lemma: maaari | a56_200_tags.txt | SN:19 | TN:6
+Word: maaaring | Lemma: maaari | a56_181to186_tags.txt | SN:72 | TN:49
+Word: maaaring | Lemma: maaari | a56_193to197_tags.txt | SN:58 | TN:41
+Word: maaaring | Lemma: maaari | a56_223_tags.txt | SN:8 | TN:13
+Word: maaaring | Lemma: maaari | a56_181to186_tags.txt | SN:75 | TN:7
+Word: maaaring | Lemma: maaari | a56_181to186_tags.txt | SN:94 | TN:29
+Word: maaaring | Lemma: maaari | a56_193to197_tags.txt | SN:52 | TN:19
+Word: maaaring | Lemma: maaari | a56_193to197_tags.txt | SN:83 | TN:26
+Word: maaaring | Lemma: maaari | a56_193to197_tags.txt | SN:89 | TN:25
+Word: maaaring | Lemma: maaari | lopez_clement_s11_tags.txt | SN:63 | TN:16
+Word: maaaring | Lemma: maaar | a56_228_tags.txt | SN:5 | TN:19
+Word: maaaring | Lemma: maaari | a56_224_tags.txt | SN:31 | TN:41
+Word: maaaring | Lemma: maaari | a56_181to186_tags.txt | SN:104 | TN:24
+Word: maaaring | Lemma: maaari | lopez_clement_s11_tags.txt | SN:29 | TN:2
+Word: maaaring | Lemma: maaari | a56_181to186_tags.txt | SN:140 | TN:18
+Word: maaaring | Lemma: maaari | lopez_clement_s11_tags.txt | SN:36 | TN:16
+Word: maaaring | Lemma: maaari | lopez_clement_s11_tags.txt | SN:55 | TN:7
+Word: maaring | Lemma: maari | a56_193to197_tags.txt | SN:92 | TN:17
+Word: maaring | Lemma: maari | a56_214_tags.txt | SN:45 | TN:21
+Word: marahil | Lemma: marahil | a56_193to197_tags.txt | SN:7 | TN:27
+Word: sakali | Lemma: sakali | a56_224_tags.txt | SN:10 | TN:24
+Word: siguro | Lemma: siguro | a56_260_tags.txt | SN:16 | TN:12
+Word: tila | Lemma: tila | a56_211_tags.txt | SN:19 | TN:27
+Word: tila | Lemma: tila | a56_227_tags.txt | SN:3 | TN:24
+Word: tila | Lemma: tila | a56_228_tags.txt | SN:11 | TN:22
+Word: walang | Lemma: wala | a56_181to186_tags.txt | SN:126 | TN:13

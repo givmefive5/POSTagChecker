@@ -1,513 +1,939 @@
 POS Tag: JJD
-mabagal | a56_238to240_tags.txt | SN:33 | TN:37
-maling | a56_181to186_tags.txt | SN:82 | TN:15
-hilig | a56_238to240_tags.txt | SN:38 | TN:5
-kabilang | a56_181to186_tags.txt | SN:125 | TN:14
-mismo | a56_253to258_tags.txt | SN:62 | TN:16
-idiyolohikal | a56_235to237_tags.txt | SN:26 | TN:4
-nauukol | a56_264_tags.txt | SN:10 | TN:22
-panlaro | a56_260_tags.txt | SN:8 | TN:25
-marami | a56_181to186_tags.txt | SN:131 | TN:4
-iba’t_ibang | a56_247_tags.txt | SN:30 | TN:4
-mapanglaw | a56_227_tags.txt | SN:3 | TN:25
-makapangyarihan | a56_235to237_tags.txt | SN:34 | TN:30
-halata | cua_bernice_s11_tags.txt | SN:69 | TN:3
-pampalapot | a56_200_tags.txt | SN:16 | TN:9
-komersyal | a56_204_tags.txt | SN:8 | TN:12
-tagumpay | a56_253to258_tags.txt | SN:112 | TN:49
-panglunsong | a56_261_tags.txt | SN:24 | TN:13
-malamang | a56_253to258_tags.txt | SN:132 | TN:16
-Mainit | a56_249_tags.txt | SN:22 | TN:22
-personal | a56_238to240_tags.txt | SN:20 | TN:4
-malubha | a56_181to186_tags.txt | SN:23 | TN:5
-direkta | a56_214_tags.txt | SN:43 | TN:53
-makilala | a56_252_tags.txt | SN:8 | TN:11
-taga | a56_252_tags.txt | SN:13 | TN:20
-pagitan | a56_214_tags.txt | SN:28 | TN:4
-tataas | a56_181to186_tags.txt | SN:32 | TN:51
-marangyang | a56_251_tags.txt | SN:13 | TN:14
-at | a56_264_tags.txt | SN:31 | TN:29
-maayos | a56_198_tags.txt | SN:32 | TN:53
-madalang | a56_238to240_tags.txt | SN:70 | TN:5
-handa | lopez_clement_s11_tags.txt | SN:77 | TN:4
-tanggal | a56_253to258_tags.txt | SN:112 | TN:43
-agresibo | cua_bernice_s11_tags.txt | SN:41 | TN:16
-pandigma | a56_212_tags.txt | SN:3 | TN:14
-maaraw | a56_264_tags.txt | SN:25 | TN:8
-Kakaunti | a56_227_tags.txt | SN:17 | TN:0
-diin | a56_253to258_tags.txt | SN:90 | TN:43
-urbano | a56_251_tags.txt | SN:14 | TN:26
-malapad | a56_181to186_tags.txt | SN:33 | TN:30
-elektrikal | a56_193to197_tags.txt | SN:106 | TN:29
-ibang-iba | cua_bernice_s11_tags.txt | SN:62 | TN:4
-potensyal | a56_211_tags.txt | SN:17 | TN:7
-mapanlibak | a56_238to240_tags.txt | SN:27 | TN:12
-napabuti | a56_248_tags.txt | SN:28 | TN:13
-mapagmataas | a56_193to197_tags.txt | SN:1 | TN:41
-Punung-puno | a56_247_tags.txt | SN:11 | TN:0
-hamak | a56_181to186_tags.txt | SN:87 | TN:64
-national | a56_253to258_tags.txt | SN:10 | TN:21
-maganda | a56_248_tags.txt | SN:6 | TN:2
-Kontrolado | a56_181to186_tags.txt | SN:107 | TN:0
-tag-isa | a56_253to258_tags.txt | SN:114 | TN:18
-tanyag | a56_193to197_tags.txt | SN:105 | TN:18
-kusang-loob | a56_264_tags.txt | SN:13 | TN:3
-medieval | a56_235to237_tags.txt | SN:63 | TN:2
-panlaban | a56_212_tags.txt | SN:23 | TN:16
-asensado | a56_235to237_tags.txt | SN:17 | TN:24
-piling | a56_238to240_tags.txt | SN:52 | TN:1
-madiin | a56_238to240_tags.txt | SN:28 | TN:17
-makasaysayan | a56_198_tags.txt | SN:40 | TN:18
-karaniwan-bilis | a56_248_tags.txt | SN:10 | TN:11
-liberal | a56_211_tags.txt | SN:29 | TN:37
-Timog | a56_228_tags.txt | SN:14 | TN:10
-mabundok | a56_264_tags.txt | SN:30 | TN:4
-parehas | a56_260_tags.txt | SN:14 | TN:19
-abot-tanaw | a56_204_tags.txt | SN:10 | TN:17
-ordinaryo | a56_238to240_tags.txt | SN:19 | TN:37
-sarili | lopez_clement_s11_tags.txt | SN:44 | TN:12
-paparabola | a56_193to197_tags.txt | SN:78 | TN:6
-Salungat | a56_225_tags.txt | SN:34 | TN:0
-karagdagang | a56_253to258_tags.txt | SN:144 | TN:22
-tuwiran | a56_235to237_tags.txt | SN:34 | TN:13
-krusyal | a56_253to258_tags.txt | SN:52 | TN:2
-tradisyunal | a56_226_tags.txt | SN:6 | TN:3
-epektibo | a56_224_tags.txt | SN:17 | TN:48
-kilala | a56_181to186_tags.txt | SN:94 | TN:42
-legal | a56_224_tags.txt | SN:17 | TN:33
-simpatya | a56_224_tags.txt | SN:31 | TN:43
-maliliit | a56_193to197_tags.txt | SN:69 | TN:4
-kulang-kulang | a56_227_tags.txt | SN:16 | TN:14
-tatag | a56_235to237_tags.txt | SN:24 | TN:7
-independiyente | a56_223_tags.txt | SN:18 | TN:21
-tahimik | a56_238to240_tags.txt | SN:4 | TN:21
-ito | a56_252_tags.txt | SN:9 | TN:29
-Kulay-abo | cua_bernice_s11_tags.txt | SN:33 | TN:0
-turing | a56_253to258_tags.txt | SN:10 | TN:2
-maitim | cua_bernice_s11_tags.txt | SN:38 | TN:20
-sopistikado | a56_198_tags.txt | SN:11 | TN:5
-mainland | a56_264_tags.txt | SN:23 | TN:15
-pabukas-palad | a56_181to186_tags.txt | SN:6 | TN:82
-dala-dala | a56_204_tags.txt | SN:17 | TN:12
-bigatin | a56_238to240_tags.txt | SN:71 | TN:18
-ispektakular | a56_251_tags.txt | SN:15 | TN:10
-taglay | a56_193to197_tags.txt | SN:32 | TN:32
-angkop | a56_193to197_tags.txt | SN:29 | TN:42
-independente | a56_238to240_tags.txt | SN:65 | TN:8
-western | cua_bernice_s11_tags.txt | SN:104 | TN:9
-hawakan | a56_253to258_tags.txt | SN:23 | TN:34
-kompidensiyal | a56_225_tags.txt | SN:1 | TN:4
-pagkakaibigan | a56_264_tags.txt | SN:3 | TN:4
-Mahalaga | lopez_clement_s11_tags.txt | SN:6 | TN:0
-maaga | a56_224_tags.txt | SN:20 | TN:27
-hilagang-silangan | a56_249_tags.txt | SN:12 | TN:2
-kalahati | a56_253to258_tags.txt | SN:149 | TN:13
-matanda | a56_181to186_tags.txt | SN:67 | TN:30
-kasal | a56_223_tags.txt | SN:5 | TN:43
-gitna | a56_250_tags.txt | SN:7 | TN:2
-masaklaw | a56_224_tags.txt | SN:10 | TN:19
-dating | a56_227_tags.txt | SN:14 | TN:4
-inaasahang | a56_235to237_tags.txt | SN:19 | TN:3
-digital | lopez_clement_s11_tags.txt | SN:4 | TN:3
-karagdagan | a56_259_tags.txt | SN:3 | TN:1
-prinsipal | a56_261_tags.txt | SN:24 | TN:1
-pampolitikal | a56_181to186_tags.txt | SN:13 | TN:18
-Matindi | a56_181to186_tags.txt | SN:35 | TN:0
-buhay | a56_247_tags.txt | SN:17 | TN:12
-tama | a56_200_tags.txt | SN:34 | TN:2
-publish | lopez_clement_s11_tags.txt | SN:6 | TN:75
-primarya | a56_235to237_tags.txt | SN:16 | TN:6
-sakop | a56_235to237_tags.txt | SN:34 | TN:22
-makitid | a56_264_tags.txt | SN:24 | TN:10
-pili | a56_181to186_tags.txt | SN:68 | TN:15
-mahalaga | a56_211_tags.txt | SN:5 | TN:13
-Popular | a56_247_tags.txt | SN:16 | TN:0
-maiksi | cua_bernice_s11_tags.txt | SN:31 | TN:6
-pribado | a56_248_tags.txt | SN:18 | TN:17
-magaling | a56_181to186_tags.txt | SN:14 | TN:21
-alternatibo | a56_200_tags.txt | SN:8 | TN:1
-banayad | a56_238to240_tags.txt | SN:22 | TN:5
-indibidwalista | a56_223_tags.txt | SN:14 | TN:3
-binata | a56_226_tags.txt | SN:21 | TN:1
-hatid | a56_228_tags.txt | SN:17 | TN:30
-sukdulan | a56_253to258_tags.txt | SN:157 | TN:5
-na-out | a56_253to258_tags.txt | SN:55 | TN:6
-sapat | a56_181to186_tags.txt | SN:118 | TN:12
-pambabae | cua_bernice_s11_tags.txt | SN:103 | TN:16
-makakanan | a56_235to237_tags.txt | SN:38 | TN:21
-hugis-bilog | a56_181to186_tags.txt | SN:33 | TN:34
-kaganda | a56_198_tags.txt | SN:12 | TN:5
-pandangal | a56_223_tags.txt | SN:23 | TN:7
-nakipagkayari | a56_213_tags.txt | SN:41 | TN:12
-metal | a56_193to197_tags.txt | SN:106 | TN:13
-naka-print | lopez_clement_s11_tags.txt | SN:24 | TN:4
-kahoy | a56_250_tags.txt | SN:9 | TN:2
-bukas | a56_238to240_tags.txt | SN:67 | TN:18
-apektado | a56_181to186_tags.txt | SN:44 | TN:10
-mapansalakay | a56_228_tags.txt | SN:5 | TN:12
-karapat-dapat | a56_181to186_tags.txt | SN:10 | TN:12
-tubos | a56_181to186_tags.txt | SN:91 | TN:27
-superiyor | a56_212_tags.txt | SN:31 | TN:42
-tirahan | a56_250_tags.txt | SN:20 | TN:27
-puspos | a56_181to186_tags.txt | SN:7 | TN:13
-maputi | cua_bernice_s11_tags.txt | SN:39 | TN:6
-pantay | a56_193to197_tags.txt | SN:51 | TN:23
-kaakit-akit | a56_223_tags.txt | SN:5 | TN:9
-kanais-nais | a56_181to186_tags.txt | SN:145 | TN:2
-Komplikado | a56_224_tags.txt | SN:5 | TN:0
-pantao | a56_181to186_tags.txt | SN:36 | TN:5
-sikat | a56_247_tags.txt | SN:6 | TN:8
-local | a56_193to197_tags.txt | SN:30 | TN:32
-dedikado | a56_252_tags.txt | SN:18 | TN:30
-unahan | a56_213_tags.txt | SN:6 | TN:34
-salamay | a56_235to237_tags.txt | SN:17 | TN:48
-malayo | a56_260_tags.txt | SN:5 | TN:41
-melodramatic | a56_238to240_tags.txt | SN:21 | TN:13
-malaya | a56_263_tags.txt | SN:10 | TN:18
-electronic | lopez_clement_s11_tags.txt | SN:4 | TN:21
-libre | a56_193to197_tags.txt | SN:28 | TN:40
-mas | a56_264_tags.txt | SN:31 | TN:27
-makatakas | a56_238to240_tags.txt | SN:6 | TN:8
-likas | a56_193to197_tags.txt | SN:46 | TN:5
-piksyonal | a56_198_tags.txt | SN:40 | TN:15
-perpendikular | a56_193to197_tags.txt | SN:65 | TN:78
-uri | a56_247_tags.txt | SN:10 | TN:11
-respetado | a56_252_tags.txt | SN:24 | TN:7
-commissioning | lopez_clement_s11_tags.txt | SN:7 | TN:12
-maunlad | a56_204_tags.txt | SN:1 | TN:11
-sabik | a56_252_tags.txt | SN:4 | TN:5
-maliit | a56_181to186_tags.txt | SN:19 | TN:9
-malagkit | a56_200_tags.txt | SN:9 | TN:2
-milyun-dolyar | a56_250_tags.txt | SN:12 | TN:6
-mayorya | a56_260_tags.txt | SN:1 | TN:2
-mataas | a56_181to186_tags.txt | SN:28 | TN:4
-tapat | a56_264_tags.txt | SN:8 | TN:14
-praktikal | lopez_clement_s11_tags.txt | SN:63 | TN:53
-maka-pagbubukod | a56_228_tags.txt | SN:14 | TN:8
-pandaigdigang | a56_264_tags.txt | SN:5 | TN:2
-kalahating | a56_250_tags.txt | SN:20 | TN:13
-malulungkot | a56_247_tags.txt | SN:10 | TN:21
-malawak | a56_181to186_tags.txt | SN:145 | TN:23
-matagumpay | a56_193to197_tags.txt | SN:11 | TN:3
-pabilog | a56_193to197_tags.txt | SN:78 | TN:4
-mamulmol | cua_bernice_s11_tags.txt | SN:73 | TN:3
-magaan | a56_214_tags.txt | SN:18 | TN:23
-tunay | a56_224_tags.txt | SN:9 | TN:14
-wasto | a56_181to186_tags.txt | SN:6 | TN:79
-matimbang | a56_248_tags.txt | SN:2 | TN:2
-maitim-itim | cua_bernice_s11_tags.txt | SN:37 | TN:14
-malalapit | a56_238to240_tags.txt | SN:65 | TN:14
-dagat-dagatan | cua_bernice_s11_tags.txt | SN:23 | TN:41
-bagong | a56_263_tags.txt | SN:18 | TN:23
-pangmamamayan | a56_228_tags.txt | SN:17 | TN:20
-Malaki | a56_198_tags.txt | SN:18 | TN:0
-rehiyonal | a56_248_tags.txt | SN:22 | TN:7
-katumbas | a56_213_tags.txt | SN:4 | TN:44
-Nasyonal | a56_211_tags.txt | SN:37 | TN:36
-na | a56_264_tags.txt | SN:31 | TN:36
-paunang | lopez_clement_s11_tags.txt | SN:21 | TN:39
-ng | a56_235to237_tags.txt | SN:41 | TN:24
-Malinaw | a56_193to197_tags.txt | SN:109 | TN:0
-alam | cua_bernice_s11_tags.txt | SN:15 | TN:2
-posibilidad | lopez_clement_s11_tags.txt | SN:19 | TN:2
-pangatake | cua_bernice_s11_tags.txt | SN:43 | TN:20
-pansukat | a56_181to186_tags.txt | SN:113 | TN:19
-magkasanib | a56_252_tags.txt | SN:22 | TN:24
-pampakulay | a56_200_tags.txt | SN:10 | TN:32
-madali | a56_198_tags.txt | SN:32 | TN:55
-nagtatanggol | a56_253to258_tags.txt | SN:69 | TN:1
-sentro | a56_238to240_tags.txt | SN:32 | TN:2
-siksik | a56_193to197_tags.txt | SN:81 | TN:30
-kaugnay | a56_193to197_tags.txt | SN:83 | TN:6
-eksakto | a56_193to197_tags.txt | SN:97 | TN:30
-Kilala | a56_204_tags.txt | SN:7 | TN:0
-lampas | a56_249_tags.txt | SN:22 | TN:31
-kulay | a56_228_tags.txt | SN:20 | TN:50
-responsable | a56_181to186_tags.txt | SN:58 | TN:5
-pederal | a56_193to197_tags.txt | SN:27 | TN:6
-ideological | a56_193to197_tags.txt | SN:35 | TN:17
-malalakas | a56_193to197_tags.txt | SN:19 | TN:15
-mura | a56_198_tags.txt | SN:32 | TN:19
-hugis-almendras | a56_181to186_tags.txt | SN:27 | TN:31
-publiko | a56_224_tags.txt | SN:22 | TN:3
-pang-edukasyon | a56_181to186_tags.txt | SN:143 | TN:37
-master | a56_227_tags.txt | SN:4 | TN:76
-nai-publish | lopez_clement_s11_tags.txt | SN:6 | TN:78
-matalik | a56_224_tags.txt | SN:11 | TN:7
-Nakilala | a56_204_tags.txt | SN:16 | TN:0
-kumplikado | a56_253to258_tags.txt | SN:159 | TN:17
-taga-Sao_Paulo | a56_248_tags.txt | SN:24 | TN:10
-katamtaman | a56_249_tags.txt | SN:22 | TN:4
-spiritual | a56_193to197_tags.txt | SN:15 | TN:27
-rayos | a56_249_tags.txt | SN:15 | TN:15
-mapait | a56_224_tags.txt | SN:22 | TN:1
-dulo | cua_bernice_s11_tags.txt | SN:28 | TN:22
-impluwensya | a56_247_tags.txt | SN:25 | TN:19
-taliwas | a56_251_tags.txt | SN:7 | TN:12
-Kaugnay | a56_248_tags.txt | SN:11 | TN:0
-Hilagang-Kanluran | a56_249_tags.txt | SN:15 | TN:33
-pang-cognitiv | a56_181to186_tags.txt | SN:20 | TN:11
-Panalo | a56_253to258_tags.txt | SN:29 | TN:0
-minorya | a56_235to237_tags.txt | SN:9 | TN:4
-takda | a56_259_tags.txt | SN:13 | TN:12
-lupon | a56_211_tags.txt | SN:39 | TN:4
-malamig | a56_264_tags.txt | SN:33 | TN:8
-pula | cua_bernice_s11_tags.txt | SN:31 | TN:4
-kanan | a56_260_tags.txt | SN:2 | TN:52
-silangan | a56_250_tags.txt | SN:24 | TN:28
-aspaltado | a56_235to237_tags.txt | SN:71 | TN:3
-panglahing | a56_253to258_tags.txt | SN:18 | TN:5
-Maputi | cua_bernice_s11_tags.txt | SN:10 | TN:0
-mali | a56_181to186_tags.txt | SN:86 | TN:7
-pangkatawan | a56_181to186_tags.txt | SN:58 | TN:8
-kalamangan | a56_212_tags.txt | SN:9 | TN:27
-nakatatakot | a56_227_tags.txt | SN:22 | TN:16
-masiksik | a56_193to197_tags.txt | SN:81 | TN:24
-matagal | a56_200_tags.txt | SN:29 | TN:7
-yupi | a56_264_tags.txt | SN:30 | TN:13
-quality | a56_238to240_tags.txt | SN:62 | TN:25
-Malilit | cua_bernice_s11_tags.txt | SN:86 | TN:0
-importante | a56_198_tags.txt | SN:3 | TN:25
-abnormal | a56_181to186_tags.txt | SN:33 | TN:9
-tipikal | a56_211_tags.txt | SN:23 | TN:43
-kakilala | a56_181to186_tags.txt | SN:91 | TN:3
-Malapit | a56_249_tags.txt | SN:19 | TN:0
-bagong-kasal | a56_228_tags.txt | SN:2 | TN:12
-tunog | cua_bernice_s11_tags.txt | SN:46 | TN:5
-domestiko | a56_248_tags.txt | SN:17 | TN:24
-muslim | a56_193to197_tags.txt | SN:65 | TN:1
-patay | a56_253to258_tags.txt | SN:152 | TN:11
-malalim | a56_260_tags.txt | SN:20 | TN:14
-patas | a56_253to258_tags.txt | SN:63 | TN:8
-sa | a56_253to258_tags.txt | SN:168 | TN:33
-maringal | a56_193to197_tags.txt | SN:30 | TN:10
-halos | a56_181to186_tags.txt | SN:32 | TN:22
-matibay | a56_225_tags.txt | SN:17 | TN:6
-patag | a56_181to186_tags.txt | SN:31 | TN:46
-naguhitan | cua_bernice_s11_tags.txt | SN:7 | TN:35
-mayaman | a56_249_tags.txt | SN:12 | TN:4
-makapag-dadamin | a56_238to240_tags.txt | SN:47 | TN:2
-alalahanin | cua_bernice_s11_tags.txt | SN:100 | TN:2
-Bahagi | a56_193to197_tags.txt | SN:51 | TN:0
-graphic | lopez_clement_s11_tags.txt | SN:5 | TN:12
-maputla | cua_bernice_s11_tags.txt | SN:35 | TN:11
-susunod | a56_213_tags.txt | SN:51 | TN:4
-ingay | a56_238to240_tags.txt | SN:73 | TN:19
-deretso | cua_bernice_s11_tags.txt | SN:7 | TN:15
-iba | a56_250_tags.txt | SN:1 | TN:7
-kakaiba | a56_259_tags.txt | SN:6 | TN:3
-politikal | a56_193to197_tags.txt | SN:1 | TN:1
-pang-araw-araw | a56_252_tags.txt | SN:22 | TN:1
-kasuklam-suklam | a56_181to186_tags.txt | SN:10 | TN:23
-opsiyal | a56_214_tags.txt | SN:43 | TN:4
-tropikal | a56_247_tags.txt | SN:3 | TN:10
-Nakasalalay | a56_223_tags.txt | SN:4 | TN:0
-pangkaisipan | a56_181to186_tags.txt | SN:58 | TN:10
-limitado | a56_211_tags.txt | SN:37 | TN:24
-taglamig | cua_bernice_s11_tags.txt | SN:37 | TN:2
-salu-salo | a56_238to240_tags.txt | SN:67 | TN:25
-kasali | a56_213_tags.txt | SN:17 | TN:71
-bihira | cua_bernice_s11_tags.txt | SN:27 | TN:1
-papular | a56_247_tags.txt | SN:10 | TN:1
-katawa-tawa | a56_238to240_tags.txt | SN:31 | TN:10
-domestic | a56_248_tags.txt | SN:24 | TN:36
-all-star | a56_259_tags.txt | SN:5 | TN:2
-espesyal | a56_181to186_tags.txt | SN:143 | TN:27
-pangkaraniwan | a56_223_tags.txt | SN:16 | TN:41
-malakas | a56_193to197_tags.txt | SN:7 | TN:15
-sanay | a56_214_tags.txt | SN:20 | TN:26
-nakihalobilo | a56_247_tags.txt | SN:15 | TN:4
-dala | a56_214_tags.txt | SN:7 | TN:30
-ligtas | a56_253to258_tags.txt | SN:123 | TN:11
-panghimpapawid | a56_228_tags.txt | SN:6 | TN:31
-domestik | a56_248_tags.txt | SN:22 | TN:5
-lamig | cua_bernice_s11_tags.txt | SN:17 | TN:6
-malaki | a56_181to186_tags.txt | SN:19 | TN:7
-hawak | a56_193to197_tags.txt | SN:59 | TN:34
-kalidad | lopez_clement_s11_tags.txt | SN:31 | TN:20
-puno | a56_259_tags.txt | SN:28 | TN:5
-Inspirsyon | a56_193to197_tags.txt | SN:93 | TN:0
-indibidwal | a56_193to197_tags.txt | SN:107 | TN:9
-manunulat | a56_247_tags.txt | SN:25 | TN:13
-mahangin | a56_264_tags.txt | SN:25 | TN:18
-aktwal | a56_193to197_tags.txt | SN:9 | TN:21
-inspirado | a56_238to240_tags.txt | SN:21 | TN:11
-magkaratig | a56_264_tags.txt | SN:8 | TN:10
-ilegal | a56_235to237_tags.txt | SN:33 | TN:2
-bata | a56_181to186_tags.txt | SN:66 | TN:15
-nakahihimasok | a56_181to186_tags.txt | SN:84 | TN:1
-pampook | a56_261_tags.txt | SN:15 | TN:4
-nakakataas | a56_181to186_tags.txt | SN:109 | TN:1
-Eksperimental | a56_193to197_tags.txt | SN:107 | TN:0
-nakakabit | a56_181to186_tags.txt | SN:50 | TN:4
-amateur | a56_253to258_tags.txt | SN:145 | TN:10
-lihim | a56_225_tags.txt | SN:18 | TN:10
-kalungkut-lungkot | a56_181to186_tags.txt | SN:2 | TN:2
-nakaakibat | a56_198_tags.txt | SN:27 | TN:6
-woodcut | a56_253to258_tags.txt | SN:46 | TN:2
-bakante | a56_235to237_tags.txt | SN:23 | TN:14
-pang-isports | a56_252_tags.txt | SN:3 | TN:5
-Mahahaba | cua_bernice_s11_tags.txt | SN:12 | TN:0
-Espesyal | cua_bernice_s11_tags.txt | SN:42 | TN:0
-tradisyonal | a56_193to197_tags.txt | SN:45 | TN:2
-nakamamatay | a56_181to186_tags.txt | SN:96 | TN:44
-Matagumpay | a56_193to197_tags.txt | SN:99 | TN:0
-higit | a56_247_tags.txt | SN:30 | TN:10
-normal | a56_181to186_tags.txt | SN:27 | TN:63
-masigla | a56_251_tags.txt | SN:29 | TN:5
-hilaga | a56_250_tags.txt | SN:24 | TN:10
-maliwanag | a56_181to186_tags.txt | SN:96 | TN:34
-timog | a56_204_tags.txt | SN:9 | TN:4
-matatag | a56_259_tags.txt | SN:14 | TN:36
-may-bisang | lopez_clement_s11_tags.txt | SN:31 | TN:24
-kulay-kape | cua_bernice_s11_tags.txt | SN:8 | TN:12
-masaya | a56_238to240_tags.txt | SN:24 | TN:29
-Karamihan | cua_bernice_s11_tags.txt | SN:106 | TN:0
-pampubliko | a56_193to197_tags.txt | SN:49 | TN:39
-bokasyonal | a56_181to186_tags.txt | SN:29 | TN:36
-Karaniwan | a56_253to258_tags.txt | SN:157 | TN:0
-kapansin-pansin | a56_253to258_tags.txt | SN:165 | TN:5
-grey | cua_bernice_s11_tags.txt | SN:35 | TN:13
-marahas | a56_261_tags.txt | SN:18 | TN:18
-mabilis | a56_193to197_tags.txt | SN:30 | TN:23
-Mahirap | lopez_clement_s11_tags.txt | SN:22 | TN:0
-dating-Irish | a56_250_tags.txt | SN:11 | TN:17
-puting-puti | cua_bernice_s11_tags.txt | SN:9 | TN:7
-pisikal | a56_193to197_tags.txt | SN:73 | TN:9
-pang-alaga | a56_198_tags.txt | SN:15 | TN:6
-aktibo | a56_223_tags.txt | SN:21 | TN:12
-magkakahiwalay | a56_235to237_tags.txt | SN:22 | TN:6
-puti | cua_bernice_s11_tags.txt | SN:7 | TN:37
-Naiiba | cua_bernice_s11_tags.txt | SN:38 | TN:0
-orihinal | a56_193to197_tags.txt | SN:18 | TN:12
-masugid | a56_227_tags.txt | SN:10 | TN:33
-mahirap | a56_253to258_tags.txt | SN:105 | TN:1
-maulan | a56_264_tags.txt | SN:25 | TN:16
-batted | a56_253to258_tags.txt | SN:56 | TN:13
-malimit | a56_238to240_tags.txt | SN:27 | TN:6
-pangdepensa | a56_253to258_tags.txt | SN:70 | TN:4
-kaibahan | a56_252_tags.txt | SN:19 | TN:4
-mahihirap | a56_251_tags.txt | SN:7 | TN:16
-simbolo | a56_193to197_tags.txt | SN:58 | TN:37
-hayag | a56_193to197_tags.txt | SN:30 | TN:25
-natural | a56_193to197_tags.txt | SN:36 | TN:26
-kanluran | a56_250_tags.txt | SN:7 | TN:31
-tuwid | a56_193to197_tags.txt | SN:76 | TN:39
-sigid | a56_259_tags.txt | SN:28 | TN:15
-nakayari | a56_213_tags.txt | SN:43 | TN:18
-musikal | lopez_clement_s11_tags.txt | SN:5 | TN:40
-partikular | a56_193to197_tags.txt | SN:108 | TN:13
-pandaigdig | a56_263_tags.txt | SN:12 | TN:9
-Higit | a56_247_tags.txt | SN:9 | TN:0
-pang-linis | a56_198_tags.txt | SN:13 | TN:32
-off-campus | a56_238to240_tags.txt | SN:71 | TN:6
-pareho | a56_252_tags.txt | SN:22 | TN:13
-Likas | cua_bernice_s11_tags.txt | SN:14 | TN:0
-malungkot | a56_193to197_tags.txt | SN:20 | TN:8
-humigit-kumulang | a56_181to186_tags.txt | SN:119 | TN:12
-nangingibabaw | a56_251_tags.txt | SN:16 | TN:1
-kalagitnaan | a56_253to258_tags.txt | SN:16 | TN:1
-opisyal | a56_248_tags.txt | SN:8 | TN:5
-dilaw | a56_224_tags.txt | SN:27 | TN:32
-out | a56_253to258_tags.txt | SN:123 | TN:27
-kitang-kita | cua_bernice_s11_tags.txt | SN:34 | TN:14
-pormal | a56_226_tags.txt | SN:12 | TN:25
-lokal | a56_181to186_tags.txt | SN:14 | TN:61
-dinamiko | a56_251_tags.txt | SN:9 | TN:2
-karaniwan | a56_181to186_tags.txt | SN:39 | TN:6
-isang-kulay | cua_bernice_s11_tags.txt | SN:45 | TN:8
-huwad | a56_181to186_tags.txt | SN:77 | TN:11
-regular | a56_181to186_tags.txt | SN:143 | TN:34
-nakakabasa | lopez_clement_s11_tags.txt | SN:20 | TN:40
-malapit | a56_181to186_tags.txt | SN:2 | TN:18
-kilanlan | a56_193to197_tags.txt | SN:49 | TN:32
-paikot | a56_248_tags.txt | SN:4 | TN:17
-kulang | a56_247_tags.txt | SN:10 | TN:38
-mabibigat | a56_223_tags.txt | SN:7 | TN:8
-mahigpit | a56_247_tags.txt | SN:9 | TN:7
-Malamig | a56_249_tags.txt | SN:22 | TN:0
-mahalagang | a56_200_tags.txt | SN:16 | TN:3
-kargador | a56_261_tags.txt | SN:4 | TN:20
-pangagrikultura | a56_261_tags.txt | SN:18 | TN:31
-matayog | a56_181to186_tags.txt | SN:143 | TN:19
-masiklat | a56_260_tags.txt | SN:12 | TN:4
-lead | a56_247_tags.txt | SN:5 | TN:11
-Kumpleto | a56_253to258_tags.txt | SN:91 | TN:0
-propesyonal | a56_214_tags.txt | SN:26 | TN:11
-nacommission | lopez_clement_s11_tags.txt | SN:8 | TN:10
-parochial | a56_253to258_tags.txt | SN:21 | TN:8
-tabi-tabi | a56_204_tags.txt | SN:8 | TN:17
-layo | cua_bernice_s11_tags.txt | SN:2 | TN:27
-mababaw | a56_260_tags.txt | SN:5 | TN:23
-huli | a56_259_tags.txt | SN:28 | TN:35
-Puti | cua_bernice_s11_tags.txt | SN:7 | TN:0
-malumanay | a56_181to186_tags.txt | SN:32 | TN:3
-ilalim | cua_bernice_s11_tags.txt | SN:35 | TN:6
-pang-isport | a56_227_tags.txt | SN:15 | TN:15
-Kritikal | a56_253to258_tags.txt | SN:102 | TN:0
-katulad | a56_253to258_tags.txt | SN:34 | TN:8
-bukas-palad | a56_181to186_tags.txt | SN:10 | TN:37
-kakaunti | a56_235to237_tags.txt | SN:41 | TN:5
-katanggap-tanggap | a56_181to186_tags.txt | SN:131 | TN:16
-Pangunahin | a56_260_tags.txt | SN:19 | TN:0
-sugatan | a56_253to258_tags.txt | SN:90 | TN:35
-Itim | cua_bernice_s11_tags.txt | SN:11 | TN:0
-kasangkot | a56_181to186_tags.txt | SN:74 | TN:11
-sentral | a56_193to197_tags.txt | SN:38 | TN:5
-kalapit | a56_250_tags.txt | SN:6 | TN:17
-niyutral | a56_213_tags.txt | SN:17 | TN:46
-Permanente | a56_253to258_tags.txt | SN:155 | TN:0
-major | a56_223_tags.txt | SN:18 | TN:24
-panlabas | a56_181to186_tags.txt | SN:20 | TN:20
-probinsyonal | a56_211_tags.txt | SN:29 | TN:27
-tumpak | a56_181to186_tags.txt | SN:123 | TN:16
-ideyal | a56_253to258_tags.txt | SN:64 | TN:25
-sunod | a56_181to186_tags.txt | SN:27 | TN:70
-illegal | a56_253to258_tags.txt | SN:120 | TN:1
-sumunod | a56_181to186_tags.txt | SN:76 | TN:14
-Halos | a56_213_tags.txt | SN:49 | TN:0
-itim | a56_198_tags.txt | SN:24 | TN:15
-mahahalaga | a56_235to237_tags.txt | SN:11 | TN:3
-karamihan | a56_250_tags.txt | SN:6 | TN:15
-internasyonal | a56_248_tags.txt | SN:8 | TN:19
-pampakintab | a56_198_tags.txt | SN:4 | TN:5
-katangap-tanggap | a56_213_tags.txt | SN:6 | TN:1
-kuripot | a56_225_tags.txt | SN:24 | TN:29
-medyo | lopez_clement_s11_tags.txt | SN:65 | TN:1
-katapat | a56_211_tags.txt | SN:9 | TN:8
-madalas | a56_248_tags.txt | SN:2 | TN:10
-bawal | a56_253to258_tags.txt | SN:57 | TN:31
-panlahi | a56_228_tags.txt | SN:16 | TN:12
-pabalik-balik | a56_181to186_tags.txt | SN:28 | TN:14
-bukod | a56_253to258_tags.txt | SN:120 | TN:12
-nakatalaga | a56_193to197_tags.txt | SN:44 | TN:2
-mahusay | a56_193to197_tags.txt | SN:99 | TN:18
-mababa | a56_235to237_tags.txt | SN:41 | TN:16
-ganap | a56_214_tags.txt | SN:14 | TN:8
-tagatangan | a56_228_tags.txt | SN:10 | TN:5
-Tanyag | a56_181to186_tags.txt | SN:12 | TN:0
-Nakatutok | a56_214_tags.txt | SN:30 | TN:0
-pangunahing | a56_263_tags.txt | SN:12 | TN:28
-sosyal | a56_247_tags.txt | SN:9 | TN:14
-pangkultura | a56_247_tags.txt | SN:34 | TN:22
-matalino | a56_223_tags.txt | SN:5 | TN:47
-Mabilis | a56_253to258_tags.txt | SN:50 | TN:0
-malupit | a56_193to197_tags.txt | SN:28 | TN:49
-lusaw | a56_260_tags.txt | SN:19 | TN:45
-madilim | cua_bernice_s11_tags.txt | SN:38 | TN:24
-timog-silanangan | a56_249_tags.txt | SN:21 | TN:12
-husto | a56_238to240_tags.txt | SN:14 | TN:19
-kulay-abo | cua_bernice_s11_tags.txt | SN:7 | TN:2
-mauunlad | a56_181to186_tags.txt | SN:141 | TN:3
-Diretso | a56_200_tags.txt | SN:42 | TN:0
-maimpluwensya | a56_193to197_tags.txt | SN:37 | TN:7
-maagang | a56_263_tags.txt | SN:10 | TN:1
-makintab | a56_198_tags.txt | SN:3 | TN:20
-malusog | a56_181to186_tags.txt | SN:87 | TN:32
-magkakaibang | a56_253to258_tags.txt | SN:73 | TN:67
-Parehas | cua_bernice_s11_tags.txt | SN:37 | TN:0
-pangpanatili | a56_264_tags.txt | SN:15 | TN:6
-pangpromosyon | lopez_clement_s11_tags.txt | SN:67 | TN:38
-kritikal | a56_181to186_tags.txt | SN:132 | TN:19
-naka-papel | lopez_clement_s11_tags.txt | SN:18 | TN:25
-pamproduksyon | a56_228_tags.txt | SN:6 | TN:40
+Word: Bahagi | Lemma: Bahagi | a56_193to197_tags.txt | SN:51 | TN:0
+Word: Diretso | Lemma: Diretso | a56_200_tags.txt | SN:42 | TN:0
+Word: Eksperimental | Lemma: Eksperimental | a56_193to197_tags.txt | SN:107 | TN:0
+Word: Espesyal | Lemma: Espesyal | cua_bernice_s11_tags.txt | SN:42 | TN:0
+Word: Halos | Lemma: Halos | a56_213_tags.txt | SN:49 | TN:0
+Word: Halos | Lemma: Halos | a56_248_tags.txt | SN:26 | TN:0
+Word: Halos | Lemma: Halos | a56_253to258_tags.txt | SN:138 | TN:0
+Word: Higit | Lemma: Higit | a56_247_tags.txt | SN:9 | TN:0
+Word: Hilagang-Kanluran | Lemma: Hilaga-Kanluran | a56_249_tags.txt | SN:15 | TN:33
+Word: Inspirsyon | Lemma: Inspirsyon | a56_193to197_tags.txt | SN:93 | TN:0
+Word: Itim | Lemma: Itim | cua_bernice_s11_tags.txt | SN:11 | TN:0
+Word: Kakaunti | Lemma: Kaunti | a56_227_tags.txt | SN:17 | TN:0
+Word: Karamihan | Lemma: Dami | cua_bernice_s11_tags.txt | SN:106 | TN:0
+Word: Karaniwan | Lemma: Karaniwan | a56_253to258_tags.txt | SN:157 | TN:0
+Word: Karaniwan | Lemma: Karaniwan | cua_bernice_s11_tags.txt | SN:22 | TN:0
+Word: Kaugnay | Lemma: ugnay | a56_248_tags.txt | SN:11 | TN:0
+Word: Kilala | Lemma: Kilala | a56_204_tags.txt | SN:7 | TN:0
+Word: Kilala | Lemma: Kilala | a56_247_tags.txt | SN:29 | TN:0
+Word: Kilala | Lemma: Kilala | a56_253to258_tags.txt | SN:15 | TN:0
+Word: Kilala | Lemma: Kilala | a56_253to258_tags.txt | SN:140 | TN:0
+Word: Kilala | Lemma: Kilala | a56_253to258_tags.txt | SN:154 | TN:0
+Word: Komplikado | Lemma: Komplikado | a56_224_tags.txt | SN:5 | TN:0
+Word: Kontrolado | Lemma: Kontrol | a56_181to186_tags.txt | SN:107 | TN:0
+Word: Kritikal | Lemma: Kritikal | a56_253to258_tags.txt | SN:102 | TN:0
+Word: Kritikal | Lemma: Kritikal | a56_253to258_tags.txt | SN:142 | TN:0
+Word: Kulay-abo | Lemma: Kulay-abo | cua_bernice_s11_tags.txt | SN:33 | TN:0
+Word: Kulay-abo | Lemma: Kulay-abo | cua_bernice_s11_tags.txt | SN:34 | TN:0
+Word: Kumpleto | Lemma: Kumpleto | a56_253to258_tags.txt | SN:91 | TN:0
+Word: Likas | Lemma: Likas | cua_bernice_s11_tags.txt | SN:14 | TN:0
+Word: Mabilis | Lemma: bilis | a56_253to258_tags.txt | SN:50 | TN:0
+Word: Mahahaba | Lemma: Haba | cua_bernice_s11_tags.txt | SN:12 | TN:0
+Word: Mahalaga | Lemma: halaga | lopez_clement_s11_tags.txt | SN:6 | TN:0
+Word: Mahirap | Lemma: hirap | lopez_clement_s11_tags.txt | SN:22 | TN:0
+Word: Mainit | Lemma: init | a56_249_tags.txt | SN:22 | TN:22
+Word: Malaki | Lemma: laki | a56_198_tags.txt | SN:18 | TN:0
+Word: Malaki | Lemma: Malaki | lopez_clement_s11_tags.txt | SN:27 | TN:0
+Word: Malaki | Lemma: laki | lopez_clement_s11_tags.txt | SN:33 | TN:0
+Word: Malamig | Lemma: Lamig | a56_249_tags.txt | SN:22 | TN:0
+Word: Malapit | Lemma: Lapit | a56_249_tags.txt | SN:19 | TN:0
+Word: Malapit | Lemma: lapit | a56_251_tags.txt | SN:6 | TN:0
+Word: Malilit | Lemma: Liit | cua_bernice_s11_tags.txt | SN:86 | TN:0
+Word: Malinaw | Lemma: linaw | a56_193to197_tags.txt | SN:109 | TN:0
+Word: Maputi | Lemma: Maputi | cua_bernice_s11_tags.txt | SN:10 | TN:0
+Word: Matagumpay | Lemma: tagumpay | a56_193to197_tags.txt | SN:99 | TN:0
+Word: Matindi | Lemma: tindi | a56_181to186_tags.txt | SN:35 | TN:0
+Word: Matindi | Lemma: tindi | a56_238to240_tags.txt | SN:29 | TN:0
+Word: Naiiba | Lemma: iba | cua_bernice_s11_tags.txt | SN:38 | TN:0
+Word: Nakasalalay | Lemma: salalay | a56_223_tags.txt | SN:4 | TN:0
+Word: Nakatutok | Lemma: tutok | a56_214_tags.txt | SN:30 | TN:0
+Word: Nakilala | Lemma: kilala | a56_204_tags.txt | SN:16 | TN:0
+Word: Nasyonal | Lemma: Nasyonal | a56_211_tags.txt | SN:37 | TN:36
+Word: Panalo | Lemma: nalo | a56_253to258_tags.txt | SN:29 | TN:0
+Word: Pangunahin | Lemma: Una | a56_260_tags.txt | SN:19 | TN:0
+Word: Parehas | Lemma: Parehas | cua_bernice_s11_tags.txt | SN:37 | TN:0
+Word: Permanente | Lemma: Permanente | a56_253to258_tags.txt | SN:155 | TN:0
+Word: Popular | Lemma: Popular | a56_247_tags.txt | SN:16 | TN:0
+Word: Punung-puno | Lemma: Puno | a56_247_tags.txt | SN:11 | TN:0
+Word: Puti | Lemma: Puti | cua_bernice_s11_tags.txt | SN:7 | TN:0
+Word: Salungat | Lemma: Salungat | a56_225_tags.txt | SN:34 | TN:0
+Word: Tanyag | Lemma: Tanyag | a56_181to186_tags.txt | SN:12 | TN:0
+Word: Timog | Lemma: Timog | a56_228_tags.txt | SN:14 | TN:10
+Word: abnormal | Lemma: abnormal | a56_181to186_tags.txt | SN:33 | TN:9
+Word: abot-tanaw | Lemma: abot-tanaw | a56_204_tags.txt | SN:10 | TN:17
+Word: agresibo | Lemma: agresibo | cua_bernice_s11_tags.txt | SN:41 | TN:16
+Word: aktibo | Lemma: aktibo | a56_223_tags.txt | SN:21 | TN:12
+Word: aktwal | Lemma: aktwal | a56_193to197_tags.txt | SN:9 | TN:21
+Word: aktwal | Lemma: aktwal | a56_193to197_tags.txt | SN:40 | TN:1
+Word: aktwal | Lemma: aktwal | a56_235to237_tags.txt | SN:3 | TN:3
+Word: aktwal | Lemma: aktwal | a56_235to237_tags.txt | SN:63 | TN:29
+Word: alalahanin | Lemma: alalahanin | cua_bernice_s11_tags.txt | SN:100 | TN:2
+Word: alam | Lemma: alam | cua_bernice_s11_tags.txt | SN:15 | TN:2
+Word: all-star | Lemma: all-star | a56_259_tags.txt | SN:5 | TN:2
+Word: alternatibo | Lemma: alternatibo | a56_200_tags.txt | SN:8 | TN:1
+Word: amateur | Lemma: amateur | a56_253to258_tags.txt | SN:145 | TN:10
+Word: amateur | Lemma: amateur | a56_253to258_tags.txt | SN:161 | TN:2
+Word: angkop | Lemma: angkop | a56_193to197_tags.txt | SN:29 | TN:42
+Word: angkop | Lemma: angkop | a56_193to197_tags.txt | SN:34 | TN:14
+Word: apektado | Lemma: apektado | a56_181to186_tags.txt | SN:44 | TN:10
+Word: apektado | Lemma: apektado | a56_238to240_tags.txt | SN:30 | TN:10
+Word: asensado | Lemma: asensado | a56_235to237_tags.txt | SN:17 | TN:24
+Word: aspaltado | Lemma: aspaltado | a56_235to237_tags.txt | SN:71 | TN:3
+Word: aspaltado | Lemma: aspaltado | a56_235to237_tags.txt | SN:71 | TN:6
+Word: aspaltado | Lemma: aspaltado | a56_235to237_tags.txt | SN:72 | TN:8
+Word: aspaltado | Lemma: aspaltado | a56_235to237_tags.txt | SN:72 | TN:24
+Word: at | Lemma: at | a56_264_tags.txt | SN:31 | TN:29
+Word: bagong | Lemma: bago | a56_263_tags.txt | SN:18 | TN:23
+Word: bagong-kasal | Lemma: bago-kasal | a56_228_tags.txt | SN:2 | TN:12
+Word: bakante | Lemma: bakante | a56_235to237_tags.txt | SN:23 | TN:14
+Word: banayad | Lemma: banayad | a56_238to240_tags.txt | SN:22 | TN:5
+Word: bata | Lemma: bata | a56_181to186_tags.txt | SN:66 | TN:15
+Word: bata | Lemma: bata | a56_224_tags.txt | SN:18 | TN:24
+Word: bata | Lemma: bata | a56_224_tags.txt | SN:24 | TN:29
+Word: bata | Lemma: bata | a56_226_tags.txt | SN:12 | TN:18
+Word: bata | Lemma: bata | a56_251_tags.txt | SN:9 | TN:6
+Word: bata | Lemma: bata | a56_251_tags.txt | SN:14 | TN:3
+Word: batted | Lemma: batted | a56_253to258_tags.txt | SN:56 | TN:13
+Word: bawal | Lemma: bawal | a56_253to258_tags.txt | SN:57 | TN:31
+Word: bawal | Lemma: bawal | a56_253to258_tags.txt | SN:78 | TN:11
+Word: bawal | Lemma: bawal | a56_253to258_tags.txt | SN:87 | TN:16
+Word: bawal | Lemma: bawal | a56_260_tags.txt | SN:8 | TN:32
+Word: bigatin | Lemma: bigat | a56_238to240_tags.txt | SN:71 | TN:18
+Word: bihira | Lemma: bihira | cua_bernice_s11_tags.txt | SN:27 | TN:1
+Word: binata | Lemma: bata | a56_226_tags.txt | SN:21 | TN:1
+Word: bokasyonal | Lemma: bokasyonal | a56_181to186_tags.txt | SN:29 | TN:36
+Word: buhay | Lemma: buhay | a56_247_tags.txt | SN:17 | TN:12
+Word: bukas | Lemma: bukas | a56_238to240_tags.txt | SN:67 | TN:18
+Word: bukas | Lemma: bukas | a56_253to258_tags.txt | SN:162 | TN:6
+Word: bukas | Lemma: bukas | a56_260_tags.txt | SN:19 | TN:47
+Word: bukas | Lemma: bukas | lopez_clement_s11_tags.txt | SN:20 | TN:3
+Word: bukas-palad | Lemma: bukas-palad | a56_181to186_tags.txt | SN:10 | TN:37
+Word: bukod | Lemma: bukod | a56_253to258_tags.txt | SN:120 | TN:12
+Word: commissioning | Lemma: commissioning | lopez_clement_s11_tags.txt | SN:7 | TN:12
+Word: dagat-dagatan | Lemma: dagat-dagatan | cua_bernice_s11_tags.txt | SN:23 | TN:41
+Word: dala | Lemma: dala | a56_214_tags.txt | SN:7 | TN:30
+Word: dala | Lemma: dala | a56_214_tags.txt | SN:10 | TN:30
+Word: dala | Lemma: dala | a56_228_tags.txt | SN:17 | TN:4
+Word: dala-dala | Lemma: dala | a56_204_tags.txt | SN:17 | TN:12
+Word: dating | Lemma: dati | a56_227_tags.txt | SN:14 | TN:4
+Word: dating-Irish | Lemma: dati-Irish | a56_250_tags.txt | SN:11 | TN:17
+Word: dedikado | Lemma: dedikado | a56_252_tags.txt | SN:18 | TN:30
+Word: deretso | Lemma: deretso | cua_bernice_s11_tags.txt | SN:7 | TN:15
+Word: digital | Lemma: digital | lopez_clement_s11_tags.txt | SN:4 | TN:3
+Word: diin | Lemma: diin | a56_253to258_tags.txt | SN:90 | TN:43
+Word: dilaw | Lemma: dilaw | a56_224_tags.txt | SN:27 | TN:32
+Word: dinamiko | Lemma: dinamiko | a56_251_tags.txt | SN:9 | TN:2
+Word: direkta | Lemma: direkta | a56_214_tags.txt | SN:43 | TN:53
+Word: direkta | Lemma: direkta | a56_253to258_tags.txt | SN:78 | TN:7
+Word: direkta | Lemma: direkta | lopez_clement_s11_tags.txt | SN:51 | TN:19
+Word: domestic | Lemma: domestic | a56_248_tags.txt | SN:24 | TN:36
+Word: domestik | Lemma: domestik | a56_248_tags.txt | SN:22 | TN:5
+Word: domestiko | Lemma: domestiko | a56_248_tags.txt | SN:17 | TN:24
+Word: dulo | Lemma: dulo | cua_bernice_s11_tags.txt | SN:28 | TN:22
+Word: eksakto | Lemma: eksakto | a56_193to197_tags.txt | SN:97 | TN:30
+Word: electronic | Lemma: electronic | lopez_clement_s11_tags.txt | SN:4 | TN:21
+Word: elektrikal | Lemma: elektrikal | a56_193to197_tags.txt | SN:106 | TN:29
+Word: epektibo | Lemma: epektibo | a56_224_tags.txt | SN:17 | TN:48
+Word: epektibo | Lemma: epektibo | a56_253to258_tags.txt | SN:90 | TN:32
+Word: espesyal | Lemma: espesyal | a56_181to186_tags.txt | SN:143 | TN:27
+Word: espesyal | Lemma: espesyal | a56_193to197_tags.txt | SN:104 | TN:9
+Word: espesyal | Lemma: espesyal | a56_223_tags.txt | SN:19 | TN:4
+Word: espesyal | Lemma: espesyal | a56_261_tags.txt | SN:4 | TN:17
+Word: espesyal | Lemma: espesyal | a56_261_tags.txt | SN:19 | TN:21
+Word: ganap | Lemma: ganap | a56_214_tags.txt | SN:14 | TN:8
+Word: gitna | Lemma: gitna | a56_250_tags.txt | SN:7 | TN:2
+Word: graphic | Lemma: graphic | lopez_clement_s11_tags.txt | SN:5 | TN:12
+Word: grey | Lemma: grey | cua_bernice_s11_tags.txt | SN:35 | TN:13
+Word: halata | Lemma: halata | cua_bernice_s11_tags.txt | SN:69 | TN:3
+Word: halos | Lemma: halos | a56_251_tags.txt | SN:3 | TN:5
+Word: halos | Lemma: halos | a56_223_tags.txt | SN:14 | TN:26
+Word: halos | Lemma: halos | a56_181to186_tags.txt | SN:32 | TN:22
+Word: halos | Lemma: halos | a56_261_tags.txt | SN:9 | TN:7
+Word: halos | Lemma: halos | a56_181to186_tags.txt | SN:43 | TN:2
+Word: halos | Lemma: halos | cua_bernice_s11_tags.txt | SN:22 | TN:8
+Word: halos | Lemma: halos | a56_251_tags.txt | SN:5 | TN:27
+Word: halos | Lemma: halos | a56_181to186_tags.txt | SN:62 | TN:3
+Word: halos | Lemma: halos | a56_247_tags.txt | SN:34 | TN:25
+Word: halos | Lemma: halos | a56_253to258_tags.txt | SN:46 | TN:15
+Word: halos | Lemma: halos | cua_bernice_s11_tags.txt | SN:22 | TN:16
+Word: halos | Lemma: halos | a56_193to197_tags.txt | SN:22 | TN:15
+Word: halos | Lemma: halos | a56_193to197_tags.txt | SN:99 | TN:8
+Word: halos | Lemma: halos | a56_211_tags.txt | SN:23 | TN:15
+Word: halos | Lemma: halos | lopez_clement_s11_tags.txt | SN:55 | TN:10
+Word: halos | Lemma: halos | a56_213_tags.txt | SN:29 | TN:2
+Word: halos | Lemma: halos | a56_213_tags.txt | SN:35 | TN:18
+Word: hamak | Lemma: hamak | a56_181to186_tags.txt | SN:87 | TN:64
+Word: handa | Lemma: handa | lopez_clement_s11_tags.txt | SN:77 | TN:4
+Word: hatid | Lemma: hatid | a56_228_tags.txt | SN:17 | TN:30
+Word: hawak | Lemma: hawak | a56_193to197_tags.txt | SN:59 | TN:34
+Word: hawak | Lemma: hawak | a56_238to240_tags.txt | SN:39 | TN:3
+Word: hawakan | Lemma: hawak | a56_253to258_tags.txt | SN:23 | TN:34
+Word: hayag | Lemma: hayag | a56_193to197_tags.txt | SN:30 | TN:25
+Word: higit | Lemma: higit | a56_247_tags.txt | SN:30 | TN:10
+Word: higit | Lemma: higit | a56_248_tags.txt | SN:30 | TN:28
+Word: higit | Lemma: higit | a56_253to258_tags.txt | SN:81 | TN:3
+Word: higit | Lemma: higit | a56_253to258_tags.txt | SN:131 | TN:20
+Word: higit | Lemma: higit | a56_253to258_tags.txt | SN:134 | TN:5
+Word: higit | Lemma: higit | a56_253to258_tags.txt | SN:141 | TN:18
+Word: higit | Lemma: higit | a56_253to258_tags.txt | SN:145 | TN:16
+Word: hilaga | Lemma: hilaga | a56_250_tags.txt | SN:24 | TN:10
+Word: hilaga | Lemma: hilaga | a56_263_tags.txt | SN:2 | TN:23
+Word: hilaga | Lemma: hilaga | a56_264_tags.txt | SN:22 | TN:14
+Word: hilaga | Lemma: hilaga | a56_264_tags.txt | SN:23 | TN:25
+Word: hilagang-silangan | Lemma: hilaga-silangan | a56_249_tags.txt | SN:12 | TN:2
+Word: hilig | Lemma: hilig | a56_238to240_tags.txt | SN:38 | TN:5
+Word: hugis-almendras | Lemma: hugis-almendras | a56_181to186_tags.txt | SN:27 | TN:31
+Word: hugis-bilog | Lemma: hugis-bilog | a56_181to186_tags.txt | SN:33 | TN:34
+Word: huli | Lemma: huli | a56_259_tags.txt | SN:28 | TN:35
+Word: humigit-kumulang | Lemma: higit-kulang | a56_181to186_tags.txt | SN:119 | TN:12
+Word: husto | Lemma: husto | a56_238to240_tags.txt | SN:14 | TN:19
+Word: huwad | Lemma: huwad | a56_181to186_tags.txt | SN:77 | TN:11
+Word: huwad | Lemma: huwad | a56_181to186_tags.txt | SN:81 | TN:25
+Word: huwad | Lemma: huwad | a56_181to186_tags.txt | SN:82 | TN:32
+Word: huwad | Lemma: huwad | a56_181to186_tags.txt | SN:83 | TN:17
+Word: huwad | Lemma: huwad | a56_181to186_tags.txt | SN:85 | TN:28
+Word: huwad | Lemma: huwad | a56_181to186_tags.txt | SN:87 | TN:11
+Word: iba | Lemma: iba | a56_250_tags.txt | SN:1 | TN:7
+Word: ibang-iba | Lemma: iba-iba | cua_bernice_s11_tags.txt | SN:62 | TN:4
+Word: iba’t_ibang | Lemma: iba | a56_247_tags.txt | SN:30 | TN:4
+Word: iba’t_ibang | Lemma: iba | a56_253to258_tags.txt | SN:44 | TN:10
+Word: ideological | Lemma: ideological | a56_193to197_tags.txt | SN:35 | TN:17
+Word: ideyal | Lemma: ideyal | a56_253to258_tags.txt | SN:64 | TN:25
+Word: idiyolohikal | Lemma: idiyolohikal | a56_235to237_tags.txt | SN:26 | TN:4
+Word: ilalim | Lemma: ilalim | cua_bernice_s11_tags.txt | SN:35 | TN:6
+Word: ilegal | Lemma: ilegal | a56_235to237_tags.txt | SN:33 | TN:2
+Word: illegal | Lemma: illegal | a56_253to258_tags.txt | SN:120 | TN:1
+Word: impluwensya | Lemma: impluwensya | a56_247_tags.txt | SN:25 | TN:19
+Word: importante | Lemma: importante | a56_198_tags.txt | SN:3 | TN:25
+Word: importante | Lemma: importante | a56_248_tags.txt | SN:10 | TN:3
+Word: inaasahang | Lemma: asa | a56_235to237_tags.txt | SN:19 | TN:3
+Word: independente | Lemma: independente | a56_238to240_tags.txt | SN:65 | TN:8
+Word: independiyente | Lemma: independiyente | a56_223_tags.txt | SN:18 | TN:21
+Word: indibidwal | Lemma: indibidwal | a56_193to197_tags.txt | SN:107 | TN:9
+Word: indibidwal | Lemma: indibidwal | lopez_clement_s11_tags.txt | SN:64 | TN:15
+Word: indibidwalista | Lemma: indibidwalista | a56_223_tags.txt | SN:14 | TN:3
+Word: ingay | Lemma: ingay | a56_238to240_tags.txt | SN:73 | TN:19
+Word: inspirado | Lemma: inspirado | a56_238to240_tags.txt | SN:21 | TN:11
+Word: internasyonal | Lemma: internasyonal | a56_248_tags.txt | SN:8 | TN:19
+Word: internasyonal | Lemma: internasyonal | a56_248_tags.txt | SN:17 | TN:26
+Word: internasyonal | Lemma: internasyonal | a56_248_tags.txt | SN:24 | TN:38
+Word: internasyonal | Lemma: internasyonal | lopez_clement_s11_tags.txt | SN:60 | TN:13
+Word: internasyonal | Lemma: internasyonal | lopez_clement_s11_tags.txt | SN:61 | TN:23
+Word: isang-kulay | Lemma: isa-kulay | cua_bernice_s11_tags.txt | SN:45 | TN:8
+Word: ispektakular | Lemma: ispektakular | a56_251_tags.txt | SN:15 | TN:10
+Word: itim | Lemma: itim | a56_198_tags.txt | SN:24 | TN:15
+Word: itim | Lemma: itim | a56_252_tags.txt | SN:13 | TN:16
+Word: itim | Lemma: itim | cua_bernice_s11_tags.txt | SN:7 | TN:26
+Word: itim | Lemma: itim | cua_bernice_s11_tags.txt | SN:33 | TN:7
+Word: itim | Lemma: itim | cua_bernice_s11_tags.txt | SN:38 | TN:9
+Word: itim | Lemma: itim | cua_bernice_s11_tags.txt | SN:45 | TN:20
+Word: ito | Lemma: ito | a56_252_tags.txt | SN:9 | TN:29
+Word: kaakit-akit | Lemma: akit | a56_223_tags.txt | SN:5 | TN:9
+Word: kaakit-akit | Lemma: akit | a56_223_tags.txt | SN:5 | TN:34
+Word: kabilang | Lemma: bilang | a56_181to186_tags.txt | SN:125 | TN:14
+Word: kaganda | Lemma: ganda | a56_198_tags.txt | SN:12 | TN:5
+Word: kahoy | Lemma: kahoy | a56_250_tags.txt | SN:9 | TN:2
+Word: kaibahan | Lemma: kaibahan | a56_252_tags.txt | SN:19 | TN:4
+Word: kaibahan | Lemma: iba | cua_bernice_s11_tags.txt | SN:44 | TN:18
+Word: kaibahan | Lemma: iba | cua_bernice_s11_tags.txt | SN:45 | TN:14
+Word: kakaiba | Lemma: iba | a56_259_tags.txt | SN:6 | TN:3
+Word: kakaunti | Lemma: kaunti | a56_235to237_tags.txt | SN:41 | TN:5
+Word: kakilala | Lemma: kilala | a56_181to186_tags.txt | SN:91 | TN:3
+Word: kalagitnaan | Lemma: gitna | a56_253to258_tags.txt | SN:16 | TN:1
+Word: kalahati | Lemma: hati | a56_253to258_tags.txt | SN:149 | TN:13
+Word: kalahating | Lemma: hati | a56_250_tags.txt | SN:20 | TN:13
+Word: kalamangan | Lemma: lamang | a56_212_tags.txt | SN:9 | TN:27
+Word: kalapit | Lemma: lapit | a56_250_tags.txt | SN:6 | TN:17
+Word: kalidad | Lemma: kalidad | lopez_clement_s11_tags.txt | SN:31 | TN:20
+Word: kalungkut-lungkot | Lemma: lungkot | a56_181to186_tags.txt | SN:2 | TN:2
+Word: kanais-nais | Lemma: nais | a56_181to186_tags.txt | SN:145 | TN:2
+Word: kanan | Lemma: kanan | a56_260_tags.txt | SN:2 | TN:52
+Word: kanluran | Lemma: kanluran | a56_250_tags.txt | SN:7 | TN:31
+Word: kanluran | Lemma: kanluran | a56_250_tags.txt | SN:10 | TN:14
+Word: kanluran | Lemma: kanluran | a56_263_tags.txt | SN:2 | TN:16
+Word: kapansin-pansin | Lemma: pansin | a56_253to258_tags.txt | SN:165 | TN:5
+Word: karagdagan | Lemma: dagdag | a56_259_tags.txt | SN:3 | TN:1
+Word: karagdagang | Lemma: dagdag | a56_253to258_tags.txt | SN:144 | TN:22
+Word: karamihan | Lemma: dami | a56_250_tags.txt | SN:6 | TN:15
+Word: karamihan | Lemma: dami | cua_bernice_s11_tags.txt | SN:107 | TN:2
+Word: karaniwan | Lemma: karaniwan | a56_181to186_tags.txt | SN:39 | TN:6
+Word: karaniwan | Lemma: karaniwan | a56_181to186_tags.txt | SN:39 | TN:19
+Word: karaniwan | Lemma: karaniwan | a56_248_tags.txt | SN:22 | TN:11
+Word: karaniwan | Lemma: karaniwan | a56_248_tags.txt | SN:29 | TN:14
+Word: karaniwan-bilis | Lemma: karaniwan-bilis | a56_248_tags.txt | SN:10 | TN:11
+Word: karapat-dapat | Lemma: dapat | a56_181to186_tags.txt | SN:10 | TN:12
+Word: kargador | Lemma: kargador | a56_261_tags.txt | SN:4 | TN:20
+Word: kasal | Lemma: kasal | a56_223_tags.txt | SN:5 | TN:43
+Word: kasali | Lemma: sali | a56_213_tags.txt | SN:17 | TN:71
+Word: kasangkot | Lemma: sangkot | a56_181to186_tags.txt | SN:74 | TN:11
+Word: kasuklam-suklam | Lemma: suklam | a56_181to186_tags.txt | SN:10 | TN:23
+Word: katamtaman | Lemma: katamtaman | a56_249_tags.txt | SN:22 | TN:4
+Word: katangap-tanggap | Lemma: tanggap | a56_213_tags.txt | SN:6 | TN:1
+Word: katangap-tanggap | Lemma: tanggap | a56_214_tags.txt | SN:45 | TN:13
+Word: katanggap-tanggap | Lemma: tanggap | a56_181to186_tags.txt | SN:131 | TN:16
+Word: katanggap-tanggap | Lemma: tanggap | a56_181to186_tags.txt | SN:141 | TN:25
+Word: katanggap-tanggap | Lemma: tanggap | lopez_clement_s11_tags.txt | SN:18 | TN:29
+Word: katapat | Lemma: tapat | a56_211_tags.txt | SN:9 | TN:8
+Word: katapat | Lemma: tapat | a56_213_tags.txt | SN:33 | TN:7
+Word: katawa-tawa | Lemma: tawa | a56_238to240_tags.txt | SN:31 | TN:10
+Word: katulad | Lemma: tulad | a56_253to258_tags.txt | SN:34 | TN:8
+Word: katumbas | Lemma: tumbas | a56_213_tags.txt | SN:4 | TN:44
+Word: katumbas | Lemma: tumbas | lopez_clement_s11_tags.txt | SN:5 | TN:22
+Word: kaugnay | Lemma: ugnay | a56_193to197_tags.txt | SN:83 | TN:6
+Word: kaugnay | Lemma: ugnay | a56_193to197_tags.txt | SN:91 | TN:6
+Word: kilala | Lemma: kilala | a56_193to197_tags.txt | SN:88 | TN:11
+Word: kilala | Lemma: kilala | a56_181to186_tags.txt | SN:94 | TN:42
+Word: kilala | Lemma: kilala | a56_181to186_tags.txt | SN:130 | TN:14
+Word: kilala | Lemma: kilala | a56_193to197_tags.txt | SN:65 | TN:15
+Word: kilala | Lemma: kilala | a56_253to258_tags.txt | SN:149 | TN:3
+Word: kilala | Lemma: kilala | a56_253to258_tags.txt | SN:145 | TN:27
+Word: kilala | Lemma: kilala | a56_198_tags.txt | SN:11 | TN:1
+Word: kilala | Lemma: kilala | a56_253to258_tags.txt | SN:31 | TN:8
+Word: kilala | Lemma: kilala | a56_213_tags.txt | SN:37 | TN:12
+Word: kilala | Lemma: kilala | a56_193to197_tags.txt | SN:96 | TN:29
+Word: kilala | Lemma: kilala | a56_261_tags.txt | SN:13 | TN:4
+Word: kilala | Lemma: kilala | a56_235to237_tags.txt | SN:46 | TN:17
+Word: kilala | Lemma: kilala | a56_253to258_tags.txt | SN:110 | TN:6
+Word: kilala | Lemma: kilala | a56_193to197_tags.txt | SN:90 | TN:35
+Word: kilala | Lemma: kilala | a56_247_tags.txt | SN:6 | TN:2
+Word: kilala | Lemma: kilala | a56_225_tags.txt | SN:6 | TN:11
+Word: kilanlan | Lemma: kilanlan | a56_193to197_tags.txt | SN:49 | TN:32
+Word: kitang-kita | Lemma: kitang-kita | cua_bernice_s11_tags.txt | SN:34 | TN:14
+Word: komersyal | Lemma: komersyal | a56_204_tags.txt | SN:8 | TN:12
+Word: komersyal | Lemma: komersyal | a56_248_tags.txt | SN:29 | TN:27
+Word: komersyal | Lemma: komersyal | lopez_clement_s11_tags.txt | SN:63 | TN:3
+Word: kompidensiyal | Lemma: kompidensiyal | a56_225_tags.txt | SN:1 | TN:4
+Word: kritikal | Lemma: kritikal | a56_181to186_tags.txt | SN:132 | TN:19
+Word: krusyal | Lemma: krusyal | a56_253to258_tags.txt | SN:52 | TN:2
+Word: kulang | Lemma: kulang | a56_247_tags.txt | SN:10 | TN:38
+Word: kulang-kulang | Lemma: kulang | a56_227_tags.txt | SN:16 | TN:14
+Word: kulay | Lemma: kulay | a56_228_tags.txt | SN:20 | TN:50
+Word: kulay | Lemma: kulay | cua_bernice_s11_tags.txt | SN:44 | TN:12
+Word: kulay-abo | Lemma: kulay-abo | cua_bernice_s11_tags.txt | SN:7 | TN:2
+Word: kulay-abo | Lemma: kulay-abo | cua_bernice_s11_tags.txt | SN:8 | TN:7
+Word: kulay-abo | Lemma: kulay-abo | cua_bernice_s11_tags.txt | SN:10 | TN:3
+Word: kulay-kape | Lemma: kulay-kape | cua_bernice_s11_tags.txt | SN:8 | TN:12
+Word: kumplikado | Lemma: kumplikado | a56_253to258_tags.txt | SN:159 | TN:17
+Word: kumplikado | Lemma: kumplikado | lopez_clement_s11_tags.txt | SN:17 | TN:5
+Word: kuripot | Lemma: kuripot | a56_225_tags.txt | SN:24 | TN:29
+Word: kusang-loob | Lemma: kusang-loob | a56_264_tags.txt | SN:13 | TN:3
+Word: lamig | Lemma: lamig | cua_bernice_s11_tags.txt | SN:17 | TN:6
+Word: lampas | Lemma: lampas | a56_249_tags.txt | SN:22 | TN:31
+Word: lampas | Lemma: lampas | a56_253to258_tags.txt | SN:94 | TN:17
+Word: layo | Lemma: layo | cua_bernice_s11_tags.txt | SN:2 | TN:27
+Word: lead | Lemma: lead | a56_247_tags.txt | SN:5 | TN:11
+Word: legal | Lemma: legal | a56_224_tags.txt | SN:17 | TN:33
+Word: legal | Lemma: legal | lopez_clement_s11_tags.txt | SN:15 | TN:34
+Word: legal | Lemma: legal | lopez_clement_s11_tags.txt | SN:6 | TN:6
+Word: legal | Lemma: legal | lopez_clement_s11_tags.txt | SN:19 | TN:21
+Word: liberal | Lemma: liberal | a56_211_tags.txt | SN:29 | TN:37
+Word: liberal | Lemma: liberal | a56_211_tags.txt | SN:37 | TN:17
+Word: libre | Lemma: libre | a56_193to197_tags.txt | SN:28 | TN:40
+Word: libre | Lemma: libre | a56_253to258_tags.txt | SN:162 | TN:4
+Word: ligtas | Lemma: ligtas | a56_253to258_tags.txt | SN:123 | TN:11
+Word: ligtas | Lemma: ligtas | a56_253to258_tags.txt | SN:124 | TN:11
+Word: lihim | Lemma: lihim | a56_225_tags.txt | SN:18 | TN:10
+Word: likas | Lemma: likas | a56_193to197_tags.txt | SN:46 | TN:5
+Word: likas | Lemma: likas | a56_193to197_tags.txt | SN:88 | TN:1
+Word: limitado | Lemma: limitado | a56_211_tags.txt | SN:37 | TN:24
+Word: local | Lemma: local | a56_193to197_tags.txt | SN:30 | TN:32
+Word: local | Lemma: local | a56_211_tags.txt | SN:1 | TN:46
+Word: local | Lemma: local | a56_253to258_tags.txt | SN:16 | TN:11
+Word: lokal | Lemma: lokal | a56_181to186_tags.txt | SN:14 | TN:61
+Word: lokal | Lemma: lokal | a56_193to197_tags.txt | SN:53 | TN:31
+Word: lokal | Lemma: lokal | a56_261_tags.txt | SN:13 | TN:13
+Word: lupon | Lemma: lupon | a56_211_tags.txt | SN:39 | TN:4
+Word: lusaw | Lemma: lusaw | a56_260_tags.txt | SN:19 | TN:45
+Word: maaga | Lemma: maaga | a56_224_tags.txt | SN:20 | TN:27
+Word: maaga | Lemma: aga | a56_235to237_tags.txt | SN:27 | TN:29
+Word: maagang | Lemma: aga | a56_263_tags.txt | SN:10 | TN:1
+Word: maaraw | Lemma: araw | a56_264_tags.txt | SN:25 | TN:8
+Word: maayos | Lemma: ayos | a56_198_tags.txt | SN:32 | TN:53
+Word: maayos | Lemma: ayos | a56_204_tags.txt | SN:18 | TN:14
+Word: mababa | Lemma: baba | a56_235to237_tags.txt | SN:41 | TN:16
+Word: mababa | Lemma: baba | a56_260_tags.txt | SN:19 | TN:34
+Word: mababa | Lemma: baba | a56_253to258_tags.txt | SN:6 | TN:6
+Word: mababa | Lemma: baba | cua_bernice_s11_tags.txt | SN:108 | TN:5
+Word: mababaw | Lemma: babaw | a56_260_tags.txt | SN:5 | TN:23
+Word: mabagal | Lemma: bagal | a56_238to240_tags.txt | SN:33 | TN:37
+Word: mabagal | Lemma: bagal | a56_253to258_tags.txt | SN:102 | TN:37
+Word: mabagal | Lemma: bagal | a56_259_tags.txt | SN:18 | TN:29
+Word: mabibigat | Lemma: bigat | a56_223_tags.txt | SN:7 | TN:8
+Word: mabilis | Lemma: bilis | a56_193to197_tags.txt | SN:30 | TN:23
+Word: mabilis | Lemma: bilis | a56_198_tags.txt | SN:32 | TN:51
+Word: mabilis | Lemma: bilis | a56_193to197_tags.txt | SN:81 | TN:17
+Word: mabilis | Lemma: bilis | a56_253to258_tags.txt | SN:141 | TN:29
+Word: mabilis | Lemma: bilis | a56_198_tags.txt | SN:37 | TN:5
+Word: mabilis | Lemma: bilis | a56_204_tags.txt | SN:18 | TN:11
+Word: mabilis | Lemma: bilis | a56_212_tags.txt | SN:3 | TN:5
+Word: mabilis | Lemma: bilis | a56_214_tags.txt | SN:20 | TN:24
+Word: mabilis | Lemma: bilis | a56_212_tags.txt | SN:35 | TN:24
+Word: mabilis | Lemma: bilis | a56_213_tags.txt | SN:17 | TN:13
+Word: mabilis | Lemma: bilis | a56_214_tags.txt | SN:18 | TN:4
+Word: mabilis | Lemma: bilis | a56_248_tags.txt | SN:6 | TN:18
+Word: mabundok | Lemma: bundok | a56_264_tags.txt | SN:30 | TN:4
+Word: madalang | Lemma: dalang | a56_238to240_tags.txt | SN:70 | TN:5
+Word: madalas | Lemma: dalas | a56_248_tags.txt | SN:2 | TN:10
+Word: madalas | Lemma: dalas | cua_bernice_s11_tags.txt | SN:85 | TN:10
+Word: madalas | Lemma: dalas | a56_253to258_tags.txt | SN:84 | TN:32
+Word: madalas | Lemma: dalas | a56_260_tags.txt | SN:12 | TN:8
+Word: madalas | Lemma: dalas | cua_bernice_s11_tags.txt | SN:63 | TN:9
+Word: madalas | Lemma: dalas | a56_253to258_tags.txt | SN:110 | TN:2
+Word: madalas | Lemma: dalas | a56_253to258_tags.txt | SN:150 | TN:25
+Word: madalas | Lemma: dalas | cua_bernice_s11_tags.txt | SN:86 | TN:10
+Word: madalas | Lemma: dalas | cua_bernice_s11_tags.txt | SN:94 | TN:10
+Word: madali | Lemma: dali | a56_198_tags.txt | SN:32 | TN:55
+Word: madali | Lemma: dali | a56_253to258_tags.txt | SN:132 | TN:24
+Word: madali | Lemma: dali | a56_259_tags.txt | SN:3 | TN:17
+Word: madiin | Lemma: diin | a56_238to240_tags.txt | SN:28 | TN:17
+Word: madilim | Lemma: dilim | cua_bernice_s11_tags.txt | SN:38 | TN:24
+Word: magaan | Lemma: gaan | a56_214_tags.txt | SN:18 | TN:23
+Word: magaling | Lemma: galing | a56_181to186_tags.txt | SN:14 | TN:21
+Word: magaling | Lemma: galing | a56_193to197_tags.txt | SN:2 | TN:4
+Word: magaling | Lemma: galing | a56_214_tags.txt | SN:20 | TN:29
+Word: maganda | Lemma: ganda | a56_248_tags.txt | SN:6 | TN:2
+Word: maganda | Lemma: ganda | a56_259_tags.txt | SN:25 | TN:1
+Word: magkakahiwalay | Lemma: hiwalay | a56_235to237_tags.txt | SN:22 | TN:6
+Word: magkakahiwalay | Lemma: hiwalay | cua_bernice_s11_tags.txt | SN:32 | TN:12
+Word: magkakaibang | Lemma: magkakaibang | a56_253to258_tags.txt | SN:73 | TN:67
+Word: magkaratig | Lemma: karatig | a56_264_tags.txt | SN:8 | TN:10
+Word: magkasanib | Lemma: sanib | a56_252_tags.txt | SN:22 | TN:24
+Word: mahahalaga | Lemma: halaga | a56_235to237_tags.txt | SN:11 | TN:3
+Word: mahahalaga | Lemma: halaga | a56_235to237_tags.txt | SN:65 | TN:18
+Word: mahalaga | Lemma: halaga | a56_211_tags.txt | SN:5 | TN:13
+Word: mahalaga | Lemma: halaga | a56_250_tags.txt | SN:15 | TN:5
+Word: mahalaga | Lemma: halaga | a56_253to258_tags.txt | SN:87 | TN:19
+Word: mahalaga | Lemma: halaga | a56_260_tags.txt | SN:18 | TN:4
+Word: mahalaga | Lemma: halaga | lopez_clement_s11_tags.txt | SN:6 | TN:40
+Word: mahalaga | Lemma: halaga | lopez_clement_s11_tags.txt | SN:52 | TN:25
+Word: mahalagang | Lemma: halaga | a56_200_tags.txt | SN:16 | TN:3
+Word: mahangin | Lemma: hangin | a56_264_tags.txt | SN:25 | TN:18
+Word: mahigpit | Lemma: higpit | a56_247_tags.txt | SN:9 | TN:7
+Word: mahigpit | Lemma: higpit | a56_259_tags.txt | SN:19 | TN:22
+Word: mahigpit | Lemma: higpit | a56_260_tags.txt | SN:2 | TN:3
+Word: mahihirap | Lemma: hirap | a56_251_tags.txt | SN:7 | TN:16
+Word: mahirap | Lemma: hirap | a56_253to258_tags.txt | SN:105 | TN:1
+Word: mahirap | Lemma: hirap | a56_253to258_tags.txt | SN:108 | TN:2
+Word: mahirap | Lemma: hirap | a56_253to258_tags.txt | SN:134 | TN:29
+Word: mahirap | Lemma: hirap | a56_253to258_tags.txt | SN:134 | TN:47
+Word: mahirap | Lemma: hirap | cua_bernice_s11_tags.txt | SN:81 | TN:18
+Word: mahusay | Lemma: husay | a56_193to197_tags.txt | SN:111 | TN:19
+Word: mahusay | Lemma: husay | a56_193to197_tags.txt | SN:99 | TN:18
+Word: mahusay | Lemma: husay | a56_253to258_tags.txt | SN:84 | TN:13
+Word: mahusay | Lemma: husay | a56_253to258_tags.txt | SN:89 | TN:41
+Word: mahusay | Lemma: husay | a56_253to258_tags.txt | SN:138 | TN:17
+Word: mahusay | Lemma: husay | a56_253to258_tags.txt | SN:141 | TN:8
+Word: maiksi | Lemma: iksi | cua_bernice_s11_tags.txt | SN:31 | TN:6
+Word: maimpluwensya | Lemma: impluwensya | a56_193to197_tags.txt | SN:37 | TN:7
+Word: mainland | Lemma: mainland | a56_264_tags.txt | SN:23 | TN:15
+Word: mainland | Lemma: mainland | a56_264_tags.txt | SN:29 | TN:1
+Word: maitim | Lemma: itim | cua_bernice_s11_tags.txt | SN:38 | TN:20
+Word: maitim | Lemma: itim | cua_bernice_s11_tags.txt | SN:50 | TN:3
+Word: maitim-itim | Lemma: itim | cua_bernice_s11_tags.txt | SN:37 | TN:14
+Word: major | Lemma: major | a56_223_tags.txt | SN:18 | TN:24
+Word: major | Lemma: major | a56_253to258_tags.txt | SN:40 | TN:34
+Word: maka-pagbubukod | Lemma: bukod | a56_228_tags.txt | SN:14 | TN:8
+Word: maka-pagbubukod | Lemma: bukod | a56_228_tags.txt | SN:18 | TN:14
+Word: makakanan | Lemma: kanan | a56_235to237_tags.txt | SN:38 | TN:21
+Word: makapag-dadamin | Lemma: damdamin | a56_238to240_tags.txt | SN:47 | TN:2
+Word: makapangyarihan | Lemma: kapangyarihan | a56_235to237_tags.txt | SN:34 | TN:30
+Word: makasaysayan | Lemma: saysay | a56_198_tags.txt | SN:40 | TN:18
+Word: makatakas | Lemma: takas | a56_238to240_tags.txt | SN:6 | TN:8
+Word: makilala | Lemma: kilala | a56_252_tags.txt | SN:8 | TN:11
+Word: makintab | Lemma: kintab | a56_198_tags.txt | SN:3 | TN:20
+Word: makitid | Lemma: kitid | a56_264_tags.txt | SN:24 | TN:10
+Word: malagkit | Lemma: lagkit | a56_200_tags.txt | SN:9 | TN:2
+Word: malakas | Lemma: lakas | a56_193to197_tags.txt | SN:7 | TN:15
+Word: malakas | Lemma: lakas | a56_193to197_tags.txt | SN:47 | TN:10
+Word: malakas | Lemma: lakas | a56_223_tags.txt | SN:5 | TN:49
+Word: malakas | Lemma: lakas | a56_193to197_tags.txt | SN:47 | TN:16
+Word: malakas | Lemma: lakas | a56_259_tags.txt | SN:7 | TN:12
+Word: malakas | Lemma: lakas | a56_260_tags.txt | SN:12 | TN:6
+Word: malaki | Lemma: laki | a56_181to186_tags.txt | SN:19 | TN:7
+Word: malaki | Lemma: laki | a56_181to186_tags.txt | SN:27 | TN:61
+Word: malaki | Lemma: laki | a56_193to197_tags.txt | SN:77 | TN:9
+Word: malaki | Lemma: laki | a56_260_tags.txt | SN:8 | TN:27
+Word: malalakas | Lemma: lakas | a56_193to197_tags.txt | SN:19 | TN:15
+Word: malalakas | Lemma: lakas | a56_200_tags.txt | SN:30 | TN:10
+Word: malalapit | Lemma: lapit | a56_238to240_tags.txt | SN:65 | TN:14
+Word: malalim | Lemma: lalim | a56_260_tags.txt | SN:20 | TN:14
+Word: malalim | Lemma: lalim | cua_bernice_s11_tags.txt | SN:46 | TN:9
+Word: malalim | Lemma: lalim | cua_bernice_s11_tags.txt | SN:68 | TN:4
+Word: malamang | Lemma: lamang | a56_253to258_tags.txt | SN:132 | TN:16
+Word: malamig | Lemma: lamig | a56_264_tags.txt | SN:33 | TN:8
+Word: malapad | Lemma: lapad | a56_181to186_tags.txt | SN:33 | TN:30
+Word: malapad | Lemma: lapad | cua_bernice_s11_tags.txt | SN:32 | TN:5
+Word: malapit | Lemma: lapit | a56_259_tags.txt | SN:5 | TN:13
+Word: malapit | Lemma: lapit | a56_225_tags.txt | SN:7 | TN:14
+Word: malapit | Lemma: lapit | cua_bernice_s11_tags.txt | SN:61 | TN:17
+Word: malapit | Lemma: lapit | a56_181to186_tags.txt | SN:2 | TN:18
+Word: malapit | Lemma: lapit | a56_181to186_tags.txt | SN:31 | TN:71
+Word: malapit | Lemma: lapit | a56_259_tags.txt | SN:4 | TN:15
+Word: malapit | Lemma: lapit | a56_249_tags.txt | SN:9 | TN:19
+Word: malapit | Lemma: lapit | a56_193to197_tags.txt | SN:74 | TN:25
+Word: malapit | Lemma: lapit | a56_248_tags.txt | SN:24 | TN:26
+Word: malapit | Lemma: lapit | a56_250_tags.txt | SN:10 | TN:16
+Word: malapit | Lemma: lapit | cua_bernice_s11_tags.txt | SN:91 | TN:15
+Word: malapit | Lemma: lapit | a56_259_tags.txt | SN:3 | TN:7
+Word: malapit | Lemma: lapit | a56_235to237_tags.txt | SN:4 | TN:11
+Word: malapit | Lemma: lapit | a56_247_tags.txt | SN:23 | TN:10
+Word: malapit | Lemma: lapit | a56_248_tags.txt | SN:10 | TN:16
+Word: malapit | Lemma: lapit | a56_250_tags.txt | SN:3 | TN:20
+Word: malapit | Lemma: lapit | a56_251_tags.txt | SN:14 | TN:23
+Word: malapit | Lemma: lapit | a56_252_tags.txt | SN:7 | TN:28
+Word: malapit | Lemma: lapit | a56_249_tags.txt | SN:18 | TN:8
+Word: malawak | Lemma: lawak | a56_181to186_tags.txt | SN:145 | TN:23
+Word: malawak | Lemma: lawak | a56_193to197_tags.txt | SN:65 | TN:29
+Word: malawak | Lemma: lawak | a56_193to197_tags.txt | SN:75 | TN:2
+Word: malawak | Lemma: lawak | a56_204_tags.txt | SN:15 | TN:32
+Word: malawak | Lemma: lawak | a56_227_tags.txt | SN:19 | TN:31
+Word: malawak | Lemma: lawak | cua_bernice_s11_tags.txt | SN:2 | TN:3
+Word: malaya | Lemma: laya | a56_263_tags.txt | SN:10 | TN:18
+Word: malayo | Lemma: layo | a56_260_tags.txt | SN:5 | TN:41
+Word: malayo | Lemma: layo | cua_bernice_s11_tags.txt | SN:107 | TN:10
+Word: mali | Lemma: mali | a56_181to186_tags.txt | SN:86 | TN:7
+Word: mali | Lemma: mali | a56_214_tags.txt | SN:7 | TN:32
+Word: mali | Lemma: mali | a56_214_tags.txt | SN:10 | TN:32
+Word: mali | Lemma: mali | a56_238to240_tags.txt | SN:8 | TN:12
+Word: maliit | Lemma: liit | a56_181to186_tags.txt | SN:31 | TN:61
+Word: maliit | Lemma: liit | a56_181to186_tags.txt | SN:19 | TN:9
+Word: maliit | Lemma: liit | a56_181to186_tags.txt | SN:23 | TN:1
+Word: maliit | Lemma: liit | a56_181to186_tags.txt | SN:46 | TN:9
+Word: maliit | Lemma: maliit | a56_248_tags.txt | SN:18 | TN:3
+Word: maliit | Lemma: liit | a56_181to186_tags.txt | SN:47 | TN:4
+Word: maliit | Lemma: liit | a56_181to186_tags.txt | SN:94 | TN:49
+Word: maliit | Lemma: liit | a56_235to237_tags.txt | SN:15 | TN:2
+Word: maliit | Lemma: maliit | lopez_clement_s11_tags.txt | SN:41 | TN:8
+Word: maliit | Lemma: liit | a56_253to258_tags.txt | SN:45 | TN:22
+Word: maliit | Lemma: liit | a56_253to258_tags.txt | SN:90 | TN:12
+Word: maliit | Lemma: liit | a56_253to258_tags.txt | SN:90 | TN:6
+Word: maliit | Lemma: liit | a56_181to186_tags.txt | SN:137 | TN:3
+Word: maliit | Lemma: maliit | cua_bernice_s11_tags.txt | SN:93 | TN:14
+Word: maliit | Lemma: liit | a56_247_tags.txt | SN:15 | TN:7
+Word: maliit | Lemma: maliit | lopez_clement_s11_tags.txt | SN:37 | TN:2
+Word: maliit | Lemma: maliit | lopez_clement_s11_tags.txt | SN:8 | TN:1
+Word: maliit | Lemma: liit | a56_248_tags.txt | SN:18 | TN:15
+Word: maliit | Lemma: liit | a56_198_tags.txt | SN:16 | TN:18
+Word: maliit | Lemma: liit | a56_212_tags.txt | SN:31 | TN:30
+Word: maliliit | Lemma: liit | a56_193to197_tags.txt | SN:76 | TN:33
+Word: maliliit | Lemma: liit | a56_193to197_tags.txt | SN:69 | TN:4
+Word: maliliit | Lemma: liit | a56_235to237_tags.txt | SN:14 | TN:13
+Word: maliliit | Lemma: liit | a56_248_tags.txt | SN:23 | TN:7
+Word: maliliit | Lemma: liit | cua_bernice_s11_tags.txt | SN:13 | TN:6
+Word: maliliit | Lemma: liit | lopez_clement_s11_tags.txt | SN:52 | TN:13
+Word: maliliit | Lemma: liit | lopez_clement_s11_tags.txt | SN:74 | TN:14
+Word: maliliit | Lemma: liit | lopez_clement_s11_tags.txt | SN:74 | TN:23
+Word: malimit | Lemma: limit | a56_238to240_tags.txt | SN:27 | TN:6
+Word: maling | Lemma: mali | a56_181to186_tags.txt | SN:82 | TN:15
+Word: maliwanag | Lemma: liwanag | a56_181to186_tags.txt | SN:96 | TN:34
+Word: maliwanag | Lemma: liwanag | a56_193to197_tags.txt | SN:13 | TN:5
+Word: maliwanag | Lemma: liwanag | a56_193to197_tags.txt | SN:46 | TN:12
+Word: maliwanag | Lemma: maliwanag | a56_253to258_tags.txt | SN:47 | TN:26
+Word: malubha | Lemma: lubha | a56_181to186_tags.txt | SN:23 | TN:5
+Word: malubha | Lemma: lubha | a56_248_tags.txt | SN:14 | TN:11
+Word: malulungkot | Lemma: lungkot | a56_247_tags.txt | SN:10 | TN:21
+Word: malumanay | Lemma: malumay | a56_181to186_tags.txt | SN:32 | TN:3
+Word: malungkot | Lemma: lungkot | a56_193to197_tags.txt | SN:20 | TN:8
+Word: malungkot | Lemma: lungkot | a56_228_tags.txt | SN:15 | TN:2
+Word: malupit | Lemma: lupit | a56_193to197_tags.txt | SN:28 | TN:49
+Word: malupit | Lemma: lupit | a56_238to240_tags.txt | SN:69 | TN:25
+Word: malusog | Lemma: lusog | a56_181to186_tags.txt | SN:87 | TN:32
+Word: mamulmol | Lemma: mulmol | cua_bernice_s11_tags.txt | SN:73 | TN:3
+Word: manunulat | Lemma: sulat | a56_247_tags.txt | SN:25 | TN:13
+Word: mapagmataas | Lemma: taas | a56_193to197_tags.txt | SN:1 | TN:41
+Word: mapait | Lemma: pait | a56_224_tags.txt | SN:22 | TN:1
+Word: mapanglaw | Lemma: panglaw | a56_227_tags.txt | SN:3 | TN:25
+Word: mapanlibak | Lemma: libak | a56_238to240_tags.txt | SN:27 | TN:12
+Word: mapansalakay | Lemma: salakay | a56_228_tags.txt | SN:5 | TN:12
+Word: maputi | Lemma: puti | cua_bernice_s11_tags.txt | SN:39 | TN:6
+Word: maputla | Lemma: maputla | cua_bernice_s11_tags.txt | SN:35 | TN:11
+Word: marahas | Lemma: dahas | a56_261_tags.txt | SN:18 | TN:18
+Word: marami | Lemma: dami | a56_181to186_tags.txt | SN:131 | TN:4
+Word: marami | Lemma: marami | cua_bernice_s11_tags.txt | SN:21 | TN:30
+Word: marangyang | Lemma: rangya | a56_251_tags.txt | SN:13 | TN:14
+Word: maringal | Lemma: ringal | a56_193to197_tags.txt | SN:30 | TN:10
+Word: mas | Lemma: mas | a56_264_tags.txt | SN:31 | TN:27
+Word: mas | Lemma: mas | a56_264_tags.txt | SN:31 | TN:32
+Word: masaklaw | Lemma: saklaw | a56_224_tags.txt | SN:10 | TN:19
+Word: masaya | Lemma: saya | a56_238to240_tags.txt | SN:24 | TN:29
+Word: masaya | Lemma: saya | a56_238to240_tags.txt | SN:30 | TN:20
+Word: masaya | Lemma: saya | a56_264_tags.txt | SN:32 | TN:12
+Word: masigla | Lemma: sigla | a56_251_tags.txt | SN:29 | TN:5
+Word: masiklat | Lemma: siklat | a56_260_tags.txt | SN:12 | TN:4
+Word: masiksik | Lemma: siksik | a56_193to197_tags.txt | SN:81 | TN:24
+Word: master | Lemma: master | a56_227_tags.txt | SN:4 | TN:76
+Word: masugid | Lemma: sugid | a56_227_tags.txt | SN:10 | TN:33
+Word: mataas | Lemma: taas | a56_181to186_tags.txt | SN:28 | TN:4
+Word: mataas | Lemma: taas | a56_181to186_tags.txt | SN:31 | TN:129
+Word: mataas | Lemma: taas | a56_181to186_tags.txt | SN:73 | TN:13
+Word: mataas | Lemma: taas | a56_181to186_tags.txt | SN:108 | TN:15
+Word: mataas | Lemma: taas | a56_193to197_tags.txt | SN:92 | TN:7
+Word: mataas | Lemma: taas | a56_253to258_tags.txt | SN:57 | TN:25
+Word: mataas | Lemma: taas | a56_263_tags.txt | SN:17 | TN:30
+Word: mataas | Lemma: taas | a56_198_tags.txt | SN:3 | TN:5
+Word: mataas | Lemma: taas | a56_253to258_tags.txt | SN:10 | TN:10
+Word: mataas | Lemma: taas | a56_250_tags.txt | SN:6 | TN:2
+Word: mataas | Lemma: taas | a56_253to258_tags.txt | SN:98 | TN:15
+Word: mataas | Lemma: taas | a56_253to258_tags.txt | SN:59 | TN:4
+Word: mataas | Lemma: taas | a56_250_tags.txt | SN:7 | TN:8
+Word: mataas | Lemma: taas | a56_200_tags.txt | SN:13 | TN:1
+Word: mataas | Lemma: taas | a56_253to258_tags.txt | SN:168 | TN:25
+Word: mataas | Lemma: taas | a56_214_tags.txt | SN:18 | TN:11
+Word: mataas | Lemma: taas | a56_235to237_tags.txt | SN:17 | TN:3
+Word: matagal | Lemma: tagal | a56_200_tags.txt | SN:29 | TN:7
+Word: matagal | Lemma: tagal | a56_212_tags.txt | SN:37 | TN:33
+Word: matagal | Lemma: tagal | a56_224_tags.txt | SN:24 | TN:12
+Word: matagal | Lemma: tagal | a56_226_tags.txt | SN:30 | TN:17
+Word: matagumpay | Lemma: tagumpay | a56_193to197_tags.txt | SN:11 | TN:3
+Word: matagumpay | Lemma: tagumpay | a56_212_tags.txt | SN:37 | TN:2
+Word: matagumpay | Lemma: tagumpay | a56_212_tags.txt | SN:39 | TN:4
+Word: matagumpay | Lemma: tagumpay | lopez_clement_s11_tags.txt | SN:49 | TN:18
+Word: matalik | Lemma: talik | a56_224_tags.txt | SN:11 | TN:7
+Word: matalik | Lemma: talik | a56_226_tags.txt | SN:18 | TN:1
+Word: matalino | Lemma: talino | a56_223_tags.txt | SN:5 | TN:47
+Word: matanda | Lemma: tanda | a56_181to186_tags.txt | SN:67 | TN:30
+Word: matanda | Lemma: tanda | a56_251_tags.txt | SN:15 | TN:24
+Word: matanda | Lemma: tanda | cua_bernice_s11_tags.txt | SN:38 | TN:3
+Word: matatag | Lemma: tatag | a56_259_tags.txt | SN:14 | TN:36
+Word: matatag | Lemma: tatag | a56_264_tags.txt | SN:1 | TN:3
+Word: matayog | Lemma: tayog | a56_181to186_tags.txt | SN:143 | TN:19
+Word: matibay | Lemma: tibay | a56_225_tags.txt | SN:17 | TN:6
+Word: matimbang | Lemma: timba | a56_248_tags.txt | SN:2 | TN:2
+Word: maulan | Lemma: ulan | a56_264_tags.txt | SN:25 | TN:16
+Word: maunlad | Lemma: unlad | a56_204_tags.txt | SN:1 | TN:11
+Word: maunlad | Lemma: unlad | a56_204_tags.txt | SN:23 | TN:1
+Word: maunlad | Lemma: unlad | a56_228_tags.txt | SN:15 | TN:21
+Word: maunlad | Lemma: unlad | a56_228_tags.txt | SN:20 | TN:20
+Word: mauunlad | Lemma: unlad | a56_181to186_tags.txt | SN:141 | TN:3
+Word: may-bisang | Lemma: bisa | lopez_clement_s11_tags.txt | SN:31 | TN:24
+Word: mayaman | Lemma: yaman | a56_249_tags.txt | SN:12 | TN:4
+Word: mayorya | Lemma: mayorya | a56_260_tags.txt | SN:1 | TN:2
+Word: medieval | Lemma: medieval | a56_235to237_tags.txt | SN:63 | TN:2
+Word: medyo | Lemma: medyo | lopez_clement_s11_tags.txt | SN:65 | TN:1
+Word: melodramatic | Lemma: melodramatic | a56_238to240_tags.txt | SN:21 | TN:13
+Word: metal | Lemma: metal | a56_193to197_tags.txt | SN:106 | TN:13
+Word: milyun-dolyar | Lemma: milyun-dolyar | a56_250_tags.txt | SN:12 | TN:6
+Word: minorya | Lemma: minorya | a56_235to237_tags.txt | SN:9 | TN:4
+Word: mismo | Lemma: mismo | a56_253to258_tags.txt | SN:62 | TN:16
+Word: mura | Lemma: mura | a56_198_tags.txt | SN:32 | TN:19
+Word: musikal | Lemma: musikal | lopez_clement_s11_tags.txt | SN:5 | TN:40
+Word: muslim | Lemma: muslim | a56_193to197_tags.txt | SN:65 | TN:1
+Word: na | Lemma: na | a56_264_tags.txt | SN:31 | TN:36
+Word: na-out | Lemma: out | a56_253to258_tags.txt | SN:55 | TN:6
+Word: nacommission | Lemma: commission | lopez_clement_s11_tags.txt | SN:8 | TN:10
+Word: nagtatanggol | Lemma: tanggol | a56_253to258_tags.txt | SN:69 | TN:1
+Word: naguhitan | Lemma: guhit | cua_bernice_s11_tags.txt | SN:7 | TN:35
+Word: nai-publish | Lemma: publish | lopez_clement_s11_tags.txt | SN:6 | TN:78
+Word: nai-publish | Lemma: publish | lopez_clement_s11_tags.txt | SN:11 | TN:12
+Word: naka-papel | Lemma: papel | lopez_clement_s11_tags.txt | SN:18 | TN:25
+Word: naka-print | Lemma: print | lopez_clement_s11_tags.txt | SN:24 | TN:4
+Word: nakaakibat | Lemma: akibat | a56_198_tags.txt | SN:27 | TN:6
+Word: nakahihimasok | Lemma: himasok | a56_181to186_tags.txt | SN:84 | TN:1
+Word: nakakabasa | Lemma: basa | lopez_clement_s11_tags.txt | SN:20 | TN:40
+Word: nakakabit | Lemma: kabit | a56_181to186_tags.txt | SN:50 | TN:4
+Word: nakakataas | Lemma: taas | a56_181to186_tags.txt | SN:109 | TN:1
+Word: nakamamatay | Lemma: patay | a56_181to186_tags.txt | SN:96 | TN:44
+Word: nakatalaga | Lemma: talaga | a56_193to197_tags.txt | SN:44 | TN:2
+Word: nakatatakot | Lemma: takot | a56_227_tags.txt | SN:22 | TN:16
+Word: nakayari | Lemma: yari | a56_213_tags.txt | SN:43 | TN:18
+Word: nakihalobilo | Lemma: halobilo | a56_247_tags.txt | SN:15 | TN:4
+Word: nakipagkayari | Lemma: yari | a56_213_tags.txt | SN:41 | TN:12
+Word: nangingibabaw | Lemma: babaw | a56_251_tags.txt | SN:16 | TN:1
+Word: napabuti | Lemma: buti | a56_248_tags.txt | SN:28 | TN:13
+Word: national | Lemma: national | a56_253to258_tags.txt | SN:10 | TN:21
+Word: natural | Lemma: natural | a56_193to197_tags.txt | SN:36 | TN:26
+Word: natural | Lemma: natural | a56_198_tags.txt | SN:2 | TN:3
+Word: natural | Lemma: natural | a56_198_tags.txt | SN:3 | TN:7
+Word: natural | Lemma: natural | a56_238to240_tags.txt | SN:28 | TN:26
+Word: nauukol | Lemma: ukol | a56_264_tags.txt | SN:10 | TN:22
+Word: ng | Lemma: ng | a56_235to237_tags.txt | SN:41 | TN:24
+Word: niyutral | Lemma: niyutral | a56_213_tags.txt | SN:17 | TN:46
+Word: normal | Lemma: normal | a56_253to258_tags.txt | SN:106 | TN:9
+Word: normal | Lemma: normal | a56_181to186_tags.txt | SN:42 | TN:3
+Word: normal | Lemma: normal | a56_181to186_tags.txt | SN:27 | TN:63
+Word: normal | Lemma: normal | a56_181to186_tags.txt | SN:37 | TN:21
+Word: normal | Lemma: normal | a56_181to186_tags.txt | SN:120 | TN:27
+Word: normal | Lemma: normal | a56_181to186_tags.txt | SN:45 | TN:3
+Word: normal | Lemma: normal | a56_181to186_tags.txt | SN:46 | TN:29
+Word: normal | Lemma: normal | a56_181to186_tags.txt | SN:46 | TN:46
+Word: normal | Lemma: normal | a56_181to186_tags.txt | SN:51 | TN:1
+Word: normal | Lemma: normal | a56_181to186_tags.txt | SN:108 | TN:19
+Word: normal | Lemma: normal | a56_181to186_tags.txt | SN:52 | TN:13
+Word: normal | Lemma: normal | a56_181to186_tags.txt | SN:82 | TN:22
+Word: normal | Lemma: normal | a56_193to197_tags.txt | SN:14 | TN:2
+Word: normal | Lemma: normal | a56_181to186_tags.txt | SN:143 | TN:6
+Word: off-campus | Lemma: off-campus | a56_238to240_tags.txt | SN:71 | TN:6
+Word: opisyal | Lemma: opisyal | a56_248_tags.txt | SN:8 | TN:5
+Word: opisyal | Lemma: opisyal | a56_259_tags.txt | SN:20 | TN:4
+Word: opisyal | Lemma: opisyal | a56_259_tags.txt | SN:22 | TN:3
+Word: opisyal | Lemma: opisyal | a56_260_tags.txt | SN:2 | TN:18
+Word: opisyal | Lemma: opisyal | a56_260_tags.txt | SN:3 | TN:11
+Word: opsiyal | Lemma: opsiyal | a56_214_tags.txt | SN:43 | TN:4
+Word: ordinaryo | Lemma: ordinaryo | a56_238to240_tags.txt | SN:19 | TN:37
+Word: orihinal | Lemma: orihinal | a56_228_tags.txt | SN:3 | TN:15
+Word: orihinal | Lemma: orihinal | a56_193to197_tags.txt | SN:18 | TN:12
+Word: orihinal | Lemma: orihinal | a56_193to197_tags.txt | SN:39 | TN:12
+Word: orihinal | Lemma: orihinal | a56_193to197_tags.txt | SN:40 | TN:13
+Word: orihinal | Lemma: orihinal | a56_211_tags.txt | SN:23 | TN:7
+Word: orihinal | Lemma: orihinal | a56_213_tags.txt | SN:31 | TN:41
+Word: orihinal | Lemma: orihinal | a56_235to237_tags.txt | SN:41 | TN:9
+Word: orihinal | Lemma: orihinal | a56_253to258_tags.txt | SN:124 | TN:4
+Word: orihinal | Lemma: orihinal | a56_260_tags.txt | SN:3 | TN:34
+Word: orihinal | Lemma: orihinal | a56_249_tags.txt | SN:15 | TN:10
+Word: orihinal | Lemma: orihinal | a56_253to258_tags.txt | SN:123 | TN:4
+Word: out | Lemma: out | a56_253to258_tags.txt | SN:123 | TN:27
+Word: out | Lemma: out | a56_253to258_tags.txt | SN:124 | TN:27
+Word: out | Lemma: out | a56_259_tags.txt | SN:12 | TN:20
+Word: pabalik-balik | Lemma: balik | a56_181to186_tags.txt | SN:28 | TN:14
+Word: pabilog | Lemma: bilog | a56_193to197_tags.txt | SN:78 | TN:4
+Word: pabukas-palad | Lemma: bukas-palad | a56_181to186_tags.txt | SN:6 | TN:82
+Word: pabukas-palad | Lemma: bukas-palad | a56_181to186_tags.txt | SN:8 | TN:13
+Word: pagitan | Lemma: pagitan | a56_214_tags.txt | SN:28 | TN:4
+Word: pagkakaibigan | Lemma: ibig | a56_264_tags.txt | SN:3 | TN:4
+Word: paikot | Lemma: ikot | a56_248_tags.txt | SN:4 | TN:17
+Word: paikot | Lemma: ikot | a56_251_tags.txt | SN:29 | TN:16
+Word: pambabae | Lemma: babae | cua_bernice_s11_tags.txt | SN:103 | TN:16
+Word: pampakintab | Lemma: kintab | a56_198_tags.txt | SN:4 | TN:5
+Word: pampakintab | Lemma: kintab | a56_198_tags.txt | SN:37 | TN:11
+Word: pampakulay | Lemma: kulay | a56_200_tags.txt | SN:10 | TN:32
+Word: pampalapot | Lemma: lapot | a56_200_tags.txt | SN:16 | TN:9
+Word: pampolitikal | Lemma: politikal | a56_181to186_tags.txt | SN:13 | TN:18
+Word: pampook | Lemma: pook | a56_261_tags.txt | SN:15 | TN:4
+Word: pamproduksyon | Lemma: produksyon | a56_228_tags.txt | SN:6 | TN:40
+Word: pampubliko | Lemma: publiko | a56_193to197_tags.txt | SN:49 | TN:39
+Word: pampubliko | Lemma: publiko | a56_204_tags.txt | SN:7 | TN:23
+Word: pampubliko | Lemma: publiko | a56_235to237_tags.txt | SN:16 | TN:16
+Word: pandaigdig | Lemma: daigdig | a56_263_tags.txt | SN:12 | TN:9
+Word: pandaigdigang | Lemma: daigdig | a56_264_tags.txt | SN:5 | TN:2
+Word: pandangal | Lemma: dangal | a56_223_tags.txt | SN:23 | TN:7
+Word: pandigma | Lemma: digma | a56_212_tags.txt | SN:3 | TN:14
+Word: pandigma | Lemma: digma | a56_212_tags.txt | SN:3 | TN:25
+Word: pandigma | Lemma: digma | a56_214_tags.txt | SN:14 | TN:22
+Word: pandigma | Lemma: digma | a56_214_tags.txt | SN:16 | TN:3
+Word: pandigma | Lemma: digma | a56_212_tags.txt | SN:9 | TN:22
+Word: pandigma | Lemma: digma | a56_214_tags.txt | SN:18 | TN:7
+Word: pandigma | Lemma: digma | a56_212_tags.txt | SN:27 | TN:6
+Word: pandigma | Lemma: digma | a56_213_tags.txt | SN:51 | TN:14
+Word: pandigma | Lemma: digma | a56_214_tags.txt | SN:5 | TN:8
+Word: pandigma | Lemma: digma | a56_213_tags.txt | SN:47 | TN:17
+Word: pandigma | Lemma: digma | a56_214_tags.txt | SN:32 | TN:22
+Word: pandigma | Lemma: digma | a56_212_tags.txt | SN:29 | TN:21
+Word: pandigma | Lemma: digma | a56_212_tags.txt | SN:35 | TN:14
+Word: pandigma | Lemma: digma | a56_212_tags.txt | SN:35 | TN:29
+Word: pandigma | Lemma: digma | a56_213_tags.txt | SN:43 | TN:36
+Word: pandigma | Lemma: digma | a56_213_tags.txt | SN:47 | TN:3
+Word: pang-alaga | Lemma: alaga | a56_198_tags.txt | SN:15 | TN:6
+Word: pang-araw-araw | Lemma: pang-araw-araw | a56_252_tags.txt | SN:22 | TN:1
+Word: pang-cognitiv | Lemma: cognitiv | a56_181to186_tags.txt | SN:20 | TN:11
+Word: pang-cognitiv | Lemma: cognitiv | a56_181to186_tags.txt | SN:22 | TN:6
+Word: pang-edukasyon | Lemma: edukasyon | a56_181to186_tags.txt | SN:143 | TN:37
+Word: pang-edukasyon | Lemma: edukasyon | a56_228_tags.txt | SN:3 | TN:18
+Word: pang-isport | Lemma: isport | a56_227_tags.txt | SN:15 | TN:15
+Word: pang-isports | Lemma: pang-isports | a56_252_tags.txt | SN:3 | TN:5
+Word: pang-linis | Lemma: linis | a56_198_tags.txt | SN:13 | TN:32
+Word: pangagrikultura | Lemma: agrikultura | a56_261_tags.txt | SN:18 | TN:31
+Word: pangatake | Lemma: atake | cua_bernice_s11_tags.txt | SN:43 | TN:20
+Word: pangdepensa | Lemma: depensa | a56_253to258_tags.txt | SN:70 | TN:4
+Word: panghimpapawid | Lemma: himpapawid | a56_228_tags.txt | SN:6 | TN:31
+Word: pangkaisipan | Lemma: isip | a56_181to186_tags.txt | SN:58 | TN:10
+Word: pangkaraniwan | Lemma: karaniwan | a56_223_tags.txt | SN:16 | TN:41
+Word: pangkaraniwan | Lemma: karaniwan | a56_238to240_tags.txt | SN:19 | TN:35
+Word: pangkatawan | Lemma: katawan | a56_181to186_tags.txt | SN:58 | TN:8
+Word: pangkultura | Lemma: kultura | a56_247_tags.txt | SN:34 | TN:22
+Word: panglahing | Lemma: lahi | a56_253to258_tags.txt | SN:18 | TN:5
+Word: panglunsong | Lemma: lunsong | a56_261_tags.txt | SN:24 | TN:13
+Word: pangmamamayan | Lemma: mamayan | a56_228_tags.txt | SN:17 | TN:20
+Word: pangpanatili | Lemma: manatili | a56_264_tags.txt | SN:15 | TN:6
+Word: pangpromosyon | Lemma: promosyon | lopez_clement_s11_tags.txt | SN:67 | TN:38
+Word: pangunahing | Lemma: una | a56_263_tags.txt | SN:12 | TN:28
+Word: pangunahing | Lemma: una | a56_264_tags.txt | SN:14 | TN:10
+Word: panlaban | Lemma: laban | a56_212_tags.txt | SN:23 | TN:16
+Word: panlaban | Lemma: laban | a56_214_tags.txt | SN:20 | TN:13
+Word: panlabas | Lemma: labas | a56_181to186_tags.txt | SN:20 | TN:20
+Word: panlabas | Lemma: panlabas | a56_263_tags.txt | SN:15 | TN:27
+Word: panlabas | Lemma: labas | a56_263_tags.txt | SN:16 | TN:3
+Word: panlabas | Lemma: labas | lopez_clement_s11_tags.txt | SN:40 | TN:13
+Word: panlahi | Lemma: lahi | a56_228_tags.txt | SN:16 | TN:12
+Word: panlaro | Lemma: laro | a56_260_tags.txt | SN:8 | TN:25
+Word: pansukat | Lemma: sukat | a56_181to186_tags.txt | SN:113 | TN:19
+Word: pantao | Lemma: tao | a56_181to186_tags.txt | SN:36 | TN:5
+Word: pantay | Lemma: pantay | a56_193to197_tags.txt | SN:51 | TN:23
+Word: pantay | Lemma: pantay | a56_260_tags.txt | SN:8 | TN:22
+Word: paparabola | Lemma: parabola | a56_193to197_tags.txt | SN:78 | TN:6
+Word: papular | Lemma: papular | a56_247_tags.txt | SN:10 | TN:1
+Word: parehas | Lemma: parehas | a56_260_tags.txt | SN:14 | TN:19
+Word: parehas | Lemma: parehas | cua_bernice_s11_tags.txt | SN:44 | TN:5
+Word: pareho | Lemma: pareho | a56_252_tags.txt | SN:22 | TN:13
+Word: parochial | Lemma: parochial | a56_253to258_tags.txt | SN:21 | TN:8
+Word: partikular | Lemma: partikular | a56_193to197_tags.txt | SN:108 | TN:13
+Word: partikular | Lemma: partikular | a56_235to237_tags.txt | SN:21 | TN:30
+Word: patag | Lemma: patag | a56_181to186_tags.txt | SN:31 | TN:46
+Word: patas | Lemma: patas | a56_253to258_tags.txt | SN:63 | TN:8
+Word: patas | Lemma: patas | a56_253to258_tags.txt | SN:66 | TN:11
+Word: patas | Lemma: patas | a56_253to258_tags.txt | SN:71 | TN:23
+Word: patay | Lemma: patay | a56_253to258_tags.txt | SN:152 | TN:11
+Word: paunang | Lemma: una | lopez_clement_s11_tags.txt | SN:21 | TN:39
+Word: pederal | Lemma: pederal | a56_193to197_tags.txt | SN:27 | TN:6
+Word: pederal | Lemma: pederal | a56_193to197_tags.txt | SN:29 | TN:24
+Word: pederal | Lemma: pederal | a56_193to197_tags.txt | SN:32 | TN:42
+Word: pederal | Lemma: pederal | a56_193to197_tags.txt | SN:50 | TN:6
+Word: perpendikular | Lemma: perpendikular | a56_193to197_tags.txt | SN:65 | TN:78
+Word: personal | Lemma: personal | a56_238to240_tags.txt | SN:20 | TN:4
+Word: personal | Lemma: personal | lopez_clement_s11_tags.txt | SN:53 | TN:27
+Word: piksyonal | Lemma: piksyonal | a56_198_tags.txt | SN:40 | TN:15
+Word: pili | Lemma: pili | a56_181to186_tags.txt | SN:68 | TN:15
+Word: piling | Lemma: pili | a56_238to240_tags.txt | SN:52 | TN:1
+Word: pisikal | Lemma: pisikal | a56_193to197_tags.txt | SN:73 | TN:9
+Word: pisikal | Lemma: pisikal | a56_193to197_tags.txt | SN:95 | TN:24
+Word: pisikal | Lemma: pisikal | lopez_clement_s11_tags.txt | SN:18 | TN:10
+Word: pisikal | Lemma: pisikal | lopez_clement_s11_tags.txt | SN:19 | TN:11
+Word: politikal | Lemma: politikal | a56_193to197_tags.txt | SN:1 | TN:1
+Word: politikal | Lemma: politikal | a56_235to237_tags.txt | SN:26 | TN:20
+Word: pormal | Lemma: pormal | a56_226_tags.txt | SN:12 | TN:25
+Word: pormal | Lemma: pormal | a56_226_tags.txt | SN:13 | TN:10
+Word: pormal | Lemma: pormal | lopez_clement_s11_tags.txt | SN:6 | TN:18
+Word: posibilidad | Lemma: posibilidad | lopez_clement_s11_tags.txt | SN:19 | TN:2
+Word: potensyal | Lemma: potensyal | a56_211_tags.txt | SN:17 | TN:7
+Word: praktikal | Lemma: praktikal | lopez_clement_s11_tags.txt | SN:63 | TN:53
+Word: pribado | Lemma: pribado | a56_248_tags.txt | SN:18 | TN:17
+Word: primarya | Lemma: primarya | a56_235to237_tags.txt | SN:16 | TN:6
+Word: prinsipal | Lemma: prinsipal | a56_261_tags.txt | SN:24 | TN:1
+Word: probinsyonal | Lemma: probinsyonal | a56_211_tags.txt | SN:29 | TN:27
+Word: propesyonal | Lemma: propesyonal | a56_214_tags.txt | SN:26 | TN:11
+Word: propesyonal | Lemma: propesyonal | a56_250_tags.txt | SN:16 | TN:7
+Word: propesyonal | Lemma: propesyonal | a56_251_tags.txt | SN:8 | TN:6
+Word: propesyonal | Lemma: propesyonal | a56_252_tags.txt | SN:1 | TN:14
+Word: propesyonal | Lemma: propesyonal | a56_253to258_tags.txt | SN:28 | TN:15
+Word: propesyonal | Lemma: propesyonal | a56_253to258_tags.txt | SN:36 | TN:15
+Word: propesyonal | Lemma: propesyonal | a56_264_tags.txt | SN:12 | TN:11
+Word: publiko | Lemma: publiko | a56_224_tags.txt | SN:22 | TN:3
+Word: publish | Lemma: publish | lopez_clement_s11_tags.txt | SN:6 | TN:75
+Word: pula | Lemma: pula | cua_bernice_s11_tags.txt | SN:31 | TN:4
+Word: puno | Lemma: puno | a56_259_tags.txt | SN:28 | TN:5
+Word: puspos | Lemma: puspos | a56_181to186_tags.txt | SN:7 | TN:13
+Word: puti | Lemma: puti | cua_bernice_s11_tags.txt | SN:7 | TN:37
+Word: puti | Lemma: puti | cua_bernice_s11_tags.txt | SN:8 | TN:15
+Word: puti | Lemma: puti | cua_bernice_s11_tags.txt | SN:9 | TN:1
+Word: puti | Lemma: puti | cua_bernice_s11_tags.txt | SN:35 | TN:3
+Word: puting-puti | Lemma: puti | cua_bernice_s11_tags.txt | SN:9 | TN:7
+Word: quality | Lemma: quality | a56_238to240_tags.txt | SN:62 | TN:25
+Word: rayos | Lemma: rayos | a56_249_tags.txt | SN:15 | TN:15
+Word: regular | Lemma: regular | a56_181to186_tags.txt | SN:143 | TN:34
+Word: regular | Lemma: regular | a56_253to258_tags.txt | SN:38 | TN:13
+Word: rehiyonal | Lemma: rehiyonal | a56_248_tags.txt | SN:22 | TN:7
+Word: respetado | Lemma: respetado | a56_252_tags.txt | SN:24 | TN:7
+Word: responsable | Lemma: responsable | a56_181to186_tags.txt | SN:58 | TN:5
+Word: sa | Lemma: sa | a56_253to258_tags.txt | SN:168 | TN:33
+Word: sabik | Lemma: sabik | a56_252_tags.txt | SN:4 | TN:5
+Word: sakop | Lemma: sakop | a56_235to237_tags.txt | SN:34 | TN:22
+Word: salamay | Lemma: salamay | a56_235to237_tags.txt | SN:17 | TN:48
+Word: salu-salo | Lemma: salu-salo | a56_238to240_tags.txt | SN:67 | TN:25
+Word: sanay | Lemma: sanay | a56_214_tags.txt | SN:20 | TN:26
+Word: sapat | Lemma: sapat | a56_181to186_tags.txt | SN:118 | TN:12
+Word: sapat | Lemma: sapat | a56_235to237_tags.txt | SN:17 | TN:61
+Word: sapat | Lemma: sapat | a56_253to258_tags.txt | SN:41 | TN:10
+Word: sapat | Lemma: sapat | a56_253to258_tags.txt | SN:108 | TN:5
+Word: sapat | Lemma: sapat | lopez_clement_s11_tags.txt | SN:12 | TN:27
+Word: sapat | Lemma: sapat | lopez_clement_s11_tags.txt | SN:42 | TN:10
+Word: sarili | Lemma: sarili | lopez_clement_s11_tags.txt | SN:44 | TN:12
+Word: sarili | Lemma: sarili | lopez_clement_s11_tags.txt | SN:49 | TN:16
+Word: sentral | Lemma: sentral | a56_193to197_tags.txt | SN:38 | TN:5
+Word: sentro | Lemma: sentro | a56_238to240_tags.txt | SN:32 | TN:2
+Word: sentro | Lemma: sentro | a56_247_tags.txt | SN:27 | TN:7
+Word: sentro | Lemma: sentro | a56_251_tags.txt | SN:5 | TN:20
+Word: sigid | Lemma: sigid | a56_259_tags.txt | SN:28 | TN:15
+Word: sikat | Lemma: sikat | a56_247_tags.txt | SN:6 | TN:8
+Word: sikat | Lemma: sikat | a56_247_tags.txt | SN:6 | TN:55
+Word: sikat | Lemma: sikat | a56_247_tags.txt | SN:13 | TN:4
+Word: sikat | Lemma: sikat | a56_247_tags.txt | SN:13 | TN:19
+Word: sikat | Lemma: sikat | a56_260_tags.txt | SN:5 | TN:25
+Word: siksik | Lemma: siksik | a56_193to197_tags.txt | SN:81 | TN:30
+Word: silangan | Lemma: silangan | a56_250_tags.txt | SN:24 | TN:28
+Word: silangan | Lemma: silangan | a56_251_tags.txt | SN:13 | TN:6
+Word: silangan | Lemma: silangan | a56_263_tags.txt | SN:2 | TN:25
+Word: simbolo | Lemma: simbolo | a56_193to197_tags.txt | SN:58 | TN:37
+Word: simpatya | Lemma: simpatya | a56_224_tags.txt | SN:31 | TN:43
+Word: sopistikado | Lemma: sopistikado | a56_198_tags.txt | SN:11 | TN:5
+Word: sosyal | Lemma: sosyal | a56_247_tags.txt | SN:9 | TN:14
+Word: sosyal | Lemma: sosyal | cua_bernice_s11_tags.txt | SN:41 | TN:4
+Word: spiritual | Lemma: spiritual | a56_193to197_tags.txt | SN:15 | TN:27
+Word: sugatan | Lemma: sugat | a56_253to258_tags.txt | SN:90 | TN:35
+Word: sukdulan | Lemma: sukdol | a56_253to258_tags.txt | SN:157 | TN:5
+Word: sumunod | Lemma: sunod | a56_181to186_tags.txt | SN:76 | TN:14
+Word: sumunod | Lemma: sunod | a56_193to197_tags.txt | SN:20 | TN:32
+Word: sumunod | Lemma: sunod | a56_238to240_tags.txt | SN:52 | TN:10
+Word: sunod | Lemma: sunod | a56_181to186_tags.txt | SN:27 | TN:70
+Word: sunod | Lemma: sunod | a56_181to186_tags.txt | SN:31 | TN:113
+Word: sunod | Lemma: sunod | a56_204_tags.txt | SN:5 | TN:13
+Word: superiyor | Lemma: superiyor | a56_212_tags.txt | SN:31 | TN:42
+Word: susunod | Lemma: sunod | a56_213_tags.txt | SN:51 | TN:4
+Word: susunod | Lemma: sunod | a56_253to258_tags.txt | SN:55 | TN:11
+Word: susunod | Lemma: sunod | a56_253to258_tags.txt | SN:119 | TN:7
+Word: tabi-tabi | Lemma: tabi | a56_204_tags.txt | SN:8 | TN:17
+Word: tag-isa | Lemma: tag-isa | a56_253to258_tags.txt | SN:114 | TN:18
+Word: taga | Lemma: taga | a56_252_tags.txt | SN:13 | TN:20
+Word: taga-Sao_Paulo | Lemma: taga-Sao_Paulo | a56_248_tags.txt | SN:24 | TN:10
+Word: tagatangan | Lemma: tangan | a56_228_tags.txt | SN:10 | TN:5
+Word: taglamig | Lemma: taglamig | cua_bernice_s11_tags.txt | SN:37 | TN:2
+Word: taglay | Lemma: taglay | a56_193to197_tags.txt | SN:32 | TN:32
+Word: tagumpay | Lemma: tagumpay | a56_253to258_tags.txt | SN:112 | TN:49
+Word: tagumpay | Lemma: tagumpay | a56_253to258_tags.txt | SN:118 | TN:28
+Word: tahimik | Lemma: tahimik | a56_238to240_tags.txt | SN:4 | TN:21
+Word: takda | Lemma: takda | a56_259_tags.txt | SN:13 | TN:12
+Word: taliwas | Lemma: taliwas | a56_251_tags.txt | SN:7 | TN:12
+Word: tama | Lemma: tama | a56_200_tags.txt | SN:34 | TN:2
+Word: tanggal | Lemma: tanggal | a56_253to258_tags.txt | SN:112 | TN:43
+Word: tanggal | Lemma: tanggal | a56_253to258_tags.txt | SN:123 | TN:8
+Word: tanggal | Lemma: tanggal | a56_253to258_tags.txt | SN:124 | TN:8
+Word: tanyag | Lemma: tanyag | a56_193to197_tags.txt | SN:105 | TN:18
+Word: tanyag | Lemma: tanyag | a56_226_tags.txt | SN:28 | TN:1
+Word: tanyag | Lemma: tanyag | a56_228_tags.txt | SN:14 | TN:16
+Word: tanyag | Lemma: tanyag | a56_238to240_tags.txt | SN:43 | TN:44
+Word: tanyag | Lemma: tanyag | a56_259_tags.txt | SN:13 | TN:4
+Word: tanyag | Lemma: tanyag | lopez_clement_s11_tags.txt | SN:76 | TN:47
+Word: tapat | Lemma: tapat | a56_264_tags.txt | SN:8 | TN:14
+Word: tataas | Lemma: taas | a56_181to186_tags.txt | SN:32 | TN:51
+Word: tatag | Lemma: tatag | a56_235to237_tags.txt | SN:24 | TN:7
+Word: timog | Lemma: timog | a56_263_tags.txt | SN:2 | TN:18
+Word: timog | Lemma: timog | a56_204_tags.txt | SN:9 | TN:4
+Word: timog | Lemma: timog | cua_bernice_s11_tags.txt | SN:18 | TN:3
+Word: timog | Lemma: timog | a56_264_tags.txt | SN:22 | TN:10
+Word: timog | Lemma: timog | a56_264_tags.txt | SN:23 | TN:34
+Word: timog | Lemma: timog | a56_264_tags.txt | SN:31 | TN:1
+Word: timog | Lemma: timog | cua_bernice_s11_tags.txt | SN:50 | TN:10
+Word: timog | Lemma: timog | a56_264_tags.txt | SN:32 | TN:17
+Word: timog | Lemma: timog | a56_264_tags.txt | SN:34 | TN:7
+Word: timog | Lemma: timog | cua_bernice_s11_tags.txt | SN:105 | TN:3
+Word: timog | Lemma: timog | cua_bernice_s11_tags.txt | SN:49 | TN:28
+Word: timog-silanangan | Lemma: timog-silanangan | a56_249_tags.txt | SN:21 | TN:12
+Word: tipikal | Lemma: tipikal | a56_211_tags.txt | SN:23 | TN:43
+Word: tipikal | Lemma: tipikal | a56_259_tags.txt | SN:16 | TN:3
+Word: tipikal | Lemma: tipikal | a56_259_tags.txt | SN:17 | TN:45
+Word: tirahan | Lemma: tira | a56_250_tags.txt | SN:20 | TN:27
+Word: tradisyonal | Lemma: tradisyonal | a56_193to197_tags.txt | SN:45 | TN:2
+Word: tradisyonal | Lemma: tradisyonal | a56_253to258_tags.txt | SN:40 | TN:3
+Word: tradisyonal | Lemma: tradisyonal | lopez_clement_s11_tags.txt | SN:15 | TN:4
+Word: tradisyunal | Lemma: tradisyunal | a56_226_tags.txt | SN:6 | TN:3
+Word: tradisyunal | Lemma: tradisyunal | a56_226_tags.txt | SN:10 | TN:9
+Word: tropikal | Lemma: tropikal | a56_247_tags.txt | SN:3 | TN:10
+Word: tubos | Lemma: tubos | a56_181to186_tags.txt | SN:91 | TN:27
+Word: tumpak | Lemma: tumpak | a56_181to186_tags.txt | SN:123 | TN:16
+Word: tunay | Lemma: tunay | a56_224_tags.txt | SN:9 | TN:14
+Word: tunog | Lemma: tunog | cua_bernice_s11_tags.txt | SN:46 | TN:5
+Word: turing | Lemma: turing | a56_253to258_tags.txt | SN:10 | TN:2
+Word: tuwid | Lemma: tuwid | a56_193to197_tags.txt | SN:76 | TN:39
+Word: tuwid | Lemma: tuwid | a56_193to197_tags.txt | SN:88 | TN:29
+Word: tuwid | Lemma: tuwid | a56_235to237_tags.txt | SN:25 | TN:28
+Word: tuwiran | Lemma: tuwid | a56_235to237_tags.txt | SN:34 | TN:13
+Word: tuwiran | Lemma: tuwid | a56_235to237_tags.txt | SN:34 | TN:16
+Word: unahan | Lemma: una | a56_213_tags.txt | SN:6 | TN:34
+Word: urbano | Lemma: urbano | a56_251_tags.txt | SN:14 | TN:26
+Word: uri | Lemma: uri | a56_247_tags.txt | SN:10 | TN:11
+Word: uri | Lemma: uri | a56_253to258_tags.txt | SN:95 | TN:20
+Word: uri | Lemma: uri | a56_253to258_tags.txt | SN:97 | TN:7
+Word: uri | Lemma: uri | a56_253to258_tags.txt | SN:97 | TN:19
+Word: wasto | Lemma: wasto | a56_181to186_tags.txt | SN:6 | TN:79
+Word: western | Lemma: western | cua_bernice_s11_tags.txt | SN:104 | TN:9
+Word: woodcut | Lemma: woodcut | a56_253to258_tags.txt | SN:46 | TN:2
+Word: yupi | Lemma: yupi | a56_264_tags.txt | SN:30 | TN:13

@@ -1,15 +1,131 @@
 POS Tag: JJCC
-lalong | a56_181to186_tags.txt | SN:145 | TN:1
-mahigit | a56_204_tags.txt | SN:1 | TN:18
-lalo | a56_181to186_tags.txt | SN:67 | TN:26
-kaysa_sa | a56_264_tags.txt | SN:31 | TN:31
-medyo | a56_264_tags.txt | SN:31 | TN:26
-lubos_na | a56_181to186_tags.txt | SN:9 | TN:14
-lubos | a56_193to197_tags.txt | SN:13 | TN:8
-Higit | a56_225_tags.txt | SN:15 | TN:0
-ay | a56_264_tags.txt | SN:31 | TN:25
-lalong-lalo | a56_193to197_tags.txt | SN:15 | TN:21
-lalung-lalo | a56_181to186_tags.txt | SN:6 | TN:65
-higit | a56_181to186_tags.txt | SN:8 | TN:10
-mas | a56_181to186_tags.txt | SN:22 | TN:1
-Mas | a56_198_tags.txt | SN:40 | TN:0
+Word: Higit | Lemma: Higit | a56_225_tags.txt | SN:15 | TN:0
+Word: Mas | Lemma: Mas | a56_198_tags.txt | SN:40 | TN:0
+Word: Mas | Lemma: Mas | a56_213_tags.txt | SN:6 | TN:0
+Word: Mas | Lemma: Mas | a56_253to258_tags.txt | SN:52 | TN:0
+Word: Mas | Lemma: Mas | lopez_clement_s11_tags.txt | SN:75 | TN:0
+Word: ay | Lemma: ay | a56_264_tags.txt | SN:31 | TN:25
+Word: higit | Lemma: higit | a56_181to186_tags.txt | SN:10 | TN:21
+Word: higit | Lemma: higit | a56_181to186_tags.txt | SN:8 | TN:10
+Word: higit | Lemma: higit | a56_181to186_tags.txt | SN:14 | TN:55
+Word: higit | Lemma: higit | a56_181to186_tags.txt | SN:85 | TN:13
+Word: higit | Lemma: higit | a56_211_tags.txt | SN:25 | TN:10
+Word: higit | Lemma: higit | a56_235to237_tags.txt | SN:17 | TN:12
+Word: higit | Lemma: higit | a56_259_tags.txt | SN:1 | TN:12
+Word: higit | Lemma: higit | a56_260_tags.txt | SN:15 | TN:7
+Word: higit | Lemma: higit | a56_264_tags.txt | SN:16 | TN:21
+Word: kaysa_sa | Lemma: kaysa_sa | a56_264_tags.txt | SN:31 | TN:31
+Word: lalo | Lemma: lalo | a56_200_tags.txt | SN:5 | TN:16
+Word: lalo | Lemma: lalo | a56_181to186_tags.txt | SN:67 | TN:26
+Word: lalo | Lemma: lalo | a56_181to186_tags.txt | SN:138 | TN:13
+Word: lalo | Lemma: lalo | a56_198_tags.txt | SN:3 | TN:27
+Word: lalo | Lemma: lalo | a56_198_tags.txt | SN:4 | TN:14
+Word: lalo | Lemma: lalo | a56_198_tags.txt | SN:27 | TN:23
+Word: lalo | Lemma: lalo | a56_204_tags.txt | SN:5 | TN:35
+Word: lalo | Lemma: lalo | cua_bernice_s11_tags.txt | SN:53 | TN:5
+Word: lalo | Lemma: lalo | a56_214_tags.txt | SN:43 | TN:34
+Word: lalo | Lemma: lalo | a56_253to258_tags.txt | SN:150 | TN:36
+Word: lalong | Lemma: lalo | a56_181to186_tags.txt | SN:145 | TN:1
+Word: lalong | Lemma: lalo | a56_213_tags.txt | SN:4 | TN:26
+Word: lalong | Lemma: lalo | lopez_clement_s11_tags.txt | SN:4 | TN:15
+Word: lalong-lalo | Lemma: lalo | a56_193to197_tags.txt | SN:15 | TN:21
+Word: lalung-lalo | Lemma: lalo | a56_181to186_tags.txt | SN:6 | TN:65
+Word: lubos | Lemma: lubos | a56_193to197_tags.txt | SN:13 | TN:8
+Word: lubos | Lemma: lubos | a56_253to258_tags.txt | SN:91 | TN:9
+Word: lubos_na | Lemma: lubos_na | a56_181to186_tags.txt | SN:9 | TN:14
+Word: mahigit | Lemma: higit | a56_204_tags.txt | SN:1 | TN:18
+Word: mas | Lemma: mas | a56_181to186_tags.txt | SN:22 | TN:1
+Word: mas | Lemma: mas | a56_181to186_tags.txt | SN:27 | TN:50
+Word: mas | Lemma: mas | a56_251_tags.txt | SN:7 | TN:15
+Word: mas | Lemma: mas | cua_bernice_s11_tags.txt | SN:96 | TN:9
+Word: mas | Lemma: mas | a56_214_tags.txt | SN:20 | TN:28
+Word: mas | Lemma: mas | a56_235to237_tags.txt | SN:17 | TN:60
+Word: mas | Lemma: mas | a56_181to186_tags.txt | SN:101 | TN:13
+Word: mas | Lemma: mas | a56_181to186_tags.txt | SN:137 | TN:2
+Word: mas | Lemma: mas | a56_260_tags.txt | SN:19 | TN:44
+Word: mas | Lemma: mas | a56_235to237_tags.txt | SN:27 | TN:28
+Word: mas | Lemma: mas | a56_259_tags.txt | SN:3 | TN:16
+Word: mas | Lemma: mas | a56_259_tags.txt | SN:18 | TN:7
+Word: mas | Lemma: mas | a56_251_tags.txt | SN:15 | TN:23
+Word: mas | Lemma: mas | a56_181to186_tags.txt | SN:27 | TN:60
+Word: mas | Lemma: mas | a56_181to186_tags.txt | SN:28 | TN:3
+Word: mas | Lemma: mas | lopez_clement_s11_tags.txt | SN:41 | TN:7
+Word: mas | Lemma: mas | lopez_clement_s11_tags.txt | SN:74 | TN:13
+Word: mas | Lemma: mas | a56_250_tags.txt | SN:11 | TN:3
+Word: mas | Lemma: mas | a56_193to197_tags.txt | SN:36 | TN:33
+Word: mas | Lemma: mas | a56_259_tags.txt | SN:18 | TN:28
+Word: mas | Lemma: mas | a56_204_tags.txt | SN:5 | TN:40
+Word: mas | Lemma: mas | a56_181to186_tags.txt | SN:31 | TN:128
+Word: mas | Lemma: mas | a56_259_tags.txt | SN:18 | TN:21
+Word: mas | Lemma: mas | a56_181to186_tags.txt | SN:101 | TN:15
+Word: mas | Lemma: mas | a56_181to186_tags.txt | SN:145 | TN:22
+Word: mas | Lemma: mas | cua_bernice_s11_tags.txt | SN:45 | TN:22
+Word: mas | Lemma: mas | lopez_clement_s11_tags.txt | SN:76 | TN:31
+Word: mas | Lemma: mas | a56_214_tags.txt | SN:18 | TN:22
+Word: mas | Lemma: mas | a56_253to258_tags.txt | SN:134 | TN:46
+Word: mas | Lemma: mas | a56_264_tags.txt | SN:24 | TN:9
+Word: mas | Lemma: mas | a56_181to186_tags.txt | SN:32 | TN:50
+Word: mas | Lemma: mas | a56_193to197_tags.txt | SN:81 | TN:16
+Word: mas | Lemma: mas | a56_251_tags.txt | SN:14 | TN:22
+Word: mas | Lemma: mas | a56_253to258_tags.txt | SN:98 | TN:48
+Word: mas | Lemma: mas | a56_253to258_tags.txt | SN:141 | TN:28
+Word: mas | Lemma: mas | a56_259_tags.txt | SN:19 | TN:21
+Word: mas | Lemma: mas | a56_253to258_tags.txt | SN:132 | TN:15
+Word: mas | Lemma: mas | a56_224_tags.txt | SN:18 | TN:23
+Word: mas | Lemma: mas | a56_253to258_tags.txt | SN:90 | TN:42
+Word: mas | Lemma: mas | a56_253to258_tags.txt | SN:135 | TN:5
+Word: mas | Lemma: mas | a56_260_tags.txt | SN:19 | TN:33
+Word: mas | Lemma: mas | a56_200_tags.txt | SN:8 | TN:10
+Word: mas | Lemma: mas | a56_253to258_tags.txt | SN:132 | TN:23
+Word: mas | Lemma: mas | a56_253to258_tags.txt | SN:164 | TN:24
+Word: mas | Lemma: mas | a56_212_tags.txt | SN:21 | TN:4
+Word: mas | Lemma: mas | a56_224_tags.txt | SN:30 | TN:11
+Word: mas | Lemma: mas | cua_bernice_s11_tags.txt | SN:46 | TN:8
+Word: mas | Lemma: mas | a56_253to258_tags.txt | SN:133 | TN:8
+Word: mas | Lemma: mas | a56_260_tags.txt | SN:5 | TN:22
+Word: mas | Lemma: mas | a56_235to237_tags.txt | SN:26 | TN:16
+Word: mas | Lemma: mas | lopez_clement_s11_tags.txt | SN:37 | TN:1
+Word: mas | Lemma: mas | lopez_clement_s11_tags.txt | SN:74 | TN:9
+Word: mas | Lemma: mas | a56_264_tags.txt | SN:32 | TN:11
+Word: mas | Lemma: mas | cua_bernice_s11_tags.txt | SN:21 | TN:29
+Word: mas | Lemma: mas | a56_253to258_tags.txt | SN:2 | TN:14
+Word: mas | Lemma: mas | a56_264_tags.txt | SN:27 | TN:7
+Word: mas | Lemma: mas | a56_235to237_tags.txt | SN:46 | TN:16
+Word: mas | Lemma: mas | a56_204_tags.txt | SN:18 | TN:10
+Word: mas | Lemma: mas | a56_181to186_tags.txt | SN:131 | TN:3
+Word: mas | Lemma: mas | a56_261_tags.txt | SN:6 | TN:12
+Word: mas | Lemma: mas | a56_193to197_tags.txt | SN:86 | TN:13
+Word: mas | Lemma: mas | a56_224_tags.txt | SN:24 | TN:28
+Word: mas | Lemma: mas | a56_181to186_tags.txt | SN:66 | TN:14
+Word: mas | Lemma: mas | a56_181to186_tags.txt | SN:67 | TN:22
+Word: mas | Lemma: mas | a56_181to186_tags.txt | SN:108 | TN:14
+Word: mas | Lemma: mas | a56_251_tags.txt | SN:13 | TN:10
+Word: mas | Lemma: mas | a56_260_tags.txt | SN:18 | TN:3
+Word: mas | Lemma: mas | a56_204_tags.txt | SN:18 | TN:13
+Word: mas | Lemma: mas | a56_253to258_tags.txt | SN:84 | TN:12
+Word: mas | Lemma: mas | cua_bernice_s11_tags.txt | SN:46 | TN:4
+Word: mas | Lemma: mas | lopez_clement_s11_tags.txt | SN:77 | TN:3
+Word: mas | Lemma: mas | a56_253to258_tags.txt | SN:61 | TN:2
+Word: mas | Lemma: mas | a56_260_tags.txt | SN:11 | TN:24
+Word: mas | Lemma: mas | cua_bernice_s11_tags.txt | SN:79 | TN:2
+Word: mas | Lemma: mas | a56_214_tags.txt | SN:18 | TN:3
+Word: mas | Lemma: mas | a56_253to258_tags.txt | SN:6 | TN:5
+Word: mas | Lemma: mas | a56_253to258_tags.txt | SN:89 | TN:40
+Word: mas | Lemma: mas | a56_238to240_tags.txt | SN:70 | TN:3
+Word: mas | Lemma: mas | a56_260_tags.txt | SN:20 | TN:13
+Word: mas | Lemma: mas | lopez_clement_s11_tags.txt | SN:17 | TN:4
+Word: mas | Lemma: mas | a56_253to258_tags.txt | SN:84 | TN:31
+Word: mas | Lemma: mas | a56_250_tags.txt | SN:10 | TN:22
+Word: mas | Lemma: mas | a56_253to258_tags.txt | SN:61 | TN:6
+Word: mas | Lemma: mas | a56_250_tags.txt | SN:9 | TN:10
+Word: mas | Lemma: mas | a56_224_tags.txt | SN:20 | TN:26
+Word: mas | Lemma: mas | a56_211_tags.txt | SN:29 | TN:36
+Word: mas | Lemma: mas | a56_181to186_tags.txt | SN:67 | TN:29
+Word: mas | Lemma: mas | lopez_clement_s11_tags.txt | SN:77 | TN:11
+Word: mas | Lemma: mas | a56_253to258_tags.txt | SN:159 | TN:16
+Word: mas | Lemma: mas | a56_253to258_tags.txt | SN:64 | TN:24
+Word: mas | Lemma: mas | a56_253to258_tags.txt | SN:132 | TN:46
+Word: mas | Lemma: mas | a56_251_tags.txt | SN:14 | TN:2
+Word: mas | Lemma: mas | a56_252_tags.txt | SN:8 | TN:10
+Word: mas | Lemma: mas | a56_181to186_tags.txt | SN:73 | TN:12
+Word: medyo | Lemma: medyo | a56_264_tags.txt | SN:31 | TN:26

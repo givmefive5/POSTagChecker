@@ -1,2 +1,2 @@
 POS Tag: RW_CCP
-noong | a56_224_tags.txt | SN:26 | TN:7
+Word: noong | Lemma: noon | a56_224_tags.txt | SN:26 | TN:7

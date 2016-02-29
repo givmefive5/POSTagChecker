@@ -1,2 +1,9 @@
 POS Tag: VBN
-wala | a56_181to186_tags.txt | SN:77 | TN:29
+Word: wala | Lemma: wala | a56_181to186_tags.txt | SN:77 | TN:29
+Word: wala | Lemma: wala | a56_193to197_tags.txt | SN:13 | TN:1
+Word: wala | Lemma: wala | a56_193to197_tags.txt | SN:28 | TN:42
+Word: wala | Lemma: wala | a56_200_tags.txt | SN:16 | TN:12
+Word: wala | Lemma: wala | a56_213_tags.txt | SN:13 | TN:9
+Word: wala | Lemma: wala | a56_253to258_tags.txt | SN:53 | TN:11
+Word: wala | Lemma: wala | a56_253to258_tags.txt | SN:75 | TN:8
+Word: wala | Lemma: wala | a56_259_tags.txt | SN:28 | TN:39

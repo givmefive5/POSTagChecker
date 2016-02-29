@@ -1,2 +1,2 @@
 POS Tag: RBS
-Bweno | a56_238to240_tags.txt | SN:24 | TN:12
+Word: Bweno | Lemma: Bweno | a56_238to240_tags.txt | SN:24 | TN:12

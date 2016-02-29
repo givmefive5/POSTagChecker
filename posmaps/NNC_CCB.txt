@@ -1,5 +1,5 @@
 POS Tag: NNC_CCB
-hugnayang | a56_235to237_tags.txt | SN:20 | TN:25
-lahing | a56_228_tags.txt | SN:15 | TN:20
-relasyong | a56_225_tags.txt | SN:22 | TN:19
-migranteng | a56_235to237_tags.txt | SN:11 | TN:32
+Word: hugnayang | Lemma: hugnay | a56_235to237_tags.txt | SN:20 | TN:25
+Word: lahing | Lemma: lahi | a56_228_tags.txt | SN:15 | TN:20
+Word: migranteng | Lemma: migrante | a56_235to237_tags.txt | SN:11 | TN:32
+Word: relasyong | Lemma: relasyon | a56_225_tags.txt | SN:22 | TN:19

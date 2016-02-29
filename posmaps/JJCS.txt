@@ -1,6 +1,21 @@
 POS Tag: JJCS
-Napakahalaga | a56_253to258_tags.txt | SN:80 | TN:0
-Napakabihira | a56_181to186_tags.txt | SN:59 | TN:0
-lubos | cua_bernice_s11_tags.txt | SN:104 | TN:18
-lubusan | a56_253to258_tags.txt | SN:90 | TN:30
-labis | a56_181to186_tags.txt | SN:16 | TN:12
+Word: Napakabihira | Lemma: bihira | a56_181to186_tags.txt | SN:59 | TN:0
+Word: Napakahalaga | Lemma: halaga | a56_253to258_tags.txt | SN:80 | TN:0
+Word: labis | Lemma: labis | a56_181to186_tags.txt | SN:31 | TN:106
+Word: labis | Lemma: labis | a56_181to186_tags.txt | SN:16 | TN:12
+Word: labis | Lemma: labis | a56_181to186_tags.txt | SN:31 | TN:89
+Word: labis | Lemma: labis | a56_181to186_tags.txt | SN:34 | TN:8
+Word: labis | Lemma: labis | a56_181to186_tags.txt | SN:136 | TN:8
+Word: labis | Lemma: labis | a56_181to186_tags.txt | SN:35 | TN:6
+Word: labis | Lemma: labis | a56_181to186_tags.txt | SN:35 | TN:17
+Word: labis | Lemma: labis | a56_181to186_tags.txt | SN:103 | TN:10
+Word: labis | Lemma: labis | a56_227_tags.txt | SN:2 | TN:3
+Word: labis | Lemma: labis | a56_181to186_tags.txt | SN:38 | TN:6
+Word: labis | Lemma: labis | a56_181to186_tags.txt | SN:137 | TN:14
+Word: labis | Lemma: labis | a56_181to186_tags.txt | SN:41 | TN:5
+Word: labis | Lemma: labis | a56_181to186_tags.txt | SN:49 | TN:5
+Word: labis | Lemma: labis | a56_181to186_tags.txt | SN:52 | TN:8
+Word: labis | Lemma: labis | a56_226_tags.txt | SN:25 | TN:2
+Word: labis | Lemma: labis | a56_181to186_tags.txt | SN:57 | TN:3
+Word: lubos | Lemma: lubos | cua_bernice_s11_tags.txt | SN:104 | TN:18
+Word: lubusan | Lemma: lubos | a56_253to258_tags.txt | SN:90 | TN:30

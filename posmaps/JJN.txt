@@ -1,67 +1,122 @@
 POS Tag: JJN
-two-thirds | a56_235to237_tags.txt | SN:41 | TN:18
-tatlumpu’t | a56_259_tags.txt | SN:16 | TN:22
-Labing-apat | a56_212_tags.txt | SN:15 | TN:0
-ika-pito | a56_181to186_tags.txt | SN:2 | TN:42
-ika-17 | a56_263_tags.txt | SN:13 | TN:1
-dalawamput | a56_253to258_tags.txt | SN:7 | TN:14
-ika-19 | a56_250_tags.txt | SN:14 | TN:33
-ika-14 | a56_224_tags.txt | SN:16 | TN:10
-ika-16 | a56_247_tags.txt | SN:21 | TN:1
-labing-apat | a56_193to197_tags.txt | SN:39 | TN:14
-apat | a56_235to237_tags.txt | SN:73 | TN:6
-ika-15 | a56_263_tags.txt | SN:12 | TN:1
-ika-10 | a56_224_tags.txt | SN:8 | TN:3
-ika-11 | a56_181to186_tags.txt | SN:7 | TN:9
-ika-8 | a56_263_tags.txt | SN:7 | TN:18
-ika-walo | a56_181to186_tags.txt | SN:2 | TN:44
-ika-labing | a56_198_tags.txt | SN:32 | TN:4
-ika-1 | a56_227_tags.txt | SN:19 | TN:4
-labing-anim | a56_238to240_tags.txt | SN:47 | TN:20
-ika-2 | a56_211_tags.txt | SN:33 | TN:10
-ika-5 | a56_263_tags.txt | SN:7 | TN:16
-ikatlo | a56_193to197_tags.txt | SN:41 | TN:4
-sampu | a56_253to258_tags.txt | SN:145 | TN:14
-ikaapat | a56_224_tags.txt | SN:18 | TN:12
-nakararami | a56_247_tags.txt | SN:10 | TN:35
-pangatlo | a56_226_tags.txt | SN:13 | TN:28
-dalawampu’t | a56_259_tags.txt | SN:17 | TN:9
-isa’t | a56_259_tags.txt | SN:15 | TN:13
-na | cua_bernice_s11_tags.txt | SN:103 | TN:7
-kawalang-tatag | a56_181to186_tags.txt | SN:31 | TN:96
-ikalabinsiyam | a56_193to197_tags.txt | SN:99 | TN:21
-apatnapu’t | a56_259_tags.txt | SN:17 | TN:41
-anim | a56_193to197_tags.txt | SN:61 | TN:9
-dalawang | a56_259_tags.txt | SN:17 | TN:6
-taun-taon | a56_248_tags.txt | SN:30 | TN:35
-dose-dosenang | a56_250_tags.txt | SN:15 | TN:3
-pangapat | a56_261_tags.txt | SN:24 | TN:17
-Ikaapat | a56_249_tags.txt | SN:18 | TN:0
-daan | a56_181to186_tags.txt | SN:24 | TN:6
-panlabing-apat | a56_193to197_tags.txt | SN:34 | TN:20
-siyam | a56_198_tags.txt | SN:6 | TN:2
-pangalawa | a56_253to258_tags.txt | SN:114 | TN:22
-milyung-milyon | a56_251_tags.txt | SN:5 | TN:11
-ika-31 | a56_212_tags.txt | SN:7 | TN:1
-dalawa | a56_223_tags.txt | SN:1 | TN:32
-pang-labing | a56_198_tags.txt | SN:3 | TN:14
-ika-30 | a56_212_tags.txt | SN:5 | TN:16
-panglabing | a56_198_tags.txt | SN:6 | TN:1
-Apat | a56_253to258_tags.txt | SN:38 | TN:0
-labing-isa | a56_181to186_tags.txt | SN:2 | TN:35
-labing | a56_193to197_tags.txt | SN:61 | TN:8
-una | a56_193to197_tags.txt | SN:41 | TN:15
-taon-taun | lopez_clement_s11_tags.txt | SN:55 | TN:27
-ika-una | a56_181to186_tags.txt | SN:1 | TN:22
-ika-25 | a56_224_tags.txt | SN:14 | TN:16
-ika-sampu | a56_181to186_tags.txt | SN:2 | TN:49
-ika-26 | a56_224_tags.txt | SN:19 | TN:16
-ika-21 | a56_259_tags.txt | SN:17 | TN:17
-ika-20 | a56_250_tags.txt | SN:14 | TN:36
-Ika-2 | a56_263_tags.txt | SN:6 | TN:10
-ika-22 | a56_224_tags.txt | SN:18 | TN:2
-isa | a56_253to258_tags.txt | SN:61 | TN:40
-dalawahan | a56_264_tags.txt | SN:3 | TN:7
-Pangalawa | a56_226_tags.txt | SN:13 | TN:22
-Pang-anim | a56_226_tags.txt | SN:12 | TN:0
-tatlo | a56_212_tags.txt | SN:29 | TN:10
+Word: Apat | Lemma: Apat | a56_253to258_tags.txt | SN:38 | TN:0
+Word: Ika-2 | Lemma: Ika-2 | a56_263_tags.txt | SN:6 | TN:10
+Word: Ikaapat | Lemma: Apat | a56_249_tags.txt | SN:18 | TN:0
+Word: Labing-apat | Lemma: Labing-apat | a56_212_tags.txt | SN:15 | TN:0
+Word: Pang-anim | Lemma: anim | a56_226_tags.txt | SN:12 | TN:0
+Word: Pangalawa | Lemma: dalawa | a56_226_tags.txt | SN:13 | TN:22
+Word: anim | Lemma: anim | a56_193to197_tags.txt | SN:61 | TN:9
+Word: anim | Lemma: anim | a56_213_tags.txt | SN:47 | TN:14
+Word: anim | Lemma: anim | a56_238to240_tags.txt | SN:56 | TN:1
+Word: anim | Lemma: anim | a56_253to258_tags.txt | SN:84 | TN:42
+Word: anim | Lemma: anim | a56_259_tags.txt | SN:5 | TN:6
+Word: anim | Lemma: anim | a56_259_tags.txt | SN:17 | TN:56
+Word: anim | Lemma: anim | cua_bernice_s11_tags.txt | SN:49 | TN:12
+Word: apat | Lemma: apat | a56_259_tags.txt | SN:4 | TN:5
+Word: apat | Lemma: apat | a56_249_tags.txt | SN:17 | TN:1
+Word: apat | Lemma: apat | a56_235to237_tags.txt | SN:73 | TN:6
+Word: apat | Lemma: apat | a56_238to240_tags.txt | SN:56 | TN:15
+Word: apat | Lemma: apat | a56_252_tags.txt | SN:16 | TN:16
+Word: apat | Lemma: apat | lopez_clement_s11_tags.txt | SN:52 | TN:53
+Word: apat | Lemma: apat | a56_253to258_tags.txt | SN:23 | TN:39
+Word: apat | Lemma: apat | a56_253to258_tags.txt | SN:83 | TN:5
+Word: apat | Lemma: apat | a56_253to258_tags.txt | SN:91 | TN:19
+Word: apatnapu’t | Lemma: apatnapu’t | a56_259_tags.txt | SN:17 | TN:41
+Word: apatnapu’t | Lemma: apatnapu’t | a56_259_tags.txt | SN:17 | TN:55
+Word: daan | Lemma: daan | a56_181to186_tags.txt | SN:24 | TN:6
+Word: daan | Lemma: daan | a56_193to197_tags.txt | SN:61 | TN:6
+Word: dalawa | Lemma: dalawa | a56_223_tags.txt | SN:1 | TN:32
+Word: dalawa | Lemma: dalawa | a56_225_tags.txt | SN:6 | TN:3
+Word: dalawa | Lemma: dalawa | a56_225_tags.txt | SN:27 | TN:14
+Word: dalawa | Lemma: dalawa | a56_247_tags.txt | SN:25 | TN:12
+Word: dalawa | Lemma: dalawa | a56_248_tags.txt | SN:17 | TN:7
+Word: dalawa | Lemma: dalawa | a56_253to258_tags.txt | SN:70 | TN:8
+Word: dalawa | Lemma: dalawa | a56_253to258_tags.txt | SN:97 | TN:3
+Word: dalawa | Lemma: dalawa | a56_259_tags.txt | SN:5 | TN:18
+Word: dalawa | Lemma: dalawa | a56_259_tags.txt | SN:23 | TN:18
+Word: dalawahan | Lemma: dalawa | a56_264_tags.txt | SN:3 | TN:7
+Word: dalawamput | Lemma: dalawamput | a56_253to258_tags.txt | SN:7 | TN:14
+Word: dalawampu’t | Lemma: dalawampu’t | a56_259_tags.txt | SN:17 | TN:9
+Word: dalawang | Lemma: dalawa | a56_259_tags.txt | SN:17 | TN:6
+Word: dose-dosenang | Lemma: dosena | a56_250_tags.txt | SN:15 | TN:3
+Word: ika-1 | Lemma: ika-1 | a56_227_tags.txt | SN:19 | TN:4
+Word: ika-10 | Lemma: ika-10 | a56_224_tags.txt | SN:8 | TN:3
+Word: ika-11 | Lemma: ika-11 | a56_181to186_tags.txt | SN:7 | TN:9
+Word: ika-11 | Lemma: ika-11 | a56_224_tags.txt | SN:24 | TN:1
+Word: ika-14 | Lemma: ika-14 | a56_224_tags.txt | SN:16 | TN:10
+Word: ika-15 | Lemma: ika-15 | a56_263_tags.txt | SN:12 | TN:1
+Word: ika-16 | Lemma: ika-16 | a56_247_tags.txt | SN:21 | TN:1
+Word: ika-16 | Lemma: ika-16 | a56_263_tags.txt | SN:12 | TN:3
+Word: ika-17 | Lemma: ika-17 | a56_263_tags.txt | SN:13 | TN:1
+Word: ika-19 | Lemma: ika-19 | a56_250_tags.txt | SN:14 | TN:33
+Word: ika-19 | Lemma: ika-19 | a56_263_tags.txt | SN:14 | TN:1
+Word: ika-2 | Lemma: ika-2 | a56_211_tags.txt | SN:33 | TN:10
+Word: ika-20 | Lemma: ika-20 | a56_250_tags.txt | SN:14 | TN:36
+Word: ika-20 | Lemma: ika-20 | a56_259_tags.txt | SN:15 | TN:3
+Word: ika-20 | Lemma: ika-20 | a56_264_tags.txt | SN:14 | TN:1
+Word: ika-20 | Lemma: ika-20 | lopez_clement_s11_tags.txt | SN:33 | TN:11
+Word: ika-21 | Lemma: ika-21 | a56_259_tags.txt | SN:17 | TN:17
+Word: ika-22 | Lemma: ika-22 | a56_224_tags.txt | SN:18 | TN:2
+Word: ika-25 | Lemma: ika-25 | a56_224_tags.txt | SN:14 | TN:16
+Word: ika-26 | Lemma: ika-26 | a56_224_tags.txt | SN:19 | TN:16
+Word: ika-30 | Lemma: ika-30 | a56_212_tags.txt | SN:5 | TN:16
+Word: ika-31 | Lemma: ika-31 | a56_212_tags.txt | SN:7 | TN:1
+Word: ika-31 | Lemma: ika-31 | a56_213_tags.txt | SN:17 | TN:3
+Word: ika-5 | Lemma: ika-5 | a56_263_tags.txt | SN:7 | TN:16
+Word: ika-5 | Lemma: ika-5 | a56_263_tags.txt | SN:21 | TN:9
+Word: ika-8 | Lemma: ika-8 | a56_263_tags.txt | SN:7 | TN:18
+Word: ika-8 | Lemma: ika-8 | a56_263_tags.txt | SN:9 | TN:6
+Word: ika-labing | Lemma: ika-labing | a56_198_tags.txt | SN:32 | TN:4
+Word: ika-pito | Lemma: ika-pito | a56_181to186_tags.txt | SN:2 | TN:42
+Word: ika-sampu | Lemma: ika-sampu | a56_181to186_tags.txt | SN:2 | TN:49
+Word: ika-una | Lemma: ika-una | a56_181to186_tags.txt | SN:1 | TN:22
+Word: ika-walo | Lemma: ika-walo | a56_181to186_tags.txt | SN:2 | TN:44
+Word: ikaapat | Lemma: apat | a56_224_tags.txt | SN:18 | TN:12
+Word: ikalabinsiyam | Lemma: labinsiyam | a56_193to197_tags.txt | SN:99 | TN:21
+Word: ikalabinsiyam | Lemma: ikalabinsiyam | a56_193to197_tags.txt | SN:100 | TN:1
+Word: ikatlo | Lemma: tatlo | a56_193to197_tags.txt | SN:41 | TN:4
+Word: isa | Lemma: isa | a56_253to258_tags.txt | SN:61 | TN:40
+Word: isa | Lemma: isa | cua_bernice_s11_tags.txt | SN:74 | TN:21
+Word: isa’t | Lemma: isa’t | a56_259_tags.txt | SN:15 | TN:13
+Word: kawalang-tatag | Lemma: wala-tatag | a56_181to186_tags.txt | SN:31 | TN:96
+Word: labing | Lemma: labing | a56_193to197_tags.txt | SN:61 | TN:8
+Word: labing | Lemma: labing | a56_211_tags.txt | SN:1 | TN:11
+Word: labing-anim | Lemma: labing-anim | a56_238to240_tags.txt | SN:47 | TN:20
+Word: labing-apat | Lemma: labing-apat | a56_193to197_tags.txt | SN:39 | TN:14
+Word: labing-isa | Lemma: labing-isa | a56_181to186_tags.txt | SN:2 | TN:35
+Word: labing-isa | Lemma: labing-isa | a56_213_tags.txt | SN:51 | TN:19
+Word: milyung-milyon | Lemma: milyun | a56_251_tags.txt | SN:5 | TN:11
+Word: na | Lemma: na | cua_bernice_s11_tags.txt | SN:103 | TN:7
+Word: nakararami | Lemma: dami | a56_247_tags.txt | SN:10 | TN:35
+Word: pang-labing | Lemma: labing | a56_198_tags.txt | SN:3 | TN:14
+Word: pangalawa | Lemma: pangalawa | a56_253to258_tags.txt | SN:114 | TN:22
+Word: pangapat | Lemma: apat | a56_261_tags.txt | SN:24 | TN:17
+Word: pangatlo | Lemma: tatlo | a56_226_tags.txt | SN:13 | TN:28
+Word: pangatlo | Lemma: pangatlo | a56_253to258_tags.txt | SN:114 | TN:25
+Word: panglabing | Lemma: labing | a56_198_tags.txt | SN:6 | TN:1
+Word: panlabing-apat | Lemma: labing-apat | a56_193to197_tags.txt | SN:34 | TN:20
+Word: panlabing-apat | Lemma: labing-apat | a56_193to197_tags.txt | SN:54 | TN:17
+Word: sampu | Lemma: sampu | a56_253to258_tags.txt | SN:145 | TN:14
+Word: siyam | Lemma: siyam | a56_198_tags.txt | SN:32 | TN:5
+Word: siyam | Lemma: siyam | a56_198_tags.txt | SN:6 | TN:2
+Word: siyam | Lemma: siyam | a56_211_tags.txt | SN:39 | TN:6
+Word: siyam | Lemma: siyam | a56_253to258_tags.txt | SN:73 | TN:53
+Word: siyam | Lemma: siyam | a56_213_tags.txt | SN:15 | TN:22
+Word: siyam | Lemma: siyam | a56_227_tags.txt | SN:4 | TN:1
+Word: siyam | Lemma: siyam | a56_253to258_tags.txt | SN:144 | TN:15
+Word: siyam | Lemma: siyam | a56_238to240_tags.txt | SN:59 | TN:2
+Word: siyam | Lemma: siyam | a56_253to258_tags.txt | SN:83 | TN:13
+Word: siyam | Lemma: siyam | a56_253to258_tags.txt | SN:23 | TN:11
+Word: siyam | Lemma: siyam | a56_253to258_tags.txt | SN:28 | TN:10
+Word: siyam | Lemma: siyam | a56_253to258_tags.txt | SN:70 | TN:1
+Word: taon-taun | Lemma: taon | lopez_clement_s11_tags.txt | SN:55 | TN:27
+Word: tatlo | Lemma: tatlo | a56_212_tags.txt | SN:29 | TN:10
+Word: tatlo | Lemma: tatlo | a56_213_tags.txt | SN:47 | TN:12
+Word: tatlo | Lemma: tatlo | a56_250_tags.txt | SN:20 | TN:11
+Word: tatlumpu’t | Lemma: tatlumpu’t | a56_259_tags.txt | SN:16 | TN:22
+Word: taun-taon | Lemma: taon | a56_248_tags.txt | SN:30 | TN:35
+Word: two-thirds | Lemma: two-thirds | a56_235to237_tags.txt | SN:41 | TN:18
+Word: una | Lemma: una | a56_193to197_tags.txt | SN:41 | TN:15
+Word: una | Lemma: una | a56_211_tags.txt | SN:19 | TN:36
+Word: una | Lemma: una | a56_213_tags.txt | SN:4 | TN:7
+Word: una | Lemma: una | a56_213_tags.txt | SN:39 | TN:2

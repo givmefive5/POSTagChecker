@@ -1,2 +1,2 @@
 POS Tag: BI
-lamang | a56_181to186_tags.txt | SN:28 | TN:30
+Word: lamang | Lemma: lamang | a56_181to186_tags.txt | SN:28 | TN:30

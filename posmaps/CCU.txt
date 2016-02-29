@@ -1,7 +1,28 @@
 POS Tag: CCU
-bilang | a56_263_tags.txt | SN:10 | TN:15
-karagdagan | a56_235to237_tags.txt | SN:42 | TN:1
-laban_sa | a56_181to186_tags.txt | SN:13 | TN:14
-Karagdagan | a56_235to237_tags.txt | SN:32 | TN:0
-Laban_sa | a56_193to197_tags.txt | SN:88 | TN:0
-laban_kay | a56_212_tags.txt | SN:9 | TN:28
+Word: Karagdagan | Lemma: Dagdag | a56_235to237_tags.txt | SN:32 | TN:0
+Word: Laban_sa | Lemma: Laban_sa | a56_193to197_tags.txt | SN:88 | TN:0
+Word: Laban_sa | Lemma: Laban_sa | a56_253to258_tags.txt | SN:168 | TN:0
+Word: bilang | Lemma: bilang | a56_263_tags.txt | SN:10 | TN:15
+Word: bilang | Lemma: bilang | a56_263_tags.txt | SN:18 | TN:21
+Word: bilang | Lemma: bilang | a56_263_tags.txt | SN:20 | TN:31
+Word: bilang | Lemma: bilang | a56_263_tags.txt | SN:26 | TN:7
+Word: karagdagan | Lemma: dagdag | a56_235to237_tags.txt | SN:42 | TN:1
+Word: karagdagan | Lemma: dagdag | a56_238to240_tags.txt | SN:58 | TN:1
+Word: laban_kay | Lemma: laban_kay | a56_212_tags.txt | SN:9 | TN:28
+Word: laban_sa | Lemma: laban_sa | a56_193to197_tags.txt | SN:53 | TN:29
+Word: laban_sa | Lemma: laban_sa | a56_181to186_tags.txt | SN:13 | TN:14
+Word: laban_sa | Lemma: laban_sa | a56_193to197_tags.txt | SN:4 | TN:11
+Word: laban_sa | Lemma: laban_sa | a56_193to197_tags.txt | SN:53 | TN:21
+Word: laban_sa | Lemma: laban_sa | a56_213_tags.txt | SN:8 | TN:9
+Word: laban_sa | Lemma: laban_sa | a56_213_tags.txt | SN:10 | TN:10
+Word: laban_sa | Lemma: laban_sa | a56_213_tags.txt | SN:39 | TN:17
+Word: laban_sa | Lemma: laban_sa | a56_261_tags.txt | SN:19 | TN:12
+Word: laban_sa | Lemma: laban_sa | a56_253to258_tags.txt | SN:41 | TN:13
+Word: laban_sa | Lemma: laban_sa | a56_259_tags.txt | SN:11 | TN:32
+Word: laban_sa | Lemma: laban_sa | a56_225_tags.txt | SN:10 | TN:7
+Word: laban_sa | Lemma: laban_sa | a56_259_tags.txt | SN:13 | TN:26
+Word: laban_sa | Lemma: laban_sa | a56_228_tags.txt | SN:7 | TN:55
+Word: laban_sa | Lemma: laban_sa | a56_228_tags.txt | SN:17 | TN:16
+Word: laban_sa | Lemma: laban_sa | lopez_clement_s11_tags.txt | SN:22 | TN:20
+Word: laban_sa | Lemma: laban_sa | a56_235to237_tags.txt | SN:38 | TN:13
+Word: laban_sa | Lemma: laban_sa | a56_261_tags.txt | SN:18 | TN:25

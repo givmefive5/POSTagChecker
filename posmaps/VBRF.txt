@@ -1,14 +1,15 @@
 POS Tag: VBRF
-Pinagsusunog | a56_193to197_tags.txt | SN:17 | TN:0
-Pinag-aralan | a56_193to197_tags.txt | SN:86 | TN:0
-Pinagkasanayan | lopez_clement_s11_tags.txt | SN:3 | TN:0
-Pinagpatuloy | a56_193to197_tags.txt | SN:45 | TN:0
-pinagnanakaw | a56_193to197_tags.txt | SN:17 | TN:2
-pinagtibay | a56_193to197_tags.txt | SN:54 | TN:23
-ipinagkaloob | a56_261_tags.txt | SN:2 | TN:3
-pinaghalong | a56_200_tags.txt | SN:9 | TN:12
-pinagmasdan | a56_181to186_tags.txt | SN:121 | TN:1
-pinagtitibay | a56_211_tags.txt | SN:25 | TN:17
-pinagmulan | a56_193to197_tags.txt | SN:87 | TN:31
-pinagpatuloy | a56_213_tags.txt | SN:31 | TN:36
-pinagsama | lopez_clement_s11_tags.txt | SN:4 | TN:18
+Word: Pinag-aralan | Lemma: aral | a56_193to197_tags.txt | SN:86 | TN:0
+Word: Pinagkasanayan | Lemma: sanay | lopez_clement_s11_tags.txt | SN:3 | TN:0
+Word: Pinagpatuloy | Lemma: tuloy | a56_193to197_tags.txt | SN:45 | TN:0
+Word: Pinagpatuloy | Lemma: tuloy | a56_212_tags.txt | SN:23 | TN:0
+Word: Pinagsusunog | Lemma: sunog | a56_193to197_tags.txt | SN:17 | TN:0
+Word: ipinagkaloob | Lemma: loob | a56_261_tags.txt | SN:2 | TN:3
+Word: pinaghalong | Lemma: halo | a56_200_tags.txt | SN:9 | TN:12
+Word: pinagmasdan | Lemma: masid | a56_181to186_tags.txt | SN:121 | TN:1
+Word: pinagmulan | Lemma: mula | a56_193to197_tags.txt | SN:87 | TN:31
+Word: pinagnanakaw | Lemma: nakaw | a56_193to197_tags.txt | SN:17 | TN:2
+Word: pinagpatuloy | Lemma: patuloy | a56_213_tags.txt | SN:31 | TN:36
+Word: pinagsama | Lemma: sama | lopez_clement_s11_tags.txt | SN:4 | TN:18
+Word: pinagtibay | Lemma: tibay | a56_193to197_tags.txt | SN:54 | TN:23
+Word: pinagtitibay | Lemma: tibay | a56_211_tags.txt | SN:25 | TN:17

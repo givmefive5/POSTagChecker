@@ -1,2 +1,7 @@
 POS Tag: PRQ_CCP
-anong | a56_181to186_tags.txt | SN:33 | TN:14
+Word: anong | Lemma: ano | a56_181to186_tags.txt | SN:33 | TN:14
+Word: anong | Lemma: ano | a56_193to197_tags.txt | SN:30 | TN:15
+Word: anong | Lemma: ano | a56_211_tags.txt | SN:37 | TN:28
+Word: anong | Lemma: ano | a56_212_tags.txt | SN:7 | TN:25
+Word: anong | Lemma: ano | a56_214_tags.txt | SN:47 | TN:21
+Word: anong | Lemma: ano | a56_225_tags.txt | SN:24 | TN:18

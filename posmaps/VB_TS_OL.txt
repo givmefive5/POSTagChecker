@@ -1,4 +1,4 @@
 POS Tag: VB_TS_OL
-inilarawan | lopez_clement_s11_tags.txt | SN:36 | TN:25
-pag-usapan | a56_225_tags.txt | SN:14 | TN:39
-nakatira | a56_247_tags.txt | SN:17 | TN:30
+Word: inilarawan | Lemma: larawan | lopez_clement_s11_tags.txt | SN:36 | TN:25
+Word: nakatira | Lemma: tira | a56_247_tags.txt | SN:17 | TN:30
+Word: pag-usapan | Lemma: usap | a56_225_tags.txt | SN:14 | TN:39

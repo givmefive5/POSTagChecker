@@ -1,2 +1,4 @@
 POS Tag: CCB_CCP
-kasamang | a56_211_tags.txt | SN:23 | TN:40
+Word: kasamang | Lemma: sama | a56_211_tags.txt | SN:23 | TN:40
+Word: kasamang | Lemma: sama | a56_223_tags.txt | SN:12 | TN:39
+Word: kasamang | Lemma: sama | a56_250_tags.txt | SN:20 | TN:6

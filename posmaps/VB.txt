@@ -1,2 +1,2 @@
 POS Tag: VB
-makita | a56_224_tags.txt | SN:27 | TN:26
+Word: makita | Lemma: kita | a56_224_tags.txt | SN:27 | TN:26

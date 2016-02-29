@@ -1,357 +1,685 @@
 POS Tag: CDB
-270,000 | a56_193to197_tags.txt | SN:16 | TN:15
-14.95 | lopez_clement_s11_tags.txt | SN:25 | TN:17
-14;21q | a56_181to186_tags.txt | SN:50 | TN:25
-110 | a56_253to258_tags.txt | SN:19 | TN:19
-21q | a56_181to186_tags.txt | SN:57 | TN:21
-596 | a56_181to186_tags.txt | SN:104 | TN:32
-1215 | a56_193to197_tags.txt | SN:36 | TN:42
-597 | a56_181to186_tags.txt | SN:108 | TN:23
-33-39 | cua_bernice_s11_tags.txt | SN:6 | TN:0
-1,050 | a56_238to240_tags.txt | SN:60 | TN:8
-904,000 | a56_193to197_tags.txt | SN:7 | TN:24
-10 | a56_181to186_tags.txt | SN:32 | TN:44
-11 | a56_181to186_tags.txt | SN:65 | TN:34
-12 | lopez_clement_s11_tags.txt | SN:23 | TN:8
-13 | a56_226_tags.txt | SN:16 | TN:21
-14 | a56_181to186_tags.txt | SN:50 | TN:19
-15 | a56_193to197_tags.txt | SN:33 | TN:9
-$ | lopez_clement_s11_tags.txt | SN:25 | TN:40
-16 | a56_193to197_tags.txt | SN:3 | TN:8
-% | lopez_clement_s11_tags.txt | SN:25 | TN:44
-17 | a56_193to197_tags.txt | SN:60 | TN:12
-1909 | a56_198_tags.txt | SN:29 | TN:29
-1990’s | a56_238to240_tags.txt | SN:68 | TN:2
-& | lopez_clement_s11_tags.txt | SN:49 | TN:10
-18 | a56_193to197_tags.txt | SN:3 | TN:10
-1908 | a56_198_tags.txt | SN:23 | TN:7
-19 | a56_181to186_tags.txt | SN:68 | TN:9
-( | lopez_clement_s11_tags.txt | SN:25 | TN:42
-1592 | a56_193to197_tags.txt | SN:85 | TN:3
-265,100 | a56_235to237_tags.txt | SN:4 | TN:6
-150,000 | a56_235to237_tags.txt | SN:2 | TN:13
-pangatlo | cua_bernice_s11_tags.txt | SN:52 | TN:4
-120 | a56_247_tags.txt | SN:34 | TN:11
-121 | a56_253to258_tags.txt | SN:101 | TN:12
-1 | a56_181to186_tags.txt | SN:48 | TN:4
-2 | a56_181to186_tags.txt | SN:48 | TN:6
-3 | a56_181to186_tags.txt | SN:54 | TN:5
-4 | a56_249_tags.txt | SN:23 | TN:2
-5 | a56_181to186_tags.txt | SN:81 | TN:18
-15,000 | a56_213_tags.txt | SN:35 | TN:21
-6 | a56_253to258_tags.txt | SN:73 | TN:32
-127 | cua_bernice_s11_tags.txt | SN:30 | TN:5
-7 | a56_193to197_tags.txt | SN:4 | TN:7
-8 | a56_181to186_tags.txt | SN:43 | TN:24
-800 | a56_181to186_tags.txt | SN:60 | TN:3
-1906 | a56_198_tags.txt | SN:11 | TN:11
-9 | a56_204_tags.txt | SN:3 | TN:3
-1905 | a56_193to197_tags.txt | SN:103 | TN:1
-1904 | a56_198_tags.txt | SN:16 | TN:22
-anim | a56_264_tags.txt | SN:34 | TN:19
-20 | a56_181to186_tags.txt | SN:65 | TN:5
-1901 | a56_198_tags.txt | SN:15 | TN:35
-14:20 | a56_213_tags.txt | SN:17 | TN:1
-21 | a56_181to186_tags.txt | SN:16 | TN:21
-47,XX | a56_181to186_tags.txt | SN:40 | TN:5
-22 | a56_249_tags.txt | SN:25 | TN:27
-23 | cua_bernice_s11_tags.txt | SN:24 | TN:14
-24 | a56_181to186_tags.txt | SN:41 | TN:26
-25 | a56_181to186_tags.txt | SN:100 | TN:13
-26 | a56_211_tags.txt | SN:1 | TN:7
-1980’s | a56_248_tags.txt | SN:1 | TN:8
-27 | a56_226_tags.txt | SN:1 | TN:18
-1000 | a56_181to186_tags.txt | SN:60 | TN:7
-I | a56_193to197_tags.txt | SN:9 | TN:33
-4,000 | a56_264_tags.txt | SN:16 | TN:23
-100- | a56_252_tags.txt | SN:13 | TN:29
-250 | a56_181to186_tags.txt | SN:122 | TN:13
-251 | a56_260_tags.txt | SN:3 | TN:44
-256 | a56_235to237_tags.txt | SN:42 | TN:24
-137 | a56_253to258_tags.txt | SN:101 | TN:14
-1596 | a56_193to197_tags.txt | SN:80 | TN:3
-138 | a56_263_tags.txt | SN:20 | TN:34
-12,000 | a56_247_tags.txt | SN:30 | TN:13
-1916 | a56_212_tags.txt | SN:35 | TN:49
-1914 | a56_198_tags.txt | SN:32 | TN:31
-18:30 | a56_212_tags.txt | SN:13 | TN:2
-30 | a56_181to186_tags.txt | SN:32 | TN:46
-31 | a56_253to258_tags.txt | SN:172 | TN:25
-26-30 | cua_bernice_s11_tags.txt | SN:6 | TN:14
-33 | cua_bernice_s11_tags.txt | SN:28 | TN:9
-34 | cua_bernice_s11_tags.txt | SN:72 | TN:16
-35 | a56_181to186_tags.txt | SN:32 | TN:17
-36 | a56_224_tags.txt | SN:28 | TN:18
-1930’s | a56_252_tags.txt | SN:11 | TN:9
-37 | a56_264_tags.txt | SN:27 | TN:24
-38 | a56_211_tags.txt | SN:23 | TN:24
-39 | a56_247_tags.txt | SN:34 | TN:19
-ika-29 | a56_224_tags.txt | SN:3 | TN:16
-138.8 | a56_249_tags.txt | SN:8 | TN:17
-1490 | a56_181to186_tags.txt | SN:65 | TN:11
-ika-26 | a56_224_tags.txt | SN:7 | TN:11
-1920 | a56_204_tags.txt | SN:19 | TN:2
-1249 | a56_263_tags.txt | SN:11 | TN:1
-1128 | a56_263_tags.txt | SN:24 | TN:11
-145 | a56_253to258_tags.txt | SN:100 | TN:26
-isa | cua_bernice_s11_tags.txt | SN:63 | TN:3
-19:14 | a56_214_tags.txt | SN:30 | TN:8
-x | lopez_clement_s11_tags.txt | SN:25 | TN:45
-19,000 | cua_bernice_s11_tags.txt | SN:21 | TN:1
-1928 | cua_bernice_s11_tags.txt | SN:24 | TN:17
-1926 | a56_226_tags.txt | SN:26 | TN:17
-40 | a56_181to186_tags.txt | SN:65 | TN:18
-1925 | a56_193to197_tags.txt | SN:54 | TN:3
-41 | a56_181to186_tags.txt | SN:126 | TN:4
-1803 | a56_253to258_tags.txt | SN:48 | TN:5
-42 | a56_181to186_tags.txt | SN:67 | TN:32
-43 | a56_225_tags.txt | SN:30 | TN:3
-1922 | a56_247_tags.txt | SN:25 | TN:9
-1801 | a56_264_tags.txt | SN:6 | TN:20
-45 | a56_238to240_tags.txt | SN:60 | TN:23
-46 | a56_181to186_tags.txt | SN:39 | TN:12
-1940s | a56_223_tags.txt | SN:17 | TN:8
-47 | a56_181to186_tags.txt | SN:42 | TN:11
-11th | a56_235to237_tags.txt | SN:52 | TN:20
-48 | a56_264_tags.txt | SN:28 | TN:12
-49 | a56_181to186_tags.txt | SN:65 | TN:30
-1143 | a56_263_tags.txt | SN:26 | TN:23
-1932 | a56_225_tags.txt | SN:5 | TN:1
-zero | a56_253to258_tags.txt | SN:137 | TN:6
-1931 | a56_252_tags.txt | SN:12 | TN:20
-1139 | a56_263_tags.txt | SN:23 | TN:8
-0.06 | a56_181to186_tags.txt | SN:87 | TN:58
-1930 | a56_238to240_tags.txt | SN:56 | TN:17
-350,000 | a56_251_tags.txt | SN:5 | TN:28
-1818 | a56_253to258_tags.txt | SN:48 | TN:11
-1100s | a56_263_tags.txt | SN:10 | TN:2
-50 | a56_181to186_tags.txt | SN:32 | TN:6
-1937 | a56_252_tags.txt | SN:14 | TN:11
-46,XX | a56_181to186_tags.txt | SN:39 | TN:2
-1815 | a56_264_tags.txt | SN:7 | TN:5
-46,XY | a56_181to186_tags.txt | SN:39 | TN:4
-1935 | a56_252_tags.txt | SN:15 | TN:9
-1934 | a56_224_tags.txt | SN:8 | TN:7
-54 | a56_181to186_tags.txt | SN:126 | TN:23
-1812 | a56_193to197_tags.txt | SN:7 | TN:22
-1933 | a56_223_tags.txt | SN:1 | TN:49
-55 | a56_264_tags.txt | SN:23 | TN:21
-2001 | a56_225_tags.txt | SN:35 | TN:1
-2000 | a56_235to237_tags.txt | SN:7 | TN:11
-280 | a56_247_tags.txt | SN:34 | TN:7
-160 | a56_248_tags.txt | SN:10 | TN:18
-200- | a56_252_tags.txt | SN:13 | TN:31
-161 | a56_253to258_tags.txt | SN:100 | TN:43
-1943 | a56_226_tags.txt | SN:19 | TN:23
-1942 | a56_224_tags.txt | SN:26 | TN:8
-1820 | a56_193to197_tags.txt | SN:52 | TN:9
-1941 | a56_193to197_tags.txt | SN:56 | TN:1
-.05 | a56_181to186_tags.txt | SN:87 | TN:71
-1940 | a56_224_tags.txt | SN:28 | TN:12
-VI | a56_225_tags.txt | SN:2 | TN:7
-500,000 | cua_bernice_s11_tags.txt | SN:22 | TN:17
-50,000 | a56_251_tags.txt | SN:5 | TN:1
-965 | a56_193to197_tags.txt | SN:65 | TN:9
-60 | a56_181to186_tags.txt | SN:65 | TN:22
-1949 | a56_224_tags.txt | SN:14 | TN:20
-61 | a56_253to258_tags.txt | SN:20 | TN:2
-62 | a56_247_tags.txt | SN:30 | TN:3
-1920’s | a56_259_tags.txt | SN:16 | TN:1
-1946 | a56_225_tags.txt | SN:2 | TN:1
-¾ | a56_193to197_tags.txt | SN:33 | TN:16
-1945 | a56_224_tags.txt | SN:11 | TN:3
-64 | a56_264_tags.txt | SN:23 | TN:30
-pang-apat | cua_bernice_s11_tags.txt | SN:52 | TN:6
-65 | a56_200_tags.txt | SN:12 | TN:16
-1944 | a56_225_tags.txt | SN:7 | TN:1
-2007-07-17 | a56_248_tags.txt | SN:25 | TN:1
-2011 | a56_238to240_tags.txt | SN:11 | TN:29
-2010 | a56_204_tags.txt | SN:6 | TN:16
-1040 | a56_193to197_tags.txt | SN:65 | TN:11
-295 | a56_261_tags.txt | SN:11 | TN:6
-2490 | lopez_clement_s11_tags.txt | SN:26 | TN:9
-1833 | a56_193to197_tags.txt | SN:53 | TN:1
-1954 | a56_228_tags.txt | SN:7 | TN:1
-1953 | a56_225_tags.txt | SN:34 | TN:11
-2008 | a56_226_tags.txt | SN:1 | TN:19
-dalawa | a56_193to197_tags.txt | SN:44 | TN:25
-1952 | a56_193to197_tags.txt | SN:58 | TN:8
-2007 | a56_204_tags.txt | SN:2 | TN:10
-2006 | a56_181to186_tags.txt | SN:61 | TN:1
-1951 | a56_193to197_tags.txt | SN:59 | TN:43
-850 | a56_238to240_tags.txt | SN:60 | TN:15
-1950 | a56_226_tags.txt | SN:26 | TN:1
-2005 | a56_227_tags.txt | SN:19 | TN:7
-2004 | a56_204_tags.txt | SN:1 | TN:23
-2003 | a56_193to197_tags.txt | SN:60 | TN:14
-733 | a56_181to186_tags.txt | SN:61 | TN:11
-2002 | a56_181to186_tags.txt | SN:88 | TN:4
-70 | a56_181to186_tags.txt | SN:32 | TN:8
-71 | a56_247_tags.txt | SN:34 | TN:15
-1959 | a56_181to186_tags.txt | SN:18 | TN:11
-1958 | a56_228_tags.txt | SN:21 | TN:7
-1950s | a56_223_tags.txt | SN:12 | TN:3
-1957 | a56_225_tags.txt | SN:9 | TN:1
-1956 | a56_252_tags.txt | SN:19 | TN:37
-75 | a56_253to258_tags.txt | SN:101 | TN:5
-1955 | a56_224_tags.txt | SN:7 | TN:15
-76 | cua_bernice_s11_tags.txt | SN:29 | TN:5
-77 | a56_200_tags.txt | SN:12 | TN:19
-22,000 | cua_bernice_s11_tags.txt | SN:23 | TN:47
-1970’s | a56_251_tags.txt | SN:24 | TN:19
-1297 | a56_264_tags.txt | SN:6 | TN:6
-una | a56_193to197_tags.txt | SN:95 | TN:15
-1800’s | a56_198_tags.txt | SN:12 | TN:17
-99.8 | a56_181to186_tags.txt | SN:85 | TN:16
-1965 | a56_204_tags.txt | SN:21 | TN:1
-1964 | a56_228_tags.txt | SN:18 | TN:34
-105.0 | a56_249_tags.txt | SN:25 | TN:0
-1963 | a56_223_tags.txt | SN:13 | TN:1
-99.7 | a56_181to186_tags.txt | SN:123 | TN:9
-1962 | a56_224_tags.txt | SN:16 | TN:14
-XL | a56_249_tags.txt | SN:4 | TN:12
-1961 | a56_264_tags.txt | SN:14 | TN:26
-1960 | a56_181to186_tags.txt | SN:142 | TN:4
-500 | a56_238to240_tags.txt | SN:44 | TN:16
-1.04 | a56_260_tags.txt | SN:3 | TN:14
-80 | a56_181to186_tags.txt | SN:66 | TN:19
-143.0 | a56_249_tags.txt | SN:8 | TN:6
-4.2 | a56_249_tags.txt | SN:8 | TN:23
-82 | a56_224_tags.txt | SN:4 | TN:12
-868 | a56_263_tags.txt | SN:22 | TN:1
-4.5 | cua_bernice_s11_tags.txt | SN:30 | TN:10
-1847 | a56_193to197_tags.txt | SN:92 | TN:4
-85 | a56_200_tags.txt | SN:31 | TN:32
-1968 | a56_224_tags.txt | SN:22 | TN:10
-45,XX | a56_181to186_tags.txt | SN:50 | TN:21
-1967 | a56_235to237_tags.txt | SN:25 | TN:2
-86 | cua_bernice_s11_tags.txt | SN:30 | TN:3
-1845 | a56_193to197_tags.txt | SN:90 | TN:1
-1966 | a56_204_tags.txt | SN:22 | TN:2
-88 | a56_181to186_tags.txt | SN:43 | TN:15
-1960’s | a56_224_tags.txt | SN:17 | TN:14
-21q21 | a56_181to186_tags.txt | SN:125 | TN:5
-1976 | a56_225_tags.txt | SN:33 | TN:16
-1975 | a56_259_tags.txt | SN:17 | TN:13
--15 | a56_264_tags.txt | SN:26 | TN:17
-1974 | a56_235to237_tags.txt | SN:2 | TN:10
-1973 | a56_253to258_tags.txt | SN:165 | TN:18
-1851 | a56_198_tags.txt | SN:15 | TN:23
-1972 | a56_251_tags.txt | SN:25 | TN:9
-1179 | a56_263_tags.txt | SN:26 | TN:36
-1970 | a56_223_tags.txt | SN:19 | TN:12
-90 | a56_181to186_tags.txt | SN:81 | TN:9
-91 | a56_181to186_tags.txt | SN:88 | TN:12
-93 | a56_181to186_tags.txt | SN:88 | TN:14
-4/5 | a56_193to197_tags.txt | SN:22 | TN:22
-95 | a56_181to186_tags.txt | SN:43 | TN:3
-1960s | a56_223_tags.txt | SN:22 | TN:4
-96 | a56_260_tags.txt | SN:5 | TN:13
-II | a56_204_tags.txt | SN:15 | TN:25
-99 | a56_235to237_tags.txt | SN:42 | TN:18
-116,000 | a56_253to258_tags.txt | SN:14 | TN:11
-III | a56_227_tags.txt | SN:7 | TN:22
-1990 | a56_228_tags.txt | SN:9 | TN:17
--23 | a56_264_tags.txt | SN:28 | TN:7
-1866 | a56_181to186_tags.txt | SN:17 | TN:15
-1987 | a56_200_tags.txt | SN:1 | TN:33
-1986 | a56_224_tags.txt | SN:3 | TN:20
-1744 | a56_253to258_tags.txt | SN:45 | TN:35
-1985 | a56_235to237_tags.txt | SN:37 | TN:1
-1862 | a56_193to197_tags.txt | SN:95 | TN:22
-400 | a56_260_tags.txt | SN:2 | TN:56
-1982 | a56_235to237_tags.txt | SN:36 | TN:2
-mulang | a56_252_tags.txt | SN:9 | TN:23
-3.0 | cua_bernice_s11_tags.txt | SN:30 | TN:8
-1981 | a56_223_tags.txt | SN:20 | TN:1
-1980 | a56_181to186_tags.txt | SN:100 | TN:16
-5429 | a56_181to186_tags.txt | SN:61 | TN:20
-1868 | a56_193to197_tags.txt | SN:54 | TN:25
-45,000 | a56_251_tags.txt | SN:3 | TN:6
-1988 | cua_bernice_s11_tags.txt | SN:108 | TN:15
-100,000 | a56_193to197_tags.txt | SN:7 | TN:28
-1,429 | a56_226_tags.txt | SN:2 | TN:15
-otsenta | a56_247_tags.txt | SN:10 | TN:16
-16th | a56_235to237_tags.txt | SN:63 | TN:8
-1998 | a56_235to237_tags.txt | SN:71 | TN:1
-1997 | a56_238to240_tags.txt | SN:26 | TN:30
-1996 | a56_235to237_tags.txt | SN:72 | TN:2
-1873 | a56_193to197_tags.txt | SN:96 | TN:1
-1994 | a56_200_tags.txt | SN:2 | TN:18
-1993 | a56_238to240_tags.txt | SN:46 | TN:22
-1872 | a56_249_tags.txt | SN:25 | TN:29
-1992 | a56_249_tags.txt | SN:1 | TN:18
-1871 | a56_253to258_tags.txt | SN:13 | TN:4
-1991 | a56_200_tags.txt | SN:1 | TN:22
-15:45 | a56_213_tags.txt | SN:35 | TN:1
-1637 | a56_193to197_tags.txt | SN:81 | TN:1
-1999 | a56_226_tags.txt | SN:2 | TN:30
-99.9995 | a56_181to186_tags.txt | SN:123 | TN:18
-13-15 | cua_bernice_s11_tags.txt | SN:6 | TN:3
-2nd | a56_193to197_tags.txt | SN:64 | TN:5
-1891 | a56_253to258_tags.txt | SN:12 | TN:4
-1885 | a56_181to186_tags.txt | SN:91 | TN:49
-1881 | a56_204_tags.txt | SN:15 | TN:15
-305 | cua_bernice_s11_tags.txt | SN:8 | TN:0
-2.5 | a56_235to237_tags.txt | SN:52 | TN:17
-308 | a56_264_tags.txt | SN:16 | TN:1
-1649 | a56_211_tags.txt | SN:1 | TN:9
-1900s | a56_253to258_tags.txt | SN:16 | TN:3
-76-85 | cua_bernice_s11_tags.txt | SN:6 | TN:11
-15th | a56_235to237_tags.txt | SN:62 | TN:25
-670 | a56_249_tags.txt | SN:9 | TN:28
-1898 | a56_204_tags.txt | SN:18 | TN:6
-1776 | a56_193to197_tags.txt | SN:36 | TN:4
-1655 | a56_193to197_tags.txt | SN:85 | TN:5
-311 | a56_181to186_tags.txt | SN:124 | TN:9
-312 | a56_181to186_tags.txt | SN:127 | TN:9
-1653 | a56_211_tags.txt | SN:33 | TN:14
-313 | a56_181to186_tags.txt | SN:124 | TN:11
-1652 | a56_211_tags.txt | SN:31 | TN:6
-2/3 | a56_193to197_tags.txt | SN:22 | TN:6
-1650 | a56_193to197_tags.txt | SN:80 | TN:5
-315 | a56_260_tags.txt | SN:5 | TN:10
-1950’s | a56_193to197_tags.txt | SN:58 | TN:4
--24.0 | a56_249_tags.txt | SN:25 | TN:21
-2000s | a56_264_tags.txt | SN:11 | TN:2
--2 | a56_264_tags.txt | SN:27 | TN:14
-1791 | a56_193to197_tags.txt | SN:26 | TN:9
-14,000 | cua_bernice_s11_tags.txt | SN:23 | TN:50
-1789 | a56_193to197_tags.txt | SN:25 | TN:7
-1787 | a56_193to197_tags.txt | SN:35 | TN:29
-200 | a56_248_tags.txt | SN:26 | TN:1
-687 | a56_181to186_tags.txt | SN:120 | TN:34
-688 | a56_181to186_tags.txt | SN:119 | TN:29
-325 | a56_260_tags.txt | SN:2 | TN:38
-1.5 | a56_181to186_tags.txt | SN:108 | TN:11
-15:30 | a56_213_tags.txt | SN:26 | TN:1
-ng | a56_225_tags.txt | SN:5 | TN:14
-1940’s | a56_248_tags.txt | SN:1 | TN:6
-hanggang | a56_252_tags.txt | SN:9 | TN:25
-5000 | lopez_clement_s11_tags.txt | SN:25 | TN:11
-.2 | a56_181to186_tags.txt | SN:113 | TN:16
-690 | a56_181to186_tags.txt | SN:119 | TN:31
-20:30 | a56_212_tags.txt | SN:13 | TN:21
-1798 | a56_253to258_tags.txt | SN:48 | TN:3
-1675 | a56_193to197_tags.txt | SN:87 | TN:8
-1/3 | a56_193to197_tags.txt | SN:18 | TN:10
-579 | a56_249_tags.txt | SN:10 | TN:13
-21q;21q | a56_181to186_tags.txt | SN:50 | TN:41
-lima | a56_224_tags.txt | SN:5 | TN:11
-1660’s | a56_193to197_tags.txt | SN:85 | TN:23
-582 | a56_181to186_tags.txt | SN:107 | TN:25
-583 | a56_181to186_tags.txt | SN:109 | TN:38
-1830’s | a56_193to197_tags.txt | SN:52 | TN:17
-220 | a56_253to258_tags.txt | SN:14 | TN:8
-1689 | a56_193to197_tags.txt | SN:36 | TN:16
-100 | a56_238to240_tags.txt | SN:24 | TN:26
-34.3 | a56_248_tags.txt | SN:29 | TN:3
-21q22.3 | a56_181to186_tags.txt | SN:117 | TN:3
-225 | a56_181to186_tags.txt | SN:124 | TN:3
-0.3 | a56_260_tags.txt | SN:3 | TN:58
-).00 | lopez_clement_s11_tags.txt | SN:25 | TN:50
-0.5 | a56_181to186_tags.txt | SN:87 | TN:40
-VII | a56_263_tags.txt | SN:26 | TN:26
-0.8 | a56_200_tags.txt | SN:12 | TN:6
-tatlo | cua_bernice_s11_tags.txt | SN:63 | TN:5
-1580-1640 | a56_263_tags.txt | SN:13 | TN:23
+Word: $ | Lemma: $ | lopez_clement_s11_tags.txt | SN:25 | TN:40
+Word: $ | Lemma: $ | lopez_clement_s11_tags.txt | SN:25 | TN:46
+Word: % | Lemma: % | lopez_clement_s11_tags.txt | SN:25 | TN:44
+Word: & | Lemma: & | lopez_clement_s11_tags.txt | SN:49 | TN:10
+Word: ( | Lemma: ( | lopez_clement_s11_tags.txt | SN:25 | TN:42
+Word: ).00 | Lemma: ).00 | lopez_clement_s11_tags.txt | SN:25 | TN:50
+Word: -15 | Lemma: -15 | a56_264_tags.txt | SN:26 | TN:17
+Word: -2 | Lemma: -2 | a56_264_tags.txt | SN:27 | TN:14
+Word: -23 | Lemma: -23 | a56_264_tags.txt | SN:28 | TN:7
+Word: -24.0 | Lemma: -24.0 | a56_249_tags.txt | SN:25 | TN:21
+Word: .05 | Lemma: .05 | a56_181to186_tags.txt | SN:87 | TN:71
+Word: .2 | Lemma: .2 | a56_181to186_tags.txt | SN:113 | TN:16
+Word: 0.06 | Lemma: 0.06 | a56_181to186_tags.txt | SN:87 | TN:58
+Word: 0.3 | Lemma: 0.3 | a56_260_tags.txt | SN:3 | TN:58
+Word: 0.5 | Lemma: 0.5 | a56_181to186_tags.txt | SN:87 | TN:40
+Word: 0.8 | Lemma: 0.8 | a56_200_tags.txt | SN:12 | TN:6
+Word: 1 | Lemma: 1 | a56_181to186_tags.txt | SN:61 | TN:9
+Word: 1 | Lemma: 1 | a56_181to186_tags.txt | SN:60 | TN:1
+Word: 1 | Lemma: 1 | a56_181to186_tags.txt | SN:48 | TN:4
+Word: 1 | Lemma: 1 | a56_181to186_tags.txt | SN:60 | TN:5
+Word: 1 | Lemma: 1 | a56_181to186_tags.txt | SN:65 | TN:9
+Word: 1 | Lemma: 1 | a56_238to240_tags.txt | SN:51 | TN:30
+Word: 1 | Lemma: 1 | a56_181to186_tags.txt | SN:65 | TN:20
+Word: 1 | Lemma: 1 | a56_253to258_tags.txt | SN:73 | TN:2
+Word: 1 | Lemma: 1 | a56_181to186_tags.txt | SN:65 | TN:32
+Word: 1 | Lemma: 1 | cua_bernice_s11_tags.txt | SN:88 | TN:9
+Word: 1 | Lemma: 1 | a56_226_tags.txt | SN:26 | TN:16
+Word: 1 | Lemma: 1 | lopez_clement_s11_tags.txt | SN:6 | TN:11
+Word: 1 | Lemma: 1 | a56_238to240_tags.txt | SN:51 | TN:4
+Word: 1 | Lemma: 1 | a56_260_tags.txt | SN:3 | TN:55
+Word: 1 | Lemma: 1 | a56_235to237_tags.txt | SN:15 | TN:9
+Word: 1 | Lemma: 1 | a56_260_tags.txt | SN:2 | TN:29
+Word: 1,050 | Lemma: 1,050 | a56_238to240_tags.txt | SN:60 | TN:8
+Word: 1,429 | Lemma: 1,429 | a56_226_tags.txt | SN:2 | TN:15
+Word: 1.04 | Lemma: 1.04 | a56_260_tags.txt | SN:3 | TN:14
+Word: 1.5 | Lemma: 1.5 | a56_181to186_tags.txt | SN:108 | TN:11
+Word: 1.5 | Lemma: 1.5 | a56_204_tags.txt | SN:2 | TN:7
+Word: 1/3 | Lemma: 1/3 | a56_193to197_tags.txt | SN:18 | TN:10
+Word: 1/3 | Lemma: 1/3 | lopez_clement_s11_tags.txt | SN:24 | TN:1
+Word: 10 | Lemma: 10 | a56_181to186_tags.txt | SN:32 | TN:44
+Word: 10 | Lemma: 10 | a56_249_tags.txt | SN:22 | TN:18
+Word: 10 | Lemma: 10 | a56_249_tags.txt | SN:24 | TN:1
+Word: 10 | Lemma: 10 | lopez_clement_s11_tags.txt | SN:23 | TN:6
+Word: 10 | Lemma: 10 | lopez_clement_s11_tags.txt | SN:25 | TN:23
+Word: 100 | Lemma: 100 | a56_238to240_tags.txt | SN:24 | TN:26
+Word: 100 | Lemma: 100 | a56_238to240_tags.txt | SN:49 | TN:18
+Word: 100 | Lemma: 100 | a56_253to258_tags.txt | SN:90 | TN:48
+Word: 100 | Lemma: 100 | a56_253to258_tags.txt | SN:100 | TN:38
+Word: 100,000 | Lemma: 100,000 | a56_193to197_tags.txt | SN:7 | TN:28
+Word: 100- | Lemma: 100- | a56_252_tags.txt | SN:13 | TN:29
+Word: 1000 | Lemma: 1000 | a56_181to186_tags.txt | SN:60 | TN:7
+Word: 1040 | Lemma: 1040 | a56_193to197_tags.txt | SN:65 | TN:11
+Word: 105.0 | Lemma: 105.0 | a56_249_tags.txt | SN:25 | TN:0
+Word: 11 | Lemma: 11 | a56_181to186_tags.txt | SN:65 | TN:34
+Word: 11 | Lemma: 11 | a56_238to240_tags.txt | SN:12 | TN:5
+Word: 11 | Lemma: 11 | a56_253to258_tags.txt | SN:150 | TN:19
+Word: 110 | Lemma: 110 | a56_253to258_tags.txt | SN:19 | TN:19
+Word: 1100s | Lemma: 1100s | a56_263_tags.txt | SN:10 | TN:2
+Word: 1128 | Lemma: 1128 | a56_263_tags.txt | SN:24 | TN:11
+Word: 1139 | Lemma: 1139 | a56_263_tags.txt | SN:23 | TN:8
+Word: 1139 | Lemma: 1139 | a56_263_tags.txt | SN:26 | TN:15
+Word: 1143 | Lemma: 1143 | a56_263_tags.txt | SN:26 | TN:23
+Word: 116,000 | Lemma: 116,000 | a56_253to258_tags.txt | SN:14 | TN:11
+Word: 1179 | Lemma: 1179 | a56_263_tags.txt | SN:26 | TN:36
+Word: 11th | Lemma: 11th | a56_235to237_tags.txt | SN:52 | TN:20
+Word: 12 | Lemma: 12 | lopez_clement_s11_tags.txt | SN:23 | TN:8
+Word: 12,000 | Lemma: 12,000 | a56_247_tags.txt | SN:30 | TN:13
+Word: 12,000 | Lemma: 12,000 | cua_bernice_s11_tags.txt | SN:21 | TN:3
+Word: 120 | Lemma: 120 | a56_247_tags.txt | SN:34 | TN:11
+Word: 121 | Lemma: 121 | a56_253to258_tags.txt | SN:101 | TN:12
+Word: 121 | Lemma: 121 | a56_260_tags.txt | SN:2 | TN:58
+Word: 1215 | Lemma: 1215 | a56_193to197_tags.txt | SN:36 | TN:42
+Word: 1249 | Lemma: 1249 | a56_263_tags.txt | SN:11 | TN:1
+Word: 127 | Lemma: 127 | cua_bernice_s11_tags.txt | SN:30 | TN:5
+Word: 1297 | Lemma: 1297 | a56_264_tags.txt | SN:6 | TN:6
+Word: 13 | Lemma: 13 | a56_226_tags.txt | SN:16 | TN:21
+Word: 13 | Lemma: 13 | a56_252_tags.txt | SN:1 | TN:5
+Word: 13 | Lemma: 13 | a56_264_tags.txt | SN:23 | TN:18
+Word: 13 | Lemma: 13 | cua_bernice_s11_tags.txt | SN:28 | TN:14
+Word: 13-15 | Lemma: 13-15 | cua_bernice_s11_tags.txt | SN:6 | TN:3
+Word: 137 | Lemma: 137 | a56_253to258_tags.txt | SN:101 | TN:14
+Word: 138 | Lemma: 138 | a56_263_tags.txt | SN:20 | TN:34
+Word: 138.8 | Lemma: 138.8 | a56_249_tags.txt | SN:8 | TN:17
+Word: 14 | Lemma: 14 | a56_181to186_tags.txt | SN:50 | TN:19
+Word: 14,000 | Lemma: 14,000 | cua_bernice_s11_tags.txt | SN:23 | TN:50
+Word: 14.95 | Lemma: 14.95 | lopez_clement_s11_tags.txt | SN:25 | TN:17
+Word: 143.0 | Lemma: 143.0 | a56_249_tags.txt | SN:8 | TN:6
+Word: 145 | Lemma: 145 | a56_253to258_tags.txt | SN:100 | TN:26
+Word: 1490 | Lemma: 1490 | a56_181to186_tags.txt | SN:65 | TN:11
+Word: 14:20 | Lemma: 14:20 | a56_213_tags.txt | SN:17 | TN:1
+Word: 14;21q | Lemma: 14;21q | a56_181to186_tags.txt | SN:50 | TN:25
+Word: 15 | Lemma: 15 | a56_193to197_tags.txt | SN:33 | TN:9
+Word: 15 | Lemma: 15 | a56_193to197_tags.txt | SN:56 | TN:12
+Word: 15 | Lemma: 15 | a56_226_tags.txt | SN:26 | TN:20
+Word: 15 | Lemma: 15 | a56_226_tags.txt | SN:30 | TN:2
+Word: 15 | Lemma: 15 | a56_238to240_tags.txt | SN:58 | TN:20
+Word: 15 | Lemma: 15 | a56_238to240_tags.txt | SN:63 | TN:1
+Word: 15 | Lemma: 15 | a56_238to240_tags.txt | SN:76 | TN:3
+Word: 15 | Lemma: 15 | cua_bernice_s11_tags.txt | SN:28 | TN:16
+Word: 15,000 | Lemma: 15,000 | a56_213_tags.txt | SN:35 | TN:21
+Word: 150,000 | Lemma: 150,000 | a56_235to237_tags.txt | SN:2 | TN:13
+Word: 1580-1640 | Lemma: 1580-1640 | a56_263_tags.txt | SN:13 | TN:23
+Word: 1592 | Lemma: 1592 | a56_193to197_tags.txt | SN:85 | TN:3
+Word: 1596 | Lemma: 1596 | a56_193to197_tags.txt | SN:80 | TN:3
+Word: 15:30 | Lemma: 15:30 | a56_213_tags.txt | SN:26 | TN:1
+Word: 15:45 | Lemma: 15:45 | a56_213_tags.txt | SN:35 | TN:1
+Word: 15th | Lemma: 15th | a56_235to237_tags.txt | SN:62 | TN:25
+Word: 16 | Lemma: 16 | a56_193to197_tags.txt | SN:3 | TN:8
+Word: 16 | Lemma: 16 | a56_238to240_tags.txt | SN:63 | TN:3
+Word: 16 | Lemma: 16 | a56_261_tags.txt | SN:14 | TN:11
+Word: 160 | Lemma: 160 | a56_248_tags.txt | SN:10 | TN:18
+Word: 161 | Lemma: 161 | a56_253to258_tags.txt | SN:100 | TN:43
+Word: 1637 | Lemma: 1637 | a56_193to197_tags.txt | SN:81 | TN:1
+Word: 1649 | Lemma: 1649 | a56_211_tags.txt | SN:1 | TN:9
+Word: 1650 | Lemma: 1650 | a56_193to197_tags.txt | SN:80 | TN:5
+Word: 1650 | Lemma: 1650 | a56_211_tags.txt | SN:15 | TN:1
+Word: 1650 | Lemma: 1650 | a56_211_tags.txt | SN:29 | TN:19
+Word: 1652 | Lemma: 1652 | a56_211_tags.txt | SN:31 | TN:6
+Word: 1652 | Lemma: 1652 | a56_211_tags.txt | SN:35 | TN:13
+Word: 1653 | Lemma: 1653 | a56_211_tags.txt | SN:33 | TN:14
+Word: 1655 | Lemma: 1655 | a56_193to197_tags.txt | SN:85 | TN:5
+Word: 1660’s | Lemma: 1660’s | a56_193to197_tags.txt | SN:85 | TN:23
+Word: 1675 | Lemma: 1675 | a56_193to197_tags.txt | SN:87 | TN:8
+Word: 1689 | Lemma: 1689 | a56_193to197_tags.txt | SN:36 | TN:16
+Word: 16th | Lemma: 16th | a56_235to237_tags.txt | SN:63 | TN:8
+Word: 17 | Lemma: 17 | a56_193to197_tags.txt | SN:60 | TN:12
+Word: 1744 | Lemma: 1744 | a56_253to258_tags.txt | SN:45 | TN:35
+Word: 1776 | Lemma: 1776 | a56_193to197_tags.txt | SN:36 | TN:4
+Word: 1787 | Lemma: 1787 | a56_193to197_tags.txt | SN:35 | TN:29
+Word: 1787 | Lemma: 1787 | a56_193to197_tags.txt | SN:59 | TN:31
+Word: 1789 | Lemma: 1789 | a56_193to197_tags.txt | SN:25 | TN:7
+Word: 1789 | Lemma: 1789 | a56_193to197_tags.txt | SN:35 | TN:7
+Word: 1791 | Lemma: 1791 | a56_193to197_tags.txt | SN:26 | TN:9
+Word: 1791 | Lemma: 1791 | a56_193to197_tags.txt | SN:33 | TN:11
+Word: 1791 | Lemma: 1791 | a56_193to197_tags.txt | SN:41 | TN:31
+Word: 1791 | Lemma: 1791 | a56_193to197_tags.txt | SN:44 | TN:14
+Word: 1791 | Lemma: 1791 | a56_253to258_tags.txt | SN:47 | TN:3
+Word: 1798 | Lemma: 1798 | a56_253to258_tags.txt | SN:48 | TN:3
+Word: 18 | Lemma: 18 | a56_193to197_tags.txt | SN:3 | TN:10
+Word: 18 | Lemma: 18 | a56_235to237_tags.txt | SN:1 | TN:19
+Word: 18 | Lemma: 18 | a56_264_tags.txt | SN:13 | TN:9
+Word: 18 | Lemma: 18 | a56_264_tags.txt | SN:18 | TN:9
+Word: 18 | Lemma: 18 | a56_264_tags.txt | SN:23 | TN:27
+Word: 1800’s | Lemma: 1800’s | a56_198_tags.txt | SN:12 | TN:17
+Word: 1801 | Lemma: 1801 | a56_264_tags.txt | SN:6 | TN:20
+Word: 1803 | Lemma: 1803 | a56_253to258_tags.txt | SN:48 | TN:5
+Word: 1812 | Lemma: 1812 | a56_193to197_tags.txt | SN:7 | TN:22
+Word: 1815 | Lemma: 1815 | a56_264_tags.txt | SN:7 | TN:5
+Word: 1818 | Lemma: 1818 | a56_253to258_tags.txt | SN:48 | TN:11
+Word: 1820 | Lemma: 1820 | a56_193to197_tags.txt | SN:52 | TN:9
+Word: 1830’s | Lemma: 1830’s | a56_193to197_tags.txt | SN:52 | TN:17
+Word: 1833 | Lemma: 1833 | a56_193to197_tags.txt | SN:53 | TN:1
+Word: 1845 | Lemma: 1845 | a56_193to197_tags.txt | SN:90 | TN:1
+Word: 1847 | Lemma: 1847 | a56_193to197_tags.txt | SN:92 | TN:4
+Word: 1851 | Lemma: 1851 | a56_198_tags.txt | SN:15 | TN:23
+Word: 1862 | Lemma: 1862 | a56_193to197_tags.txt | SN:95 | TN:22
+Word: 1866 | Lemma: 1866 | a56_181to186_tags.txt | SN:17 | TN:15
+Word: 1868 | Lemma: 1868 | a56_193to197_tags.txt | SN:54 | TN:25
+Word: 1871 | Lemma: 1871 | a56_253to258_tags.txt | SN:13 | TN:4
+Word: 1872 | Lemma: 1872 | a56_249_tags.txt | SN:25 | TN:29
+Word: 1873 | Lemma: 1873 | a56_193to197_tags.txt | SN:96 | TN:1
+Word: 1873 | Lemma: 1873 | a56_253to258_tags.txt | SN:13 | TN:15
+Word: 1881 | Lemma: 1881 | a56_204_tags.txt | SN:15 | TN:15
+Word: 1885 | Lemma: 1885 | a56_181to186_tags.txt | SN:91 | TN:49
+Word: 1891 | Lemma: 1891 | a56_253to258_tags.txt | SN:12 | TN:4
+Word: 1898 | Lemma: 1898 | a56_204_tags.txt | SN:18 | TN:6
+Word: 18:30 | Lemma: 18:30 | a56_212_tags.txt | SN:13 | TN:2
+Word: 19 | Lemma: 19 | a56_181to186_tags.txt | SN:68 | TN:9
+Word: 19 | Lemma: 19 | a56_251_tags.txt | SN:15 | TN:19
+Word: 19 | Lemma: 19 | a56_261_tags.txt | SN:20 | TN:1
+Word: 19,000 | Lemma: 19,000 | cua_bernice_s11_tags.txt | SN:21 | TN:1
+Word: 1900s | Lemma: 1900s | a56_253to258_tags.txt | SN:16 | TN:3
+Word: 1901 | Lemma: 1901 | a56_198_tags.txt | SN:15 | TN:35
+Word: 1904 | Lemma: 1904 | a56_198_tags.txt | SN:16 | TN:22
+Word: 1904 | Lemma: 1904 | a56_252_tags.txt | SN:8 | TN:21
+Word: 1905 | Lemma: 1905 | a56_193to197_tags.txt | SN:103 | TN:1
+Word: 1905 | Lemma: 1905 | a56_193to197_tags.txt | SN:110 | TN:1
+Word: 1905 | Lemma: 1905 | a56_213_tags.txt | SN:8 | TN:14
+Word: 1906 | Lemma: 1906 | a56_198_tags.txt | SN:11 | TN:11
+Word: 1908 | Lemma: 1908 | a56_198_tags.txt | SN:23 | TN:7
+Word: 1909 | Lemma: 1909 | a56_198_tags.txt | SN:29 | TN:29
+Word: 1914 | Lemma: 1914 | a56_198_tags.txt | SN:32 | TN:31
+Word: 1916 | Lemma: 1916 | a56_212_tags.txt | SN:35 | TN:49
+Word: 1916 | Lemma: 1916 | a56_252_tags.txt | SN:7 | TN:1
+Word: 1920 | Lemma: 1920 | a56_204_tags.txt | SN:19 | TN:2
+Word: 1920’s | Lemma: 1920’s | a56_259_tags.txt | SN:16 | TN:1
+Word: 1922 | Lemma: 1922 | a56_247_tags.txt | SN:25 | TN:9
+Word: 1922 | Lemma: 1922 | a56_251_tags.txt | SN:27 | TN:19
+Word: 1925 | Lemma: 1925 | a56_193to197_tags.txt | SN:54 | TN:3
+Word: 1925 | Lemma: 1925 | a56_226_tags.txt | SN:1 | TN:15
+Word: 1926 | Lemma: 1926 | a56_226_tags.txt | SN:26 | TN:17
+Word: 1928 | Lemma: 1928 | cua_bernice_s11_tags.txt | SN:24 | TN:17
+Word: 1930 | Lemma: 1930 | a56_238to240_tags.txt | SN:56 | TN:17
+Word: 1930’s | Lemma: 1930’s | a56_252_tags.txt | SN:11 | TN:9
+Word: 1931 | Lemma: 1931 | a56_252_tags.txt | SN:12 | TN:20
+Word: 1932 | Lemma: 1932 | a56_225_tags.txt | SN:5 | TN:1
+Word: 1932 | Lemma: 1932 | a56_252_tags.txt | SN:13 | TN:5
+Word: 1932 | Lemma: 1932 | a56_252_tags.txt | SN:13 | TN:42
+Word: 1933 | Lemma: 1933 | a56_223_tags.txt | SN:1 | TN:49
+Word: 1934 | Lemma: 1934 | a56_224_tags.txt | SN:8 | TN:7
+Word: 1934 | Lemma: 1934 | a56_249_tags.txt | SN:25 | TN:14
+Word: 1935 | Lemma: 1935 | a56_252_tags.txt | SN:15 | TN:9
+Word: 1937 | Lemma: 1937 | a56_252_tags.txt | SN:14 | TN:11
+Word: 1940 | Lemma: 1940 | a56_224_tags.txt | SN:28 | TN:12
+Word: 1940s | Lemma: 1940s | a56_223_tags.txt | SN:17 | TN:8
+Word: 1940’s | Lemma: 1940’s | a56_248_tags.txt | SN:1 | TN:6
+Word: 1940’s | Lemma: 1940’s | a56_251_tags.txt | SN:16 | TN:16
+Word: 1940’s | Lemma: 1940’s | a56_251_tags.txt | SN:22 | TN:1
+Word: 1941 | Lemma: 1941 | a56_193to197_tags.txt | SN:56 | TN:1
+Word: 1942 | Lemma: 1942 | a56_224_tags.txt | SN:26 | TN:8
+Word: 1943 | Lemma: 1943 | a56_226_tags.txt | SN:19 | TN:23
+Word: 1943 | Lemma: 1943 | a56_227_tags.txt | SN:8 | TN:12
+Word: 1944 | Lemma: 1944 | a56_225_tags.txt | SN:7 | TN:1
+Word: 1945 | Lemma: 1945 | a56_224_tags.txt | SN:11 | TN:3
+Word: 1945 | Lemma: 1945 | a56_227_tags.txt | SN:10 | TN:7
+Word: 1946 | Lemma: 1946 | a56_225_tags.txt | SN:2 | TN:1
+Word: 1949 | Lemma: 1949 | a56_224_tags.txt | SN:14 | TN:20
+Word: 1949 | Lemma: 1949 | a56_235to237_tags.txt | SN:34 | TN:4
+Word: 1949 | Lemma: 1949 | a56_264_tags.txt | SN:1 | TN:9
+Word: 1950 | Lemma: 1950 | a56_226_tags.txt | SN:26 | TN:1
+Word: 1950 | Lemma: 1950 | a56_227_tags.txt | SN:11 | TN:21
+Word: 1950 | Lemma: 1950 | a56_235to237_tags.txt | SN:70 | TN:7
+Word: 1950 | Lemma: 1950 | cua_bernice_s11_tags.txt | SN:104 | TN:22
+Word: 1950s | Lemma: 1950s | a56_223_tags.txt | SN:12 | TN:3
+Word: 1950’s | Lemma: 1950’s | a56_193to197_tags.txt | SN:58 | TN:4
+Word: 1950’s | Lemma: 1950’s | a56_250_tags.txt | SN:10 | TN:29
+Word: 1950’s | Lemma: 1950’s | a56_251_tags.txt | SN:23 | TN:1
+Word: 1951 | Lemma: 1951 | a56_193to197_tags.txt | SN:59 | TN:43
+Word: 1951 | Lemma: 1951 | a56_226_tags.txt | SN:7 | TN:14
+Word: 1951 | Lemma: 1951 | a56_227_tags.txt | SN:16 | TN:1
+Word: 1951 | Lemma: 1951 | a56_228_tags.txt | SN:1 | TN:1
+Word: 1951 | Lemma: 1951 | a56_228_tags.txt | SN:8 | TN:10
+Word: 1952 | Lemma: 1952 | a56_193to197_tags.txt | SN:58 | TN:8
+Word: 1952 | Lemma: 1952 | a56_228_tags.txt | SN:8 | TN:12
+Word: 1952 | Lemma: 1952 | a56_252_tags.txt | SN:19 | TN:35
+Word: 1953 | Lemma: 1953 | a56_225_tags.txt | SN:34 | TN:11
+Word: 1954 | Lemma: 1954 | a56_228_tags.txt | SN:7 | TN:1
+Word: 1955 | Lemma: 1955 | a56_224_tags.txt | SN:7 | TN:15
+Word: 1955 | Lemma: 1955 | a56_226_tags.txt | SN:2 | TN:11
+Word: 1955 | Lemma: 1955 | a56_228_tags.txt | SN:9 | TN:9
+Word: 1955 | Lemma: 1955 | a56_263_tags.txt | SN:18 | TN:16
+Word: 1956 | Lemma: 1956 | a56_252_tags.txt | SN:19 | TN:37
+Word: 1957 | Lemma: 1957 | a56_225_tags.txt | SN:9 | TN:1
+Word: 1957 | Lemma: 1957 | a56_228_tags.txt | SN:11 | TN:1
+Word: 1957 | Lemma: 1957 | a56_228_tags.txt | SN:14 | TN:1
+Word: 1958 | Lemma: 1958 | a56_228_tags.txt | SN:21 | TN:7
+Word: 1958 | Lemma: 1958 | a56_260_tags.txt | SN:2 | TN:31
+Word: 1959 | Lemma: 1959 | a56_181to186_tags.txt | SN:18 | TN:11
+Word: 1959 | Lemma: 1959 | a56_253to258_tags.txt | SN:13 | TN:18
+Word: 1960 | Lemma: 1960 | a56_181to186_tags.txt | SN:142 | TN:4
+Word: 1960 | Lemma: 1960 | a56_204_tags.txt | SN:20 | TN:10
+Word: 1960 | Lemma: 1960 | a56_235to237_tags.txt | SN:1 | TN:6
+Word: 1960 | Lemma: 1960 | a56_235to237_tags.txt | SN:20 | TN:2
+Word: 1960 | Lemma: 1960 | a56_235to237_tags.txt | SN:42 | TN:16
+Word: 1960 | Lemma: 1960 | a56_252_tags.txt | SN:19 | TN:39
+Word: 1960 | Lemma: 1960 | a56_259_tags.txt | SN:16 | TN:26
+Word: 1960s | Lemma: 1960s | a56_223_tags.txt | SN:22 | TN:4
+Word: 1960s | Lemma: 1960s | a56_225_tags.txt | SN:13 | TN:26
+Word: 1960s | Lemma: 1960s | a56_228_tags.txt | SN:16 | TN:17
+Word: 1960s | Lemma: 1960s | a56_228_tags.txt | SN:18 | TN:6
+Word: 1960s | Lemma: 1960s | a56_247_tags.txt | SN:2 | TN:2
+Word: 1960’s | Lemma: 1960’s | a56_224_tags.txt | SN:17 | TN:14
+Word: 1960’s | Lemma: 1960’s | a56_251_tags.txt | SN:24 | TN:15
+Word: 1960’s | Lemma: 1960’s | a56_251_tags.txt | SN:29 | TN:13
+Word: 1961 | Lemma: 1961 | a56_264_tags.txt | SN:14 | TN:26
+Word: 1962 | Lemma: 1962 | a56_224_tags.txt | SN:16 | TN:14
+Word: 1963 | Lemma: 1963 | a56_223_tags.txt | SN:13 | TN:1
+Word: 1964 | Lemma: 1964 | a56_228_tags.txt | SN:18 | TN:34
+Word: 1964 | Lemma: 1964 | a56_235to237_tags.txt | SN:23 | TN:3
+Word: 1964 | Lemma: 1964 | a56_252_tags.txt | SN:19 | TN:41
+Word: 1964 | Lemma: 1964 | a56_252_tags.txt | SN:20 | TN:18
+Word: 1965 | Lemma: 1965 | a56_204_tags.txt | SN:21 | TN:1
+Word: 1965 | Lemma: 1965 | a56_223_tags.txt | SN:11 | TN:9
+Word: 1965 | Lemma: 1965 | a56_224_tags.txt | SN:18 | TN:6
+Word: 1966 | Lemma: 1966 | a56_204_tags.txt | SN:22 | TN:2
+Word: 1966 | Lemma: 1966 | a56_223_tags.txt | SN:11 | TN:25
+Word: 1966 | Lemma: 1966 | a56_223_tags.txt | SN:11 | TN:48
+Word: 1966 | Lemma: 1966 | a56_224_tags.txt | SN:19 | TN:20
+Word: 1966 | Lemma: 1966 | a56_224_tags.txt | SN:21 | TN:16
+Word: 1966 | Lemma: 1966 | a56_226_tags.txt | SN:2 | TN:28
+Word: 1966 | Lemma: 1966 | a56_227_tags.txt | SN:4 | TN:39
+Word: 1967 | Lemma: 1967 | a56_235to237_tags.txt | SN:25 | TN:2
+Word: 1968 | Lemma: 1968 | a56_224_tags.txt | SN:22 | TN:10
+Word: 1968 | Lemma: 1968 | a56_252_tags.txt | SN:19 | TN:43
+Word: 1968 | Lemma: 1968 | a56_252_tags.txt | SN:20 | TN:25
+Word: 1970 | Lemma: 1970 | a56_223_tags.txt | SN:19 | TN:12
+Word: 1970’s | Lemma: 1970’s | a56_251_tags.txt | SN:24 | TN:19
+Word: 1970’s | Lemma: 1970’s | a56_251_tags.txt | SN:29 | TN:15
+Word: 1972 | Lemma: 1972 | a56_251_tags.txt | SN:25 | TN:9
+Word: 1972 | Lemma: 1972 | a56_252_tags.txt | SN:19 | TN:46
+Word: 1973 | Lemma: 1973 | a56_253to258_tags.txt | SN:165 | TN:18
+Word: 1974 | Lemma: 1974 | a56_235to237_tags.txt | SN:2 | TN:10
+Word: 1974 | Lemma: 1974 | a56_235to237_tags.txt | SN:11 | TN:39
+Word: 1974 | Lemma: 1974 | a56_235to237_tags.txt | SN:27 | TN:8
+Word: 1974 | Lemma: 1974 | a56_235to237_tags.txt | SN:38 | TN:2
+Word: 1974 | Lemma: 1974 | a56_249_tags.txt | SN:3 | TN:32
+Word: 1974 | Lemma: 1974 | a56_263_tags.txt | SN:15 | TN:11
+Word: 1974 | Lemma: 1974 | a56_264_tags.txt | SN:14 | TN:28
+Word: 1975 | Lemma: 1975 | a56_259_tags.txt | SN:17 | TN:13
+Word: 1976 | Lemma: 1976 | a56_225_tags.txt | SN:33 | TN:16
+Word: 1976 | Lemma: 1976 | a56_264_tags.txt | SN:19 | TN:13
+Word: 1980 | Lemma: 1980 | a56_181to186_tags.txt | SN:100 | TN:16
+Word: 1980 | Lemma: 1980 | a56_225_tags.txt | SN:25 | TN:21
+Word: 1980 | Lemma: 1980 | a56_227_tags.txt | SN:23 | TN:1
+Word: 1980’s | Lemma: 1980’s | a56_248_tags.txt | SN:1 | TN:8
+Word: 1981 | Lemma: 1981 | a56_223_tags.txt | SN:20 | TN:1
+Word: 1981 | Lemma: 1981 | a56_224_tags.txt | SN:24 | TN:5
+Word: 1982 | Lemma: 1982 | a56_235to237_tags.txt | SN:36 | TN:2
+Word: 1982 | Lemma: 1982 | a56_238to240_tags.txt | SN:46 | TN:13
+Word: 1982 | Lemma: 1982 | cua_bernice_s11_tags.txt | SN:23 | TN:28
+Word: 1982 | Lemma: 1982 | cua_bernice_s11_tags.txt | SN:23 | TN:38
+Word: 1985 | Lemma: 1985 | a56_235to237_tags.txt | SN:37 | TN:1
+Word: 1986 | Lemma: 1986 | a56_224_tags.txt | SN:3 | TN:20
+Word: 1986 | Lemma: 1986 | a56_263_tags.txt | SN:18 | TN:8
+Word: 1986 | Lemma: 1986 | a56_264_tags.txt | SN:1 | TN:21
+Word: 1987 | Lemma: 1987 | a56_200_tags.txt | SN:1 | TN:33
+Word: 1987 | Lemma: 1987 | a56_225_tags.txt | SN:20 | TN:7
+Word: 1988 | Lemma: 1988 | cua_bernice_s11_tags.txt | SN:108 | TN:15
+Word: 1990 | Lemma: 1990 | a56_228_tags.txt | SN:9 | TN:17
+Word: 1990 | Lemma: 1990 | a56_238to240_tags.txt | SN:37 | TN:17
+Word: 1990 | Lemma: 1990 | a56_238to240_tags.txt | SN:38 | TN:15
+Word: 1990’s | Lemma: 1990’s | a56_238to240_tags.txt | SN:68 | TN:2
+Word: 1990’s | Lemma: 1990’s | a56_247_tags.txt | SN:6 | TN:17
+Word: 1990’s | Lemma: 1990’s | a56_247_tags.txt | SN:13 | TN:1
+Word: 1990’s | Lemma: 1990’s | a56_249_tags.txt | SN:1 | TN:1
+Word: 1991 | Lemma: 1991 | a56_200_tags.txt | SN:1 | TN:22
+Word: 1992 | Lemma: 1992 | a56_249_tags.txt | SN:1 | TN:18
+Word: 1993 | Lemma: 1993 | a56_238to240_tags.txt | SN:46 | TN:22
+Word: 1993 | Lemma: 1993 | a56_250_tags.txt | SN:1 | TN:42
+Word: 1994 | Lemma: 1994 | a56_200_tags.txt | SN:2 | TN:18
+Word: 1994 | Lemma: 1994 | a56_252_tags.txt | SN:19 | TN:33
+Word: 1996 | Lemma: 1996 | a56_235to237_tags.txt | SN:72 | TN:2
+Word: 1996 | Lemma: 1996 | a56_264_tags.txt | SN:2 | TN:1
+Word: 1997 | Lemma: 1997 | a56_238to240_tags.txt | SN:26 | TN:30
+Word: 1997 | Lemma: 1997 | a56_253to258_tags.txt | SN:12 | TN:9
+Word: 1998 | Lemma: 1998 | a56_235to237_tags.txt | SN:71 | TN:1
+Word: 1998 | Lemma: 1998 | a56_238to240_tags.txt | SN:26 | TN:38
+Word: 1999 | Lemma: 1999 | a56_226_tags.txt | SN:2 | TN:30
+Word: 1999 | Lemma: 1999 | a56_263_tags.txt | SN:16 | TN:15
+Word: 19:14 | Lemma: 19:14 | a56_214_tags.txt | SN:30 | TN:8
+Word: 2 | Lemma: 2 | a56_181to186_tags.txt | SN:54 | TN:3
+Word: 2 | Lemma: 2 | a56_181to186_tags.txt | SN:48 | TN:6
+Word: 2 | Lemma: 2 | a56_181to186_tags.txt | SN:68 | TN:7
+Word: 2 | Lemma: 2 | a56_181to186_tags.txt | SN:81 | TN:16
+Word: 2 | Lemma: 2 | a56_181to186_tags.txt | SN:135 | TN:10
+Word: 2 | Lemma: 2 | a56_249_tags.txt | SN:23 | TN:0
+Word: 2 | Lemma: 2 | a56_253to258_tags.txt | SN:73 | TN:7
+Word: 2 | Lemma: 2 | cua_bernice_s11_tags.txt | SN:88 | TN:11
+Word: 2 | Lemma: 2 | lopez_clement_s11_tags.txt | SN:6 | TN:37
+Word: 2.5 | Lemma: 2.5 | a56_235to237_tags.txt | SN:52 | TN:17
+Word: 2/3 | Lemma: 2/3 | a56_193to197_tags.txt | SN:22 | TN:6
+Word: 20 | Lemma: 20 | a56_181to186_tags.txt | SN:65 | TN:5
+Word: 20 | Lemma: 20 | a56_181to186_tags.txt | SN:141 | TN:9
+Word: 20 | Lemma: 20 | a56_263_tags.txt | SN:17 | TN:39
+Word: 200 | Lemma: 200 | a56_248_tags.txt | SN:26 | TN:1
+Word: 200- | Lemma: 200- | a56_252_tags.txt | SN:13 | TN:31
+Word: 2000 | Lemma: 2000 | a56_235to237_tags.txt | SN:7 | TN:11
+Word: 2000 | Lemma: 2000 | a56_238to240_tags.txt | SN:7 | TN:1
+Word: 2000 | Lemma: 2000 | a56_247_tags.txt | SN:7 | TN:1
+Word: 2000 | Lemma: 2000 | a56_249_tags.txt | SN:3 | TN:14
+Word: 2000 | Lemma: 2000 | a56_253to258_tags.txt | SN:8 | TN:1
+Word: 2000s | Lemma: 2000s | a56_264_tags.txt | SN:11 | TN:2
+Word: 2001 | Lemma: 2001 | a56_225_tags.txt | SN:35 | TN:1
+Word: 2001 | Lemma: 2001 | a56_227_tags.txt | SN:17 | TN:15
+Word: 2001 | Lemma: 2001 | a56_252_tags.txt | SN:9 | TN:43
+Word: 2002 | Lemma: 2002 | a56_181to186_tags.txt | SN:88 | TN:4
+Word: 2002 | Lemma: 2002 | a56_181to186_tags.txt | SN:99 | TN:30
+Word: 2002 | Lemma: 2002 | a56_238to240_tags.txt | SN:13 | TN:12
+Word: 2002 | Lemma: 2002 | a56_238to240_tags.txt | SN:44 | TN:5
+Word: 2002 | Lemma: 2002 | a56_249_tags.txt | SN:3 | TN:16
+Word: 2003 | Lemma: 2003 | a56_193to197_tags.txt | SN:60 | TN:14
+Word: 2003 | Lemma: 2003 | a56_238to240_tags.txt | SN:20 | TN:16
+Word: 2003 | Lemma: 2003 | a56_238to240_tags.txt | SN:48 | TN:1
+Word: 2003 | Lemma: 2003 | a56_253to258_tags.txt | SN:8 | TN:20
+Word: 2003 | Lemma: 2003 | a56_259_tags.txt | SN:17 | TN:60
+Word: 2004 | Lemma: 2004 | a56_204_tags.txt | SN:1 | TN:23
+Word: 2004 | Lemma: 2004 | a56_225_tags.txt | SN:22 | TN:4
+Word: 2004 | Lemma: 2004 | a56_225_tags.txt | SN:28 | TN:4
+Word: 2004 | Lemma: 2004 | a56_228_tags.txt | SN:20 | TN:2
+Word: 2004 | Lemma: 2004 | a56_238to240_tags.txt | SN:51 | TN:21
+Word: 2004 | Lemma: 2004 | a56_259_tags.txt | SN:17 | TN:34
+Word: 2005 | Lemma: 2005 | a56_227_tags.txt | SN:19 | TN:7
+Word: 2005 | Lemma: 2005 | a56_235to237_tags.txt | SN:13 | TN:2
+Word: 2005 | Lemma: 2005 | a56_238to240_tags.txt | SN:33 | TN:5
+Word: 2005 | Lemma: 2005 | a56_238to240_tags.txt | SN:71 | TN:1
+Word: 2005 | Lemma: 2005 | a56_249_tags.txt | SN:4 | TN:3
+Word: 2005 | Lemma: 2005 | a56_253to258_tags.txt | SN:17 | TN:6
+Word: 2005 | Lemma: 2005 | a56_253to258_tags.txt | SN:18 | TN:14
+Word: 2005 | Lemma: 2005 | a56_253to258_tags.txt | SN:91 | TN:28
+Word: 2005 | Lemma: 2005 | lopez_clement_s11_tags.txt | SN:47 | TN:1
+Word: 2006 | Lemma: 2006 | a56_235to237_tags.txt | SN:51 | TN:6
+Word: 2006 | Lemma: 2006 | a56_181to186_tags.txt | SN:61 | TN:1
+Word: 2006 | Lemma: 2006 | a56_261_tags.txt | SN:16 | TN:10
+Word: 2006 | Lemma: 2006 | a56_238to240_tags.txt | SN:72 | TN:2
+Word: 2006 | Lemma: 2006 | a56_238to240_tags.txt | SN:76 | TN:18
+Word: 2006 | Lemma: 2006 | a56_248_tags.txt | SN:29 | TN:1
+Word: 2006 | Lemma: 2006 | a56_249_tags.txt | SN:4 | TN:9
+Word: 2006 | Lemma: 2006 | a56_252_tags.txt | SN:16 | TN:13
+Word: 2006 | Lemma: 2006 | a56_253to258_tags.txt | SN:7 | TN:1
+Word: 2006 | Lemma: 2006 | a56_253to258_tags.txt | SN:6 | TN:3
+Word: 2006 | Lemma: 2006 | a56_253to258_tags.txt | SN:9 | TN:11
+Word: 2007 | Lemma: 2007 | a56_204_tags.txt | SN:2 | TN:10
+Word: 2007 | Lemma: 2007 | a56_226_tags.txt | SN:26 | TN:21
+Word: 2007 | Lemma: 2007 | a56_261_tags.txt | SN:19 | TN:7
+Word: 2007 | Lemma: 2007 | a56_226_tags.txt | SN:30 | TN:3
+Word: 2007 | Lemma: 2007 | a56_227_tags.txt | SN:3 | TN:12
+Word: 2007 | Lemma: 2007 | a56_235to237_tags.txt | SN:52 | TN:30
+Word: 2007 | Lemma: 2007 | a56_248_tags.txt | SN:14 | TN:30
+Word: 2007 | Lemma: 2007 | a56_249_tags.txt | SN:5 | TN:1
+Word: 2007 | Lemma: 2007 | a56_252_tags.txt | SN:10 | TN:1
+Word: 2007 | Lemma: 2007 | a56_252_tags.txt | SN:18 | TN:1
+Word: 2007-07-17 | Lemma: 2007-07-17 | a56_248_tags.txt | SN:25 | TN:1
+Word: 2008 | Lemma: 2008 | a56_226_tags.txt | SN:1 | TN:19
+Word: 2010 | Lemma: 2010 | a56_204_tags.txt | SN:6 | TN:16
+Word: 2011 | Lemma: 2011 | a56_238to240_tags.txt | SN:11 | TN:29
+Word: 2011 | Lemma: 2011 | a56_253to258_tags.txt | SN:150 | TN:21
+Word: 20:30 | Lemma: 20:30 | a56_212_tags.txt | SN:13 | TN:21
+Word: 21 | Lemma: 21 | a56_181to186_tags.txt | SN:122 | TN:19
+Word: 21 | Lemma: 21 | a56_181to186_tags.txt | SN:41 | TN:10
+Word: 21 | Lemma: 21 | a56_181to186_tags.txt | SN:16 | TN:21
+Word: 21 | Lemma: 21 | a56_181to186_tags.txt | SN:18 | TN:9
+Word: 21 | Lemma: 21 | cua_bernice_s11_tags.txt | SN:71 | TN:18
+Word: 21 | Lemma: 21 | a56_181to186_tags.txt | SN:34 | TN:26
+Word: 21 | Lemma: 21 | a56_181to186_tags.txt | SN:43 | TN:11
+Word: 21 | Lemma: 21 | a56_181to186_tags.txt | SN:44 | TN:3
+Word: 21 | Lemma: 21 | a56_181to186_tags.txt | SN:45 | TN:14
+Word: 21 | Lemma: 21 | a56_181to186_tags.txt | SN:62 | TN:1
+Word: 21 | Lemma: 21 | a56_181to186_tags.txt | SN:126 | TN:11
+Word: 21 | Lemma: 21 | a56_181to186_tags.txt | SN:119 | TN:18
+Word: 21 | Lemma: 21 | a56_181to186_tags.txt | SN:37 | TN:14
+Word: 21 | Lemma: 21 | a56_181to186_tags.txt | SN:46 | TN:17
+Word: 21 | Lemma: 21 | a56_181to186_tags.txt | SN:50 | TN:14
+Word: 21 | Lemma: 21 | a56_181to186_tags.txt | SN:128 | TN:7
+Word: 21 | Lemma: 21 | a56_181to186_tags.txt | SN:129 | TN:12
+Word: 21 | Lemma: 21 | a56_181to186_tags.txt | SN:57 | TN:15
+Word: 21 | Lemma: 21 | a56_181to186_tags.txt | SN:40 | TN:3
+Word: 21 | Lemma: 21 | a56_181to186_tags.txt | SN:96 | TN:62
+Word: 21 | Lemma: 21 | a56_181to186_tags.txt | SN:49 | TN:8
+Word: 21 | Lemma: 21 | a56_181to186_tags.txt | SN:111 | TN:13
+Word: 21 | Lemma: 21 | a56_181to186_tags.txt | SN:45 | TN:32
+Word: 21 | Lemma: 21 | a56_181to186_tags.txt | SN:52 | TN:11
+Word: 21 | Lemma: 21 | a56_181to186_tags.txt | SN:103 | TN:22
+Word: 21 | Lemma: 21 | a56_181to186_tags.txt | SN:40 | TN:7
+Word: 21 | Lemma: 21 | a56_181to186_tags.txt | SN:107 | TN:22
+Word: 21 | Lemma: 21 | a56_181to186_tags.txt | SN:56 | TN:9
+Word: 21 | Lemma: 21 | a56_181to186_tags.txt | SN:103 | TN:6
+Word: 21 | Lemma: 21 | a56_181to186_tags.txt | SN:42 | TN:23
+Word: 21 | Lemma: 21 | a56_181to186_tags.txt | SN:47 | TN:9
+Word: 21q | Lemma: 21q | a56_181to186_tags.txt | SN:57 | TN:21
+Word: 21q21 | Lemma: 21q21 | a56_181to186_tags.txt | SN:125 | TN:5
+Word: 21q22.3 | Lemma: 21q22.3 | a56_181to186_tags.txt | SN:117 | TN:3
+Word: 21q22.3 | Lemma: 21q22.3 | a56_181to186_tags.txt | SN:125 | TN:7
+Word: 21q;21q | Lemma: 21q;21q | a56_181to186_tags.txt | SN:50 | TN:41
+Word: 22 | Lemma: 22 | a56_249_tags.txt | SN:25 | TN:27
+Word: 22 | Lemma: 22 | cua_bernice_s11_tags.txt | SN:71 | TN:8
+Word: 22,000 | Lemma: 22,000 | cua_bernice_s11_tags.txt | SN:23 | TN:47
+Word: 220 | Lemma: 220 | a56_253to258_tags.txt | SN:14 | TN:8
+Word: 225 | Lemma: 225 | a56_181to186_tags.txt | SN:124 | TN:3
+Word: 23 | Lemma: 23 | cua_bernice_s11_tags.txt | SN:24 | TN:14
+Word: 24 | Lemma: 24 | a56_181to186_tags.txt | SN:41 | TN:26
+Word: 24 | Lemma: 24 | a56_181to186_tags.txt | SN:65 | TN:7
+Word: 24 | Lemma: 24 | a56_226_tags.txt | SN:1 | TN:14
+Word: 24 | Lemma: 24 | a56_249_tags.txt | SN:25 | TN:12
+Word: 24 | Lemma: 24 | a56_261_tags.txt | SN:20 | TN:37
+Word: 24 | Lemma: 24 | a56_261_tags.txt | SN:20 | TN:46
+Word: 24 | Lemma: 24 | a56_263_tags.txt | SN:24 | TN:9
+Word: 24 | Lemma: 24 | cua_bernice_s11_tags.txt | SN:71 | TN:20
+Word: 2490 | Lemma: 2490 | lopez_clement_s11_tags.txt | SN:26 | TN:9
+Word: 25 | Lemma: 25 | a56_181to186_tags.txt | SN:100 | TN:13
+Word: 25 | Lemma: 25 | a56_181to186_tags.txt | SN:116 | TN:5
+Word: 25 | Lemma: 25 | a56_238to240_tags.txt | SN:11 | TN:27
+Word: 25 | Lemma: 25 | a56_238to240_tags.txt | SN:58 | TN:3
+Word: 25 | Lemma: 25 | a56_248_tags.txt | SN:24 | TN:17
+Word: 25 | Lemma: 25 | a56_253to258_tags.txt | SN:172 | TN:10
+Word: 25 | Lemma: 25 | a56_253to258_tags.txt | SN:173 | TN:37
+Word: 25 | Lemma: 25 | a56_263_tags.txt | SN:26 | TN:13
+Word: 250 | Lemma: 250 | a56_181to186_tags.txt | SN:122 | TN:13
+Word: 250 | Lemma: 250 | a56_212_tags.txt | SN:13 | TN:31
+Word: 251 | Lemma: 251 | a56_260_tags.txt | SN:3 | TN:44
+Word: 256 | Lemma: 256 | a56_235to237_tags.txt | SN:42 | TN:24
+Word: 26 | Lemma: 26 | a56_211_tags.txt | SN:1 | TN:7
+Word: 26-30 | Lemma: 26-30 | cua_bernice_s11_tags.txt | SN:6 | TN:14
+Word: 265,100 | Lemma: 265,100 | a56_235to237_tags.txt | SN:4 | TN:6
+Word: 27 | Lemma: 27 | a56_226_tags.txt | SN:1 | TN:18
+Word: 27 | Lemma: 27 | cua_bernice_s11_tags.txt | SN:71 | TN:10
+Word: 270,000 | Lemma: 270,000 | a56_193to197_tags.txt | SN:16 | TN:15
+Word: 280 | Lemma: 280 | a56_247_tags.txt | SN:34 | TN:7
+Word: 280 | Lemma: 280 | a56_248_tags.txt | SN:7 | TN:4
+Word: 295 | Lemma: 295 | a56_261_tags.txt | SN:11 | TN:6
+Word: 2nd | Lemma: 2nd | a56_193to197_tags.txt | SN:64 | TN:5
+Word: 3 | Lemma: 3 | a56_181to186_tags.txt | SN:54 | TN:5
+Word: 3 | Lemma: 3 | a56_253to258_tags.txt | SN:73 | TN:13
+Word: 3 | Lemma: 3 | lopez_clement_s11_tags.txt | SN:6 | TN:58
+Word: 3.0 | Lemma: 3.0 | cua_bernice_s11_tags.txt | SN:30 | TN:8
+Word: 30 | Lemma: 30 | a56_181to186_tags.txt | SN:32 | TN:46
+Word: 30 | Lemma: 30 | a56_181to186_tags.txt | SN:73 | TN:15
+Word: 30 | Lemma: 30 | a56_235to237_tags.txt | SN:4 | TN:13
+Word: 30 | Lemma: 30 | a56_235to237_tags.txt | SN:32 | TN:32
+Word: 30 | Lemma: 30 | a56_261_tags.txt | SN:17 | TN:9
+Word: 30 | Lemma: 30 | a56_264_tags.txt | SN:21 | TN:33
+Word: 305 | Lemma: 305 | cua_bernice_s11_tags.txt | SN:8 | TN:0
+Word: 308 | Lemma: 308 | a56_264_tags.txt | SN:16 | TN:1
+Word: 31 | Lemma: 31 | a56_253to258_tags.txt | SN:172 | TN:25
+Word: 311 | Lemma: 311 | a56_181to186_tags.txt | SN:124 | TN:9
+Word: 312 | Lemma: 312 | a56_181to186_tags.txt | SN:127 | TN:9
+Word: 313 | Lemma: 313 | a56_181to186_tags.txt | SN:124 | TN:11
+Word: 315 | Lemma: 315 | a56_260_tags.txt | SN:5 | TN:10
+Word: 325 | Lemma: 325 | a56_260_tags.txt | SN:2 | TN:38
+Word: 33 | Lemma: 33 | cua_bernice_s11_tags.txt | SN:28 | TN:9
+Word: 33-39 | Lemma: 33-39 | cua_bernice_s11_tags.txt | SN:6 | TN:0
+Word: 34 | Lemma: 34 | cua_bernice_s11_tags.txt | SN:72 | TN:16
+Word: 34 | Lemma: 34 | cua_bernice_s11_tags.txt | SN:84 | TN:9
+Word: 34.3 | Lemma: 34.3 | a56_248_tags.txt | SN:29 | TN:3
+Word: 35 | Lemma: 35 | a56_181to186_tags.txt | SN:32 | TN:17
+Word: 35 | Lemma: 35 | a56_181to186_tags.txt | SN:66 | TN:17
+Word: 35 | Lemma: 35 | a56_181to186_tags.txt | SN:73 | TN:17
+Word: 35 | Lemma: 35 | a56_235to237_tags.txt | SN:40 | TN:16
+Word: 350,000 | Lemma: 350,000 | a56_251_tags.txt | SN:5 | TN:28
+Word: 36 | Lemma: 36 | a56_224_tags.txt | SN:28 | TN:18
+Word: 36 | Lemma: 36 | a56_235to237_tags.txt | SN:46 | TN:3
+Word: 36 | Lemma: 36 | cua_bernice_s11_tags.txt | SN:28 | TN:11
+Word: 37 | Lemma: 37 | a56_264_tags.txt | SN:27 | TN:24
+Word: 38 | Lemma: 38 | a56_211_tags.txt | SN:23 | TN:24
+Word: 39 | Lemma: 39 | a56_247_tags.txt | SN:34 | TN:19
+Word: 4 | Lemma: 4 | a56_249_tags.txt | SN:23 | TN:2
+Word: 4 | Lemma: 4 | a56_252_tags.txt | SN:1 | TN:20
+Word: 4 | Lemma: 4 | a56_253to258_tags.txt | SN:73 | TN:19
+Word: 4,000 | Lemma: 4,000 | a56_264_tags.txt | SN:16 | TN:23
+Word: 4.2 | Lemma: 4.2 | a56_249_tags.txt | SN:8 | TN:23
+Word: 4.5 | Lemma: 4.5 | cua_bernice_s11_tags.txt | SN:30 | TN:10
+Word: 4/5 | Lemma: 4/5 | a56_193to197_tags.txt | SN:22 | TN:22
+Word: 40 | Lemma: 40 | a56_181to186_tags.txt | SN:65 | TN:18
+Word: 40 | Lemma: 40 | a56_253to258_tags.txt | SN:173 | TN:17
+Word: 400 | Lemma: 400 | a56_260_tags.txt | SN:2 | TN:56
+Word: 41 | Lemma: 41 | a56_181to186_tags.txt | SN:126 | TN:4
+Word: 42 | Lemma: 42 | a56_181to186_tags.txt | SN:67 | TN:32
+Word: 42 | Lemma: 42 | a56_211_tags.txt | SN:23 | TN:35
+Word: 42 | Lemma: 42 | a56_261_tags.txt | SN:14 | TN:5
+Word: 43 | Lemma: 43 | a56_225_tags.txt | SN:30 | TN:3
+Word: 45 | Lemma: 45 | a56_238to240_tags.txt | SN:60 | TN:23
+Word: 45 | Lemma: 45 | a56_248_tags.txt | SN:30 | TN:31
+Word: 45 | Lemma: 45 | a56_264_tags.txt | SN:26 | TN:30
+Word: 45,000 | Lemma: 45,000 | a56_251_tags.txt | SN:3 | TN:6
+Word: 45,XX | Lemma: 45,XX | a56_181to186_tags.txt | SN:50 | TN:21
+Word: 45,XX | Lemma: 45,XX | a56_181to186_tags.txt | SN:50 | TN:37
+Word: 46 | Lemma: 46 | a56_181to186_tags.txt | SN:39 | TN:12
+Word: 46 | Lemma: 46 | a56_181to186_tags.txt | SN:39 | TN:23
+Word: 46,XX | Lemma: 46,XX | a56_181to186_tags.txt | SN:39 | TN:2
+Word: 46,XX | Lemma: 46,XX | a56_181to186_tags.txt | SN:45 | TN:27
+Word: 46,XX | Lemma: 46,XX | a56_181to186_tags.txt | SN:57 | TN:17
+Word: 46,XY | Lemma: 46,XY | a56_181to186_tags.txt | SN:39 | TN:4
+Word: 47 | Lemma: 47 | a56_181to186_tags.txt | SN:42 | TN:11
+Word: 47,XX | Lemma: 47,XX | a56_181to186_tags.txt | SN:40 | TN:5
+Word: 47,XX | Lemma: 47,XX | a56_181to186_tags.txt | SN:45 | TN:29
+Word: 48 | Lemma: 48 | a56_264_tags.txt | SN:28 | TN:12
+Word: 49 | Lemma: 49 | a56_181to186_tags.txt | SN:65 | TN:30
+Word: 49 | Lemma: 49 | a56_181to186_tags.txt | SN:99 | TN:7
+Word: 5 | Lemma: 5 | a56_181to186_tags.txt | SN:81 | TN:18
+Word: 5 | Lemma: 5 | a56_213_tags.txt | SN:29 | TN:6
+Word: 5 | Lemma: 5 | a56_235to237_tags.txt | SN:1 | TN:32
+Word: 5 | Lemma: 5 | a56_247_tags.txt | SN:5 | TN:3
+Word: 5 | Lemma: 5 | a56_253to258_tags.txt | SN:73 | TN:26
+Word: 50 | Lemma: 50 | a56_181to186_tags.txt | SN:32 | TN:6
+Word: 50 | Lemma: 50 | a56_181to186_tags.txt | SN:32 | TN:19
+Word: 50 | Lemma: 50 | a56_200_tags.txt | SN:40 | TN:7
+Word: 50,000 | Lemma: 50,000 | a56_251_tags.txt | SN:5 | TN:1
+Word: 500 | Lemma: 500 | a56_238to240_tags.txt | SN:44 | TN:16
+Word: 500,000 | Lemma: 500,000 | cua_bernice_s11_tags.txt | SN:22 | TN:17
+Word: 5000 | Lemma: 5000 | lopez_clement_s11_tags.txt | SN:25 | TN:11
+Word: 54 | Lemma: 54 | a56_181to186_tags.txt | SN:126 | TN:23
+Word: 5429 | Lemma: 5429 | a56_181to186_tags.txt | SN:61 | TN:20
+Word: 55 | Lemma: 55 | a56_264_tags.txt | SN:23 | TN:21
+Word: 579 | Lemma: 579 | a56_249_tags.txt | SN:10 | TN:13
+Word: 582 | Lemma: 582 | a56_181to186_tags.txt | SN:107 | TN:25
+Word: 583 | Lemma: 583 | a56_181to186_tags.txt | SN:109 | TN:38
+Word: 596 | Lemma: 596 | a56_181to186_tags.txt | SN:104 | TN:32
+Word: 596 | Lemma: 596 | a56_181to186_tags.txt | SN:105 | TN:24
+Word: 596 | Lemma: 596 | a56_181to186_tags.txt | SN:113 | TN:28
+Word: 596 | Lemma: 596 | a56_181to186_tags.txt | SN:116 | TN:21
+Word: 597 | Lemma: 597 | a56_181to186_tags.txt | SN:108 | TN:23
+Word: 597 | Lemma: 597 | a56_181to186_tags.txt | SN:111 | TN:20
+Word: 6 | Lemma: 6 | a56_253to258_tags.txt | SN:73 | TN:32
+Word: 6 | Lemma: 6 | a56_253to258_tags.txt | SN:97 | TN:17
+Word: 60 | Lemma: 60 | a56_181to186_tags.txt | SN:65 | TN:22
+Word: 60 | Lemma: 60 | a56_235to237_tags.txt | SN:40 | TN:18
+Word: 61 | Lemma: 61 | a56_253to258_tags.txt | SN:20 | TN:2
+Word: 62 | Lemma: 62 | a56_247_tags.txt | SN:30 | TN:3
+Word: 64 | Lemma: 64 | a56_264_tags.txt | SN:23 | TN:30
+Word: 65 | Lemma: 65 | a56_200_tags.txt | SN:12 | TN:16
+Word: 65 | Lemma: 65 | a56_228_tags.txt | SN:18 | TN:36
+Word: 670 | Lemma: 670 | a56_249_tags.txt | SN:9 | TN:28
+Word: 687 | Lemma: 687 | a56_181to186_tags.txt | SN:120 | TN:34
+Word: 688 | Lemma: 688 | a56_181to186_tags.txt | SN:119 | TN:29
+Word: 690 | Lemma: 690 | a56_181to186_tags.txt | SN:119 | TN:31
+Word: 7 | Lemma: 7 | a56_193to197_tags.txt | SN:4 | TN:7
+Word: 7 | Lemma: 7 | a56_204_tags.txt | SN:1 | TN:20
+Word: 7 | Lemma: 7 | a56_253to258_tags.txt | SN:73 | TN:38
+Word: 7 | Lemma: 7 | a56_264_tags.txt | SN:21 | TN:9
+Word: 70 | Lemma: 70 | a56_181to186_tags.txt | SN:32 | TN:8
+Word: 70 | Lemma: 70 | a56_247_tags.txt | SN:34 | TN:26
+Word: 71 | Lemma: 71 | a56_247_tags.txt | SN:34 | TN:15
+Word: 733 | Lemma: 733 | a56_181to186_tags.txt | SN:61 | TN:11
+Word: 75 | Lemma: 75 | a56_253to258_tags.txt | SN:101 | TN:5
+Word: 76 | Lemma: 76 | cua_bernice_s11_tags.txt | SN:29 | TN:5
+Word: 76-85 | Lemma: 76-85 | cua_bernice_s11_tags.txt | SN:6 | TN:11
+Word: 77 | Lemma: 77 | a56_200_tags.txt | SN:12 | TN:19
+Word: 77 | Lemma: 77 | a56_235to237_tags.txt | SN:1 | TN:8
+Word: 77 | Lemma: 77 | a56_260_tags.txt | SN:3 | TN:47
+Word: 8 | Lemma: 8 | a56_181to186_tags.txt | SN:43 | TN:24
+Word: 8 | Lemma: 8 | a56_181to186_tags.txt | SN:68 | TN:11
+Word: 8 | Lemma: 8 | a56_250_tags.txt | SN:10 | TN:18
+Word: 8 | Lemma: 8 | a56_253to258_tags.txt | SN:18 | TN:12
+Word: 8 | Lemma: 8 | a56_253to258_tags.txt | SN:73 | TN:44
+Word: 80 | Lemma: 80 | a56_181to186_tags.txt | SN:66 | TN:19
+Word: 80 | Lemma: 80 | a56_200_tags.txt | SN:36 | TN:7
+Word: 80 | Lemma: 80 | a56_226_tags.txt | SN:30 | TN:10
+Word: 800 | Lemma: 800 | a56_181to186_tags.txt | SN:60 | TN:3
+Word: 82 | Lemma: 82 | a56_224_tags.txt | SN:4 | TN:12
+Word: 82 | Lemma: 82 | cua_bernice_s11_tags.txt | SN:84 | TN:37
+Word: 85 | Lemma: 85 | a56_200_tags.txt | SN:31 | TN:32
+Word: 85 | Lemma: 85 | a56_200_tags.txt | SN:34 | TN:26
+Word: 85 | Lemma: 85 | a56_253to258_tags.txt | SN:101 | TN:7
+Word: 85 | Lemma: 85 | cua_bernice_s11_tags.txt | SN:29 | TN:7
+Word: 850 | Lemma: 850 | a56_238to240_tags.txt | SN:60 | TN:15
+Word: 86 | Lemma: 86 | cua_bernice_s11_tags.txt | SN:30 | TN:3
+Word: 868 | Lemma: 868 | a56_263_tags.txt | SN:22 | TN:1
+Word: 88 | Lemma: 88 | a56_181to186_tags.txt | SN:43 | TN:15
+Word: 9 | Lemma: 9 | a56_204_tags.txt | SN:3 | TN:3
+Word: 9 | Lemma: 9 | a56_253to258_tags.txt | SN:73 | TN:50
+Word: 90 | Lemma: 90 | a56_181to186_tags.txt | SN:81 | TN:9
+Word: 90 | Lemma: 90 | a56_214_tags.txt | SN:45 | TN:22
+Word: 90 | Lemma: 90 | a56_238to240_tags.txt | SN:4 | TN:10
+Word: 90 | Lemma: 90 | a56_248_tags.txt | SN:31 | TN:16
+Word: 90 | Lemma: 90 | a56_249_tags.txt | SN:22 | TN:33
+Word: 90 | Lemma: 90 | a56_253to258_tags.txt | SN:100 | TN:21
+Word: 904,000 | Lemma: 904,000 | a56_193to197_tags.txt | SN:7 | TN:24
+Word: 91 | Lemma: 91 | a56_181to186_tags.txt | SN:88 | TN:12
+Word: 93 | Lemma: 93 | a56_181to186_tags.txt | SN:88 | TN:14
+Word: 95 | Lemma: 95 | a56_181to186_tags.txt | SN:43 | TN:3
+Word: 95 | Lemma: 95 | a56_181to186_tags.txt | SN:62 | TN:4
+Word: 95 | Lemma: 95 | a56_181to186_tags.txt | SN:81 | TN:11
+Word: 95 | Lemma: 95 | a56_253to258_tags.txt | SN:19 | TN:10
+Word: 96 | Lemma: 96 | a56_260_tags.txt | SN:5 | TN:13
+Word: 965 | Lemma: 965 | a56_193to197_tags.txt | SN:65 | TN:9
+Word: 99 | Lemma: 99 | a56_235to237_tags.txt | SN:42 | TN:18
+Word: 99 | Lemma: 99 | a56_260_tags.txt | SN:2 | TN:41
+Word: 99.7 | Lemma: 99.7 | a56_181to186_tags.txt | SN:123 | TN:9
+Word: 99.8 | Lemma: 99.8 | a56_181to186_tags.txt | SN:85 | TN:16
+Word: 99.9995 | Lemma: 99.9995 | a56_181to186_tags.txt | SN:123 | TN:18
+Word: I | Lemma: I | a56_193to197_tags.txt | SN:9 | TN:33
+Word: I | Lemma: I | a56_252_tags.txt | SN:5 | TN:12
+Word: I | Lemma: I | a56_252_tags.txt | SN:5 | TN:24
+Word: II | Lemma: II | a56_204_tags.txt | SN:15 | TN:25
+Word: II | Lemma: II | a56_211_tags.txt | SN:11 | TN:20
+Word: II | Lemma: II | a56_252_tags.txt | SN:5 | TN:26
+Word: III | Lemma: III | a56_227_tags.txt | SN:7 | TN:22
+Word: III | Lemma: III | a56_235to237_tags.txt | SN:21 | TN:16
+Word: III | Lemma: III | a56_263_tags.txt | SN:26 | TN:40
+Word: VI | Lemma: VI | a56_225_tags.txt | SN:2 | TN:7
+Word: VII | Lemma: VII | a56_263_tags.txt | SN:26 | TN:26
+Word: XL | Lemma: XL | a56_249_tags.txt | SN:4 | TN:12
+Word: anim | Lemma: anim | a56_264_tags.txt | SN:34 | TN:19
+Word: dalawa | Lemma: dalawa | a56_193to197_tags.txt | SN:44 | TN:25
+Word: dalawa | Lemma: dalawa | cua_bernice_s11_tags.txt | SN:63 | TN:11
+Word: hanggang | Lemma: hanggang | a56_252_tags.txt | SN:9 | TN:25
+Word: ika-26 | Lemma: ika-26 | a56_224_tags.txt | SN:7 | TN:11
+Word: ika-29 | Lemma: ika-29 | a56_224_tags.txt | SN:3 | TN:16
+Word: isa | Lemma: isa | cua_bernice_s11_tags.txt | SN:63 | TN:3
+Word: lima | Lemma: lima | a56_224_tags.txt | SN:5 | TN:11
+Word: lima | Lemma: lima | a56_264_tags.txt | SN:34 | TN:17
+Word: mulang | Lemma: mula | a56_252_tags.txt | SN:9 | TN:23
+Word: ng | Lemma: ng | a56_225_tags.txt | SN:5 | TN:14
+Word: otsenta | Lemma: otsenta | a56_247_tags.txt | SN:10 | TN:16
+Word: pang-apat | Lemma: apat | cua_bernice_s11_tags.txt | SN:52 | TN:6
+Word: pangatlo | Lemma: tatlo | cua_bernice_s11_tags.txt | SN:52 | TN:4
+Word: tatlo | Lemma: tatlo | cua_bernice_s11_tags.txt | SN:63 | TN:5
+Word: una | Lemma: una | a56_193to197_tags.txt | SN:95 | TN:15
+Word: una | Lemma: una | a56_204_tags.txt | SN:17 | TN:1
+Word: una | Lemma: una | a56_226_tags.txt | SN:5 | TN:16
+Word: una | Lemma: una | a56_264_tags.txt | SN:10 | TN:4
+Word: x | Lemma: x | lopez_clement_s11_tags.txt | SN:25 | TN:45
+Word: x | Lemma: x | lopez_clement_s11_tags.txt | SN:25 | TN:48
+Word: zero | Lemma: zero | a56_253to258_tags.txt | SN:137 | TN:6
+Word: ¾ | Lemma: ¾ | a56_193to197_tags.txt | SN:33 | TN:16

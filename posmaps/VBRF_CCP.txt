@@ -1,4 +1,7 @@
 POS Tag: VBRF_CCP
-pinagmasdang | a56_181to186_tags.txt | SN:43 | TN:6
-pinagsamang | a56_204_tags.txt | SN:3 | TN:11
-pinaghalong | a56_200_tags.txt | SN:34 | TN:11
+Word: pinaghalong | Lemma: halo | a56_200_tags.txt | SN:34 | TN:11
+Word: pinaghalong | Lemma: halo | a56_200_tags.txt | SN:40 | TN:1
+Word: pinagmasdang | Lemma: masdan | a56_181to186_tags.txt | SN:43 | TN:6
+Word: pinagmasdang | Lemma: masdan | a56_181to186_tags.txt | SN:48 | TN:9
+Word: pinagmasdang | Lemma: masdan | a56_181to186_tags.txt | SN:54 | TN:8
+Word: pinagsamang | Lemma: sama | a56_204_tags.txt | SN:3 | TN:11

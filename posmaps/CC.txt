@@ -1,2 +1,4 @@
 POS Tag: CC
-at | a56_193to197_tags.txt | SN:14 | TN:15
+Word: at | Lemma: at | a56_193to197_tags.txt | SN:14 | TN:15
+Word: at | Lemma: at | a56_224_tags.txt | SN:31 | TN:33
+Word: at | Lemma: at | a56_235to237_tags.txt | SN:20 | TN:29

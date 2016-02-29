@@ -1,4 +1,9 @@
 POS Tag: PRC
-gayon | a56_181to186_tags.txt | SN:10 | TN:8
-ganoon | a56_259_tags.txt | SN:3 | TN:13
-ganito | a56_225_tags.txt | SN:22 | TN:6
+Word: ganito | Lemma: ganito | a56_225_tags.txt | SN:22 | TN:6
+Word: ganito | Lemma: ganito | a56_225_tags.txt | SN:26 | TN:55
+Word: ganito | Lemma: ganito | a56_228_tags.txt | SN:6 | TN:20
+Word: ganito | Lemma: ganito | a56_228_tags.txt | SN:21 | TN:3
+Word: ganoon | Lemma: ganoon | a56_259_tags.txt | SN:3 | TN:13
+Word: gayon | Lemma: gayon | a56_181to186_tags.txt | SN:10 | TN:8
+Word: gayon | Lemma: gayon | a56_181to186_tags.txt | SN:41 | TN:24
+Word: gayon | Lemma: gayon | a56_213_tags.txt | SN:37 | TN:1

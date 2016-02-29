@@ -1,5 +1,6 @@
 POS Tag: RBN
-halos | a56_263_tags.txt | SN:9 | TN:22
-nang_tatlong_ | cua_bernice_s11_tags.txt | SN:23 | TN:55
-nang_5_taon | a56_261_tags.txt | SN:12 | TN:6
-nang_apat_na_buwan | cua_bernice_s11_tags.txt | SN:25 | TN:6
+Word: halos | Lemma: halos | a56_263_tags.txt | SN:9 | TN:22
+Word: halos | Lemma: halos | a56_263_tags.txt | SN:11 | TN:7
+Word: nang_5_taon | Lemma: nang_5_taon | a56_261_tags.txt | SN:12 | TN:6
+Word: nang_apat_na_buwan | Lemma: nang_apat_na_buwan | cua_bernice_s11_tags.txt | SN:25 | TN:6
+Word: nang_tatlong_ | Lemma: nang_tatlo_ | cua_bernice_s11_tags.txt | SN:23 | TN:55

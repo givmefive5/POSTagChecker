@@ -1,2 +1,2 @@
 POS Tag: VB_TR__AF
-pumapalit | a56_253to258_tags.txt | SN:153 | TN:9
+Word: pumapalit | Lemma: palit | a56_253to258_tags.txt | SN:153 | TN:9

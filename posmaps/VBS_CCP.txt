@@ -1,9 +1,21 @@
 POS Tag: VBS_CCP
-pwedeng | a56_193to197_tags.txt | SN:51 | TN:20
-maaring | a56_253to258_tags.txt | SN:144 | TN:25
-kailangang | a56_181to186_tags.txt | SN:28 | TN:33
-maaaring | a56_181to186_tags.txt | SN:125 | TN:13
-Kailangang | a56_253to258_tags.txt | SN:55 | TN:0
-gustong | a56_253to258_tags.txt | SN:142 | TN:32
-Maaaring | a56_181to186_tags.txt | SN:82 | TN:0
-Maaring | a56_253to258_tags.txt | SN:153 | TN:18
+Word: Kailangang | Lemma: Kailangan | a56_253to258_tags.txt | SN:55 | TN:0
+Word: Maaaring | Lemma: Maaari | a56_181to186_tags.txt | SN:82 | TN:0
+Word: Maaaring | Lemma: Maaari | a56_181to186_tags.txt | SN:117 | TN:0
+Word: Maaring | Lemma: Maari | a56_253to258_tags.txt | SN:153 | TN:18
+Word: gustong | Lemma: gusto | a56_253to258_tags.txt | SN:142 | TN:32
+Word: kailangang | Lemma: kailangan | a56_181to186_tags.txt | SN:28 | TN:33
+Word: kailangang | Lemma: kailangan | a56_193to197_tags.txt | SN:20 | TN:27
+Word: maaaring | Lemma: maaari | a56_181to186_tags.txt | SN:125 | TN:13
+Word: maaaring | Lemma: maaari | a56_249_tags.txt | SN:17 | TN:31
+Word: maaaring | Lemma: ari | a56_260_tags.txt | SN:14 | TN:23
+Word: maaaring | Lemma: maaari | cua_bernice_s11_tags.txt | SN:67 | TN:6
+Word: maaaring | Lemma: maaari | cua_bernice_s11_tags.txt | SN:84 | TN:17
+Word: maaaring | Lemma: maaari | cua_bernice_s11_tags.txt | SN:93 | TN:8
+Word: maaring | Lemma: maari | a56_253to258_tags.txt | SN:144 | TN:25
+Word: maaring | Lemma: maari | a56_253to258_tags.txt | SN:155 | TN:7
+Word: maaring | Lemma: maari | a56_253to258_tags.txt | SN:167 | TN:7
+Word: maaring | Lemma: maari | a56_253to258_tags.txt | SN:172 | TN:4
+Word: maaring | Lemma: maari | cua_bernice_s11_tags.txt | SN:46 | TN:13
+Word: maaring | Lemma: maari | cua_bernice_s11_tags.txt | SN:95 | TN:4
+Word: pwedeng | Lemma: pwede | a56_193to197_tags.txt | SN:51 | TN:20

@@ -1,111 +1,173 @@
 POS Tag: VB_TR_OF
-Kinabibilangan | a56_247_tags.txt | SN:23 | TN:0
-Iniilipat | a56_253to258_tags.txt | SN:169 | TN:0
-binato | a56_253to258_tags.txt | SN:98 | TN:13
-mga | lopez_clement_s11_tags.txt | SN:63 | TN:36
-Pinapayagan | a56_253to258_tags.txt | SN:152 | TN:0
-binibigay | a56_260_tags.txt | SN:20 | TN:22
-tinatawag | a56_224_tags.txt | SN:20 | TN:3
-inilalarawan | a56_259_tags.txt | SN:8 | TN:7
-hinahawakan | lopez_clement_s11_tags.txt | SN:69 | TN:15
-hinahanap | a56_253to258_tags.txt | SN:137 | TN:11
-Pinapalitan | a56_253to258_tags.txt | SN:159 | TN:0
-Itinuturing | a56_253to258_tags.txt | SN:133 | TN:0
-Kinakailangan | a56_253to258_tags.txt | SN:40 | TN:0
-pinapaligiran | a56_259_tags.txt | SN:10 | TN:21
-inuutusan | a56_259_tags.txt | SN:19 | TN:16
-sinusubuan | cua_bernice_s11_tags.txt | SN:59 | TN:5
-dinidistorbo | cua_bernice_s11_tags.txt | SN:72 | TN:4
-Binabakas | a56_263_tags.txt | SN:24 | TN:0
-Tinutukoy | a56_253to258_tags.txt | SN:58 | TN:0
-hahabulin | cua_bernice_s11_tags.txt | SN:54 | TN:12
-Ipinahayag | a56_263_tags.txt | SN:26 | TN:0
-pinamumunuan | a56_235to237_tags.txt | SN:21 | TN:6
-pinupuri | a56_238to240_tags.txt | SN:3 | TN:6
-Inaangkin | a56_235to237_tags.txt | SN:4 | TN:0
-inilalagay | a56_259_tags.txt | SN:24 | TN:1
-itinatala | a56_253to258_tags.txt | SN:71 | TN:1
-sinisiguradong | cua_bernice_s11_tags.txt | SN:21 | TN:9
-Pinapalaki | lopez_clement_s11_tags.txt | SN:43 | TN:0
-Hinahati | a56_253to258_tags.txt | SN:36 | TN:0
-Ipinapakita | a56_250_tags.txt | SN:1 | TN:0
-itinatag | a56_253to258_tags.txt | SN:17 | TN:1
-binatong | a56_253to258_tags.txt | SN:23 | TN:27
-tinatayang | a56_235to237_tags.txt | SN:40 | TN:14
-Masasalamin | a56_226_tags.txt | SN:15 | TN:0
-kinakailangan | a56_238to240_tags.txt | SN:4 | TN:36
-Tinatantiya | a56_248_tags.txt | SN:30 | TN:0
-Kinikilala | cua_bernice_s11_tags.txt | SN:20 | TN:0
-Inaalagaan | cua_bernice_s11_tags.txt | SN:77 | TN:0
-Pinapalagay | a56_228_tags.txt | SN:20 | TN:40
-Tinutudlaan | cua_bernice_s11_tags.txt | SN:94 | TN:0
-tinataglay | a56_235to237_tags.txt | SN:1 | TN:14
-pinangangatwiranan | a56_228_tags.txt | SN:3 | TN:7
-kinikilala | a56_235to237_tags.txt | SN:5 | TN:29
-pinangungunahan | a56_261_tags.txt | SN:7 | TN:7
-Nilalarawan | a56_238to240_tags.txt | SN:16 | TN:0
-iyak | cua_bernice_s11_tags.txt | SN:43 | TN:9
-Tinatapos | a56_253to258_tags.txt | SN:145 | TN:0
-inaawat | cua_bernice_s11_tags.txt | SN:80 | TN:13
-Isinasalin | a56_200_tags.txt | SN:41 | TN:0
-pinapayagan | a56_253to258_tags.txt | SN:120 | TN:27
-tinutukoy | a56_211_tags.txt | SN:5 | TN:1
-inaangkat | a56_235to237_tags.txt | SN:33 | TN:4
-Pinangangasiwaan | a56_248_tags.txt | SN:23 | TN:0
-tinatangka | a56_253to258_tags.txt | SN:64 | TN:3
-inilalathala | lopez_clement_s11_tags.txt | SN:55 | TN:26
-ginagamit | a56_249_tags.txt | SN:17 | TN:32
-pinamamahalaan | a56_261_tags.txt | SN:1 | TN:4
-Kinakatwan | a56_238to240_tags.txt | SN:62 | TN:0
-Binubuo | a56_253to258_tags.txt | SN:77 | TN:0
-Tinatangkain | a56_253to258_tags.txt | SN:126 | TN:0
-inaakala | a56_223_tags.txt | SN:23 | TN:10
-isinasaad | a56_214_tags.txt | SN:43 | TN:30
-iginigawad | a56_252_tags.txt | SN:8 | TN:19
-Sinasabi | lopez_clement_s11_tags.txt | SN:62 | TN:0
-itinatanghal | a56_247_tags.txt | SN:19 | TN:20
-Tinutulungan | cua_bernice_s11_tags.txt | SN:82 | TN:0
-Inilalaan | a56_261_tags.txt | SN:7 | TN:0
-nililimitahan | lopez_clement_s11_tags.txt | SN:20 | TN:33
-sinisiyasat | a56_213_tags.txt | SN:17 | TN:43
-tinatawagan | a56_227_tags.txt | SN:2 | TN:21
-nilalayon | lopez_clement_s11_tags.txt | SN:48 | TN:1
-napipigilan | a56_259_tags.txt | SN:12 | TN:26
-Tinatawag | a56_253to258_tags.txt | SN:67 | TN:0
-Inihahanda | lopez_clement_s11_tags.txt | SN:31 | TN:0
-itinatawag | a56_247_tags.txt | SN:8 | TN:25
-ninanais | a56_253to258_tags.txt | SN:51 | TN:30
-minamarket | lopez_clement_s11_tags.txt | SN:72 | TN:17
-ipalalagay | a56_228_tags.txt | SN:6 | TN:3
-ginagaya | a56_238to240_tags.txt | SN:29 | TN:3
-inililiwaran | cua_bernice_s11_tags.txt | SN:43 | TN:4
-inaasahan | a56_235to237_tags.txt | SN:19 | TN:18
-Pinipili | a56_253to258_tags.txt | SN:104 | TN:0
-binibigyan | a56_263_tags.txt | SN:20 | TN:9
-hinahalintulad | a56_260_tags.txt | SN:13 | TN:17
-tinuturing | a56_238to240_tags.txt | SN:67 | TN:34
-kinakain | cua_bernice_s11_tags.txt | SN:78 | TN:1
-sinasabi | cua_bernice_s11_tags.txt | SN:43 | TN:6
-Ibinebenta | lopez_clement_s11_tags.txt | SN:15 | TN:0
-ipinatutupad | lopez_clement_s11_tags.txt | SN:15 | TN:39
-isinasapi | a56_261_tags.txt | SN:1 | TN:16
-kinakatawan | lopez_clement_s11_tags.txt | SN:13 | TN:2
-tinatanggal | a56_228_tags.txt | SN:11 | TN:24
-Inuulat | a56_247_tags.txt | SN:22 | TN:0
-iniiwasan | a56_260_tags.txt | SN:4 | TN:5
-inaasahang | lopez_clement_s11_tags.txt | SN:61 | TN:20
-ginagawang | lopez_clement_s11_tags.txt | SN:72 | TN:8
-Binabato | a56_253to258_tags.txt | SN:101 | TN:0
-tinatakbo | a56_253to258_tags.txt | SN:21 | TN:13
-hinahampas | cua_bernice_s11_tags.txt | SN:65 | TN:9
-ipinagbabawal | lopez_clement_s11_tags.txt | SN:20 | TN:16
-dinadaanan | a56_204_tags.txt | SN:17 | TN:8
-inuugnay | a56_247_tags.txt | SN:3 | TN:1
-itinatanggi | a56_225_tags.txt | SN:21 | TN:2
-ibinebenta | lopez_clement_s11_tags.txt | SN:40 | TN:23
-ginagawa | a56_211_tags.txt | SN:5 | TN:5
-binubuo | a56_213_tags.txt | SN:4 | TN:6
-isinasagawa | lopez_clement_s11_tags.txt | SN:40 | TN:10
-ninanis | a56_253to258_tags.txt | SN:51 | TN:6
-tinutugunan | a56_238to240_tags.txt | SN:66 | TN:1
-sinasamahan | cua_bernice_s11_tags.txt | SN:56 | TN:5
+Word: Binabakas | Lemma: bakas | a56_263_tags.txt | SN:24 | TN:0
+Word: Binabato | Lemma: Bato | a56_253to258_tags.txt | SN:101 | TN:0
+Word: Binubuo | Lemma: Buo | a56_253to258_tags.txt | SN:77 | TN:0
+Word: Hinahati | Lemma: hati | a56_253to258_tags.txt | SN:36 | TN:0
+Word: Hinahati | Lemma: Hati | cua_bernice_s11_tags.txt | SN:70 | TN:0
+Word: Ibinebenta | Lemma: benta | lopez_clement_s11_tags.txt | SN:15 | TN:0
+Word: Inaalagaan | Lemma: Alaga | cua_bernice_s11_tags.txt | SN:77 | TN:0
+Word: Inaangkin | Lemma: Angkin | a56_235to237_tags.txt | SN:4 | TN:0
+Word: Inihahanda | Lemma: handa | lopez_clement_s11_tags.txt | SN:31 | TN:0
+Word: Iniilipat | Lemma: Lipat | a56_253to258_tags.txt | SN:169 | TN:0
+Word: Inilalaan | Lemma: laan | a56_261_tags.txt | SN:7 | TN:0
+Word: Inuulat | Lemma: ulat | a56_247_tags.txt | SN:22 | TN:0
+Word: Ipinahayag | Lemma: hayag | a56_263_tags.txt | SN:26 | TN:0
+Word: Ipinapakita | Lemma: kita | a56_250_tags.txt | SN:1 | TN:0
+Word: Isinasalin | Lemma: Salin | a56_200_tags.txt | SN:41 | TN:0
+Word: Itinuturing | Lemma: Turing | a56_253to258_tags.txt | SN:133 | TN:0
+Word: Itinuturing | Lemma: Turing | cua_bernice_s11_tags.txt | SN:100 | TN:0
+Word: Kinabibilangan | Lemma: Kabilang | a56_247_tags.txt | SN:23 | TN:0
+Word: Kinakailangan | Lemma: Kailangan | a56_253to258_tags.txt | SN:40 | TN:0
+Word: Kinakailangan | Lemma: Kailangan | a56_259_tags.txt | SN:22 | TN:0
+Word: Kinakatwan | Lemma: Katawan | a56_238to240_tags.txt | SN:62 | TN:0
+Word: Kinikilala | Lemma: Kilala | cua_bernice_s11_tags.txt | SN:20 | TN:0
+Word: Masasalamin | Lemma: salamin | a56_226_tags.txt | SN:15 | TN:0
+Word: Nilalarawan | Lemma: larawan | a56_238to240_tags.txt | SN:16 | TN:0
+Word: Nilalarawan | Lemma: Larawan | a56_238to240_tags.txt | SN:17 | TN:0
+Word: Pinangangasiwaan | Lemma: mangasiwa | a56_248_tags.txt | SN:23 | TN:0
+Word: Pinapalagay | Lemma: lagay | a56_228_tags.txt | SN:20 | TN:40
+Word: Pinapalaki | Lemma: laki | lopez_clement_s11_tags.txt | SN:43 | TN:0
+Word: Pinapalitan | Lemma: Palit | a56_253to258_tags.txt | SN:159 | TN:0
+Word: Pinapayagan | Lemma: Payag | a56_253to258_tags.txt | SN:152 | TN:0
+Word: Pinipili | Lemma: Pili | a56_253to258_tags.txt | SN:104 | TN:0
+Word: Sinasabi | Lemma: Sabi | lopez_clement_s11_tags.txt | SN:62 | TN:0
+Word: Tinatangkain | Lemma: Tangka | a56_253to258_tags.txt | SN:126 | TN:0
+Word: Tinatangkain | Lemma: Tangka | a56_253to258_tags.txt | SN:127 | TN:0
+Word: Tinatantiya | Lemma: Tantiya | a56_248_tags.txt | SN:30 | TN:0
+Word: Tinatapos | Lemma: Tapos | a56_253to258_tags.txt | SN:145 | TN:0
+Word: Tinatawag | Lemma: Tawag | a56_253to258_tags.txt | SN:67 | TN:0
+Word: Tinutudlaan | Lemma: Tudla | cua_bernice_s11_tags.txt | SN:94 | TN:0
+Word: Tinutukoy | Lemma: Tukoy | a56_253to258_tags.txt | SN:58 | TN:0
+Word: Tinutukoy | Lemma: Tukoy | a56_253to258_tags.txt | SN:153 | TN:0
+Word: Tinutulungan | Lemma: Tulong | cua_bernice_s11_tags.txt | SN:82 | TN:0
+Word: binato | Lemma: bato | a56_253to258_tags.txt | SN:98 | TN:13
+Word: binatong | Lemma: bato | a56_253to258_tags.txt | SN:23 | TN:27
+Word: binibigay | Lemma: bigay | a56_260_tags.txt | SN:20 | TN:22
+Word: binibigyan | Lemma: bigay | a56_263_tags.txt | SN:20 | TN:9
+Word: binubuo | Lemma: buo | a56_213_tags.txt | SN:4 | TN:6
+Word: binubuo | Lemma: buo | a56_238to240_tags.txt | SN:21 | TN:2
+Word: binubuo | Lemma: buo | a56_247_tags.txt | SN:28 | TN:3
+Word: binubuo | Lemma: binubuo | a56_261_tags.txt | SN:6 | TN:3
+Word: binubuo | Lemma: buo | a56_250_tags.txt | SN:2 | TN:5
+Word: binubuo | Lemma: buo | a56_253to258_tags.txt | SN:59 | TN:13
+Word: binubuo | Lemma: buo | a56_261_tags.txt | SN:4 | TN:10
+Word: dinadaanan | Lemma: daan | a56_204_tags.txt | SN:17 | TN:8
+Word: dinidistorbo | Lemma: distorbo | cua_bernice_s11_tags.txt | SN:72 | TN:4
+Word: ginagamit | Lemma: gamit | a56_249_tags.txt | SN:17 | TN:32
+Word: ginagamit | Lemma: gamit | a56_253to258_tags.txt | SN:87 | TN:1
+Word: ginagamit | Lemma: gamit | a56_253to258_tags.txt | SN:168 | TN:9
+Word: ginagamit | Lemma: gamit | a56_259_tags.txt | SN:4 | TN:9
+Word: ginagamit | Lemma: gamit | a56_259_tags.txt | SN:5 | TN:10
+Word: ginagamit | Lemma: gamit | a56_264_tags.txt | SN:20 | TN:16
+Word: ginagamit | Lemma: gamit | cua_bernice_s11_tags.txt | SN:83 | TN:8
+Word: ginagamit | Lemma: gamit | lopez_clement_s11_tags.txt | SN:34 | TN:26
+Word: ginagawa | Lemma: gawa | a56_211_tags.txt | SN:5 | TN:5
+Word: ginagawa | Lemma: gawa | a56_247_tags.txt | SN:7 | TN:14
+Word: ginagawa | Lemma: gawa | a56_253to258_tags.txt | SN:67 | TN:14
+Word: ginagawa | Lemma: gawa | a56_247_tags.txt | SN:19 | TN:27
+Word: ginagawa | Lemma: gawa | a56_248_tags.txt | SN:4 | TN:8
+Word: ginagawa | Lemma: gawa | cua_bernice_s11_tags.txt | SN:40 | TN:12
+Word: ginagawa | Lemma: gawa | a56_261_tags.txt | SN:17 | TN:14
+Word: ginagawa | Lemma: gawa | cua_bernice_s11_tags.txt | SN:41 | TN:8
+Word: ginagawa | Lemma: gawa | cua_bernice_s11_tags.txt | SN:43 | TN:22
+Word: ginagawa | Lemma: gawa | cua_bernice_s11_tags.txt | SN:64 | TN:6
+Word: ginagawa | Lemma: gawa | a56_253to258_tags.txt | SN:98 | TN:23
+Word: ginagawang | Lemma: gawa | lopez_clement_s11_tags.txt | SN:72 | TN:8
+Word: ginagaya | Lemma: gaya | a56_238to240_tags.txt | SN:29 | TN:3
+Word: hahabulin | Lemma: habol | cua_bernice_s11_tags.txt | SN:54 | TN:12
+Word: hinahalintulad | Lemma: halintulad | a56_260_tags.txt | SN:13 | TN:17
+Word: hinahampas | Lemma: hampas | cua_bernice_s11_tags.txt | SN:65 | TN:9
+Word: hinahanap | Lemma: hanap | a56_253to258_tags.txt | SN:137 | TN:11
+Word: hinahawakan | Lemma: hawak | lopez_clement_s11_tags.txt | SN:69 | TN:15
+Word: ibinebenta | Lemma: benta | lopez_clement_s11_tags.txt | SN:40 | TN:23
+Word: iginigawad | Lemma: gawad | a56_252_tags.txt | SN:8 | TN:19
+Word: inaakala | Lemma: akala | a56_223_tags.txt | SN:23 | TN:10
+Word: inaangkat | Lemma: angkat | a56_235to237_tags.txt | SN:33 | TN:4
+Word: inaasahan | Lemma: asa | a56_235to237_tags.txt | SN:19 | TN:18
+Word: inaasahan | Lemma: asa | a56_253to258_tags.txt | SN:129 | TN:15
+Word: inaasahang | Lemma: asa | lopez_clement_s11_tags.txt | SN:61 | TN:20
+Word: inaawat | Lemma: awat | cua_bernice_s11_tags.txt | SN:80 | TN:13
+Word: iniiwasan | Lemma: iwas | a56_260_tags.txt | SN:4 | TN:5
+Word: inilalagay | Lemma: lagay | a56_259_tags.txt | SN:24 | TN:1
+Word: inilalarawan | Lemma: larawan | a56_259_tags.txt | SN:8 | TN:7
+Word: inilalathala | Lemma: lathala | lopez_clement_s11_tags.txt | SN:55 | TN:26
+Word: inililiwaran | Lemma: larawan | cua_bernice_s11_tags.txt | SN:43 | TN:4
+Word: inuugnay | Lemma: ugnay | a56_247_tags.txt | SN:3 | TN:1
+Word: inuutusan | Lemma: utos | a56_259_tags.txt | SN:19 | TN:16
+Word: ipalalagay | Lemma: lagay | a56_228_tags.txt | SN:6 | TN:3
+Word: ipinagbabawal | Lemma: bawal | lopez_clement_s11_tags.txt | SN:20 | TN:16
+Word: ipinatutupad | Lemma: tupad | lopez_clement_s11_tags.txt | SN:15 | TN:39
+Word: isinasaad | Lemma: saad | a56_214_tags.txt | SN:43 | TN:30
+Word: isinasagawa | Lemma: gawa | lopez_clement_s11_tags.txt | SN:40 | TN:10
+Word: isinasapi | Lemma: sapi | a56_261_tags.txt | SN:1 | TN:16
+Word: itinatag | Lemma: tatag | a56_253to258_tags.txt | SN:17 | TN:1
+Word: itinatag | Lemma: tatag | lopez_clement_s11_tags.txt | SN:63 | TN:47
+Word: itinatala | Lemma: tala | a56_253to258_tags.txt | SN:71 | TN:1
+Word: itinatanggi | Lemma: tanggi | a56_225_tags.txt | SN:21 | TN:2
+Word: itinatanggi | Lemma: tanggi | a56_225_tags.txt | SN:24 | TN:1
+Word: itinatanghal | Lemma: tanghal | a56_247_tags.txt | SN:19 | TN:20
+Word: itinatawag | Lemma: itawag | a56_247_tags.txt | SN:8 | TN:25
+Word: iyak | Lemma: iyak | cua_bernice_s11_tags.txt | SN:43 | TN:9
+Word: kinakailangan | Lemma: kailangan | a56_238to240_tags.txt | SN:4 | TN:36
+Word: kinakailangan | Lemma: kailangan | a56_253to258_tags.txt | SN:85 | TN:2
+Word: kinakailangan | Lemma: kailangan | a56_253to258_tags.txt | SN:89 | TN:1
+Word: kinakailangan | Lemma: kailangan | a56_260_tags.txt | SN:3 | TN:64
+Word: kinakailangan | Lemma: kailangan | a56_260_tags.txt | SN:7 | TN:5
+Word: kinakain | Lemma: kain | cua_bernice_s11_tags.txt | SN:78 | TN:1
+Word: kinakain | Lemma: kain | cua_bernice_s11_tags.txt | SN:85 | TN:5
+Word: kinakain | Lemma: kain | cua_bernice_s11_tags.txt | SN:87 | TN:12
+Word: kinakain | Lemma: kain | cua_bernice_s11_tags.txt | SN:89 | TN:2
+Word: kinakatawan | Lemma: kinatawan | lopez_clement_s11_tags.txt | SN:13 | TN:2
+Word: kinikilala | Lemma: kilala | a56_235to237_tags.txt | SN:5 | TN:29
+Word: kinikilala | Lemma: kilala | a56_235to237_tags.txt | SN:43 | TN:2
+Word: kinikilala | Lemma: kilala | a56_235to237_tags.txt | SN:44 | TN:4
+Word: kinikilala | Lemma: kilala | a56_238to240_tags.txt | SN:64 | TN:11
+Word: mga | Lemma: mga | lopez_clement_s11_tags.txt | SN:63 | TN:36
+Word: minamarket | Lemma: market | lopez_clement_s11_tags.txt | SN:72 | TN:17
+Word: napipigilan | Lemma: pigil | a56_259_tags.txt | SN:12 | TN:26
+Word: nilalayon | Lemma: layon | lopez_clement_s11_tags.txt | SN:48 | TN:1
+Word: nililimitahan | Lemma: limita | lopez_clement_s11_tags.txt | SN:20 | TN:33
+Word: ninanais | Lemma: nais | a56_253to258_tags.txt | SN:51 | TN:30
+Word: ninanis | Lemma: nais | a56_253to258_tags.txt | SN:51 | TN:6
+Word: pinamamahalaan | Lemma: bahala | a56_261_tags.txt | SN:1 | TN:4
+Word: pinamamahalaan | Lemma: bahala | a56_261_tags.txt | SN:5 | TN:5
+Word: pinamamahalaan | Lemma: bahala | a56_261_tags.txt | SN:22 | TN:7
+Word: pinamumunuan | Lemma: puno | a56_235to237_tags.txt | SN:21 | TN:6
+Word: pinangangatwiranan | Lemma: katwiran | a56_228_tags.txt | SN:3 | TN:7
+Word: pinangungunahan | Lemma: una | a56_261_tags.txt | SN:7 | TN:7
+Word: pinapaligiran | Lemma: ligid | a56_259_tags.txt | SN:10 | TN:21
+Word: pinapayagan | Lemma: payag | a56_253to258_tags.txt | SN:120 | TN:27
+Word: pinapayagan | Lemma: payag | a56_253to258_tags.txt | SN:142 | TN:13
+Word: pinapayagan | Lemma: payag | a56_253to258_tags.txt | SN:161 | TN:6
+Word: pinapayagan | Lemma: payag | a56_260_tags.txt | SN:20 | TN:11
+Word: pinupuri | Lemma: puri | a56_238to240_tags.txt | SN:3 | TN:6
+Word: sinasabi | Lemma: sabi | cua_bernice_s11_tags.txt | SN:43 | TN:6
+Word: sinasamahan | Lemma: sama | cua_bernice_s11_tags.txt | SN:56 | TN:5
+Word: sinisiguradong | Lemma: sigurado | cua_bernice_s11_tags.txt | SN:21 | TN:9
+Word: sinisiyasat | Lemma: siyasat | a56_213_tags.txt | SN:17 | TN:43
+Word: sinusubuan | Lemma: subok | cua_bernice_s11_tags.txt | SN:59 | TN:5
+Word: tinataglay | Lemma: taglay | a56_235to237_tags.txt | SN:1 | TN:14
+Word: tinatakbo | Lemma: takbo | a56_253to258_tags.txt | SN:21 | TN:13
+Word: tinatanggal | Lemma: tanggal | a56_228_tags.txt | SN:11 | TN:24
+Word: tinatangka | Lemma: tangka | a56_253to258_tags.txt | SN:64 | TN:3
+Word: tinatangka | Lemma: tangka | a56_253to258_tags.txt | SN:69 | TN:9
+Word: tinatawag | Lemma: tawag | a56_253to258_tags.txt | SN:23 | TN:43
+Word: tinatawag | Lemma: tawag | a56_224_tags.txt | SN:20 | TN:3
+Word: tinatawag | Lemma: tawag | a56_247_tags.txt | SN:23 | TN:14
+Word: tinatawag | Lemma: tawag | a56_248_tags.txt | SN:18 | TN:7
+Word: tinatawag | Lemma: tawag | a56_248_tags.txt | SN:24 | TN:8
+Word: tinatawag | Lemma: tawag | a56_253to258_tags.txt | SN:77 | TN:15
+Word: tinatawag | Lemma: tawag | a56_253to258_tags.txt | SN:118 | TN:30
+Word: tinatawag | Lemma: tawag | a56_260_tags.txt | SN:11 | TN:5
+Word: tinatawag | Lemma: tawag | lopez_clement_s11_tags.txt | SN:50 | TN:34
+Word: tinatawag | Lemma: tawag | lopez_clement_s11_tags.txt | SN:40 | TN:28
+Word: tinatawagan | Lemma: tawag | a56_227_tags.txt | SN:2 | TN:21
+Word: tinatayang | Lemma: taya | a56_235to237_tags.txt | SN:40 | TN:14
+Word: tinatayang | Lemma: taya | a56_238to240_tags.txt | SN:60 | TN:7
+Word: tinatayang | Lemma: taya | a56_238to240_tags.txt | SN:60 | TN:14
+Word: tinutugunan | Lemma: tugon | a56_238to240_tags.txt | SN:66 | TN:1
+Word: tinutukoy | Lemma: tukoy | a56_211_tags.txt | SN:5 | TN:1
+Word: tinutukoy | Lemma: tukoy | a56_253to258_tags.txt | SN:34 | TN:1
+Word: tinutukoy | Lemma: tukoy | a56_259_tags.txt | SN:20 | TN:2
+Word: tinuturing | Lemma: turing | a56_238to240_tags.txt | SN:67 | TN:34
+Word: tinuturing | Lemma: turing | lopez_clement_s11_tags.txt | SN:58 | TN:3

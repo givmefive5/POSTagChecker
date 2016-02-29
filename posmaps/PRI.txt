@@ -1,33 +1,298 @@
 POS Tag: PRI
-iilan | a56_181to186_tags.txt | SN:28 | TN:29
-kabubuaan | a56_253to258_tags.txt | SN:90 | TN:60
-kabuuan | a56_181to186_tags.txt | SN:16 | TN:8
-alinman | a56_181to186_tags.txt | SN:34 | TN:21
-bawa’t | a56_259_tags.txt | SN:1 | TN:24
-Iba | a56_260_tags.txt | SN:1 | TN:0
-Kapwa | a56_226_tags.txt | SN:19 | TN:0
-isang | a56_193to197_tags.txt | SN:8 | TN:4
-isa't_isa | a56_238to240_tags.txt | SN:57 | TN:19
-Marami | a56_247_tags.txt | SN:17 | TN:0
-Ilan | a56_250_tags.txt | SN:4 | TN:0
-marami | a56_181to186_tags.txt | SN:91 | TN:17
-kalahati | a56_193to197_tags.txt | SN:5 | TN:8
-Isa | a56_181to186_tags.txt | SN:135 | TN:0
-lahat | a56_181to186_tags.txt | SN:3 | TN:38
-bawat | a56_181to186_tags.txt | SN:24 | TN:4
-pangkalahatan | a56_223_tags.txt | SN:23 | TN:1
-ilan | a56_181to186_tags.txt | SN:3 | TN:58
-kada | a56_253to258_tags.txt | SN:100 | TN:23
-Bawat | a56_252_tags.txt | SN:6 | TN:0
-madla | a56_181to186_tags.txt | SN:9 | TN:7
-Karamihan | a56_181to186_tags.txt | SN:141 | TN:0
-iba | a56_181to186_tags.txt | SN:8 | TN:21
-siyang | lopez_clement_s11_tags.txt | SN:63 | TN:33
-madami | a56_260_tags.txt | SN:8 | TN:6
-ilang | a56_264_tags.txt | SN:33 | TN:6
-pa | a56_193to197_tags.txt | SN:96 | TN:30
-kapwa | a56_181to186_tags.txt | SN:6 | TN:77
-isa | a56_181to186_tags.txt | SN:15 | TN:26
-Lahat | a56_260_tags.txt | SN:10 | TN:0
-buo | cua_bernice_s11_tags.txt | SN:107 | TN:19
-karamihan | a56_181to186_tags.txt | SN:37 | TN:10
+Word: Bawat | Lemma: Bawat | a56_252_tags.txt | SN:6 | TN:0
+Word: Bawat | Lemma: Bawat | a56_261_tags.txt | SN:21 | TN:0
+Word: Bawat | Lemma: Bawat | a56_261_tags.txt | SN:22 | TN:0
+Word: Iba | Lemma: Iba | a56_260_tags.txt | SN:1 | TN:0
+Word: Iba | Lemma: Iba | a56_263_tags.txt | SN:21 | TN:0
+Word: Ilan | Lemma: Ilan | a56_250_tags.txt | SN:4 | TN:0
+Word: Ilan | Lemma: Ilan | a56_250_tags.txt | SN:11 | TN:0
+Word: Isa | Lemma: Isa | a56_181to186_tags.txt | SN:135 | TN:0
+Word: Isa | Lemma: Isa | a56_193to197_tags.txt | SN:24 | TN:0
+Word: Isa | Lemma: Isa | a56_193to197_tags.txt | SN:106 | TN:0
+Word: Isa | Lemma: Isa | a56_251_tags.txt | SN:26 | TN:0
+Word: Isa | Lemma: Isa | a56_200_tags.txt | SN:18 | TN:0
+Word: Isa | Lemma: Isa | lopez_clement_s11_tags.txt | SN:49 | TN:0
+Word: Isa | Lemma: Isa | a56_251_tags.txt | SN:21 | TN:0
+Word: Isa | Lemma: Isa | a56_264_tags.txt | SN:23 | TN:0
+Word: Isa | Lemma: Isa | a56_223_tags.txt | SN:7 | TN:0
+Word: Isa | Lemma: Isa | a56_226_tags.txt | SN:24 | TN:0
+Word: Isa | Lemma: Isa | a56_248_tags.txt | SN:10 | TN:0
+Word: Isa | Lemma: Isa | a56_252_tags.txt | SN:1 | TN:0
+Word: Isa | Lemma: Isa | a56_235to237_tags.txt | SN:8 | TN:0
+Word: Isa | Lemma: Isa | a56_251_tags.txt | SN:7 | TN:0
+Word: Isa | Lemma: Isa | a56_235to237_tags.txt | SN:58 | TN:0
+Word: Isa | Lemma: Isa | a56_235to237_tags.txt | SN:73 | TN:0
+Word: Isa | Lemma: Isa | a56_238to240_tags.txt | SN:50 | TN:0
+Word: Kapwa | Lemma: Kapwa | a56_226_tags.txt | SN:19 | TN:0
+Word: Karamihan | Lemma: dami | a56_181to186_tags.txt | SN:141 | TN:0
+Word: Lahat | Lemma: Lahat | a56_260_tags.txt | SN:10 | TN:0
+Word: Marami | Lemma: Dami | a56_247_tags.txt | SN:17 | TN:0
+Word: alinman | Lemma: alinman | a56_181to186_tags.txt | SN:34 | TN:21
+Word: alinman | Lemma: alinman | a56_253to258_tags.txt | SN:90 | TN:29
+Word: alinman | Lemma: alinman | a56_260_tags.txt | SN:11 | TN:8
+Word: alinman | Lemma: alinman | a56_260_tags.txt | SN:12 | TN:24
+Word: alinman | Lemma: alinman | a56_264_tags.txt | SN:19 | TN:15
+Word: alinman | Lemma: alinman | cua_bernice_s11_tags.txt | SN:74 | TN:1
+Word: bawat | Lemma: bawat | a56_181to186_tags.txt | SN:77 | TN:13
+Word: bawat | Lemma: bawat | a56_181to186_tags.txt | SN:24 | TN:4
+Word: bawat | Lemma: bawat | a56_181to186_tags.txt | SN:116 | TN:10
+Word: bawat | Lemma: bawat | a56_235to237_tags.txt | SN:21 | TN:39
+Word: bawat | Lemma: bawat | a56_253to258_tags.txt | SN:59 | TN:15
+Word: bawat | Lemma: bawat | lopez_clement_s11_tags.txt | SN:22 | TN:13
+Word: bawat | Lemma: bawat | a56_253to258_tags.txt | SN:148 | TN:6
+Word: bawat | Lemma: bawat | a56_253to258_tags.txt | SN:84 | TN:56
+Word: bawat | Lemma: bawat | a56_253to258_tags.txt | SN:38 | TN:8
+Word: bawat | Lemma: bawat | a56_193to197_tags.txt | SN:59 | TN:62
+Word: bawat | Lemma: bawat | a56_193to197_tags.txt | SN:61 | TN:49
+Word: bawat | Lemma: bawat | a56_193to197_tags.txt | SN:61 | TN:56
+Word: bawat | Lemma: bawat | a56_253to258_tags.txt | SN:40 | TN:42
+Word: bawat | Lemma: bawat | a56_253to258_tags.txt | SN:72 | TN:25
+Word: bawat | Lemma: bawat | a56_253to258_tags.txt | SN:40 | TN:33
+Word: bawat | Lemma: bawat | a56_193to197_tags.txt | SN:65 | TN:48
+Word: bawat | Lemma: bawat | cua_bernice_s11_tags.txt | SN:42 | TN:2
+Word: bawat | Lemma: bawat | a56_253to258_tags.txt | SN:84 | TN:69
+Word: bawat | Lemma: bawat | a56_253to258_tags.txt | SN:37 | TN:4
+Word: bawat | Lemma: bawat | a56_253to258_tags.txt | SN:53 | TN:5
+Word: bawat | Lemma: bawat | a56_253to258_tags.txt | SN:125 | TN:70
+Word: bawat | Lemma: bawat | a56_260_tags.txt | SN:19 | TN:6
+Word: bawat | Lemma: bawat | a56_193to197_tags.txt | SN:65 | TN:63
+Word: bawat | Lemma: bawat | a56_260_tags.txt | SN:9 | TN:11
+Word: bawat | Lemma: bawat | a56_253to258_tags.txt | SN:54 | TN:15
+Word: bawat | Lemma: bawat | a56_223_tags.txt | SN:15 | TN:12
+Word: bawat | Lemma: bawat | a56_253to258_tags.txt | SN:28 | TN:3
+Word: bawat | Lemma: bawat | a56_253to258_tags.txt | SN:62 | TN:6
+Word: bawat | Lemma: bawat | a56_253to258_tags.txt | SN:81 | TN:12
+Word: bawat | Lemma: bawat | a56_253to258_tags.txt | SN:90 | TN:72
+Word: bawat | Lemma: bawat | a56_253to258_tags.txt | SN:152 | TN:15
+Word: bawat | Lemma: bawat | a56_253to258_tags.txt | SN:37 | TN:29
+Word: bawat | Lemma: bawat | a56_193to197_tags.txt | SN:65 | TN:71
+Word: bawat | Lemma: bawat | a56_204_tags.txt | SN:10 | TN:19
+Word: bawa’t | Lemma: bawa’t | a56_259_tags.txt | SN:1 | TN:24
+Word: bawa’t | Lemma: bawa’t | a56_259_tags.txt | SN:2 | TN:23
+Word: bawa’t | Lemma: bawa’t | a56_259_tags.txt | SN:4 | TN:11
+Word: bawa’t | Lemma: bawa’t | a56_259_tags.txt | SN:4 | TN:17
+Word: bawa’t | Lemma: bawa’t | a56_259_tags.txt | SN:5 | TN:15
+Word: buo | Lemma: buo | cua_bernice_s11_tags.txt | SN:107 | TN:19
+Word: iba | Lemma: iba | a56_223_tags.txt | SN:21 | TN:14
+Word: iba | Lemma: iba | a56_181to186_tags.txt | SN:8 | TN:21
+Word: iba | Lemma: iba | a56_250_tags.txt | SN:9 | TN:48
+Word: iba | Lemma: iba | a56_253to258_tags.txt | SN:126 | TN:26
+Word: iba | Lemma: iba | a56_193to197_tags.txt | SN:32 | TN:25
+Word: iba | Lemma: iba | a56_261_tags.txt | SN:27 | TN:1
+Word: iba | Lemma: iba | a56_250_tags.txt | SN:24 | TN:1
+Word: iba | Lemma: iba | a56_251_tags.txt | SN:31 | TN:16
+Word: iba | Lemma: iba | a56_238to240_tags.txt | SN:73 | TN:21
+Word: iba | Lemma: iba | lopez_clement_s11_tags.txt | SN:5 | TN:46
+Word: iba | Lemma: iba | a56_253to258_tags.txt | SN:127 | TN:26
+Word: iba | Lemma: iba | a56_263_tags.txt | SN:19 | TN:19
+Word: iba | Lemma: iba | a56_247_tags.txt | SN:31 | TN:1
+Word: iba | Lemma: iba | a56_193to197_tags.txt | SN:66 | TN:3
+Word: iba | Lemma: iba | a56_193to197_tags.txt | SN:77 | TN:22
+Word: iba | Lemma: iba | a56_235to237_tags.txt | SN:32 | TN:18
+Word: iba | Lemma: iba | lopez_clement_s11_tags.txt | SN:18 | TN:7
+Word: iba | Lemma: iba | a56_253to258_tags.txt | SN:3 | TN:8
+Word: iba | Lemma: iba | lopez_clement_s11_tags.txt | SN:36 | TN:8
+Word: iba | Lemma: iba | a56_235to237_tags.txt | SN:62 | TN:15
+Word: iba | Lemma: iba | a56_247_tags.txt | SN:3 | TN:3
+Word: iba | Lemma: iba | a56_198_tags.txt | SN:24 | TN:17
+Word: iba | Lemma: iba | a56_198_tags.txt | SN:39 | TN:33
+Word: iba | Lemma: iba | a56_253to258_tags.txt | SN:120 | TN:14
+Word: iba | Lemma: iba | lopez_clement_s11_tags.txt | SN:41 | TN:39
+Word: iba | Lemma: iba | a56_200_tags.txt | SN:33 | TN:4
+Word: iba | Lemma: iba | a56_253to258_tags.txt | SN:125 | TN:39
+Word: iba | Lemma: iba | a56_261_tags.txt | SN:15 | TN:35
+Word: iba | Lemma: iba | a56_260_tags.txt | SN:6 | TN:13
+Word: iba | Lemma: iba | a56_253to258_tags.txt | SN:54 | TN:6
+Word: iba | Lemma: iba | lopez_clement_s11_tags.txt | SN:18 | TN:22
+Word: iba | Lemma: iba | a56_225_tags.txt | SN:21 | TN:4
+Word: iba | Lemma: iba | a56_253to258_tags.txt | SN:53 | TN:13
+Word: iilan | Lemma: ilan | a56_181to186_tags.txt | SN:28 | TN:29
+Word: iilan | Lemma: ilan | a56_181to186_tags.txt | SN:31 | TN:3
+Word: ilan | Lemma: ilan | a56_181to186_tags.txt | SN:45 | TN:5
+Word: ilan | Lemma: ilan | a56_181to186_tags.txt | SN:3 | TN:58
+Word: ilan | Lemma: ilan | a56_181to186_tags.txt | SN:30 | TN:5
+Word: ilan | Lemma: ilan | a56_238to240_tags.txt | SN:34 | TN:9
+Word: ilan | Lemma: ilan | a56_181to186_tags.txt | SN:46 | TN:39
+Word: ilan | Lemma: ilan | a56_253to258_tags.txt | SN:56 | TN:27
+Word: ilan | Lemma: ilan | lopez_clement_s11_tags.txt | SN:68 | TN:5
+Word: ilan | Lemma: ilan | a56_181to186_tags.txt | SN:93 | TN:1
+Word: ilan | Lemma: ilan | a56_181to186_tags.txt | SN:104 | TN:8
+Word: ilan | Lemma: ilan | a56_263_tags.txt | SN:5 | TN:1
+Word: ilan | Lemma: ilan | a56_223_tags.txt | SN:23 | TN:12
+Word: ilan | Lemma: ilan | a56_238to240_tags.txt | SN:26 | TN:19
+Word: ilan | Lemma: ilan | a56_263_tags.txt | SN:21 | TN:7
+Word: ilan | Lemma: ilan | a56_235to237_tags.txt | SN:63 | TN:26
+Word: ilan | Lemma: ilan | a56_238to240_tags.txt | SN:1 | TN:5
+Word: ilan | Lemma: ilan | a56_235to237_tags.txt | SN:66 | TN:8
+Word: ilang | Lemma: ilan | a56_264_tags.txt | SN:33 | TN:6
+Word: isa | Lemma: isa | a56_181to186_tags.txt | SN:24 | TN:2
+Word: isa | Lemma: isa | a56_181to186_tags.txt | SN:15 | TN:26
+Word: isa | Lemma: isa | lopez_clement_s11_tags.txt | SN:43 | TN:21
+Word: isa | Lemma: isa | a56_227_tags.txt | SN:21 | TN:30
+Word: isa | Lemma: isa | cua_bernice_s11_tags.txt | SN:87 | TN:4
+Word: isa | Lemma: isa | a56_235to237_tags.txt | SN:21 | TN:40
+Word: isa | Lemma: isa | a56_250_tags.txt | SN:14 | TN:7
+Word: isa | Lemma: isa | a56_235to237_tags.txt | SN:8 | TN:5
+Word: isa | Lemma: isa | a56_181to186_tags.txt | SN:27 | TN:18
+Word: isa | Lemma: isa | a56_250_tags.txt | SN:17 | TN:15
+Word: isa | Lemma: isa | a56_252_tags.txt | SN:2 | TN:8
+Word: isa | Lemma: isa | cua_bernice_s11_tags.txt | SN:64 | TN:2
+Word: isa | Lemma: isa | a56_238to240_tags.txt | SN:43 | TN:22
+Word: isa | Lemma: isa | a56_204_tags.txt | SN:1 | TN:8
+Word: isa | Lemma: isa | a56_235to237_tags.txt | SN:34 | TN:6
+Word: isa | Lemma: isa | a56_249_tags.txt | SN:7 | TN:21
+Word: isa | Lemma: isa | a56_235to237_tags.txt | SN:17 | TN:32
+Word: isa | Lemma: isa | a56_253to258_tags.txt | SN:164 | TN:22
+Word: isa | Lemma: isa | a56_263_tags.txt | SN:17 | TN:14
+Word: isa | Lemma: isa | a56_264_tags.txt | SN:19 | TN:9
+Word: isa | Lemma: isa | a56_259_tags.txt | SN:4 | TN:14
+Word: isa | Lemma: isa | a56_238to240_tags.txt | SN:35 | TN:5
+Word: isa | Lemma: isa | a56_223_tags.txt | SN:18 | TN:13
+Word: isa | Lemma: isa | a56_181to186_tags.txt | SN:50 | TN:6
+Word: isa | Lemma: isa | a56_227_tags.txt | SN:15 | TN:12
+Word: isa | Lemma: isa | a56_259_tags.txt | SN:5 | TN:12
+Word: isa | Lemma: isa | a56_235to237_tags.txt | SN:62 | TN:9
+Word: isa | Lemma: isa | a56_238to240_tags.txt | SN:31 | TN:18
+Word: isa | Lemma: isa | a56_204_tags.txt | SN:10 | TN:20
+Word: isa | Lemma: isa | a56_253to258_tags.txt | SN:124 | TN:33
+Word: isa | Lemma: isa | a56_238to240_tags.txt | SN:71 | TN:3
+Word: isa | Lemma: isa | a56_247_tags.txt | SN:20 | TN:6
+Word: isa | Lemma: isa | a56_235to237_tags.txt | SN:10 | TN:10
+Word: isa | Lemma: isa | a56_235to237_tags.txt | SN:50 | TN:4
+Word: isa | Lemma: isa | a56_181to186_tags.txt | SN:77 | TN:14
+Word: isa | Lemma: isa | a56_253to258_tags.txt | SN:153 | TN:11
+Word: isa | Lemma: isa | a56_263_tags.txt | SN:12 | TN:26
+Word: isa | Lemma: isa | a56_263_tags.txt | SN:17 | TN:36
+Word: isa | Lemma: isa | a56_235to237_tags.txt | SN:73 | TN:23
+Word: isa | Lemma: isa | a56_253to258_tags.txt | SN:72 | TN:26
+Word: isa | Lemma: isa | a56_261_tags.txt | SN:11 | TN:17
+Word: isa | Lemma: isa | a56_253to258_tags.txt | SN:123 | TN:33
+Word: isa | Lemma: isa | a56_259_tags.txt | SN:22 | TN:22
+Word: isa | Lemma: isa | a56_223_tags.txt | SN:6 | TN:5
+Word: isa | Lemma: isa | a56_235to237_tags.txt | SN:13 | TN:6
+Word: isa | Lemma: isa | a56_259_tags.txt | SN:1 | TN:10
+Word: isa | Lemma: isa | a56_253to258_tags.txt | SN:13 | TN:20
+Word: isa | Lemma: isa | a56_223_tags.txt | SN:11 | TN:39
+Word: isa | Lemma: isa | a56_200_tags.txt | SN:16 | TN:1
+Word: isa | Lemma: isa | a56_213_tags.txt | SN:43 | TN:3
+Word: isa | Lemma: isa | a56_253to258_tags.txt | SN:26 | TN:13
+Word: isa | Lemma: isa | a56_238to240_tags.txt | SN:24 | TN:20
+Word: isa | Lemma: isa | a56_211_tags.txt | SN:3 | TN:3
+Word: isa | Lemma: isa | a56_193to197_tags.txt | SN:39 | TN:10
+Word: isa | Lemma: isa | a56_193to197_tags.txt | SN:49 | TN:28
+Word: isa | Lemma: isa | a56_224_tags.txt | SN:13 | TN:20
+Word: isa | Lemma: isa | a56_193to197_tags.txt | SN:49 | TN:44
+Word: isa | Lemma: isa | a56_193to197_tags.txt | SN:101 | TN:2
+Word: isa't_isa | Lemma: isa | a56_238to240_tags.txt | SN:57 | TN:19
+Word: isang | Lemma: isa | a56_193to197_tags.txt | SN:8 | TN:4
+Word: isang | Lemma: isa | a56_235to237_tags.txt | SN:17 | TN:41
+Word: isang | Lemma: isa | a56_252_tags.txt | SN:12 | TN:4
+Word: isang | Lemma: isa | a56_253to258_tags.txt | SN:129 | TN:8
+Word: isang | Lemma: isa | a56_253to258_tags.txt | SN:134 | TN:35
+Word: kabubuaan | Lemma: buo | a56_253to258_tags.txt | SN:90 | TN:60
+Word: kabuuan | Lemma: buo | a56_224_tags.txt | SN:31 | TN:13
+Word: kabuuan | Lemma: buo | a56_181to186_tags.txt | SN:16 | TN:8
+Word: kabuuan | Lemma: buo | a56_181to186_tags.txt | SN:34 | TN:23
+Word: kabuuan | Lemma: buo | a56_181to186_tags.txt | SN:47 | TN:12
+Word: kabuuan | Lemma: buo | a56_193to197_tags.txt | SN:106 | TN:34
+Word: kabuuan | Lemma: buo | a56_235to237_tags.txt | SN:67 | TN:4
+Word: kabuuan | Lemma: buo | a56_193to197_tags.txt | SN:112 | TN:22
+Word: kabuuan | Lemma: buo | a56_214_tags.txt | SN:43 | TN:2
+Word: kabuuan | Lemma: buo | a56_223_tags.txt | SN:18 | TN:1
+Word: kabuuan | Lemma: buo | a56_253to258_tags.txt | SN:64 | TN:1
+Word: kabuuan | Lemma: buo | a56_235to237_tags.txt | SN:18 | TN:38
+Word: kabuuan | Lemma: buo | a56_235to237_tags.txt | SN:45 | TN:18
+Word: kabuuan | Lemma: buo | a56_225_tags.txt | SN:3 | TN:1
+Word: kada | Lemma: kada | a56_253to258_tags.txt | SN:100 | TN:23
+Word: kada | Lemma: kada | a56_253to258_tags.txt | SN:100 | TN:40
+Word: kada | Lemma: kada | a56_253to258_tags.txt | SN:101 | TN:9
+Word: kada | Lemma: kada | cua_bernice_s11_tags.txt | SN:63 | TN:6
+Word: kada | Lemma: kada | lopez_clement_s11_tags.txt | SN:55 | TN:17
+Word: kada | Lemma: kada | lopez_clement_s11_tags.txt | SN:56 | TN:10
+Word: kalahati | Lemma: hati | a56_193to197_tags.txt | SN:5 | TN:8
+Word: kapwa | Lemma: kapwa | a56_181to186_tags.txt | SN:6 | TN:77
+Word: kapwa | Lemma: kapwa | a56_225_tags.txt | SN:5 | TN:6
+Word: kapwa | Lemma: kapwa | a56_225_tags.txt | SN:13 | TN:22
+Word: karamihan | Lemma: dami | a56_193to197_tags.txt | SN:112 | TN:20
+Word: karamihan | Lemma: dami | a56_181to186_tags.txt | SN:86 | TN:9
+Word: karamihan | Lemma: dami | a56_181to186_tags.txt | SN:37 | TN:10
+Word: karamihan | Lemma: dami | lopez_clement_s11_tags.txt | SN:11 | TN:1
+Word: karamihan | Lemma: dami | a56_235to237_tags.txt | SN:68 | TN:5
+Word: karamihan | Lemma: dami | a56_253to258_tags.txt | SN:97 | TN:28
+Word: karamihan | Lemma: dami | a56_181to186_tags.txt | SN:97 | TN:7
+Word: karamihan | Lemma: dami | a56_193to197_tags.txt | SN:34 | TN:2
+Word: karamihan | Lemma: karamihan | cua_bernice_s11_tags.txt | SN:32 | TN:1
+Word: karamihan | Lemma: dami | a56_238to240_tags.txt | SN:61 | TN:4
+Word: karamihan | Lemma: dami | a56_253to258_tags.txt | SN:82 | TN:2
+Word: karamihan | Lemma: dami | a56_253to258_tags.txt | SN:168 | TN:13
+Word: karamihan | Lemma: dami | a56_238to240_tags.txt | SN:73 | TN:6
+Word: karamihan | Lemma: dami | a56_193to197_tags.txt | SN:55 | TN:17
+Word: karamihan | Lemma: dami | a56_250_tags.txt | SN:14 | TN:14
+Word: karamihan | Lemma: dami | a56_235to237_tags.txt | SN:8 | TN:22
+Word: karamihan | Lemma: dami | a56_235to237_tags.txt | SN:12 | TN:28
+Word: karamihan | Lemma: dami | a56_235to237_tags.txt | SN:10 | TN:30
+Word: karamihan | Lemma: dami | a56_235to237_tags.txt | SN:12 | TN:9
+Word: lahat | Lemma: lahat | a56_181to186_tags.txt | SN:57 | TN:9
+Word: lahat | Lemma: lahat | a56_181to186_tags.txt | SN:85 | TN:19
+Word: lahat | Lemma: lahat | a56_181to186_tags.txt | SN:12 | TN:10
+Word: lahat | Lemma: lahat | a56_253to258_tags.txt | SN:66 | TN:25
+Word: lahat | Lemma: lahat | a56_193to197_tags.txt | SN:99 | TN:9
+Word: lahat | Lemma: lahat | a56_181to186_tags.txt | SN:3 | TN:38
+Word: lahat | Lemma: lahat | a56_181to186_tags.txt | SN:31 | TN:5
+Word: lahat | Lemma: lahat | a56_253to258_tags.txt | SN:83 | TN:11
+Word: lahat | Lemma: lahat | a56_200_tags.txt | SN:31 | TN:25
+Word: lahat | Lemma: lahat | a56_252_tags.txt | SN:2 | TN:2
+Word: lahat | Lemma: lahat | a56_263_tags.txt | SN:9 | TN:23
+Word: lahat | Lemma: lahat | a56_253to258_tags.txt | SN:66 | TN:32
+Word: lahat | Lemma: lahat | lopez_clement_s11_tags.txt | SN:25 | TN:36
+Word: lahat | Lemma: lahat | lopez_clement_s11_tags.txt | SN:42 | TN:31
+Word: lahat | Lemma: lahat | a56_253to258_tags.txt | SN:67 | TN:10
+Word: lahat | Lemma: lahat | a56_181to186_tags.txt | SN:32 | TN:23
+Word: lahat | Lemma: lahat | a56_181to186_tags.txt | SN:36 | TN:2
+Word: lahat | Lemma: lahat | a56_228_tags.txt | SN:6 | TN:59
+Word: lahat | Lemma: lahat | lopez_clement_s11_tags.txt | SN:42 | TN:14
+Word: lahat | Lemma: lahat | lopez_clement_s11_tags.txt | SN:52 | TN:19
+Word: lahat | Lemma: lahat | a56_213_tags.txt | SN:4 | TN:9
+Word: lahat | Lemma: lahat | a56_261_tags.txt | SN:9 | TN:8
+Word: lahat | Lemma: lahat | a56_213_tags.txt | SN:39 | TN:11
+Word: lahat | Lemma: lahat | a56_193to197_tags.txt | SN:32 | TN:34
+Word: lahat | Lemma: lahat | cua_bernice_s11_tags.txt | SN:4 | TN:6
+Word: lahat | Lemma: lahat | a56_227_tags.txt | SN:21 | TN:23
+Word: lahat | Lemma: lahat | a56_253to258_tags.txt | SN:65 | TN:17
+Word: lahat | Lemma: lahat | a56_193to197_tags.txt | SN:87 | TN:26
+Word: lahat | Lemma: lahat | a56_193to197_tags.txt | SN:102 | TN:34
+Word: lahat | Lemma: lahat | a56_181to186_tags.txt | SN:44 | TN:12
+Word: lahat | Lemma: lahat | a56_263_tags.txt | SN:11 | TN:8
+Word: lahat | Lemma: lahat | a56_193to197_tags.txt | SN:55 | TN:21
+Word: lahat | Lemma: lahat | a56_253to258_tags.txt | SN:91 | TN:17
+Word: lahat | Lemma: lahat | a56_238to240_tags.txt | SN:33 | TN:65
+Word: lahat | Lemma: lahat | a56_260_tags.txt | SN:19 | TN:42
+Word: lahat | Lemma: lahat | a56_181to186_tags.txt | SN:63 | TN:2
+Word: lahat | Lemma: lahat | a56_181to186_tags.txt | SN:63 | TN:8
+Word: lahat | Lemma: lahat | a56_211_tags.txt | SN:19 | TN:31
+Word: lahat | Lemma: lahat | a56_238to240_tags.txt | SN:15 | TN:3
+Word: lahat | Lemma: lahat | a56_253to258_tags.txt | SN:61 | TN:33
+Word: lahat | Lemma: lahat | lopez_clement_s11_tags.txt | SN:32 | TN:35
+Word: lahat | Lemma: lahat | a56_193to197_tags.txt | SN:61 | TN:73
+Word: lahat | Lemma: lahat | a56_211_tags.txt | SN:1 | TN:3
+Word: lahat | Lemma: lahat | a56_264_tags.txt | SN:10 | TN:6
+Word: lahat | Lemma: lahat | a56_223_tags.txt | SN:14 | TN:27
+Word: lahat | Lemma: lahat | a56_193to197_tags.txt | SN:22 | TN:16
+Word: madami | Lemma: dami | a56_260_tags.txt | SN:8 | TN:6
+Word: madla | Lemma: madla | a56_181to186_tags.txt | SN:9 | TN:7
+Word: madla | Lemma: madla | a56_181to186_tags.txt | SN:14 | TN:36
+Word: madla | Lemma: madla | a56_181to186_tags.txt | SN:93 | TN:20
+Word: madla | Lemma: madla | a56_225_tags.txt | SN:33 | TN:10
+Word: marami | Lemma: dami | a56_181to186_tags.txt | SN:91 | TN:17
+Word: marami | Lemma: dami | a56_181to186_tags.txt | SN:91 | TN:59
+Word: marami | Lemma: Dami | a56_181to186_tags.txt | SN:109 | TN:13
+Word: marami | Lemma: dami | a56_198_tags.txt | SN:39 | TN:31
+Word: marami | Lemma: dami | a56_204_tags.txt | SN:12 | TN:20
+Word: marami | Lemma: dami | a56_211_tags.txt | SN:17 | TN:16
+Word: marami | Lemma: dami | a56_212_tags.txt | SN:21 | TN:8
+Word: marami | Lemma: dami | a56_225_tags.txt | SN:26 | TN:21
+Word: marami | Lemma: dami | a56_238to240_tags.txt | SN:69 | TN:16
+Word: pa | Lemma: pa | a56_193to197_tags.txt | SN:96 | TN:30
+Word: pangkalahatan | Lemma: lahat | a56_223_tags.txt | SN:23 | TN:1
+Word: pangkalahatan | Lemma: lahat | a56_238to240_tags.txt | SN:21 | TN:1
+Word: siyang | Lemma: siya | lopez_clement_s11_tags.txt | SN:63 | TN:33

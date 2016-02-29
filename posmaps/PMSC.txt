@@ -1,2 +1,19 @@
 POS Tag: PMSC
-; | a56_181to186_tags.txt | SN:65 | TN:14
+Word: ; | Lemma: ; | a56_193to197_tags.txt | SN:28 | TN:20
+Word: ; | Lemma: ; | a56_181to186_tags.txt | SN:65 | TN:14
+Word: ; | Lemma: ; | a56_263_tags.txt | SN:18 | TN:18
+Word: ; | Lemma: ; | a56_198_tags.txt | SN:26 | TN:14
+Word: ; | Lemma: ; | a56_198_tags.txt | SN:40 | TN:5
+Word: ; | Lemma: ; | a56_181to186_tags.txt | SN:107 | TN:13
+Word: ; | Lemma: ; | a56_181to186_tags.txt | SN:113 | TN:10
+Word: ; | Lemma: ; | a56_181to186_tags.txt | SN:130 | TN:8
+Word: ; | Lemma: ; | a56_181to186_tags.txt | SN:143 | TN:14
+Word: ; | Lemma: ; | a56_193to197_tags.txt | SN:28 | TN:29
+Word: ; | Lemma: ; | a56_213_tags.txt | SN:17 | TN:36
+Word: ; | Lemma: ; | a56_225_tags.txt | SN:25 | TN:40
+Word: ; | Lemma: ; | a56_213_tags.txt | SN:31 | TN:21
+Word: ; | Lemma: ; | a56_193to197_tags.txt | SN:28 | TN:34
+Word: ; | Lemma: ; | a56_223_tags.txt | SN:11 | TN:50
+Word: ; | Lemma: ; | a56_193to197_tags.txt | SN:28 | TN:48
+Word: ; | Lemma: ; | a56_193to197_tags.txt | SN:28 | TN:54
+Word: ; | Lemma: ; | a56_193to197_tags.txt | SN:49 | TN:23

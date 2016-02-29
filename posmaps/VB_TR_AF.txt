@@ -1,63 +1,100 @@
 POS Tag: VB_TR_AF
-umuulan | a56_248_tags.txt | SN:27 | TN:10
-pumalakpak | a56_181to186_tags.txt | SN:14 | TN:18
-tumatanggap | a56_248_tags.txt | SN:29 | TN:25
-Lumalago | lopez_clement_s11_tags.txt | SN:39 | TN:0
-dumadami | cua_bernice_s11_tags.txt | SN:16 | TN:14
-kumokontrol | lopez_clement_s11_tags.txt | SN:36 | TN:4
-dumadalo | a56_223_tags.txt | SN:23 | TN:17
-magpapatuloy | a56_212_tags.txt | SN:17 | TN:28
-lumalampas | a56_253to258_tags.txt | SN:100 | TN:36
-bumababa | a56_212_tags.txt | SN:13 | TN:7
-humahampas | a56_253to258_tags.txt | SN:78 | TN:9
-yumuyuko | a56_193to197_tags.txt | SN:88 | TN:15
-dumadaloy | a56_225_tags.txt | SN:23 | TN:14
-tumutugtog | a56_247_tags.txt | SN:2 | TN:11
-rumeresponde | a56_253to258_tags.txt | SN:52 | TN:10
-tumutukoy | lopez_clement_s11_tags.txt | SN:3 | TN:5
-tumatagal | a56_253to258_tags.txt | SN:148 | TN:17
-kumakain | cua_bernice_s11_tags.txt | SN:81 | TN:10
-humahamon | lopez_clement_s11_tags.txt | SN:46 | TN:11
-magbabato | a56_259_tags.txt | SN:20 | TN:17
-umaakit | cua_bernice_s11_tags.txt | SN:93 | TN:19
-gumagamit | a56_235to237_tags.txt | SN:65 | TN:11
-humahawak | a56_253to258_tags.txt | SN:112 | TN:18
-pumupugad | cua_bernice_s11_tags.txt | SN:53 | TN:11
-umaabot | a56_212_tags.txt | SN:13 | TN:29
-at | a56_264_tags.txt | SN:31 | TN:34
-lumiliko | a56_253to258_tags.txt | SN:102 | TN:32
-sumusunod | a56_253to258_tags.txt | SN:112 | TN:27
-ng | a56_264_tags.txt | SN:31 | TN:18
-dumaraan | a56_212_tags.txt | SN:5 | TN:33
-sumasaklaw | cua_bernice_s11_tags.txt | SN:19 | TN:3
-tumatakbo | a56_212_tags.txt | SN:7 | TN:32
-humalo | a56_250_tags.txt | SN:1 | TN:27
-lumalangoy | cua_bernice_s11_tags.txt | SN:91 | TN:5
-tumingin | a56_253to258_tags.txt | SN:141 | TN:5
-umaako | a56_235to237_tags.txt | SN:11 | TN:28
-sumasang-ayon | lopez_clement_s11_tags.txt | SN:14 | TN:18
-lumalantad | lopez_clement_s11_tags.txt | SN:62 | TN:15
-dumarayo | a56_248_tags.txt | SN:29 | TN:8
-umaasa | a56_212_tags.txt | SN:31 | TN:25
-tumutugis | a56_212_tags.txt | SN:37 | TN:48
-kumikilala | a56_238to240_tags.txt | SN:63 | TN:10
-tumatayo | a56_253to258_tags.txt | SN:77 | TN:8
-humihiwalay | a56_264_tags.txt | SN:32 | TN:3
-umuuwi | cua_bernice_s11_tags.txt | SN:51 | TN:9
-tumatama | a56_253to258_tags.txt | SN:109 | TN:22
-lumayo | a56_214_tags.txt | SN:40 | TN:22
-lumilipat | a56_235to237_tags.txt | SN:10 | TN:32
-sumasalakay | a56_235to237_tags.txt | SN:11 | TN:35
-bumubuo | a56_193to197_tags.txt | SN:47 | TN:3
-sumusuway | a56_224_tags.txt | SN:21 | TN:32
-tumutugma | lopez_clement_s11_tags.txt | SN:15 | TN:18
-umaalis | cua_bernice_s11_tags.txt | SN:72 | TN:7
-lumilikas | cua_bernice_s11_tags.txt | SN:3 | TN:8
-dumarating | a56_204_tags.txt | SN:17 | TN:6
-abot | cua_bernice_s11_tags.txt | SN:23 | TN:45
-umaasenso | a56_251_tags.txt | SN:8 | TN:4
-Tumatakbo | a56_253to258_tags.txt | SN:88 | TN:0
-pumapalit | a56_253to258_tags.txt | SN:154 | TN:11
-lumalayag | a56_213_tags.txt | SN:17 | TN:57
-pumangingibabaw | a56_228_tags.txt | SN:14 | TN:23
-gumagawa | a56_253to258_tags.txt | SN:38 | TN:4
+Word: Lumalago | Lemma: lago | lopez_clement_s11_tags.txt | SN:39 | TN:0
+Word: Tumatakbo | Lemma: takbo | a56_253to258_tags.txt | SN:88 | TN:0
+Word: abot | Lemma: abot | cua_bernice_s11_tags.txt | SN:23 | TN:45
+Word: at | Lemma: at | a56_264_tags.txt | SN:31 | TN:34
+Word: bumababa | Lemma: baba | a56_212_tags.txt | SN:13 | TN:7
+Word: bumababa | Lemma: baba | cua_bernice_s11_tags.txt | SN:105 | TN:5
+Word: bumababa | Lemma: baba | a56_264_tags.txt | SN:26 | TN:14
+Word: bumubuo | Lemma: buo | a56_193to197_tags.txt | SN:47 | TN:3
+Word: bumubuo | Lemma: buo | cua_bernice_s11_tags.txt | SN:99 | TN:2
+Word: dumadalo | Lemma: dalo | a56_223_tags.txt | SN:23 | TN:17
+Word: dumadaloy | Lemma: daloy | a56_225_tags.txt | SN:23 | TN:14
+Word: dumadami | Lemma: dami | cua_bernice_s11_tags.txt | SN:16 | TN:14
+Word: dumaraan | Lemma: daan | a56_212_tags.txt | SN:5 | TN:33
+Word: dumarating | Lemma: dating | a56_204_tags.txt | SN:17 | TN:6
+Word: dumarayo | Lemma: dayo | a56_248_tags.txt | SN:29 | TN:8
+Word: gumagamit | Lemma: gamit | a56_235to237_tags.txt | SN:65 | TN:11
+Word: gumagamit | Lemma: gamit | a56_259_tags.txt | SN:11 | TN:12
+Word: gumagawa | Lemma: gawa | a56_253to258_tags.txt | SN:38 | TN:4
+Word: gumagawa | Lemma: gawa | a56_259_tags.txt | SN:1 | TN:18
+Word: gumagawa | Lemma: gawa | a56_260_tags.txt | SN:9 | TN:4
+Word: humahamon | Lemma: hamon | lopez_clement_s11_tags.txt | SN:46 | TN:11
+Word: humahampas | Lemma: hampas | a56_253to258_tags.txt | SN:139 | TN:10
+Word: humahampas | Lemma: hampas | a56_253to258_tags.txt | SN:102 | TN:27
+Word: humahampas | Lemma: hampas | a56_253to258_tags.txt | SN:125 | TN:72
+Word: humahampas | Lemma: hampas | a56_253to258_tags.txt | SN:164 | TN:27
+Word: humahampas | Lemma: hampas | a56_253to258_tags.txt | SN:78 | TN:9
+Word: humahampas | Lemma: hampas | a56_253to258_tags.txt | SN:137 | TN:3
+Word: humahampas | Lemma: hampas | a56_253to258_tags.txt | SN:138 | TN:8
+Word: humahampas | Lemma: hampas | a56_253to258_tags.txt | SN:102 | TN:8
+Word: humahampas | Lemma: hampas | a56_253to258_tags.txt | SN:131 | TN:17
+Word: humahampas | Lemma: hampas | a56_253to258_tags.txt | SN:132 | TN:18
+Word: humahampas | Lemma: hampas | a56_253to258_tags.txt | SN:153 | TN:13
+Word: humahampas | Lemma: hampas | a56_253to258_tags.txt | SN:139 | TN:24
+Word: humahampas | Lemma: hampas | a56_253to258_tags.txt | SN:135 | TN:10
+Word: humahawak | Lemma: hawak | a56_253to258_tags.txt | SN:112 | TN:18
+Word: humahawak | Lemma: hawak | a56_259_tags.txt | SN:10 | TN:24
+Word: humalo | Lemma: halo | a56_250_tags.txt | SN:1 | TN:27
+Word: humihiwalay | Lemma: hiwalay | a56_264_tags.txt | SN:32 | TN:3
+Word: kumakain | Lemma: kain | cua_bernice_s11_tags.txt | SN:81 | TN:10
+Word: kumakain | Lemma: kain | cua_bernice_s11_tags.txt | SN:85 | TN:12
+Word: kumakain | Lemma: kain | cua_bernice_s11_tags.txt | SN:90 | TN:1
+Word: kumikilala | Lemma: kilala | a56_238to240_tags.txt | SN:63 | TN:10
+Word: kumokontrol | Lemma: kontrol | lopez_clement_s11_tags.txt | SN:36 | TN:4
+Word: lumalampas | Lemma: lampas | a56_253to258_tags.txt | SN:100 | TN:36
+Word: lumalangoy | Lemma: langoy | cua_bernice_s11_tags.txt | SN:91 | TN:5
+Word: lumalantad | Lemma: lantad | lopez_clement_s11_tags.txt | SN:62 | TN:15
+Word: lumalayag | Lemma: layag | a56_213_tags.txt | SN:17 | TN:57
+Word: lumayo | Lemma: layo | a56_214_tags.txt | SN:40 | TN:22
+Word: lumilikas | Lemma: likas | cua_bernice_s11_tags.txt | SN:3 | TN:8
+Word: lumilikas | Lemma: likas | cua_bernice_s11_tags.txt | SN:3 | TN:23
+Word: lumilikas | Lemma: likas | cua_bernice_s11_tags.txt | SN:20 | TN:8
+Word: lumilikas | Lemma: likas | cua_bernice_s11_tags.txt | SN:26 | TN:5
+Word: lumiliko | Lemma: liko | a56_253to258_tags.txt | SN:102 | TN:32
+Word: lumilipat | Lemma: lipat | a56_235to237_tags.txt | SN:10 | TN:32
+Word: magbabato | Lemma: bato | a56_259_tags.txt | SN:20 | TN:17
+Word: magpapatuloy | Lemma: patuloy | a56_212_tags.txt | SN:17 | TN:28
+Word: ng | Lemma: ng | a56_264_tags.txt | SN:31 | TN:18
+Word: pumalakpak | Lemma: palakpak | a56_181to186_tags.txt | SN:14 | TN:18
+Word: pumangingibabaw | Lemma: ibabaw | a56_228_tags.txt | SN:14 | TN:23
+Word: pumapalit | Lemma: palit | a56_253to258_tags.txt | SN:154 | TN:11
+Word: pumupugad | Lemma: pugad | cua_bernice_s11_tags.txt | SN:53 | TN:11
+Word: rumeresponde | Lemma: responde | a56_253to258_tags.txt | SN:52 | TN:10
+Word: sumasaklaw | Lemma: saklaw | cua_bernice_s11_tags.txt | SN:19 | TN:3
+Word: sumasaklaw | Lemma: saklaw | lopez_clement_s11_tags.txt | SN:23 | TN:1
+Word: sumasalakay | Lemma: salakay | a56_235to237_tags.txt | SN:11 | TN:35
+Word: sumasalakay | Lemma: salakay | a56_263_tags.txt | SN:14 | TN:9
+Word: sumasang-ayon | Lemma: ayon | lopez_clement_s11_tags.txt | SN:14 | TN:18
+Word: sumasang-ayon | Lemma: ayon | lopez_clement_s11_tags.txt | SN:16 | TN:12
+Word: sumusunod | Lemma: sunod | a56_253to258_tags.txt | SN:112 | TN:27
+Word: sumusuway | Lemma: suway | a56_224_tags.txt | SN:21 | TN:32
+Word: tumatagal | Lemma: tagal | a56_253to258_tags.txt | SN:148 | TN:17
+Word: tumatagal | Lemma: tagal | cua_bernice_s11_tags.txt | SN:80 | TN:5
+Word: tumatakbo | Lemma: takbo | a56_212_tags.txt | SN:7 | TN:32
+Word: tumatakbo | Lemma: takbo | a56_253to258_tags.txt | SN:112 | TN:46
+Word: tumatakbo | Lemma: takbo | a56_253to258_tags.txt | SN:145 | TN:19
+Word: tumatakbo | Lemma: takbo | a56_261_tags.txt | SN:12 | TN:5
+Word: tumatama | Lemma: tumatama | a56_253to258_tags.txt | SN:109 | TN:22
+Word: tumatanggap | Lemma: tanggap | a56_248_tags.txt | SN:29 | TN:25
+Word: tumatayo | Lemma: tayo | a56_253to258_tags.txt | SN:77 | TN:8
+Word: tumingin | Lemma: tingin | a56_253to258_tags.txt | SN:141 | TN:5
+Word: tumutugis | Lemma: tugis | a56_212_tags.txt | SN:37 | TN:48
+Word: tumutugma | Lemma: tugma | lopez_clement_s11_tags.txt | SN:15 | TN:18
+Word: tumutugma | Lemma: tugma | lopez_clement_s11_tags.txt | SN:15 | TN:30
+Word: tumutugtog | Lemma: tugtog | a56_247_tags.txt | SN:2 | TN:11
+Word: tumutukoy | Lemma: tukoy | lopez_clement_s11_tags.txt | SN:3 | TN:5
+Word: umaabot | Lemma: abot | a56_212_tags.txt | SN:13 | TN:29
+Word: umaabot | Lemma: abot | cua_bernice_s11_tags.txt | SN:14 | TN:7
+Word: umaabot | Lemma: abot | cua_bernice_s11_tags.txt | SN:18 | TN:11
+Word: umaakit | Lemma: akit | cua_bernice_s11_tags.txt | SN:93 | TN:19
+Word: umaako | Lemma: ako | a56_235to237_tags.txt | SN:11 | TN:28
+Word: umaalis | Lemma: alis | cua_bernice_s11_tags.txt | SN:72 | TN:7
+Word: umaalis | Lemma: alis | cua_bernice_s11_tags.txt | SN:75 | TN:3
+Word: umaasa | Lemma: asa | a56_212_tags.txt | SN:31 | TN:25
+Word: umaasa | Lemma: asa | a56_253to258_tags.txt | SN:26 | TN:7
+Word: umaasenso | Lemma: asenso | a56_251_tags.txt | SN:8 | TN:4
+Word: umaasenso | Lemma: asenso | a56_251_tags.txt | SN:24 | TN:11
+Word: umuulan | Lemma: ulan | a56_248_tags.txt | SN:27 | TN:10
+Word: umuuwi | Lemma: uwi | cua_bernice_s11_tags.txt | SN:51 | TN:9
+Word: yumuyuko | Lemma: yuko | a56_193to197_tags.txt | SN:88 | TN:15

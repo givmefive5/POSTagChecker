@@ -1,2 +1,2 @@
 POS Tag: JJCS_CCB
-sukdulang | a56_253to258_tags.txt | SN:102 | TN:30
+Word: sukdulang | Lemma: sukdol | a56_253to258_tags.txt | SN:102 | TN:30

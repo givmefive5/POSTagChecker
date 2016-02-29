@@ -1,4 +1,5 @@
 POS Tag: PRC_CCP
-ganitong | a56_198_tags.txt | SN:4 | TN:11
-ganung | a56_253to258_tags.txt | SN:113 | TN:2
-ganoong | lopez_clement_s11_tags.txt | SN:12 | TN:3
+Word: ganitong | Lemma: ganito | a56_198_tags.txt | SN:4 | TN:11
+Word: ganitong | Lemma: ganito | a56_253to258_tags.txt | SN:112 | TN:41
+Word: ganoong | Lemma: ganoon | lopez_clement_s11_tags.txt | SN:12 | TN:3
+Word: ganung | Lemma: ganun | a56_253to258_tags.txt | SN:113 | TN:2

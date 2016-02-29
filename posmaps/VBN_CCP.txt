@@ -1,2 +1,15 @@
 POS Tag: VBN_CCP
-walang | a56_193to197_tags.txt | SN:51 | TN:17
+Word: walang | Lemma: wala | a56_248_tags.txt | SN:1 | TN:17
+Word: walang | Lemma: wala | a56_193to197_tags.txt | SN:51 | TN:17
+Word: walang | Lemma: wala | a56_213_tags.txt | SN:15 | TN:9
+Word: walang | Lemma: wala | a56_213_tags.txt | SN:43 | TN:23
+Word: walang | Lemma: wala | a56_238to240_tags.txt | SN:63 | TN:22
+Word: walang | Lemma: wala | a56_253to258_tags.txt | SN:57 | TN:24
+Word: walang | Lemma: wala | a56_253to258_tags.txt | SN:120 | TN:36
+Word: walang | Lemma: wala | lopez_clement_s11_tags.txt | SN:67 | TN:34
+Word: walang | Lemma: wala | a56_253to258_tags.txt | SN:131 | TN:31
+Word: walang | Lemma: wala | a56_253to258_tags.txt | SN:133 | TN:16
+Word: walang | Lemma: wala | a56_260_tags.txt | SN:6 | TN:1
+Word: walang | Lemma: wala | a56_259_tags.txt | SN:26 | TN:17
+Word: walang | Lemma: wala | a56_253to258_tags.txt | SN:138 | TN:3
+Word: walang | Lemma: wala | a56_259_tags.txt | SN:20 | TN:9

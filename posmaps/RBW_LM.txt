@@ -1,4 +1,4 @@
 POS Tag: RBW_LM
-dati’y | a56_223_tags.txt | SN:14 | TN:23
-minsa’y | a56_223_tags.txt | SN:5 | TN:36
-ngayo_’y | a56_247_tags.txt | SN:17 | TN:10
+Word: dati’y | Lemma: dati’y | a56_223_tags.txt | SN:14 | TN:23
+Word: minsa’y | Lemma: minsa’y | a56_223_tags.txt | SN:5 | TN:36
+Word: ngayo_’y | Lemma: ngayo_’y | a56_247_tags.txt | SN:17 | TN:10

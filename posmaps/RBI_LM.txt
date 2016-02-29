@@ -1,2 +1,2 @@
 POS Tag: RBI_LM
-nama’y | a56_224_tags.txt | SN:13 | TN:17
+Word: nama’y | Lemma: naman_ay | a56_224_tags.txt | SN:13 | TN:17

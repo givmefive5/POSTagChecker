@@ -1,2 +1,2 @@
 POS Tag: VB_TS+AF
-lumabas | a56_238to240_tags.txt | SN:31 | TN:15
+Word: lumabas | Lemma: labas | a56_238to240_tags.txt | SN:31 | TN:15

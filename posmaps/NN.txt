@@ -1,4 +1,4 @@
 POS Tag: NN
-kalye | a56_249_tags.txt | SN:15 | TN:7
-liga | a56_253to258_tags.txt | SN:40 | TN:8
-Nobyembre | a56_224_tags.txt | SN:3 | TN:18
+Word: Nobyembre | Lemma: Nobyembre | a56_224_tags.txt | SN:3 | TN:18
+Word: kalye | Lemma: kalye | a56_249_tags.txt | SN:15 | TN:7
+Word: liga | Lemma: liga | a56_253to258_tags.txt | SN:40 | TN:8

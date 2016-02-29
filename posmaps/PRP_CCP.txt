@@ -1,8 +1,32 @@
 POS Tag: PRP_CCP
-bilang | a56_211_tags.txt | SN:39 | TN:2
-silang | a56_181to186_tags.txt | SN:27 | TN:1
-nating | a56_228_tags.txt | SN:5 | TN:2
-nilang | a56_193to197_tags.txt | SN:5 | TN:13
-naming | a56_193to197_tags.txt | SN:49 | TN:45
-kaming | a56_225_tags.txt | SN:28 | TN:41
-ilang | a56_193to197_tags.txt | SN:54 | TN:30
+Word: bilang | Lemma: bilang | a56_211_tags.txt | SN:39 | TN:2
+Word: ilang | Lemma: ilan | a56_193to197_tags.txt | SN:54 | TN:30
+Word: kaming | Lemma: kami | a56_225_tags.txt | SN:28 | TN:41
+Word: naming | Lemma: namin | a56_193to197_tags.txt | SN:49 | TN:45
+Word: nating | Lemma: natin | a56_228_tags.txt | SN:5 | TN:2
+Word: nilang | Lemma: nila | lopez_clement_s11_tags.txt | SN:44 | TN:13
+Word: nilang | Lemma: nila | a56_193to197_tags.txt | SN:5 | TN:13
+Word: nilang | Lemma: nila | a56_225_tags.txt | SN:24 | TN:25
+Word: nilang | Lemma: nila | a56_228_tags.txt | SN:6 | TN:4
+Word: nilang | Lemma: nila | a56_235to237_tags.txt | SN:65 | TN:19
+Word: nilang | Lemma: nila | a56_238to240_tags.txt | SN:76 | TN:21
+Word: nilang | Lemma: nila | a56_253to258_tags.txt | SN:69 | TN:10
+Word: nilang | Lemma: nila | a56_259_tags.txt | SN:3 | TN:18
+Word: nilang | Lemma: nila | cua_bernice_s11_tags.txt | SN:86 | TN:11
+Word: nilang | Lemma: nilang | lopez_clement_s11_tags.txt | SN:2 | TN:9
+Word: nilang | Lemma: nila | lopez_clement_s11_tags.txt | SN:54 | TN:19
+Word: silang | Lemma: sila | a56_193to197_tags.txt | SN:58 | TN:35
+Word: silang | Lemma: sila | a56_181to186_tags.txt | SN:33 | TN:27
+Word: silang | Lemma: sila | a56_181to186_tags.txt | SN:27 | TN:1
+Word: silang | Lemma: sila | cua_bernice_s11_tags.txt | SN:51 | TN:8
+Word: silang | Lemma: sila | cua_bernice_s11_tags.txt | SN:99 | TN:1
+Word: silang | Lemma: sila | a56_213_tags.txt | SN:13 | TN:10
+Word: silang | Lemma: sila | a56_224_tags.txt | SN:11 | TN:6
+Word: silang | Lemma: sila | a56_253to258_tags.txt | SN:71 | TN:20
+Word: silang | Lemma: sila | a56_224_tags.txt | SN:15 | TN:1
+Word: silang | Lemma: sila | a56_225_tags.txt | SN:7 | TN:13
+Word: silang | Lemma: sila | a56_238to240_tags.txt | SN:57 | TN:16
+Word: silang | Lemma: sila | a56_253to258_tags.txt | SN:72 | TN:20
+Word: silang | Lemma: sila | a56_247_tags.txt | SN:3 | TN:17
+Word: silang | Lemma: sila | a56_252_tags.txt | SN:22 | TN:14
+Word: silang | Lemma: sila | cua_bernice_s11_tags.txt | SN:92 | TN:2

@@ -1,4 +1,12 @@
 POS Tag: JJC_CCP
-Parehong | a56_238to240_tags.txt | SN:19 | TN:0
-kagaya_ng | a56_263_tags.txt | SN:7 | TN:9
-parehong | a56_181to186_tags.txt | SN:27 | TN:20
+Word: Parehong | Lemma: Pareho | a56_238to240_tags.txt | SN:19 | TN:0
+Word: kagaya_ng | Lemma: gaya_ng | a56_263_tags.txt | SN:7 | TN:9
+Word: parehong | Lemma: pareho | a56_181to186_tags.txt | SN:27 | TN:20
+Word: parehong | Lemma: pareho | a56_181to186_tags.txt | SN:128 | TN:2
+Word: parehong | Lemma: pareho | a56_213_tags.txt | SN:10 | TN:19
+Word: parehong | Lemma: pareho | a56_213_tags.txt | SN:17 | TN:74
+Word: parehong | Lemma: pareho | a56_214_tags.txt | SN:20 | TN:23
+Word: parehong | Lemma: pareho | a56_235to237_tags.txt | SN:16 | TN:13
+Word: parehong | Lemma: pareho | a56_235to237_tags.txt | SN:72 | TN:5
+Word: parehong | Lemma: pareho | lopez_clement_s11_tags.txt | SN:49 | TN:23
+Word: parehong | Lemma: pareho | lopez_clement_s11_tags.txt | SN:69 | TN:27

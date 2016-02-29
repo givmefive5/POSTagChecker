@@ -1,2 +1,2 @@
 POS Tag: RBK_LM
-pagkaraa’y | a56_223_tags.txt | SN:11 | TN:29
+Word: pagkaraa’y | Lemma: daan_ay | a56_223_tags.txt | SN:11 | TN:29

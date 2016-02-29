@@ -1,3 +1,9 @@
 POS Tag: CDB_CCP
-unang | a56_223_tags.txt | SN:14 | TN:8
-animnapung | a56_263_tags.txt | SN:13 | TN:16
+Word: animnapung | Lemma: animnapu | a56_263_tags.txt | SN:13 | TN:16
+Word: unang | Lemma: una | a56_223_tags.txt | SN:14 | TN:8
+Word: unang | Lemma: una | a56_223_tags.txt | SN:18 | TN:17
+Word: unang | Lemma: una | a56_224_tags.txt | SN:7 | TN:4
+Word: unang | Lemma: una | a56_225_tags.txt | SN:27 | TN:13
+Word: unang | Lemma: una | a56_226_tags.txt | SN:12 | TN:37
+Word: unang | Lemma: una | a56_226_tags.txt | SN:20 | TN:21
+Word: unang | Lemma: una | a56_253to258_tags.txt | SN:73 | TN:10
