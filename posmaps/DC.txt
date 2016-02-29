@@ -1,0 +1,2 @@
+POS Tag: DC
+Ang | a56_211_tags.txt | SN:31 | TN:8

@@ -1,0 +1,9 @@
+POS Tag: RBW_CCB
+kasalukuyang | a56_223_tags.txt | SN:8 | TN:9
+Kadalasang | lopez_clement_s11_tags.txt | SN:23 | TN:0
+noong | a56_193to197_tags.txt | SN:7 | TN:21
+kadalasang | lopez_clement_s11_tags.txt | SN:67 | TN:3
+Noong | a56_193to197_tags.txt | SN:90 | TN:0
+Palagiang | a56_225_tags.txt | SN:24 | TN:0
+nakaraang | a56_181to186_tags.txt | SN:15 | TN:1
+muling | a56_225_tags.txt | SN:35 | TN:16

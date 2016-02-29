@@ -1,0 +1,9 @@
+POS Tag: VBOL
+itago | a56_200_tags.txt | SN:21 | TN:1
+tignan | cua_bernice_s11_tags.txt | SN:38 | TN:16
+Inilapat | a56_193to197_tags.txt | SN:34 | TN:0
+ilikas | a56_193to197_tags.txt | SN:16 | TN:5
+ilipat | a56_193to197_tags.txt | SN:58 | TN:42
+ilagay | a56_200_tags.txt | SN:13 | TN:18
+salakayin | a56_212_tags.txt | SN:35 | TN:34
+ilalagay | a56_200_tags.txt | SN:33 | TN:2

@@ -1,0 +1,5 @@
+POS Tag: PRQ
+anong | a56_259_tags.txt | SN:1 | TN:3
+gaano | cua_bernice_s11_tags.txt | SN:66 | TN:2
+kailan | a56_224_tags.txt | SN:13 | TN:16
+Bakit | a56_225_tags.txt | SN:28 | TN:33

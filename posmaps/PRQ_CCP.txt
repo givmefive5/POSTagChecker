@@ -1,0 +1,2 @@
+POS Tag: PRQ_CCP
+anong | a56_181to186_tags.txt | SN:33 | TN:14

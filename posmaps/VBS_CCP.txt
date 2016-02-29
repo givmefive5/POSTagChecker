@@ -1,0 +1,9 @@
+POS Tag: VBS_CCP
+pwedeng | a56_193to197_tags.txt | SN:51 | TN:20
+maaring | a56_253to258_tags.txt | SN:144 | TN:25
+kailangang | a56_181to186_tags.txt | SN:28 | TN:33
+maaaring | a56_181to186_tags.txt | SN:125 | TN:13
+Kailangang | a56_253to258_tags.txt | SN:55 | TN:0
+gustong | a56_253to258_tags.txt | SN:142 | TN:32
+Maaaring | a56_181to186_tags.txt | SN:82 | TN:0
+Maaring | a56_253to258_tags.txt | SN:153 | TN:18

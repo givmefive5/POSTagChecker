@@ -1,0 +1,10 @@
+POS Tag: DTC
+hilaga | a56_235to237_tags.txt | SN:41 | TN:25
+malipat | a56_252_tags.txt | SN:9 | TN:30
+at | a56_181to186_tags.txt | SN:129 | TN:39
+ag | a56_253to258_tags.txt | SN:128 | TN:14
+Chadwick | a56_253to258_tags.txt | SN:74 | TN:5
+( | a56_264_tags.txt | SN:31 | TN:10
+pinakamarami | a56_252_tags.txt | SN:17 | TN:10
+ang | a56_181to186_tags.txt | SN:1 | TN:9
+Ang | a56_181to186_tags.txt | SN:6 | TN:0

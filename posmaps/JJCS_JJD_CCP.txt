@@ -1,0 +1,25 @@
+POS Tag: JJCS_JJD_CCP
+pinakakilalang | a56_253to258_tags.txt | SN:45 | TN:32
+pinakamagandang | a56_253to258_tags.txt | SN:39 | TN:4
+pinakakaraniwang | a56_181to186_tags.txt | SN:94 | TN:63
+napakayamang | a56_224_tags.txt | SN:9 | TN:4
+pinakauna-unahang | a56_238to240_tags.txt | SN:43 | TN:24
+pinakamaaagang | a56_253to258_tags.txt | SN:47 | TN:24
+pinakamadaming | a56_253to258_tags.txt | SN:29 | TN:5
+pinaka-magandang | a56_211_tags.txt | SN:19 | TN:40
+pinakaimportanteng | a56_226_tags.txt | SN:4 | TN:3
+pinakamaraming | a56_252_tags.txt | SN:19 | TN:12
+pinakunang | a56_235to237_tags.txt | SN:58 | TN:2
+pinakamatandang | a56_250_tags.txt | SN:10 | TN:8
+pinakahabang | cua_bernice_s11_tags.txt | SN:4 | TN:3
+pinakamadugong | a56_193to197_tags.txt | SN:4 | TN:10
+pinakakanlurang | a56_263_tags.txt | SN:2 | TN:3
+pinakamahalagang | a56_247_tags.txt | SN:17 | TN:3
+napakaimportanteng | a56_247_tags.txt | SN:19 | TN:1
+pinakamababang | a56_263_tags.txt | SN:17 | TN:16
+pinakamalaking | a56_204_tags.txt | SN:11 | TN:1
+pinakamaagang | a56_263_tags.txt | SN:5 | TN:4
+pinakamahabang | a56_224_tags.txt | SN:16 | TN:4
+pinakabagong | a56_227_tags.txt | SN:2 | TN:33
+napakalaking | a56_214_tags.txt | SN:24 | TN:11
+pinakarelihiyosong | a56_235to237_tags.txt | SN:13 | TN:8

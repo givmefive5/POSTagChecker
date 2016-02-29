@@ -1,0 +1,2 @@
+POS Tag: BI
+lamang | a56_181to186_tags.txt | SN:28 | TN:30

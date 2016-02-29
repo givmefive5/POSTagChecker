@@ -1,0 +1,2 @@
+POS Tag: CC
+at | a56_193to197_tags.txt | SN:14 | TN:15

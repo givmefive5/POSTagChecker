@@ -1,0 +1,3 @@
+POS Tag: RBF_JJD_CCP
+di-sibilisadong | a56_211_tags.txt | SN:23 | TN:48
+di-karaniwang | a56_181to186_tags.txt | SN:5 | TN:17

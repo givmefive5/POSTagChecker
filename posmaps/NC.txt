@@ -1,0 +1,15 @@
+POS Tag: NC
+etniko | a56_181to186_tags.txt | SN:99 | TN:16
+patakaran | a56_260_tags.txt | SN:2 | TN:5
+team | a56_252_tags.txt | SN:18 | TN:20
+pangyayari | a56_227_tags.txt | SN:22 | TN:18
+sisiw | cua_bernice_s11_tags.txt | SN:24 | TN:5
+taga-suporta | a56_238to240_tags.txt | SN:50 | TN:5
+world | a56_253to258_tags.txt | SN:37 | TN:20
+cricket | a56_181to186_tags.txt | SN:14 | TN:23
+inning | a56_253to258_tags.txt | SN:84 | TN:48
+publication | lopez_clement_s11_tags.txt | SN:16 | TN:18
+bahagi | cua_bernice_s11_tags.txt | SN:87 | TN:7
+pagsusuri | a56_181to186_tags.txt | SN:72 | TN:24
+graffiti | a56_200_tags.txt | SN:6 | TN:10
+base | a56_259_tags.txt | SN:5 | TN:16

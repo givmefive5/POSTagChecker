@@ -1,0 +1,3 @@
+POS Tag: VB_TR_OB
+pinagdudusahan | a56_214_tags.txt | SN:5 | TN:11
+idinaragdag | a56_253to258_tags.txt | SN:150 | TN:27

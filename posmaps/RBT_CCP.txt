@@ -1,0 +1,12 @@
+POS Tag: RBT_CCP
+pwedeng | a56_212_tags.txt | SN:31 | TN:37
+totoong | a56_249_tags.txt | SN:15 | TN:28
+talagang | a56_181to186_tags.txt | SN:77 | TN:31
+maaring | a56_253to258_tags.txt | SN:94 | TN:1
+siguradong | a56_211_tags.txt | SN:25 | TN:5
+mismong | a56_223_tags.txt | SN:23 | TN:26
+maaaring | a56_253to258_tags.txt | SN:53 | TN:9
+positibong | a56_181to186_tags.txt | SN:77 | TN:10
+posibleng | a56_212_tags.txt | SN:5 | TN:9
+Maaring | a56_253to258_tags.txt | SN:73 | TN:60
+possibleng | lopez_clement_s11_tags.txt | SN:8 | TN:5

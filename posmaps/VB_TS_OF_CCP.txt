@@ -1,0 +1,5 @@
+POS Tag: VB_TS_OF_CCP
+ginawang | a56_213_tags.txt | SN:31 | TN:25
+pinasyahan | a56_253to258_tags.txt | SN:123 | TN:10
+ginampanang | a56_223_tags.txt | SN:4 | TN:2
+pinasadyang | lopez_clement_s11_tags.txt | SN:38 | TN:10

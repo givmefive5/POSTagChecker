@@ -1,0 +1,7 @@
+POS Tag: RBP
+dahil | a56_260_tags.txt | SN:18 | TN:10
+Dahil_sa | a56_181to186_tags.txt | SN:77 | TN:0
+dahil_dito | a56_193to197_tags.txt | SN:5 | TN:17
+dahil_sa | a56_181to186_tags.txt | SN:31 | TN:60
+Dahil_dito | a56_248_tags.txt | SN:2 | TN:0
+Kaya | cua_bernice_s11_tags.txt | SN:27 | TN:0

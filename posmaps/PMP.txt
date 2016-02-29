@@ -1,0 +1,9 @@
+POS Tag: PMP
+Turkish. | a56_235to237_tags.txt | SN:41 | TN:29
+convention. | a56_253to258_tags.txt | SN:74 | TN:8
+dahilan. | a56_260_tags.txt | SN:18 | TN:14
+hilaga. | a56_264_tags.txt | SN:31 | TN:37
+Galicia. | a56_263_tags.txt | SN:10 | TN:28
+, | a56_181to186_tags.txt | SN:27 | TN:54
+. | a56_181to186_tags.txt | SN:1 | TN:25
+buwan. | cua_bernice_s11_tags.txt | SN:23 | TN:56

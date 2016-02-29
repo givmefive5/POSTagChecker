@@ -50,35 +50,40 @@ public class Main {
 					if (!posMap.containsKey(posSplit[k])) {
 						posMap.put(posSplit[k], new HashSet<POSInstance>());
 					}
+					System.out.println(lem.getName() + " " + lemSplit.length + " " + posSplit.length + " " + wordSplit.length + " " + (j+1) + " " + k);
 					POSInstance pi = new POSInstance(posSplit[k], wordSplit[k], pos.getName(), j+1, k);
 					posMap.get(posSplit[k]).add(pi);
 				}
 			}
 		}
+		
 
-		String outputPath = "posmap.txt";
+		Iterator it = posMap.entrySet().iterator();
+		while (it.hasNext()) {
+			Map.Entry pair = (Map.Entry) it.next();
+			HashSet<POSInstance> words = (HashSet<POSInstance>) pair.getValue();
+			outputToFile((String)pair.getKey(), words);
+			it.remove(); // avoids a ConcurrentModificationException
+		}
+	}
+
+	private static void outputToFile(String pos, HashSet<POSInstance> words) throws IOException{
+		String folder = "posmaps/";
+		String outputPath = folder + pos + ".txt";
 		File f = new File(outputPath);
 		if (f.exists()) {
 			f.delete();
 			f.createNewFile();
 		}
+		
 		PrintWriter outFile = new PrintWriter(new FileWriter(outputPath, true));
-
-		Iterator it = posMap.entrySet().iterator();
-		while (it.hasNext()) {
-			Map.Entry pair = (Map.Entry) it.next();
-			System.out.println(pair.getKey());
-			outFile.println(pair.getKey());
-			HashSet<POSInstance> pis = (HashSet<POSInstance>) pair.getValue();
-			for (POSInstance s : pis) {
-				System.out.println(s.getWord() + " | " + s.filename + " | " + s.getSentenceNumber() + " | "  + s.getTokenNumber());
-				outFile.println(s.getWord() + " | " + s.filename + " | " + s.getSentenceNumber() + " | "  + s.getTokenNumber());
-			}
-			outFile.println();
-			System.out.println();
-			it.remove(); // avoids a ConcurrentModificationException
+		System.out.println("POS Tag: " + pos);
+		outFile.println("POS Tag: " + pos);
+		for (POSInstance s : words){
+			System.out.println(s.getWord() + " | " + s.filename + " | SN:" + s.getSentenceNumber() + " | TN:"  + s.getTokenNumber());
+			outFile.println(s.getWord() + " | " + s.filename + " | SN:" + s.getSentenceNumber() + " | TN:"  + s.getTokenNumber());
 		}
 		outFile.close();
 	}
-
+	
 }

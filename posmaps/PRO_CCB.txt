@@ -1,0 +1,3 @@
+POS Tag: PRO_CCB
+itong | a56_224_tags.txt | SN:2 | TN:1
+Itong | a56_238to240_tags.txt | SN:14 | TN:0

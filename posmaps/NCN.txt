@@ -1,0 +1,5 @@
+POS Tag: NCN
+pagsara | a56_253to258_tags.txt | SN:19 | TN:17
+filders | a56_253to258_tags.txt | SN:78 | TN:2
+bapor | a56_213_tags.txt | SN:17 | TN:48
+pagkakataon | a56_223_tags.txt | SN:16 | TN:27

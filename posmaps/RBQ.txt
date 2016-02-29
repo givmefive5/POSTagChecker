@@ -1,0 +1,9 @@
+POS Tag: RBQ
+ano | a56_181to186_tags.txt | SN:11 | TN:3
+bakit | a56_193to197_tags.txt | SN:1 | TN:25
+Paano | a56_238to240_tags.txt | SN:33 | TN:50
+paano | a56_193to197_tags.txt | SN:78 | TN:13
+papano | a56_238to240_tags.txt | SN:69 | TN:9
+alin | a56_248_tags.txt | SN:10 | TN:28
+saan | a56_181to186_tags.txt | SN:2 | TN:11
+saang | a56_260_tags.txt | SN:11 | TN:22

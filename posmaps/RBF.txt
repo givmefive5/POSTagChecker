@@ -1,0 +1,11 @@
+POS Tag: RBF
+walang | a56_181to186_tags.txt | SN:9 | TN:15
+ayaw | a56_225_tags.txt | SN:14 | TN:37
+di | a56_200_tags.txt | SN:2 | TN:20
+Wala | cua_bernice_s11_tags.txt | SN:74 | TN:0
+hinding-hindi | cua_bernice_s11_tags.txt | SN:84 | TN:18
+Walang | a56_181to186_tags.txt | SN:69 | TN:0
+hindi | a56_181to186_tags.txt | SN:6 | TN:78
+wala | a56_225_tags.txt | SN:26 | TN:42
+Hindi | a56_181to186_tags.txt | SN:9 | TN:0
+di-pagsangayon | a56_225_tags.txt | SN:17 | TN:8

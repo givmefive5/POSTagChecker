@@ -1,0 +1,14 @@
+POS Tag: VB_TR_RF
+Pinaghihinalaan | a56_181to186_tags.txt | SN:134 | TN:0
+Pinaghihigpitan | a56_193to197_tags.txt | SN:29 | TN:0
+ipinagbabawal | a56_253to258_tags.txt | SN:47 | TN:11
+pinaghihinalaang | lopez_clement_s11_tags.txt | SN:6 | TN:51
+pinagmumulan | a56_252_tags.txt | SN:21 | TN:2
+ipinaguutos | a56_260_tags.txt | SN:6 | TN:5
+pinag-uusapan | a56_211_tags.txt | SN:19 | TN:19
+pinagmamalaking | a56_260_tags.txt | SN:9 | TN:27
+ipinagkakaloob | a56_235to237_tags.txt | SN:16 | TN:14
+pinagtatalunan | a56_193to197_tags.txt | SN:101 | TN:7
+Pinag-uusapan | a56_235to237_tags.txt | SN:55 | TN:0
+ipinagbubuntis | a56_238to240_tags.txt | SN:8 | TN:29
+pinagbabawal | a56_193to197_tags.txt | SN:30 | TN:38

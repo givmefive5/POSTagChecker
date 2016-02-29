@@ -1,0 +1,2 @@
+POS Tag: NCNC
+termino | a56_261_tags.txt | SN:12 | TN:1

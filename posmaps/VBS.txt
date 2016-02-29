@@ -1,0 +1,25 @@
+POS Tag: VBS
+Pwede | a56_253to258_tags.txt | SN:107 | TN:0
+Maaari | a56_181to186_tags.txt | SN:25 | TN:0
+batid | a56_225_tags.txt | SN:23 | TN:3
+Depende | cua_bernice_s11_tags.txt | SN:85 | TN:0
+ayaw | a56_193to197_tags.txt | SN:18 | TN:21
+maaring | a56_249_tags.txt | SN:22 | TN:26
+Gawa | a56_198_tags.txt | SN:2 | TN:0
+ibig | a56_181to186_tags.txt | SN:109 | TN:10
+gamit | a56_181to186_tags.txt | SN:113 | TN:7
+dapat | a56_193to197_tags.txt | SN:32 | TN:17
+maari | a56_200_tags.txt | SN:29 | TN:11
+Dapat | a56_181to186_tags.txt | SN:78 | TN:0
+Kailangan | a56_228_tags.txt | SN:5 | TN:1
+nais | a56_224_tags.txt | SN:29 | TN:7
+maaari | a56_181to186_tags.txt | SN:87 | TN:54
+pwedeng | a56_248_tags.txt | SN:30 | TN:20
+gawa | a56_193to197_tags.txt | SN:58 | TN:30
+sana | a56_253to258_tags.txt | SN:102 | TN:22
+Nais | a56_238to240_tags.txt | SN:26 | TN:0
+alam | a56_225_tags.txt | SN:31 | TN:2
+depende | a56_181to186_tags.txt | SN:35 | TN:13
+gawin | a56_224_tags.txt | SN:29 | TN:11
+kailangan | a56_181to186_tags.txt | SN:144 | TN:19
+pwede | a56_259_tags.txt | SN:26 | TN:18

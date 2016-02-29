@@ -1,0 +1,14 @@
+POS Tag: RBM
+Maaari | a56_181to186_tags.txt | SN:46 | TN:0
+walang | a56_181to186_tags.txt | SN:126 | TN:13
+Mangyari | a56_235to237_tags.txt | SN:10 | TN:0
+maaring | a56_193to197_tags.txt | SN:92 | TN:17
+sakali | a56_224_tags.txt | SN:10 | TN:24
+marahil | a56_193to197_tags.txt | SN:7 | TN:27
+maaaring | a56_181to186_tags.txt | SN:9 | TN:2
+Maaaring | a56_181to186_tags.txt | SN:10 | TN:0
+Tila | a56_211_tags.txt | SN:29 | TN:0
+Habang | a56_181to186_tags.txt | SN:119 | TN:0
+Marahil | a56_226_tags.txt | SN:4 | TN:1
+siguro | a56_260_tags.txt | SN:16 | TN:12
+tila | a56_211_tags.txt | SN:19 | TN:27

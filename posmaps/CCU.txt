@@ -1,0 +1,7 @@
+POS Tag: CCU
+bilang | a56_263_tags.txt | SN:10 | TN:15
+karagdagan | a56_235to237_tags.txt | SN:42 | TN:1
+laban_sa | a56_181to186_tags.txt | SN:13 | TN:14
+Karagdagan | a56_235to237_tags.txt | SN:32 | TN:0
+Laban_sa | a56_193to197_tags.txt | SN:88 | TN:0
+laban_kay | a56_212_tags.txt | SN:9 | TN:28

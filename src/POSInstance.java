@@ -46,5 +46,18 @@ public class POSInstance {
 		this.tokenNumber = tokenNumber;
 	}
 	
+	public int hashCode(){
+		return word.hashCode();
+	}
+	
+	@Override
+	public boolean equals(Object pi){
+		String w = ((POSInstance) pi).getWord();
+		if(this.word.equals(w))
+				return true;
+		else
+			return false;
+		
+	}
 	
 }

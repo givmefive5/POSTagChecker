@@ -1,0 +1,5 @@
+POS Tag: VBH_CCP
+mayroong | a56_181to186_tags.txt | SN:42 | TN:18
+Merong | a56_251_tags.txt | SN:5 | TN:0
+merong | a56_211_tags.txt | SN:23 | TN:21
+Mayroong | a56_181to186_tags.txt | SN:23 | TN:0

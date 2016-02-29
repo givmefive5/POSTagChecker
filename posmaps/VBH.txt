@@ -1,0 +1,12 @@
+POS Tag: VBH
+may | a56_181to186_tags.txt | SN:7 | TN:15
+May | a56_181to186_tags.txt | SN:22 | TN:0
+Mayroon | a56_181to186_tags.txt | SN:140 | TN:0
+Meron | a56_212_tags.txt | SN:27 | TN:0
+Mga | a56_193to197_tags.txt | SN:19 | TN:0
+meron | a56_212_tags.txt | SN:29 | TN:12
+Merong | a56_261_tags.txt | SN:20 | TN:0
+Magkaroon | a56_251_tags.txt | SN:29 | TN:0
+mayroon | a56_181to186_tags.txt | SN:97 | TN:14
+Mayroong | a56_253to258_tags.txt | SN:70 | TN:0
+magkaroon | a56_252_tags.txt | SN:6 | TN:3

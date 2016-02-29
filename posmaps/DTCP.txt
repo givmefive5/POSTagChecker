@@ -1,0 +1,12 @@
+POS Tag: DTCP
+Ang_mga | a56_181to186_tags.txt | SN:15 | TN:0
+iba’t-ibang | a56_260_tags.txt | SN:18 | TN:12
+na | cua_bernice_s11_tags.txt | SN:43 | TN:10
+mga | a56_181to186_tags.txt | SN:3 | TN:6
+Mga | a56_238to240_tags.txt | SN:65 | TN:0
+sa_mga | a56_263_tags.txt | SN:11 | TN:17
+ang_mga | a56_181to186_tags.txt | SN:22 | TN:7
+ang | a56_238to240_tags.txt | SN:66 | TN:4
+ng_mga | a56_181to186_tags.txt | SN:8 | TN:56
+sasakyan | a56_249_tags.txt | SN:17 | TN:17
+sa | lopez_clement_s11_tags.txt | SN:63 | TN:35

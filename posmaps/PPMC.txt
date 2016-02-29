@@ -1,0 +1,2 @@
+POS Tag: PPMC
+, | a56_224_tags.txt | SN:3 | TN:19

@@ -1,0 +1,8 @@
+POS Tag: PRP_CCP
+bilang | a56_211_tags.txt | SN:39 | TN:2
+silang | a56_181to186_tags.txt | SN:27 | TN:1
+nating | a56_228_tags.txt | SN:5 | TN:2
+nilang | a56_193to197_tags.txt | SN:5 | TN:13
+naming | a56_193to197_tags.txt | SN:49 | TN:45
+kaming | a56_225_tags.txt | SN:28 | TN:41
+ilang | a56_193to197_tags.txt | SN:54 | TN:30

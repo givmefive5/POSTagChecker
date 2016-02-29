@@ -1,0 +1,3 @@
+POS Tag: JJC_CCB
+komunistang | a56_261_tags.txt | SN:19 | TN:15
+parehong | a56_238to240_tags.txt | SN:67 | TN:24

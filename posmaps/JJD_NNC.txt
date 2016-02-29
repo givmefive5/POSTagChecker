@@ -1,0 +1,2 @@
+POS Tag: JJD_NNC
+huling | a56_263_tags.txt | SN:15 | TN:25

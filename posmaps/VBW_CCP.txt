@@ -1,0 +1,9 @@
+POS Tag: VBW_CCP
+mapagkumpitensiyang | a56_253to258_tags.txt | SN:136 | TN:10
+maaring | a56_253to258_tags.txt | SN:173 | TN:3
+magkahalong | a56_238to240_tags.txt | SN:21 | TN:23
+mayroong | a56_224_tags.txt | SN:31 | TN:42
+makukuhang | a56_181to186_tags.txt | SN:59 | TN:6
+maaaring | cua_bernice_s11_tags.txt | SN:72 | TN:9
+masigurong | a56_200_tags.txt | SN:31 | TN:21
+Mayroong | a56_235to237_tags.txt | SN:16 | TN:0

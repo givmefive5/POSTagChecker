@@ -1,0 +1,15 @@
+POS Tag: JJCC
+lalong | a56_181to186_tags.txt | SN:145 | TN:1
+mahigit | a56_204_tags.txt | SN:1 | TN:18
+lalo | a56_181to186_tags.txt | SN:67 | TN:26
+kaysa_sa | a56_264_tags.txt | SN:31 | TN:31
+medyo | a56_264_tags.txt | SN:31 | TN:26
+lubos_na | a56_181to186_tags.txt | SN:9 | TN:14
+lubos | a56_193to197_tags.txt | SN:13 | TN:8
+Higit | a56_225_tags.txt | SN:15 | TN:0
+ay | a56_264_tags.txt | SN:31 | TN:25
+lalong-lalo | a56_193to197_tags.txt | SN:15 | TN:21
+lalung-lalo | a56_181to186_tags.txt | SN:6 | TN:65
+higit | a56_181to186_tags.txt | SN:8 | TN:10
+mas | a56_181to186_tags.txt | SN:22 | TN:1
+Mas | a56_198_tags.txt | SN:40 | TN:0

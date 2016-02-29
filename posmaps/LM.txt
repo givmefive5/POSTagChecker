@@ -1,0 +1,4 @@
+POS Tag: LM
+ay | a56_181to186_tags.txt | SN:28 | TN:28
+klima | a56_264_tags.txt | SN:31 | TN:24
+, | a56_264_tags.txt | SN:31 | TN:14

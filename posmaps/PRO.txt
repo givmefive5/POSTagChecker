@@ -1,0 +1,14 @@
+POS Tag: PRO
+niyon | a56_228_tags.txt | SN:13 | TN:18
+pagkatapos | a56_252_tags.txt | SN:9 | TN:28
+ito | a56_181to186_tags.txt | SN:2 | TN:15
+nito | a56_181to186_tags.txt | SN:34 | TN:30
+Ito | a56_181to186_tags.txt | SN:48 | TN:0
+ito’y | a56_260_tags.txt | SN:16 | TN:8
+rito | a56_226_tags.txt | SN:3 | TN:15
+kadahilan | cua_bernice_s11_tags.txt | SN:83 | TN:19
+iyan | a56_247_tags.txt | SN:6 | TN:60
+yung | a56_212_tags.txt | SN:13 | TN:23
+dito | a56_250_tags.txt | SN:8 | TN:14
+ganoon | lopez_clement_s11_tags.txt | SN:44 | TN:21
+iyon | a56_181to186_tags.txt | SN:1 | TN:20

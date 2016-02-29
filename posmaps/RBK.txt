@@ -1,0 +1,9 @@
+POS Tag: RBK
+Kung | a56_212_tags.txt | SN:37 | TN:0
+kung | a56_181to186_tags.txt | SN:2 | TN:10
+kapag | a56_193to197_tags.txt | SN:33 | TN:13
+kapagdaka | a56_223_tags.txt | SN:5 | TN:60
+kaya | a56_212_tags.txt | SN:1 | TN:10
+kahit | a56_263_tags.txt | SN:18 | TN:20
+mula_sa | a56_253to258_tags.txt | SN:168 | TN:43
+Kapag | a56_181to186_tags.txt | SN:42 | TN:0

@@ -1,0 +1,2 @@
+POS Tag: CPMS
+: | a56_249_tags.txt | SN:15 | TN:8

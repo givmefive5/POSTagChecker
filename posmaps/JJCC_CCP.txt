@@ -1,0 +1,2 @@
+POS Tag: JJCC_CCP
+lalong | lopez_clement_s11_tags.txt | SN:62 | TN:18

@@ -1,0 +1,4 @@
+POS Tag: PRC
+gayon | a56_181to186_tags.txt | SN:10 | TN:8
+ganoon | a56_259_tags.txt | SN:3 | TN:13
+ganito | a56_225_tags.txt | SN:22 | TN:6

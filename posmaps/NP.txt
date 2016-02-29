@@ -1,0 +1,5 @@
+POS Tag: NP
+Hadleigh | a56_225_tags.txt | SN:17 | TN:14
+British | a56_253to258_tags.txt | SN:45 | TN:4
+Professional | a56_253to258_tags.txt | SN:144 | TN:2
+Artic | cua_bernice_s11_tags.txt | SN:91 | TN:2

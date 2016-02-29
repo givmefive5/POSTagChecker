@@ -1,0 +1,4 @@
+POS Tag: RBM_CCP
+mistulang | a56_193to197_tags.txt | SN:74 | TN:15
+posibleng | a56_181to186_tags.txt | SN:72 | TN:52
+positibong | a56_181to186_tags.txt | SN:86 | TN:13

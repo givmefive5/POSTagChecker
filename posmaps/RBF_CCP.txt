@@ -1,0 +1,2 @@
+POS Tag: RBF_CCP
+walang | a56_259_tags.txt | SN:12 | TN:3

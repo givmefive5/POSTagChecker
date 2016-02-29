@@ -1,0 +1,9 @@
+POS Tag: RBI_CCP
+ding | a56_181to186_tags.txt | SN:27 | TN:25
+ring | a56_181to186_tags.txt | SN:25 | TN:1
+lamang | a56_228_tags.txt | SN:12 | TN:7
+pang | a56_181to186_tags.txt | SN:50 | TN:7
+mang | a56_224_tags.txt | SN:10 | TN:25
+namang | a56_200_tags.txt | SN:18 | TN:1
+ngang | a56_228_tags.txt | SN:15 | TN:11
+nang | a56_253to258_tags.txt | SN:53 | TN:12

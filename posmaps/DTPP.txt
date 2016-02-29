@@ -1,0 +1,3 @@
+POS Tag: DTPP
+sina | a56_198_tags.txt | SN:16 | TN:4
+nina | a56_225_tags.txt | SN:12 | TN:8

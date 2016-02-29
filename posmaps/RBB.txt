@@ -1,0 +1,6 @@
+POS Tag: RBB
+ayon_sa | a56_235to237_tags.txt | SN:18 | TN:35
+Dahil_sa | a56_253to258_tags.txt | SN:158 | TN:0
+Para_sa | a56_264_tags.txt | SN:18 | TN:0
+para_sa | a56_181to186_tags.txt | SN:3 | TN:37
+pangangalakal | cua_bernice_s11_tags.txt | SN:103 | TN:12

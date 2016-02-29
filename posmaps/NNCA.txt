@@ -1,0 +1,23 @@
+POS Tag: NNCA
+mm | cua_bernice_s11_tags.txt | SN:8 | TN:1
+atbp. | lopez_clement_s11_tags.txt | SN:70 | TN:24
+km | a56_213_tags.txt | SN:29 | TN:7
+in | cua_bernice_s11_tags.txt | SN:6 | TN:4
+g | cua_bernice_s11_tags.txt | SN:30 | TN:6
+km/h | a56_248_tags.txt | SN:10 | TN:19
+cm | cua_bernice_s11_tags.txt | SN:6 | TN:12
+c. | a56_193to197_tags.txt | SN:64 | TN:4
+oz | cua_bernice_s11_tags.txt | SN:30 | TN:11
+atbp | a56_253to258_tags.txt | SN:128 | TN:25
+m | a56_235to237_tags.txt | SN:52 | TN:18
+ft | a56_249_tags.txt | SN:9 | TN:29
+cr | lopez_clement_s11_tags.txt | SN:72 | TN:5
+t | a56_181to186_tags.txt | SN:50 | TN:23
+v. | a56_193to197_tags.txt | SN:54 | TN:8
+et_al. | a56_181to186_tags.txt | SN:105 | TN:23
+s. | a56_238to240_tags.txt | SN:24 | TN:0
+mi | cua_bernice_s11_tags.txt | SN:21 | TN:4
+ie | lopez_clement_s11_tags.txt | SN:15 | TN:29
+i.e. | a56_181to186_tags.txt | SN:41 | TN:14
+et_al | a56_181to186_tags.txt | SN:104 | TN:4
+e.g. | a56_253to258_tags.txt | SN:131 | TN:27

@@ -1,0 +1,3 @@
+POS Tag: VB_TF_CCP
+mananatiling | a56_253to258_tags.txt | SN:130 | TN:1
+hayaang | a56_253to258_tags.txt | SN:62 | TN:9

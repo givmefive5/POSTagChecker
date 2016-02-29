@@ -1,0 +1,13 @@
+POS Tag: CCA
+León | a56_263_tags.txt | SN:10 | TN:26
+saka | a56_193to197_tags.txt | SN:32 | TN:1
+umuulan | a56_264_tags.txt | SN:31 | TN:35
+pati | a56_181to186_tags.txt | SN:20 | TN:16
+at | a56_181to186_tags.txt | SN:2 | TN:33
+At | a56_193to197_tags.txt | SN:5 | TN:16
+Pati | a56_235to237_tags.txt | SN:52 | TN:0
+na | a56_238to240_tags.txt | SN:22 | TN:6
+Tagus | a56_264_tags.txt | SN:31 | TN:6
+kapatagan | a56_264_tags.txt | SN:31 | TN:21
+mainit | a56_264_tags.txt | SN:31 | TN:28
+malamig | a56_264_tags.txt | SN:31 | TN:33

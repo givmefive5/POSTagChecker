@@ -1,0 +1,3 @@
+POS Tag: PRO_LM
+ito’y | a56_198_tags.txt | SN:23 | TN:9
+Ito’y | a56_198_tags.txt | SN:19 | TN:0

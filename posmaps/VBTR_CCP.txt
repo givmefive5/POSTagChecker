@@ -1,0 +1,18 @@
+POS Tag: VBTR_CCP
+pangyayaring | a56_181to186_tags.txt | SN:40 | TN:10
+kinakailangang | a56_181to186_tags.txt | SN:121 | TN:10
+nabibiling | a56_198_tags.txt | SN:11 | TN:3
+nananatiling | a56_204_tags.txt | SN:5 | TN:29
+isinasaalang-alang | a56_181to186_tags.txt | SN:47 | TN:1
+nangungunang | a56_223_tags.txt | SN:6 | TN:11
+nakikilalang | a56_181to186_tags.txt | SN:96 | TN:90
+nadagdagang | a56_181to186_tags.txt | SN:72 | TN:7
+pinananatiling | a56_200_tags.txt | SN:34 | TN:1
+isinasagawang | a56_181to186_tags.txt | SN:80 | TN:6
+nag-iisang | a56_181to186_tags.txt | SN:27 | TN:4
+magkakaibang | a56_181to186_tags.txt | SN:99 | TN:15
+Ipinapakitang | a56_181to186_tags.txt | SN:138 | TN:0
+nagdadalang | a56_181to186_tags.txt | SN:70 | TN:6
+tumatakbong | a56_181to186_tags.txt | SN:126 | TN:26
+inaasahang | a56_181to186_tags.txt | SN:98 | TN:7
+sumusuyong | a56_181to186_tags.txt | SN:145 | TN:17

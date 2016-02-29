@@ -1,0 +1,2 @@
+POS Tag: PRP_CCB
+silang | a56_225_tags.txt | SN:15 | TN:6

@@ -1,0 +1,8 @@
+POS Tag: PRS_CCP
+akong | a56_181to186_tags.txt | SN:3 | TN:31
+inyong | a56_227_tags.txt | SN:25 | TN:5
+niyang | a56_193to197_tags.txt | SN:1 | TN:11
+siyang | a56_181to186_tags.txt | SN:7 | TN:14
+punong | lopez_clement_s11_tags.txt | SN:50 | TN:8
+kong | a56_227_tags.txt | SN:21 | TN:34
+o | lopez_clement_s11_tags.txt | SN:63 | TN:32

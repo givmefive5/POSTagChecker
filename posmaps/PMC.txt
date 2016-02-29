@@ -1,0 +1,15 @@
+POS Tag: PMC
+ | a56_250_tags.txt | SN:9 | TN:43
+Marygrove_College, | a56_253to258_tags.txt | SN:11 | TN:13
+internasyonal | a56_253to258_tags.txt | SN:168 | TN:34
+Northumberland, | cua_bernice_s11_tags.txt | SN:23 | TN:25
+( | a56_181to186_tags.txt | SN:72 | TN:32
+) | a56_193to197_tags.txt | SN:80 | TN:6
+, | a56_181to186_tags.txt | SN:1 | TN:4
+na | lopez_clement_s11_tags.txt | SN:50 | TN:6
+press | lopez_clement_s11_tags.txt | SN:63 | TN:30
+siudad, | a56_248_tags.txt | SN:24 | TN:24
+Islands | cua_bernice_s11_tags.txt | SN:23 | TN:23
+1988 | a56_252_tags.txt | SN:9 | TN:26
+IndyCars, | a56_252_tags.txt | SN:9 | TN:38
+Business | a56_253to258_tags.txt | SN:11 | TN:11

@@ -1,0 +1,8 @@
+POS Tag: PRI_CCB
+anumang | a56_228_tags.txt | SN:13 | TN:27
+ibang | a56_260_tags.txt | SN:12 | TN:1
+maraming | a56_225_tags.txt | SN:23 | TN:5
+Isang | a56_235to237_tags.txt | SN:60 | TN:0
+ilang | a56_223_tags.txt | SN:6 | TN:2
+isang | a56_223_tags.txt | SN:14 | TN:2
+buong | a56_251_tags.txt | SN:16 | TN:24

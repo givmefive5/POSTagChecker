@@ -1,0 +1,6 @@
+POS Tag: PRL
+diyan | a56_238to240_tags.txt | SN:34 | TN:3
+doon | a56_204_tags.txt | SN:7 | TN:17
+rito | a56_253to258_tags.txt | SN:3 | TN:2
+Doon | a56_227_tags.txt | SN:18 | TN:0
+dito | a56_181to186_tags.txt | SN:59 | TN:10

@@ -1,0 +1,7 @@
+POS Tag: PRO_CCP
+ganitong | lopez_clement_s11_tags.txt | SN:77 | TN:8
+itong | a56_181to186_tags.txt | SN:6 | TN:74
+Itong | a56_259_tags.txt | SN:7 | TN:0
+ibong | cua_bernice_s11_tags.txt | SN:3 | TN:4
+gayong | lopez_clement_s11_tags.txt | SN:42 | TN:19
+nitong | a56_200_tags.txt | SN:29 | TN:1

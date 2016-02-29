@@ -1,0 +1,5 @@
+POS Tag: VB_TS_CCP
+nagdaang | a56_226_tags.txt | SN:4 | TN:10
+itinilagang | a56_253to258_tags.txt | SN:168 | TN:48
+nagrepresentang | a56_253to258_tags.txt | SN:3 | TN:20
+itinalagang | a56_253to258_tags.txt | SN:169 | TN:2

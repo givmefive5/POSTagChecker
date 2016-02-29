@@ -1,0 +1,4 @@
+POS Tag: VBTF_OF
+ipakita | lopez_clement_s11_tags.txt | SN:55 | TN:8
+matutugunan | lopez_clement_s11_tags.txt | SN:76 | TN:14
+isangguni | a56_235to237_tags.txt | SN:62 | TN:17

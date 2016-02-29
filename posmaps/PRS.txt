@@ -1,0 +1,11 @@
+POS Tag: PRS
+niya | a56_181to186_tags.txt | SN:14 | TN:31
+mo | a56_249_tags.txt | SN:1 | TN:21
+ako | a56_181to186_tags.txt | SN:6 | TN:39
+ko | a56_225_tags.txt | SN:28 | TN:34
+ka | a56_213_tags.txt | SN:37 | TN:17
+Isa | a56_226_tags.txt | SN:10 | TN:0
+Siya | a56_193to197_tags.txt | SN:71 | TN:0
+siya | a56_193to197_tags.txt | SN:1 | TN:18
+Sila | cua_bernice_s11_tags.txt | SN:3 | TN:10
+sila | cua_bernice_s11_tags.txt | SN:3 | TN:21

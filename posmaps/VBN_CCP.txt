@@ -1,0 +1,2 @@
+POS Tag: VBN_CCP
+walang | a56_193to197_tags.txt | SN:51 | TN:17

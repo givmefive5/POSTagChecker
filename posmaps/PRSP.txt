@@ -1,0 +1,10 @@
+POS Tag: PRSP
+kanya | a56_193to197_tags.txt | SN:10 | TN:18
+akin | a56_227_tags.txt | SN:21 | TN:45
+kanilang | a56_212_tags.txt | SN:13 | TN:36
+kanila | a56_181to186_tags.txt | SN:120 | TN:25
+kaniya | a56_223_tags.txt | SN:5 | TN:57
+industriya | a56_238to240_tags.txt | SN:43 | TN:50
+Iyo | a56_214_tags.txt | SN:38 | TN:27
+iyo | a56_225_tags.txt | SN:24 | TN:22
+kanyang | a56_263_tags.txt | SN:10 | TN:20

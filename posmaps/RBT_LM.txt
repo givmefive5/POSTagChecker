@@ -1,0 +1,2 @@
+POS Tag: RBT_LM
+mismo’y | a56_225_tags.txt | SN:26 | TN:53

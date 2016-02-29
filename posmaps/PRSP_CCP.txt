@@ -1,0 +1,11 @@
+POS Tag: PRSP_CCP
+aking | a56_227_tags.txt | SN:19 | TN:41
+ating | a56_181to186_tags.txt | SN:8 | TN:7
+kani-kanilang | a56_235to237_tags.txt | SN:21 | TN:29
+kumpanyang | a56_200_tags.txt | SN:1 | TN:1
+kabilang | a56_224_tags.txt | SN:31 | TN:36
+kanilang | a56_181to186_tags.txt | SN:120 | TN:19
+inyong | a56_181to186_tags.txt | SN:6 | TN:45
+aming | a56_181to186_tags.txt | SN:3 | TN:5
+sariling | a56_223_tags.txt | SN:12 | TN:9
+kanyang | a56_181to186_tags.txt | SN:2 | TN:30

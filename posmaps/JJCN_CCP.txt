@@ -1,0 +1,2 @@
+POS Tag: JJCN_CCP
+hindi_gaanong | a56_198_tags.txt | SN:12 | TN:4

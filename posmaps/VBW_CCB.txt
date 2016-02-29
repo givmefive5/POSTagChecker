@@ -1,0 +1,3 @@
+POS Tag: VBW_CCB
+manirahang | a56_225_tags.txt | SN:7 | TN:4
+Mayroong | a56_235to237_tags.txt | SN:53 | TN:0

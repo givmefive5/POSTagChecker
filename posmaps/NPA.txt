@@ -1,0 +1,2 @@
+POS Tag: NPA
+IQ | a56_181to186_tags.txt | SN:32 | TN:16

@@ -1,0 +1,23 @@
+POS Tag: RBR
+kasunod_sa | a56_200_tags.txt | SN:1 | TN:13
+hinggil | cua_bernice_s11_tags.txt | SN:43 | TN:7
+alinsunuran_sa | a56_193to197_tags.txt | SN:55 | TN:9
+ukol_sa | a56_214_tags.txt | SN:1 | TN:11
+patungkol_sa | a56_193to197_tags.txt | SN:36 | TN:20
+tungkol_kay | a56_238to240_tags.txt | SN:10 | TN:9
+para_kay | a56_193to197_tags.txt | SN:93 | TN:1
+Ayon_sa | a56_181to186_tags.txt | SN:88 | TN:0
+tungkol_sa | a56_181to186_tags.txt | SN:89 | TN:6
+Batay_sa | a56_235to237_tags.txt | SN:1 | TN:0
+sabi_ni | a56_223_tags.txt | SN:8 | TN:1
+Alinsunod_dito | a56_193to197_tags.txt | SN:60 | TN:0
+alinsunod_sa | a56_214_tags.txt | SN:16 | TN:4
+base_sa | a56_181to186_tags.txt | SN:93 | TN:28
+ayon_sa | a56_193to197_tags.txt | SN:9 | TN:36
+batay_sa | a56_227_tags.txt | SN:26 | TN:12
+tungkol_dito | a56_181to186_tags.txt | SN:3 | TN:56
+ayon_kay | a56_212_tags.txt | SN:33 | TN:6
+patungkol_kay | a56_223_tags.txt | SN:8 | TN:4
+hinggil_sa | a56_224_tags.txt | SN:6 | TN:7
+dahil_sa | a56_225_tags.txt | SN:25 | TN:37
+galing | a56_263_tags.txt | SN:12 | TN:16

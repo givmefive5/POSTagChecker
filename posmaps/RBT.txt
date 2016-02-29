@@ -1,0 +1,15 @@
+POS Tag: RBT
+Oo | a56_228_tags.txt | SN:15 | TN:0
+Tama | a56_193to197_tags.txt | SN:76 | TN:0
+talaga | a56_181to186_tags.txt | SN:11 | TN:4
+mismo | a56_193to197_tags.txt | SN:44 | TN:31
+maaaring | lopez_clement_s11_tags.txt | SN:9 | TN:12
+posible | a56_213_tags.txt | SN:1 | TN:17
+maaari | a56_253to258_tags.txt | SN:72 | TN:19
+Maaring | a56_253to258_tags.txt | SN:100 | TN:14
+totoo | a56_260_tags.txt | SN:6 | TN:25
+tama | a56_181to186_tags.txt | SN:11 | TN:17
+sapat | a56_214_tags.txt | SN:45 | TN:30
+tiyak | a56_181to186_tags.txt | SN:103 | TN:14
+posibleng | a56_253to258_tags.txt | SN:159 | TN:21
+tunay | a56_181to186_tags.txt | SN:15 | TN:19

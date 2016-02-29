@@ -1,0 +1,6 @@
+POS Tag: VB_TS_RF
+Pinagkalooban | a56_235to237_tags.txt | SN:5 | TN:0
+pinag-isipan | a56_238to240_tags.txt | SN:19 | TN:18
+ipinanganak | a56_238to240_tags.txt | SN:11 | TN:12
+pinag-uri-uri | a56_264_tags.txt | SN:22 | TN:3
+pinagpala | a56_259_tags.txt | SN:23 | TN:12

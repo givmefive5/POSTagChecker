@@ -1,0 +1,8 @@
+POS Tag: JJN_CCA
+ika-dalawampu’t | a56_193to197_tags.txt | SN:43 | TN:25
+tatlumpu’t | a56_212_tags.txt | SN:29 | TN:8
+tatlumpu't | a56_211_tags.txt | SN:27 | TN:4
+animnapu’t | a56_224_tags.txt | SN:19 | TN:22
+walumpu’t | a56_198_tags.txt | SN:9 | TN:7
+apatnapu’t | a56_224_tags.txt | SN:24 | TN:33
+ika-dalawngpu’t | a56_193to197_tags.txt | SN:45 | TN:8

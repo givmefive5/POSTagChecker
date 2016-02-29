@@ -1,0 +1,14 @@
+POS Tag: RBI
+din | a56_181to186_tags.txt | SN:33 | TN:26
+raw | a56_224_tags.txt | SN:27 | TN:10
+nga | a56_227_tags.txt | SN:18 | TN:13
+pa | a56_181to186_tags.txt | SN:8 | TN:22
+na | a56_181to186_tags.txt | SN:6 | TN:66
+rin | a56_181to186_tags.txt | SN:20 | TN:18
+lamang | a56_181to186_tags.txt | SN:37 | TN:1
+man | a56_181to186_tags.txt | SN:44 | TN:6
+daw | a56_223_tags.txt | SN:9 | TN:23
+naman | a56_181to186_tags.txt | SN:77 | TN:30
+lang | a56_181to186_tags.txt | SN:96 | TN:22
+pang | a56_263_tags.txt | SN:21 | TN:1
+ba | a56_214_tags.txt | SN:36 | TN:10

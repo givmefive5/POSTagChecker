@@ -1,0 +1,3 @@
+POS Tag: CDB_CCP
+unang | a56_223_tags.txt | SN:14 | TN:8
+animnapung | a56_263_tags.txt | SN:13 | TN:16

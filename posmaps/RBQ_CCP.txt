@@ -1,0 +1,3 @@
+POS Tag: RBQ_CCP
+anong | a56_259_tags.txt | SN:25 | TN:23
+aling | a56_223_tags.txt | SN:16 | TN:3

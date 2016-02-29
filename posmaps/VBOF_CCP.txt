@@ -1,0 +1,5 @@
+POS Tag: VBOF_CCP
+bigyang | a56_193to197_tags.txt | SN:32 | TN:18
+binagong | a56_181to186_tags.txt | SN:113 | TN:13
+pinalaking | a56_181to186_tags.txt | SN:31 | TN:68
+kinopyang | a56_181to186_tags.txt | SN:118 | TN:23

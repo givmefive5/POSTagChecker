@@ -1,0 +1,6 @@
+POS Tag: JJCS
+Napakahalaga | a56_253to258_tags.txt | SN:80 | TN:0
+Napakabihira | a56_181to186_tags.txt | SN:59 | TN:0
+lubos | cua_bernice_s11_tags.txt | SN:104 | TN:18
+lubusan | a56_253to258_tags.txt | SN:90 | TN:30
+labis | a56_181to186_tags.txt | SN:16 | TN:12

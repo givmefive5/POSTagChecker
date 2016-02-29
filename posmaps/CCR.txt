@@ -1,0 +1,19 @@
+POS Tag: CCR
+Kung | a56_181to186_tags.txt | SN:4 | TN:0
+dahil | a56_181to186_tags.txt | SN:96 | TN:68
+Dahil | a56_181to186_tags.txt | SN:87 | TN:0
+sakali | a56_259_tags.txt | SN:20 | TN:48
+kaya | a56_181to186_tags.txt | SN:96 | TN:85
+Kapag | a56_253to258_tags.txt | SN:115 | TN:0
+Dagdag | a56_253to258_tags.txt | SN:3 | TN:0
+kung | a56_181to186_tags.txt | SN:9 | TN:12
+kapag | a56_181to186_tags.txt | SN:45 | TN:2
+kung_saan | a56_263_tags.txt | SN:21 | TN:19
+para | a56_181to186_tags.txt | SN:98 | TN:4
+sa_gayon | a56_263_tags.txt | SN:25 | TN:32
+para_sa | cua_bernice_s11_tags.txt | SN:84 | TN:5
+pangangaso | cua_bernice_s11_tags.txt | SN:103 | TN:10
+dahil_sa | a56_251_tags.txt | SN:14 | TN:18
+Kaya | a56_253to258_tags.txt | SN:114 | TN:0
+kasi | a56_253to258_tags.txt | SN:105 | TN:4
+sapagkat | a56_193to197_tags.txt | SN:5 | TN:7

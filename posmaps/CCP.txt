@@ -1,0 +1,10 @@
+POS Tag: CCP
+ | cua_bernice_s11_tags.txt | SN:23 | TN:19
+siglo | a56_263_tags.txt | SN:13 | TN:3
+na | a56_181to186_tags.txt | SN:1 | TN:16
+sa_pamamagitan_ng | a56_235to237_tags.txt | SN:33 | TN:19
+ma | a56_200_tags.txt | SN:14 | TN:12
+ng | a56_181to186_tags.txt | SN:121 | TN:24
+siyang | lopez_clement_s11_tags.txt | SN:50 | TN:7
+Kaharian | a56_263_tags.txt | SN:10 | TN:24
+lumiligid | a56_264_tags.txt | SN:31 | TN:19

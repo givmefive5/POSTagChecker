@@ -1,0 +1,4 @@
+POS Tag: PRS_LM
+ika’y | a56_225_tags.txt | SN:24 | TN:31
+niya’y | a56_228_tags.txt | SN:13 | TN:22
+siya’y | a56_224_tags.txt | SN:21 | TN:30
